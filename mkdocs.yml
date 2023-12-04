@@ -1,0 +1,62 @@
+site_name: Epic Heresy
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: yellow
+  custom_dir: overrides
+  logo: assets/EH_Logo.png
+  favicon: assets/EH_Favicon.ico
+  font:
+    text: PT Serif
+  features:  
+    - header.autohide
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - tables
+  - pymdownx.details
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/tooltip_skills.md
+        - includes/tooltip_teams.md        
+        - includes/tooltip_staff.md
+        - includes/tooltip_starplayers.md
+        - includes/tooltip_team_special_rules.md
+        - includes/tooltip_inducements.md
+        - includes/tooltip_new_inducements.md
+nav:
+  - 'Legions Imperialis Rules':
+      - 'The Rules': 'legions_imperialis_rules/the_rules.md'
+      - 'Core Principles': 'legions_imperialis_rules/core_principles.md'
+      - 'Playing the Game': 'legions_imperialis_rules/playing_the_game.md'      
+      - 'Terrain': 'legions_imperialis_rules/terrain.md'
+      - 'Structures': 'legions_imperialis_rules/structures.md'
+      - 'Titans': 'legions_imperialis_rules/titans.md'
+      - 'Weapon Traits': 'legions_imperialis_rules/weapon_traits.md'
+      - 'Special Rules': 'legions_imperialis_rules/special_rules.md'
+      - 'Fighting a Battle': 'legions_imperialis_rules/fighting_a_battle.md'
+      - 'Missions': 'legions_imperialis_rules/missions.md'
+      - 'Secondary Objectives': 'legions_imperialis_rules/secondary_objectives.md'
+      - 'Mustering an Army': 'legions_imperialis_rules/mustering_an_army.md'
+  - 'The Legiones Astartes':
+      - 'Formations': 'the_legiones_astartes/formations.md'
+      - 'Detachments': 'the_legiones_astartes/detachments.md'      
+      - 'Legiones Astartes Special Rules': 'the_legiones_astartes/legiones_astartes_special_rules.md'
+  - 'The Solar Auxilia': 
+      - 'Formations': 'the_solar_auxilia/formations.md'
+      - 'Detachments': 'the_solar_auxilia/detachments.md'      
+  - 'Strategic Assets': 
+      - 'Formations': 'strategic_assets/formations.md'
+      - 'Detachments': 'strategic_assets/detachments.md'
+  - 'Reference Sheets': 
+      - 'Detachment Reference': 'reference_sheets/detachment_reference.md'
+      - 'Weapon Profiles': 'reference_sheets/weapon_profiles.md'
+ 
