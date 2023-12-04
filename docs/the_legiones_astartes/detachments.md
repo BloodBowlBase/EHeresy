@@ -11,7 +11,7 @@ HQ DETACHMENTS {#hq-detachments .unnumbered}
 |                      |         |    |       | F** |           | *W |
 |                      |         |    |       |     |           | ** |
 +======================+=========+====+=======+=====+===========+====+
-| Command Squad      | 5\"     |    | 4+  | +4  | 2+      |  |
+| Command Squad      | 5"     |    | 4+  | +4  | 2+      |  |
 |                      |         |    |       |     |           |  1 |
 +----------------------+---------+----+-------+-----+-----------+----+
 | **Weapons**        |         |    |       |     |           |    |
@@ -25,7 +25,7 @@ HQ DETACHMENTS {#hq-detachments .unnumbered}
 |                      |         | ce | Hit** |     |           |    |
 |                      |         | ** |       |     |           |    |
 +----------------------+---------+----+-------+-----+-----------+----+
-| Legion             | 8\"   |  | 5+  | 0 |         |    |
+| Legion             | 8"   |  | 5+  | 0 |         |    |
 | combi-bolters      |         |  1 |       |     | Accurate, |    |
 |                      |         |    |       |     |         |    |
 |                      |         |    |       |     |  Assault, |    |
@@ -35,7 +35,7 @@ HQ DETACHMENTS {#hq-detachments .unnumbered}
 
 **Special Rules**
 
-Commander, Inspire (8\"), Invulnerable Save (6+), Master Tactician,
+Commander, Inspire (8"), Invulnerable Save (6+), Master Tactician,
 Medicae
 
 ### TRANSPORT DETACHMENTS {#transport-detachments .unnumbered}
@@ -48,7 +48,7 @@ Medicae
 |              |                    |      |        |          | *W |
 |              |                    |      |        |          | ** |
 +==============+====================+======+========+==========+====+
-| Rhino      | 9\"              | 4+ | +0   | 3+       |  |
+| Rhino      | 9"              | 4+ | +0   | 3+       |  |
 |              |                    |      |        |          |  1 |
 +--------------+--------------------+------+--------+----------+----+
 
@@ -65,18 +65,18 @@ Medicae
 | Pintle Mounted       |     |    |       |    |                   |
 +------------------------+-----+----+-------+----+-------------------+
 | twin-linked bolter   |   | 1  | 5+  |  | Arc (Front),    |
-|                        | 8\" |    |       |  0 | Assault,        |
+|                        | 8" |    |       |  0 | Assault,        |
 +------------------------+-----+----+-------+----+-------------------+
 |                        |     |    |       |    | Light, Point    |
 |                        |     |    |       |    | Defence         |
 +------------------------+-----+----+-------+----+-------------------+
 | Pintle Mounted       |   | 1  | 5+  | -3 | Anti-tank, Arc  |
-| multi-melta          | 6\" |    |       |    | (Front)         |
+| multi-melta          | 6" |    |       |    | (Front)         |
 +------------------------+-----+----+-------+----+-------------------+
 | Pintle Mounted       |     |    |       |    |                   |
 +------------------------+-----+----+-------+----+-------------------+
 | havoc launcher       | 1 | 1  | 4+  |  | Arc (Front),    |
-|                        | 5\" |    |       |  0 | Light AT,       |
+|                        | 5" |    |       |  0 | Light AT,       |
 +------------------------+-----+----+-------+----+-------------------+
 |                        |     |    |       |    | Point Defence   |
 +------------------------+-----+----+-------+----+-------------------+
@@ -131,23 +131,23 @@ which*
 
 ####### Legion Tactical Detachment 35 Points Infantry (1) Detachment Size: 4 {#legion-tactical-detachment-35-points-infantry-1-detachment-size-4 .unnumbered}
 
-![](../media/image224.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image10.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image225.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image226.png){width="5.320999562554681in"
-height="6.067332677165354in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image227.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image228.png){width="0.359666447944007in"
-height="0.359666447944007in"}![](../media/image229.png){width="0.9948326771653543in"
-height="0.21233267716535434in"}![](../media/image13.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image230.png){width="1.0106660104986878in"
-height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image219.png){width="5.327166447944007in"
-height="0.29766622922134733in"}![](../media/image231.png){width="5.331999125109362in"
-height="5.974992344706911in"}![](../media/image232.png){width="5.331999125109362in"
-height="6.067332677165354in"}*detachments were frequently augmented by
+![](../media/image224.png)
+![](../media/image10.png)
+![](../media/image225.png)
+![](../media/image226.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image227.png)
+![](../media/image228.png)
+![](../media/image229.png)
+![](../media/image13.png)
+![](../media/image230.png)
+![](../media/image15.png)
+![](../media/image217.png)
+![](../media/image219.png)
+![](../media/image231.png)
+![](../media/image232.png)
+*detachments were frequently augmented by
 both mobile fire support units that replaced the utilitarian bolter
 with more specialised weapons and more heavily armed units carrying
 Space Marine-portable firepower sufficient to bring down hordes of
@@ -183,13 +183,13 @@ Legion bolters for missile launchers.*
 ‡*Models added via this upgrade use the respective profiles on the
 following page.*
 
-#### ![](../media/image233.png){width="9.448833114610673in" height="12.992158792650919in"}![](../media/image234.png){width="9.488194444444444in" height="13.227759186351706in"}![](../media/image235.png){width="5.331999125109362in" height="2.962166447944007in"}![](../media/image236.png){width="5.331999125109362in" height="2.8079997812773403in"}![](../media/image237.png){width="2.0984995625546805in" height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in" height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in" height="0.25066601049868764in"}![](../media/image228.png){width="0.359666447944007in" height="0.359666447944007in"}![](../media/image238.png){width="5.286666666666667in" height="0.366165791776028in"}![](../media/image238.png){width="5.286666666666667in" height="0.366165791776028in"}![](../media/image239.png){width="5.149666447944007in" height="2.5599923447069117in"}![](../media/image240.png){width="5.149666447944007in" height="2.3236592300962378in"}![](../media/image241.png){width="5.331999125109362in" height="2.962166447944007in"}![](../media/image242.png){width="5.331999125109362in" height="2.807832458442695in"}Detachment Upgrades {#detachment-upgrades .unnumbered}
+#### ![](../media/image233.png)![](../media/image234.png)![](../media/image235.png)![](../media/image236.png)![](../media/image237.png)![](../media/image210.png)![](../media/image211.png)![](../media/image228.png)![](../media/image238.png)![](../media/image238.png)![](../media/image239.png)![](../media/image240.png)![](../media/image241.png)![](../media/image242.png)Detachment Upgrades {#detachment-upgrades .unnumbered}
 
 ####### Legion Terminators Infantry (1) {#legion-terminators-infantry-1 .unnumbered}
 
 **Name Movement Sv CAF Morale W**
 
-Legion Terminators 5\" 4+ +4 3+ 1
+Legion Terminators 5" 4+ +4 3+ 1
 
 **Weapons**
 
@@ -197,7 +197,7 @@ Legion Terminators 5\" 4+ +4 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Legion combi-bolters 8\" 1 5+ 0 Accurate,
+Legion combi-bolters 8" 1 5+ 0 Accurate,
 
 Assault, Light
 
@@ -209,7 +209,7 @@ Bulky, Deep Strike, Implacable, Invulnerable Save (6+), Steadfast
 
 **Name Movement Sv CAF Morale W**
 
-Assault Marines 7\" 5+ +3 3+ 1
+Assault Marines 7" 5+ +3 3+ 1
 
 **Weapons**
 
@@ -217,7 +217,7 @@ Assault Marines 7\" 5+ +3 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Legion bolt pistols 6\" 1 5+ 0 Light
+Legion bolt pistols 6" 1 5+ 0 Light
 
 **Special Rules**
 
@@ -261,7 +261,7 @@ anti-tank missiles who were adaptable to a wide array of threats.*
 
 **Name Movement Sv CAF Morale W**
 
-Support Legionaries 5\" 5+ +2 3+ 1
+Support Legionaries 5" 5+ +2 3+ 1
 
 **Weapons**
 
@@ -269,7 +269,7 @@ Support Legionaries 5\" 5+ +2 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Plasma guns 10\" 1 4+ -1 Light AT
+Plasma guns 10" 1 4+ -1 Light AT
 
 **Upgrades**
 
@@ -284,7 +284,7 @@ following upgrades:
 
 **Name Movement Sv CAF Morale W**
 
-Support Legionaries 5\" 5+ +1 3+ 1
+Support Legionaries 5" 5+ +1 3+ 1
 
 **Weapons**
 
@@ -292,32 +292,32 @@ Support Legionaries 5\" 5+ +1 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Missile launchers 20\" 2 4+ 0 Ignores Cover, Light
+Missile launchers 20" 2 4+ 0 Ignores Cover, Light
 
-20\" 1 4+ -1 Anti-tank
+20" 1 4+ -1 Anti-tank
 
-![](../media/image243.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image10.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image244.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image245.png){width="5.328499562554681in"
-height="3.2481660104986876in"}![](../media/image246.png){width="5.306999125109361in"
-height="3.7528324584426946in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image227.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image247.png){width="0.301832895888014in"
-height="0.301832895888014in"}![](../media/image248.png){width="0.7651662292213474in"
-height="0.21233267716535434in"}![](../media/image249.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image250.png){width="0.7113331146106736in"
-height="0.21233267716535434in"}![](../media/image33.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image251.png){width="5.331999125109362in"
-height="3.436165791776028in"}![](../media/image252.png){width="5.331999125109362in"
-height="3.8488254593175855in"}![](../media/image253.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image254.png){width="5.331999125109362in"
-height="3.7528324584426946in"}![](../media/image255.png){width="5.331999125109362in"
-height="3.5694991251093615in"}**Upgrades**
+![](../media/image243.png)
+![](../media/image10.png)
+![](../media/image244.png)
+![](../media/image245.png)
+![](../media/image246.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image227.png)
+![](../media/image247.png)
+![](../media/image248.png)
+![](../media/image249.png)
+![](../media/image250.png)
+![](../media/image33.png)
+![](../media/image217.png)
+![](../media/image217.png)
+![](../media/image219.png)
+![](../media/image251.png)
+![](../media/image252.png)
+![](../media/image253.png)
+![](../media/image254.png)
+![](../media/image255.png)
+**Upgrades**
 
 A Legion Missile Launcher Support Detachment can purchase one of the
 following upgrades:
@@ -326,13 +326,13 @@ following upgrades:
 
 -   **Increase the Detachment size by 4** +30 points
 
-### ![](../media/image256.png){width="9.4488156167979in" height="12.992142388451443in"}![](../media/image257.png){width="9.488194444444444in" height="13.227759186351706in"}![](../media/image258.png){width="5.331999125109362in" height="3.6651662292213474in"}![](../media/image259.png){width="5.315999562554681in" height="4.107166447944007in"}![](../media/image237.png){width="2.0984995625546805in" height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in" height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in" height="0.25066601049868764in"}![](../media/image247.png){width="0.301832895888014in" height="0.301832895888014in"}![](../media/image248.png){width="0.7651662292213474in" height="0.21233267716535434in"}![](../media/image249.png){width="0.38333333333333336in" height="0.38333333333333336in"}![](../media/image250.png){width="0.7113331146106736in" height="0.21233267716535434in"}![](../media/image33.png){width="0.38333333333333336in" height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in" height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in" height="0.358665791776028in"}![](../media/image219.png){width="5.331999125109362in" height="0.29766622922134733in"}![](../media/image260.png){width="5.315332458442695in" height="3.8569925634295714in"}![](../media/image261.png){width="5.331999125109362in" height="3.6653324584426947in"}![](../media/image219.png){width="5.331999125109362in" height="0.29766622922134733in"}![](../media/image262.png){width="5.331999125109362in" height="3.952832458442695in"}![](../media/image263.png){width="5.331999125109362in" height="4.136165791776028in"}SUPPORT DETACHMENTS {#support-detachments-2 .unnumbered}
+### ![](../media/image256.png)![](../media/image257.png)![](../media/image258.png)![](../media/image259.png)![](../media/image237.png)![](../media/image210.png)![](../media/image211.png)![](../media/image247.png)![](../media/image248.png)![](../media/image249.png)![](../media/image250.png)![](../media/image33.png)![](../media/image217.png)![](../media/image217.png)![](../media/image219.png)![](../media/image260.png)![](../media/image261.png)![](../media/image219.png)![](../media/image262.png)![](../media/image263.png)SUPPORT DETACHMENTS {#support-detachments-2 .unnumbered}
 
 ####### Legion Assault Detachment 30 Points Infantry (1) Detachment Size: 4 {#legion-assault-detachment-30-points-infantry-1-detachment-size-4 .unnumbered}
 
 **Name Movement Sv CAF Morale W**
 
-Assault Marines 7\" 5+ +3 3+ 1
+Assault Marines 7" 5+ +3 3+ 1
 
 **Weapons**
 
@@ -340,7 +340,7 @@ Assault Marines 7\" 5+ +3 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Legion bolt pistols 6\" 1 5+ 0 Light
+Legion bolt pistols 6" 1 5+ 0 Light
 
 **Upgrades**
 
@@ -359,7 +359,7 @@ Jump Packs
 
 **Name Movement Sv CAF Morale W**
 
-Legion Terminators 5\" 4+ +4 3+ 1
+Legion Terminators 5" 4+ +4 3+ 1
 
 **Weapons**
 
@@ -367,7 +367,7 @@ Legion Terminators 5\" 4+ +4 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Legion combi-bolters 8\" 1 5+ 0 Accurate, Assault,
+Legion combi-bolters 8" 1 5+ 0 Accurate, Assault,
 
 Light
 
@@ -419,7 +419,7 @@ battle,*
 
 **Name Movement Sv CAF Morale W**
 
-Legion Rapier 4\" 5+ +1 3+ 1
+Legion Rapier 4" 5+ +1 3+ 1
 
 **Weapons**
 
@@ -452,7 +452,7 @@ Bulky
 
 **Name Movement Sv CAF Morale W**
 
-Leviathan Dreadnought 5\" 4+ +5 3+ 1
+Leviathan Dreadnought 5" 4+ +5 3+ 1
 
 **Weapons**
 
@@ -472,21 +472,21 @@ Leviathan Dreadnought 5\" 4+ +5 3+ 1
 |                 |                   |  | * | ** | * |             |
 |                 |                   |  | * |  | * |             |
 |                 |                   | 10 |   |  | |             |
-|                 |                   | \" | 2 | 5+ | |             |
+|                 |                   | " | 2 | 5+ | |             |
 |                 |                   |    |   |    |   |             |
 |                 |                   |    |   |    | - |             |
 |                 |                   |    |   |    | 1 |             |
 +=================+===================+====+===+====+===+=============+
 |                 | Cyclonic melta  |  | 1 |  | - |           |
 |                 | lance           |  6 |   | 4+ | 3 |  Anti-tank, |
-|                 |                   | \" |   |    |   |             |
+|                 |                   | " |   |    |   |             |
 +-----------------+-------------------+----+---+----+---+-------------+
 |                 |                   |    |   |    |   |           |
 |                 |                   |    |   |    |   |  Demolisher |
 +-----------------+-------------------+----+---+----+---+-------------+
 |                 | Twin-linked     |  | 1 |  | | Accurate, |
 |                 | volkite caliver | 12 |   | 4+ |   |           |
-|                 |                   | \" |   |    | 0 | Deflagrate, |
+|                 |                   | " |   |    | 0 | Deflagrate, |
 +-----------------+-------------------+----+---+----+---+-------------+
 |                 |                   |    |   |    |   | Light     |
 +-----------------+-------------------+----+---+----+---+-------------+
@@ -496,27 +496,27 @@ Leviathan Dreadnought 5\" 4+ +5 3+ 1
 |                 |                   |    |   |    | 4 |             |
 +-----------------+-------------------+----+---+----+---+-------------+
 
-![](../media/image264.png){width="9.448832020997376in"
-height="12.992158792650919in"}![](../media/image10.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image265.png){width="5.331999125109362in"
-height="4.12549978127734in"}![](../media/image266.png){width="5.331999125109362in"
-height="5.326165791776028in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image227.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image247.png){width="0.301832895888014in"
-height="0.301832895888014in"}![](../media/image248.png){width="0.7651662292213474in"
-height="0.21233267716535434in"}![](../media/image249.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image250.png){width="0.7113331146106736in"
-height="0.21233267716535434in"}![](../media/image33.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image267.png){width="5.336165791776028in"
-height="0.29766622922134733in"}![](../media/image268.png){width="5.331999125109362in"
-height="4.076499343832021in"}![](../media/image269.png){width="5.315332458442695in"
-height="5.086492782152231in"}![](../media/image219.png){width="5.330666010498688in"
-height="0.29766622922134733in"}![](../media/image270.png){width="5.331999125109362in"
-height="4.5278324584426946in"}![](../media/image271.png){width="5.331999125109362in"
-height="5.481165791776028in"}**Upgrades**
+![](../media/image264.png)
+![](../media/image10.png)
+![](../media/image265.png)
+![](../media/image266.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image227.png)
+![](../media/image247.png)
+![](../media/image248.png)
+![](../media/image249.png)
+![](../media/image250.png)
+![](../media/image33.png)
+![](../media/image217.png)
+![](../media/image217.png)
+![](../media/image267.png)
+![](../media/image268.png)
+![](../media/image269.png)
+![](../media/image219.png)
+![](../media/image270.png)
+![](../media/image271.png)
+**Upgrades**
 
 A Leviathan Siege Dreadnought Detachment can purchase one of the
 following upgrades:
@@ -535,7 +535,7 @@ Armoured, Invulnerable Save (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Contemptor Dreadnought 5\" 4+ +5 3+ 1
+Contemptor Dreadnought 5" 4+ +5 3+ 1
 
 **Weapons**
 
@@ -564,17 +564,17 @@ with systems drawn from*
 +================+====+===+====+===+===============+=================+
 | Kheres       |  | 1 |  | | Light AT,   | *lore of the  |
 | assault      | 10 |   | 5+ |   | Rapid Fire  | Legio         |
-| cannon       | \" |   |    | - |               | Cybernetica*  |
+| cannon       | " |   |    | - |               | Cybernetica*  |
 |                |    |   |    | 1 |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | Twin-linked  |  | 1 |  | | Accurate,   | *of the       |
 | lascannon    | 22 |   | 4+ |   | Anti-tank   | Mechanicum.   |
-|                | \" |   |    | - |               | Each*         |
+|                | " |   |    | - |               | Each*         |
 |                |    |   |    | 1 |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | In-built     |  | 1 |  | | Assault,    | *Dreadnought  |
 | twin-linked  |  8 |   | 5+ |   | Light,      | is a highly*  |
-| bolter       | \" |   |    | 0 |               |                 |
+| bolter       | " |   |    | 0 |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Point       | *mobile       |
 |                |    |   |    |   | Defence     | weapon        |
@@ -609,26 +609,26 @@ defensive positions and armoured vehicles.*
 Dreadnoughts, the two patterns temporarily bound together to
 obliterate the foe.*
 
-![](../media/image272.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image16.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image273.png){width="5.315332458442695in"
-height="5.438833114610674in"}![](../media/image274.png){width="5.331999125109362in"
-height="4.489332895888014in"}![](../media/image237.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image247.png){width="0.301832895888014in"
-height="0.301832895888014in"}![](../media/image248.png){width="0.7651662292213474in"
-height="0.21233267716535434in"}![](../media/image249.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image250.png){width="0.7113331146106736in"
-height="0.21233267716535434in"}![](../media/image33.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image275.png){width="5.331999125109362in"
-height="5.200325896762904in"}![](../media/image238.png){width="5.286666666666667in"
-height="0.366165791776028in"}![](../media/image276.png){width="5.149666447944007in"
-height="4.105159667541558in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image277.png){width="5.331999125109362in"
-height="5.486165791776028in"}![](../media/image278.png){width="5.331999125109362in"
-height="4.489332895888014in"}
+![](../media/image272.png)
+![](../media/image16.png)
+![](../media/image273.png)
+![](../media/image274.png)
+![](../media/image237.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image247.png)
+![](../media/image248.png)
+![](../media/image249.png)
+![](../media/image250.png)
+![](../media/image33.png)
+![](../media/image217.png)
+![](../media/image275.png)
+![](../media/image238.png)
+![](../media/image276.png)
+![](../media/image219.png)
+![](../media/image277.png)
+![](../media/image278.png)
+
 
 #### Detachment Upgrades {#detachment-upgrades-2 .unnumbered}
 
@@ -639,7 +639,7 @@ height="4.489332895888014in"}
 |                      | ovement** | *Sv** | **CAF** | *Morale** | *W |
 |                      |           |       |         |           | ** |
 +======================+===========+=======+=========+===========+====+
-| Leviathan          | 5\"       | 4+  | +5    | 3+        | 1  |
+| Leviathan          | 5"       | 4+  | +5    | 3+        | 1  |
 | Dreadnought        |           |       |         |           |    |
 +----------------------+-----------+-------+---------+-----------+----+
 
@@ -658,16 +658,16 @@ height="4.489332895888014in"}
 |                         |       | ** | Hit** |    |                |
 +=========================+=======+====+=======+====+================+
 | Leviathan storm       |     | 2  | 5+  | -1 | Light AT,    |
-| cannon                |  10\" |    |       |    |                |
+| cannon                |  10" |    |       |    |                |
 +-------------------------+-------+----+-------+----+----------------+
 |                         |       |    |       |    | Rapid Fire   |
 +-------------------------+-------+----+-------+----+----------------+
-| Cyclonic melta lance  | 6\" | 1  | 4+  | -3 | Anti-tank,   |
+| Cyclonic melta lance  | 6" | 1  | 4+  | -3 | Anti-tank,   |
 +-------------------------+-------+----+-------+----+----------------+
 |                         |       |    |       |    | Demolisher   |
 +-------------------------+-------+----+-------+----+----------------+
 | Twin-linked volkite   |     | 1  | 4+  | 0  | Accurate,    |
-| caliver               |  12\" |    |       |    |                |
+| caliver               |  12" |    |       |    |                |
 +-------------------------+-------+----+-------+----+----------------+
 |                         |       |    |       |    | Deflagrate,  |
 |                         |       |    |       |    | Light        |
@@ -681,31 +681,31 @@ height="4.489332895888014in"}
 
 Armoured, Invulnerable Save (5+)
 
-![](../media/image279.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image27.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image280.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image281.png){width="5.306999125109361in"
-height="4.027666229221348in"}![](../media/image282.png){width="5.323665791776028in"
-height="5.27849956255468in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image227.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image283.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image284.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image285.png){width="2.186499343832021in"
-height="0.5101662292213474in"}![](../media/image286.png){width="0.30699912510936134in"
-height="0.30699912510936134in"}![](../media/image287.png){width="0.7651662292213474in"
-height="0.21233267716535434in"}![](../media/image13.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image288.png){width="0.7113331146106736in"
-height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image289.png){width="5.328499562554681in"
-height="4.050325896762905in"}![](../media/image290.png){width="5.331999125109362in"
-height="4.970999562554681in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image291.png){width="5.331999125109362in"
-height="5.285332458442695in"}![](../media/image292.png){width="5.331999125109362in"
-height="4.344499125109361in"}
+![](../media/image279.png)
+![](../media/image27.png)
+![](../media/image280.png)
+![](../media/image281.png)
+![](../media/image282.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image227.png)
+![](../media/image283.png)
+![](../media/image284.png)
+![](../media/image285.png)
+![](../media/image286.png)
+![](../media/image287.png)
+![](../media/image13.png)
+![](../media/image288.png)
+![](../media/image15.png)
+![](../media/image217.png)
+![](../media/image217.png)
+![](../media/image219.png)
+![](../media/image289.png)
+![](../media/image290.png)
+![](../media/image219.png)
+![](../media/image291.png)
+![](../media/image292.png)
+
 
 ###### BASTION DETACHMENTS {#bastion-detachments .unnumbered}
 
@@ -741,9 +741,9 @@ Legion Tarantula - 5+ -3 - 1
 -   Tarantula lascannon battery or Hyperios air-defence missile launcher
 
 **Weapon Range Dice To Hit AP Traits** Tarantula lascannon battery
-22\" 2 5+ -1 Anti-tank Hyperios air-defence
+22" 2 5+ -1 Anti-tank Hyperios air-defence
 
-missile launcher 25\" 1 4+ -1 Skyfire, Tracking
+missile launcher 25" 1 4+ -1 Skyfire, Tracking
 
 **Upgrades**
 
@@ -763,7 +763,7 @@ Automated Sentry
 
 **Name Movement Sv CAF Morale W**
 
-Deredeo Dreadnought 5\" 4+ +2 3+ 1
+Deredeo Dreadnought 5" 4+ +2 3+ 1
 
 **Weapons**
 
@@ -782,16 +782,16 @@ Deredeo Dreadnought 5\" 4+ +2 3+ 1
 | Sarcophagus Mounted  |     |    |       |    |                   |
 +------------------------+-----+----+-------+----+-------------------+
 | weapons              |   | 1  | 6+  | 0  | Light, Point    |
-|                        | 8\" |    |       |    | Defence         |
+|                        | 8" |    |       |    | Defence         |
 +------------------------+-----+----+-------+----+-------------------+
 | Aiolos missile       | 2 | 1  | 4+  | -2 | Anti-tank,      |
-| launcher             | 5\" |    |       |    | Skyfire         |
+| launcher             | 5" |    |       |    | Skyfire         |
 +------------------------+-----+----+-------+----+-------------------+
 | Hellfire plasma      | 1 | 2  | 4+  | -2 | Light AT        |
-| cannonade            | 4\" |    |       |    |                   |
+| cannonade            | 4" |    |       |    |                   |
 +------------------------+-----+----+-------+----+-------------------+
 | Anvilus autocannon   | 1 | 2  | 5+  | -1 | Accurate, Light |
-| battery              | 6\" |    |       |    | AT              |
+| battery              | 6" |    |       |    | AT              |
 +------------------------+-----+----+-------+----+-------------------+
 
 **Upgrades**
@@ -813,7 +813,7 @@ Armoured, Invulnerable Save (5+), Tracking Array
 
 **Name Movement Sv CAF Morale W**
 
-Legion Predator 9\" 3+ +2 3+ 1
+Legion Predator 9" 3+ +2 3+ 1
 
 **Weapons**
 
@@ -829,25 +829,25 @@ protection in exchange for sacrificing the Rhino's transport*
 
 *bay. The strength of the*
 
-![](../media/image293.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image294.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image295.png){width="5.331999125109362in"
-height="3.7328324584426946in"}![](../media/image237.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image296.png){width="2.0984995625546805in"
-height="8.81099956255468in"}![](../media/image297.png){width="2.014832677165354in"
-height="8.00649934383202in"}![](../media/image285.png){width="2.186499343832021in"
-height="0.5101662292213474in"}![](../media/image298.png){width="0.16016622922134732in"
-height="9.349956255468067e-2in"}![](../media/image299.png){width="0.4931660104986877in"
-height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image300.png){width="0.4931660104986877in"
-height="0.21233267716535434in"}![](../media/image33.png){width="0.383332239720035in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image301.png){width="5.331999125109362in"
-height="5.234998906386702in"}![](../media/image220.png){width="5.320166229221347in"
-height="0.29766622922134733in"}![](../media/image302.png){width="5.331999125109362in"
-height="4.919499125109361in"}
+![](../media/image293.png)
+![](../media/image294.png)
+![](../media/image295.png)
+![](../media/image237.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image296.png)
+![](../media/image297.png)
+![](../media/image285.png)
+![](../media/image298.png)
+height="9.349956255468067e-2in"}![](../media/image299.png)
+![](../media/image15.png)
+![](../media/image300.png)
+![](../media/image33.png)
+![](../media/image217.png)
+![](../media/image301.png)
+![](../media/image220.png)
+![](../media/image302.png)
+
 
 +-----------------+---+---+----+---+---------------+-----------------+
 | **Weapon**    | * | * |  | | **Traits**  | *Predator     |
@@ -918,7 +918,7 @@ advance, most commonly armed with a rapid fire Herakles pattern*
 
 **Name Movement Sv CAF Morale W**
 
-Legion Sicaran 10\" 3+ +2 3+ 1
+Legion Sicaran 10" 3+ +2 3+ 1
 
 **Weapons**
 
@@ -942,7 +942,7 @@ Legion Sicaran 10\" 3+ +2 3+ 1
 +=================+==================+====+===+====+===+=============+
 | *Retrofitting | Hull Mounted   |  | |  | 0 | Arc       |
 | allowed the   | heavy bolter   | 12 |   | 5+ |   | (Front),  |
-| use*          |                  | \" | 2 |    |   | Light,    |
+| use*          |                  | " | 2 |    |   | Light,    |
 +-----------------+------------------+----+---+----+---+-------------+
 | *of an Omega  |                  |    |   |    |   | Point     |
 | plasma        |                  |    |   |    |   | Defence   |
@@ -954,18 +954,18 @@ Legion Sicaran 10\" 3+ +2 3+ 1
 +-----------------+------------------+----+---+----+---+-------------+
 | *in favour of | accelerator    |  | 3 |  | - | Tracking  |
 | overwhelming* | autocannon     | 16 |   | 5+ | 1 |             |
-|                 |                  | \" |   |    |   |             |
+|                 |                  | " |   |    |   |             |
 +-----------------+------------------+----+---+----+---+-------------+
 | *force to     | Omega plasma   |  | |  | - | Accurate  |
 | reduce enemy  | array          | 12 |   | 4+ | 2 |             |
-| armour*       |                  | \" | 1 |    |   |             |
+| armour*       |                  | " | 1 |    |   |             |
 +-----------------+------------------+----+---+----+---+-------------+
 | *to wrecks.*  | Sponson        |    |   |    |   |             |
 |                 | Mounted        |    |   |    |   |             |
 +-----------------+------------------+----+---+----+---+-------------+
 |                 | heavy bolters  |  | |  | 0 | Arc       |
 |                 |                  | 12 |   | 5+ |   | (Front),  |
-|                 |                  | \" | 2 |    |   | Light,    |
+|                 |                  | " | 2 |    |   | Light,    |
 +-----------------+------------------+----+---+----+---+-------------+
 |                 |                  |    |   |    |   | Point     |
 |                 |                  |    |   |    |   | Defence   |
@@ -975,27 +975,27 @@ Legion Sicaran 10\" 3+ +2 3+ 1
 +-----------------+------------------+----+---+----+---+-------------+
 |                 | lascannon      |  | |  | - |           |
 |                 |                  | 22 |   | 4+ | 1 |  Anti-tank, |
-|                 |                  | \" | 1 |    |   | Arc       |
+|                 |                  | " | 1 |    |   | Arc       |
 |                 |                  |    |   |    |   | (Front)   |
 +-----------------+------------------+----+---+----+---+-------------+
 
-![](../media/image303.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image10.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image304.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image305.png){width="5.298665791776028in"
-height="5.649332895888014in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image227.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image298.png){width="0.16016622922134732in"
-height="9.349956255468067e-2in"}![](../media/image306.png){width="1.439332895888014in"
-height="0.21233267716535434in"}![](../media/image13.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image307.png){width="1.4344991251093613in"
-height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image308.png){width="5.331999125109362in"
-height="5.581999125109362in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image309.png){width="5.331999125109362in"
-height="5.869832677165355in"}**Upgrades**
+![](../media/image303.png)
+![](../media/image10.png)
+![](../media/image304.png)
+![](../media/image305.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image227.png)
+![](../media/image298.png)
+height="9.349956255468067e-2in"}![](../media/image306.png)
+![](../media/image13.png)
+![](../media/image307.png)
+![](../media/image15.png)
+![](../media/image308.png)
+![](../media/image219.png)
+![](../media/image217.png)
+![](../media/image309.png)
+**Upgrades**
 
 A Legion Sicaran Squadron can purchase any of the following upgrades.
 It may purchase the same upgrade multiple times, to a maximum
@@ -1015,7 +1015,7 @@ Detachment size of 6:
 
 **Name Movement Sv CAF Morale W**
 
-Legion Kratos 8\" 2+ +3 3+ 2
+Legion Kratos 8" 2+ +3 3+ 2
 
 **Weapons**
 
@@ -1035,22 +1035,22 @@ hammer. Though slower than many later Legion*
 
 *armoured units, the Kratos is*
 
-![](../media/image310.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image311.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image312.png){width="5.331999125109362in"
-height="7.1336657917760276in"}![](../media/image237.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image313.png){width="0.183999343832021in"
-height="7.9332895888014e-2in"}![](../media/image306.png){width="1.439332895888014in"
-height="0.21233267716535434in"}![](../media/image13.png){width="0.383332239720035in"
-height="0.38333333333333336in"}![](../media/image307.png){width="1.4344991251093613in"
-height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image314.png){width="5.331999125109362in"
-height="7.732826990376203in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image315.png){width="5.331999125109362in"
-height="7.97799978127734in"}
+![](../media/image310.png)
+![](../media/image311.png)
+![](../media/image312.png)
+![](../media/image237.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image313.png)
+height="7.9332895888014e-2in"}![](../media/image306.png)
+![](../media/image13.png)
+![](../media/image307.png)
+![](../media/image15.png)
+![](../media/image219.png)
+![](../media/image314.png)
+![](../media/image217.png)
+![](../media/image315.png)
+
 
 +---------------+------+---+----+---+----------------+-----------------+
 | **Weapon**  | *  | |  | * | **Traits**   | *all but      |
@@ -1065,11 +1065,11 @@ height="7.97799978127734in"}
 |               |      | * |    |   |                |                 |
 +===============+======+===+====+===+================+=================+
 | Kratos      |    | |  | - |                | *weapons fire |
-|             | 20\" |   | 4+ | 1 |                | and is        |
+|             | 20" |   | 4+ | 1 |                | and is        |
 |  battlecannon |      | 2 |    |   |                | capable*      |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |    | |  | - | Anti-tank,   | *of fielding  |
-|               | 10\" |   | 4+ | 4 |                | a deadly      |
+|               | 10" |   | 4+ | 4 |                | a deadly      |
 |               |      | 1 |    |   |                | array*        |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |      |   |    |   | Armourbane   | *of           |
@@ -1077,11 +1077,11 @@ height="7.97799978127734in"}
 |               |      |   |    |   |                | and anti-*    |
 +---------------+------+---+----+---+----------------+-----------------+
 | Co-axial    |    | |  | - | Co-axial,    |               |
-| autocannon  | 16\" |   | 5+ | 1 | Light AT     |  *fortification |
+| autocannon  | 16" |   | 5+ | 1 | Light AT     |  *fortification |
 |               |      | 2 |    |   |                | weaponry.*    |
 +---------------+------+---+----+---+----------------+-----------------+
 | Melta       |    | |  | - | Anti-tank,   |                 |
-| blastgun    |  8\" |   | 4+ | 4 |                |                 |
+| blastgun    |  8" |   | 4+ | 4 |                |                 |
 |               |      | 1 |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |      |   |    |   | Armourbane,  |                 |
@@ -1093,7 +1093,7 @@ height="7.97799978127734in"}
 | Mounted     |      |   |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 | heavy       |    | |  | 0 | Arc (Front), |                 |
-| bolters     | 12\" |   | 5+ |   | Light,       |                 |
+| bolters     | 12" |   | 5+ |   | Light,       |                 |
 |               |      | 2 |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |      |   |    |   | Point        |                 |
@@ -1103,7 +1103,7 @@ height="7.97799978127734in"}
 | Mounted     |      |   |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 | heavy       |    | |  | 0 | Arc (Front), |                 |
-| bolters     | 12\" |   | 5+ |   | Light,       |                 |
+| bolters     | 12" |   | 5+ |   | Light,       |                 |
 |               |      | 2 |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |      |   |    |   | Point        |                 |
@@ -1113,17 +1113,17 @@ height="7.97799978127734in"}
 | Mounted     |      |   |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 | lascannon   |    | |  | - | Anti-tank,   |                 |
-|               | 22\" |   | 4+ | 1 | Arc (Front)  |                 |
+|               | 22" |   | 4+ | 1 | Arc (Front)  |                 |
 |               |      | 1 |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 | Kratos      |    | |  | - | Accurate,    |                 |
-| autocannon  | 16\" |   | 5+ | 1 | Arc (Front), |                 |
+| autocannon  | 16" |   | 5+ | 1 | Arc (Front), |                 |
 |               |      | 2 |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |      |   |    |   | Light AT     |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 | Kratos      |    | |  | - | Accurate,    |                 |
-| lascannon   | 22\" |   | 4+ | 1 | Arc (Front), |                 |
+| lascannon   | 22" |   | 4+ | 1 | Arc (Front), |                 |
 |               |      | 1 |    |   |                |                 |
 +---------------+------+---+----+---+----------------+-----------------+
 |               |      |   |    |   | Anti-tank    |                 |
@@ -1162,7 +1162,7 @@ forces and low- level ground attack. Rugged and durable, the power of*
 
 **Name Movement Sv CAF Morale W**
 
-Xiphon Interceptor 30\" 3+ +0 - 1
+Xiphon Interceptor 30" 3+ +0 - 1
 
 **Weapons**
 
@@ -1170,13 +1170,13 @@ Xiphon Interceptor 30\" 3+ +0 - 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Xiphon lascannon array 22\" 2 4+ -1 Arc (Front), Accurate,
+Xiphon lascannon array 22" 2 4+ -1 Arc (Front), Accurate,
 
 Anti-tank, Skyfire
 
 Xiphon rotary
 
-missile launcher 24\" 2 4+ -1 Arc (Front), Skyfire,
+missile launcher 24" 2 4+ -1 Arc (Front), Skyfire,
 
 Tracking
 
@@ -1199,7 +1199,7 @@ Flyer, Interceptor, Jink (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Storm Eagle 25\" 3+ +0 - 1
+Storm Eagle 25" 3+ +0 - 1
 
 **Weapons**
 
@@ -1228,7 +1228,7 @@ range transport,*
 +=================+==================+====+===+====+===+=============+
 | *interceptor  | Storm Eagle    |  | |  | 0 | Arc       |
 | in addition   | heavy bolter   | 12 |   | 5+ |   | (Front),  |
-| to its*       |                  | \" | 3 |    |   | Light,    |
+| to its*       |                  | " | 3 |    |   | Light,    |
 +-----------------+------------------+----+---+----+---+-------------+
 | *primary      |                  |    |   |    |   | Point     |
 | roles.*       |                  |    |   |    |   | Defence,  |
@@ -1237,41 +1237,41 @@ range transport,*
 +-----------------+------------------+----+---+----+---+-------------+
 |                 | Vengeance      |  | |  | - | Arc       |
 |                 | launcher       | 25 |   | 4+ | 1 | (Front),  |
-|                 |                  | \" | 2 |    |   | Light AT  |
+|                 |                  | " | 2 |    |   | Light AT  |
 +-----------------+------------------+----+---+----+---+-------------+
 |                 | Tempest        |  | |  | - | Arc       |
 |                 | rockets        | 35 |   | 2+ | 2 | (Front),  |
-|                 |                  | \" | 1 |    |   | Skyfire   |
+|                 |                  | " | 1 |    |   | Skyfire   |
 +-----------------+------------------+----+---+----+---+-------------+
 |                 | Wing Mounted   |  | |  | - |           |
 |                 | lascannon      | 22 |   | 4+ | 1 |  Anti-tank, |
-|                 |                  | \" | 2 |    |   |             |
+|                 |                  | " | 2 |    |   |             |
 +-----------------+------------------+----+---+----+---+-------------+
 |                 |                  |    |   |    |   | Arc       |
 |                 |                  |    |   |    |   | (Front),  |
 |                 |                  |    |   |    |   | Skyfire   |
 +-----------------+------------------+----+---+----+---+-------------+
 
-![](../media/image316.png){width="9.448832020997376in"
-height="12.992158792650919in"}![](../media/image10.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image317.png){width="5.323665791776028in"
-height="4.846165791776028in"}![](../media/image318.png){width="5.331999125109362in"
-height="5.24049978127734in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image227.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image319.png){width="0.19549978127734033in"
-height="0.16016622922134732in"}![](../media/image300.png){width="0.4931660104986877in"
-height="0.21233267716535434in"}![](../media/image33.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image299.png){width="0.4931660104986877in"
-height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in"
-height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image320.png){width="5.331999125109362in"
-height="6.23799978127734in"}![](../media/image219.png){width="5.328499562554681in"
-height="0.29766622922134733in"}![](../media/image321.png){width="5.331999125109362in"
-height="10.054142607174104in"}![](../media/image322.png){width="5.331999125109362in"
-height="5.091832895888014in"}**Upgrades**
+![](../media/image316.png)
+![](../media/image10.png)
+![](../media/image317.png)
+![](../media/image318.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image227.png)
+![](../media/image319.png)
+![](../media/image300.png)
+![](../media/image33.png)
+![](../media/image299.png)
+![](../media/image15.png)
+![](../media/image217.png)
+![](../media/image217.png)
+![](../media/image219.png)
+![](../media/image320.png)
+![](../media/image219.png)
+![](../media/image321.png)
+![](../media/image322.png)
+**Upgrades**
 
 A Legion Storm Eagle Squadron can purchase one of the following
 upgrades:
@@ -1288,7 +1288,7 @@ Assault Transport (5), Flyer, Hover, Jink (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Fire Raptor 25\" 3+ +0 - 1
+Fire Raptor 25" 3+ +0 - 1
 
 **Weapons**
 
@@ -1378,7 +1378,7 @@ Flyer, Hover, Jink (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Thunderhawk Gunship 25\" 2+ +0 - 2
+Thunderhawk Gunship 25" 2+ +0 - 2
 
 **Weapons**
 
@@ -1449,23 +1449,23 @@ the Thunderhawk*
 |                 |   |   |    |   | Armourbane   |                |
 +-----------------+---+---+----+---+----------------+----------------+
 
-![](../media/image323.png){width="9.448833114610673in"
-height="12.992158792650919in"}![](../media/image16.png){width="9.488194444444444in"
-height="13.227759186351706in"}![](../media/image324.png){width="5.331999125109362in"
-height="5.250332458442695in"}![](../media/image324.png){width="5.331999125109362in"
-height="5.25049978127734in"}![](../media/image237.png){width="2.0984995625546805in"
-height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in"
-height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in"
-height="0.25066601049868764in"}![](../media/image319.png){width="0.19549978127734033in"
-height="0.16016622922134732in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in"
-height="0.358665791776028in"}![](../media/image325.png){width="5.331999125109362in"
-height="6.869493657042869in"}![](../media/image326.png){width="5.331999125109362in"
-height="5.411999125109362in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image219.png){width="5.331999125109362in"
-height="0.29766622922134733in"}![](../media/image327.png){width="5.331999125109362in"
-height="5.2775in"}![](../media/image328.png){width="5.331999125109362in"
-height="5.2651662292213475in"}**Upgrades**
+![](../media/image323.png)
+![](../media/image16.png)
+![](../media/image324.png)
+![](../media/image324.png)
+![](../media/image237.png)
+![](../media/image210.png)
+![](../media/image211.png)
+![](../media/image319.png)
+![](../media/image217.png)
+![](../media/image217.png)
+![](../media/image325.png)
+![](../media/image326.png)
+![](../media/image219.png)
+![](../media/image219.png)
+![](../media/image327.png)
+![](../media/image328.png)
+**Upgrades**
 
 A Legion Thunderhawk Gunship can purchase one of the following
 upgrades:

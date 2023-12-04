@@ -1,4 +1,4 @@
-### ![](../media/image381.png){width="9.448832020997376in" height="12.99215223097113in"}KNIGHT DETACHMENTS {#knight-detachments .unnumbered}
+### ![](../media/image381.png)KNIGHT DETACHMENTS {#knight-detachments .unnumbered}
 
 ####### Questoris Knight Banner 180 Points {#questoris-knight-banner-180-points .unnumbered}
 
@@ -10,7 +10,7 @@
 |                    |                |      |                   | *W |
 |                    |                |      |                   | ** |
 +====================+================+======+===================+====+
-| Questoris Knight | 8\"          | 3+ | +8 2+             |  |
+| Questoris Knight | 8"          | 3+ | +8 2+             |  |
 |                    |                |      |                   |  3 |
 +--------------------+----------------+------+-------------------+----+
 
@@ -58,25 +58,25 @@ page 207.*
 |                |     | * |    |   |                                 |
 +================+=====+===+====+===+=================================+
 | Thermal      | 1 | 2 |  | - | Anti-tank, Arc (Front),       |
-| cannon       | 2\" |   | 4+ | 3 | Demolisher                    |
+| cannon       | 2" |   | 4+ | 3 | Demolisher                    |
 +----------------+-----+---+----+---+---------------------------------+
 |                |   | 1 |  | - | Anti-tank, Arc (Front),       |
-|                | 6\" |   | 3+ | 4 | Demolisher, Engine Killer (1) |
+|                | 6" |   | 3+ | 4 | Demolisher, Engine Killer (1) |
 +----------------+-----+---+----+---+---------------------------------+
 | Rapid-fire   | 2 | 2 |  | - | Arc (Front), Rapid Fire       |
-| battlecannon | 8\" |   | 4+ | 2 |                                 |
+| battlecannon | 8" |   | 4+ | 2 |                                 |
 +----------------+-----+---+----+---+---------------------------------+
 | Que          |     |   |    |   |                                 |
 | storis-avenger |     |   |    |   |                                 |
 +----------------+-----+---+----+---+---------------------------------+
 | gatling      | 1 | 5 |  | - | Arc (Front), Light AT, Rapid  |
-| cannon       | 6\" |   | 5+ | 2 | Fire                          |
+| cannon       | 6" |   | 5+ | 2 | Fire                          |
 +----------------+-----+---+----+---+---------------------------------+
 | Heavy        | 1 | 1 |  | 0 | Arc (Front), Light, Point     |
-| stubber      | 4\" |   | 5+ |   | Defence                       |
+| stubber      | 4" |   | 5+ |   | Defence                       |
 +----------------+-----+---+----+---+---------------------------------+
 | Meltagun     |   | 1 |  | - | Anti-tank, Arc (Front)        |
-|                | 6\" |   | 4+ | 3 |                                 |
+|                | 6" |   | 4+ | 3 |                                 |
 +----------------+-----+---+----+---+---------------------------------+
 | Reaper       |   | \ |  | | Rend                          |
 | chainsword   |  \- | - | \- |   |                                 |
@@ -88,7 +88,7 @@ page 207.*
 | gauntlet     |     |   |    |   |                                 |
 +----------------+-----+---+----+---+---------------------------------+
 | Rocket pods  | 1 | 2 |  | - | Arc (Front), Barrage          |
-|                | 6\" |   | 4+ | 1 |                                 |
+|                | 6" |   | 4+ | 1 |                                 |
 +----------------+-----+---+----+---+---------------------------------+
 
 **Upgrades**
@@ -122,7 +122,7 @@ Independent, Ion Shields (4+), Nimble
 
 **Name Movement Sv CAF Morale W**
 
-Knight Styrix 8\" 3+ +8 2+ 3
+Knight Styrix 8" 3+ +8 2+ 3
 
 **Weapons**
 
@@ -134,13 +134,13 @@ Knight Styrix 8\" 3+ +8 2+ 3
 
 **Weapon Range Dice To Hit AP Traits**
 
-Volkite chieorovile 12\" 3 4+ -2 Arc (Front),
+Volkite chieorovile 12" 3 4+ -2 Arc (Front),
 
 Deflagrate, Light AT, Shieldbane
 
 Hekaton siege claw - - - -5 Rend, Wrecker (3)
 
-Graviton gun 6\" 1 - -1 Arc (Front), Graviton Pulse
+Graviton gun 6" 1 - -1 Arc (Front), Graviton Pulse
 
 **Special Rules**
 
@@ -182,7 +182,7 @@ Lances, consisting of two or more Scions operating in concert.*
 |              |       | * |     |   |              |                  |
 |              |       | * |     |   |              |                  |
 +--------------+-------+---+-----+---+--------------+------------------+
-| Knight     | 8\"   | 3 | +8  |   | 2+ 3       | *rarely seen   |
+| Knight     | 8"   | 3 | +8  |   | 2+ 3       | *rarely seen   |
 | Magaera    |       | + |     |   |              | in great       |
 |              |       |   |     |   |              | numbers*       |
 +--------------+-------+---+-----+---+--------------+------------------+
@@ -218,12 +218,12 @@ Lances, consisting of two or more Scions operating in concert.*
 |              |       | * |     | * |              |                  |
 +--------------+-------+---+-----+---+--------------+------------------+
 | Lightning  |     | |   | | Arc        | *will. Both    |
-| cannon     |  22\" |   |  5+ |   | (Front),   | patterns are*  |
+| cannon     |  22" |   |  5+ |   | (Front),   | patterns are*  |
 |              |       | 2 |     | - |              |                  |
 |              |       |   |     | 2 |              |                  |
 +--------------+-------+---+-----+---+--------------+------------------+
 |              |       |   |     |   | Blast      | *invested with |
-|              |       |   |     |   | (3\")      | dedicated      |
+|              |       |   |     |   | (3")      | dedicated      |
 |              |       |   |     |   |              | repair*        |
 +--------------+-------+---+-----+---+--------------+------------------+
 | Hekaton    | \-    | |   | | Rend,      | *autosimulacra |
@@ -236,7 +236,7 @@ Lances, consisting of two or more Scions operating in concert.*
 |              |       |   |     |   |              | enhancing the* |
 +--------------+-------+---+-----+---+--------------+------------------+
 | Phased     |     | |   | | Arc        | *survivability |
-|            |  10\" |   |  4+ |   | (Front),   | of the armour* |
+|            |  10" |   |  4+ |   | (Front),   | of the armour* |
 | plasma-fusil |       | 1 |     | - |              |                  |
 |              |       |   |     | 2 |              |                  |
 +--------------+-------+---+-----+---+--------------+------------------+
@@ -247,16 +247,16 @@ Lances, consisting of two or more Scions operating in concert.*
 |              |       |   |     |   |              | machines*      |
 +--------------+-------+---+-----+---+--------------+------------------+
 
-![](../media/image382.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Special Rules**
+![](../media/image382.png)
+**Special Rules**
 
 Blessed Auto-simulacra, Independent, Ionic Flare Shield, Ion Shields
 (4+), Nimble
 
 *when assaults upon fortified positions are warranted.*
 
-![](../media/image383.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image383.png)
+
 
 ###### KNIGHT DETACHMENTS {#knight-detachments-1 .unnumbered}
 
@@ -295,7 +295,7 @@ manner in which it undertakes its grim task.*
 |                  |               |      |        |          | *W |
 |                  |               |      |        |          | ** |
 +==================+===============+======+========+==========+====+
-| Cerastus       | 9\"         | 3+ | +11  | 2+     |  |
+| Cerastus       | 9"         | 3+ | +11  | 2+     |  |
 | Knight         |               |      |        |          |  3 |
 +------------------+---------------+------+--------+----------+----+
 
@@ -329,7 +329,7 @@ Shield (3+).*
 +====================+=========+====+=======+====+===================+
 | Acheron pattern  |         |    |       |    |                   |
 +--------------------+---------+----+-------+----+-------------------+
-| flame cannon     | 8\"   | 3  | 4+  | -2 | Arc (Front),    |
+| flame cannon     | 8"   | 3  | 4+  | -2 | Arc (Front),    |
 |                    |         |    |       |    | Ignores         |
 +--------------------+---------+----+-------+----+-------------------+
 |                    |         |    |       |    | Cover, Light AT |
@@ -337,7 +337,7 @@ Shield (3+).*
 | In-built         |         |    |       |    |                   |
 | twin-linked      |         |    |       |    |                   |
 +--------------------+---------+----+-------+----+-------------------+
-| heavy bolters    | 12\"  | 2  | 5+  | 0  | Arc (Front),    |
+| heavy bolters    | 12"  | 2  | 5+  | 0  | Arc (Front),    |
 |                    |         |    |       |    | Light,          |
 +--------------------+---------+----+-------+----+-------------------+
 |                    |         |    |       |    | Point Defence   |
@@ -347,7 +347,7 @@ Shield (3+).*
 | Castigator       |         |    |       |    |                   |
 | pattern          |         |    |       |    |                   |
 +--------------------+---------+----+-------+----+-------------------+
-| bolt cannon      | 14\"  | 4  | 5+  | -2 | Arc (Front),    |
+| bolt cannon      | 14"  | 4  | 5+  | -2 | Arc (Front),    |
 |                    |         |    |       |    | Light AT,       |
 +--------------------+---------+----+-------+----+-------------------+
 |                    |         |    |       |    | Rapid Fire,     |
@@ -358,7 +358,7 @@ Shield (3+).*
 +--------------------+---------+----+-------+----+-------------------+
 | Shock lance      | \-    | \- | \-  | \- | Reach, Rend     |
 +--------------------+---------+----+-------+----+-------------------+
-| Ion gauntlet     | 6\"   | 2  | 5+  | -2 | Arc (Front)     |
+| Ion gauntlet     | 6"   | 2  | 5+  | -2 | Arc (Front)     |
 | shield           |         |    |       |    |                   |
 +--------------------+---------+----+-------+----+-------------------+
 
@@ -384,13 +384,13 @@ these upgrades use the corresponding profiles on page 211* .
 
 Furious Charge, Independent, Ion Shields (4+), Nimble
 
-#### ![](../media/image384.png){width="9.448832020997376in" height="12.99215223097113in"}Detachment Upgrades {#detachment-upgrades-10 .unnumbered}
+#### ![](../media/image384.png)Detachment Upgrades {#detachment-upgrades-10 .unnumbered}
 
 ####### Cerastus Knight Atrapos Knight (4) {#cerastus-knight-atrapos-knight-4 .unnumbered}
 
 **Name Movement Sv CAF Morale W**
 
-Cerastus Knight 9\" 3+ +11 2+ 3
+Cerastus Knight 9" 3+ +11 2+ 3
 
 **Weapons**
 
@@ -400,11 +400,11 @@ Cerastus Knight 9\" 3+ +11 2+ 3
 
 **Weapon Range Dice To Hit AP Traits**
 
-Graviton singularity cannon 16\" 2 3+ -3 Arc (Front),
+Graviton singularity cannon 16" 2 3+ -3 Arc (Front),
 
 Armourbane, Collapsing Singularity
 
-Atrapos lascutter 6\" 1 2+ -4 Arc (Front),
+Atrapos lascutter 6" 1 2+ -4 Arc (Front),
 
 Engine Killer (1), Rend,
 
@@ -432,8 +432,8 @@ House, the cold*
 *hunger for destruction within the machine spirit of the Knight
 Atrapos sated only with the ruination of such great adversaries.*
 
-![](../media/image385.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image385.png)
+
 
 ###### KNIGHT DETACHMENTS {#knight-detachments-3 .unnumbered}
 
@@ -473,7 +473,7 @@ saturating ramparts with high-impact explosives while*
 |                  |                |      |        |          | *W |
 |                  |                |      |        |          | ** |
 +==================+================+======+========+==========+====+
-| Acastus Knight | 6\"          | 2+   | +7   | 2+       |  |
+| Acastus Knight | 6"          | 2+   | +7   | 2+       |  |
 |                  |                |      |        |          |  3 |
 +------------------+----------------+------+--------+----------+----+
 
@@ -501,15 +501,15 @@ for +20 points:
 |                       |      | ** | Hit** |    |                   |
 +=======================+======+====+=======+====+===================+
 | Twin magna          |    | 2  | 4+  | -3 | Accurate,       |
-| lascannon           | 25\" |    |       |    | Anti-tank,      |
+| lascannon           | 25" |    |       |    | Anti-tank,      |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Arc (Front)     |
 +-----------------------+------+----+-------+----+-------------------+
 | Ironstorm missile   |    | 3  | 4+  | -1 | Arc (Front),    |
-| pod                 | 25\" |    |       |    | Light AT        |
+| pod                 | 25" |    |       |    | Light AT        |
 +-----------------------+------+----+-------+----+-------------------+
 | Helios defence      |    | 2  | 4+  | -2 | Anti-tank,      |
-| missiles            | 25\" |    |       |    |                   |
+| missiles            | 25" |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Arc (Front),    |
 |                       |      |    |       |    | Skyfire,        |
@@ -517,36 +517,36 @@ for +20 points:
 |                       |      |    |       |    | Tracking        |
 +-----------------------+------+----+-------+----+-------------------+
 | Acastus lascannon   |    | 1  | 4+  | -1 | Anti-tank, Arc  |
-|                       | 22\" |    |       |    | (Front)         |
+|                       | 22" |    |       |    | (Front)         |
 +-----------------------+------+----+-------+----+-------------------+
 | Conversion beam     |    | 1  | 4+  | -2 | Arc (Front)     |
-| cannon              |  6\" |    |       |    |                   |
+| cannon              |  6" |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |    | 1  | 3+  | -3 | Arc (Front),    |
-|                       | 6\"- |    |       |    |                   |
-|                       | 18\" |    |       |    |                   |
+|                       | 6"- |    |       |    |                   |
+|                       | 18" |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Demolisher      |
 +-----------------------+------+----+-------+----+-------------------+
 |                       | 1  | 2  | 3+  | -4 | Arc (Front),    |
-|                       | 8\"- |    |       |    |                   |
-|                       | 35\" |    |       |    |                   |
+|                       | 8"- |    |       |    |                   |
+|                       | 35" |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Demolisher      |
 +-----------------------+------+----+-------+----+-------------------+
 | Volkite culverin    |    | 2  | 4+  | 0  | Arc (Front),    |
-|                       | 14\" |    |       |    |                   |
+|                       | 14" |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Deflagrate,     |
 |                       |      |    |       |    | Light           |
 +-----------------------+------+----+-------+----+-------------------+
 | Karacnos mortar     |    | 2  | 4+  | -1 | Arc (Front),    |
-| battery             | 30\" |    |       |    | Barrage,        |
+| battery             | 30" |    |       |    | Barrage,        |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Ignores Cover   |
 +-----------------------+------+----+-------+----+-------------------+
 | Acastus autocannon  |    | 3  | 5+  | -1 | Arc (Front),    |
-|                       | 16\" |    |       |    |                   |
+|                       | 16" |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Light AT        |
 +-----------------------+------+----+-------+----+-------------------+
@@ -576,7 +576,7 @@ Blessed Auto-simulacra, Independent, Ion Shields (4+)
 
 **Name Movement Sv CAF Morale W**
 
-Knight Armiger 8\" 3+ +6 2+ 2
+Knight Armiger 8" 3+ +6 2+ 2
 
 **Weapons**
 
@@ -592,7 +592,7 @@ Great Crusade, picking off threats which came from*
 
 **Name Movement Sv CAF Morale W**
 
-Knight Moirax 8\" 3+ +6 2+ 2
+Knight Moirax 8" 3+ +6 2+ 2
 
 **Weapons**
 
@@ -616,11 +616,11 @@ most lethal weaponry available to its class of Scout Knights,*
 |                |     | * |    |   |            |                    |
 +================+=====+===+====+===+============+====================+
 | Armiger      | 1 | 2 |  | - | Arc      | *eradicate the   |
-| lightning    | 2\" |   | 5+ | 2 | (Front)  | enemy and salt*  |
+| lightning    | 2" |   | 5+ | 2 | (Front)  | enemy and salt*  |
 | locks        |     |   |    |   |            |                    |
 +----------------+-----+---+----+---+------------+--------------------+
 | Volkite      | 1 | 2 |  | - | Arc      | *the earth of    |
-| veuglaire    | 4\" |   | 4+ | 1 | (Front), | their worlds.*   |
+| veuglaire    | 4" |   | 4+ | 1 | (Front), | their worlds.*   |
 +----------------+-----+---+----+---+------------+--------------------+
 |                |     |   |    |   | D        | *Few Knight      |
 |                |     |   |    |   | eflagrate, | Households*      |
@@ -639,8 +639,8 @@ most lethal weaponry available to its class of Scout Knights,*
 |                |     |   |    |   |            | weakest*         |
 +----------------+-----+---+----+---+------------+--------------------+
 
-![](../media/image386.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Special Rules**
+![](../media/image386.png)
+**Special Rules**
 
 Ionic Flare Shield, Ion Shields (5+), Nimble
 
@@ -658,13 +658,13 @@ Ionic Flare Shield, Ion Shields (5+), Nimble
 |                   |                |      |        |          | *W |
 |                   |                |      |        |          | ** |
 +===================+================+======+========+==========+====+
-| Warhound Titan  | 7\"          | 2+   | +10  | \-     |  |
+| Warhound Titan  | 7"          | 2+   | +10  | \-     |  |
 |                   |                |      |        |          |  4 |
 +-------------------+----------------+------+--------+----------+----+
 
 **Weapons**
 
-Warhound Titans have two weapons chosen from the list below -- it may
+Warhound Titans have two weapons chosen from the list below - it may
 choose two of the same weapon:
 
 -   Inferno gun
@@ -691,8 +691,8 @@ choose two of the same weapon:
 
 -   Warhound swarmer missiles
 
-![](../media/image387.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image387.png)
+
 
 +-----------------+----+---+----+---+---------------------------------+
 | **Weapon**    | *  | |  | | **Traits**                    |
@@ -708,17 +708,17 @@ height="12.99215223097113in"}
 +=================+====+===+====+===+=================================+
 | Vulcan        |  | |  | | Arc (Front), Light AT, Rapid  |
 | mega-bolter   | 22 |   | 5+ |   | Fire, Shieldbane              |
-|                 | \" | 1 |    | - |                                 |
+|                 | " | 1 |    | - |                                 |
 |                 |    | 0 |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Turbo-laser   | 40 | 2 |  | | Accurate, Arc (Front)         |
-| destructor    | \" |   | 4+ |   |                                 |
+| destructor    | " |   | 4+ |   |                                 |
 |                 |    |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Plasma        |  | 2 |  | | Arc (Front)                   |
 | blastgun      | 20 |   | 3+ |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Inferno gun   | T  | |  | | Arc (Front), Firestorm, Light |
@@ -728,11 +728,11 @@ height="12.99215223097113in"}
 +-----------------+----+---+----+---+---------------------------------+
 | Incisor       |  | |  | | Accurate, Anti-tank, Arc      |
 | pattern melta | 14 |   | 4+ |   | (Front), Demolisher           |
-| lance         | \" | 1 |    | - |                                 |
+| lance         | " | 1 |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 | 6  | |  | | Accurate, Anti-tank, Arc      |
-|                 | \" |   | 3+ |   | (Front), Demolisher,          |
+|                 | " |   | 3+ |   | (Front), Demolisher,          |
 |                 |    | 1 |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
@@ -740,36 +740,36 @@ height="12.99215223097113in"}
 +-----------------+----+---+----+---+---------------------------------+
 | Volkite       |  | 3 |  | | Arc (Front), Beam,            |
 | eradicator    | 16 |   | 4+ |   | Deflagrate, Light AT,         |
-|                 | \" |   |    | - | Shieldbane                    |
+|                 | " |   |    | - | Shieldbane                    |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Warhound      |  | 2 |  | | Arc (Front), Barrage, Quake   |
 | shudder       | 35 |   | 4+ |   |                                 |
-| missiles      | \" |   |    | - |                                 |
+| missiles      | " |   |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Warhound      |  | |  | | Arc (Front), Light AT, Rapid  |
 | swarmer       | 35 |   | 5+ |   | Fire, Shieldbane              |
-| missiles      | \" | 8 |    | - |                                 |
+| missiles      | " | 8 |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Ursus claw    | 6  | |  | | Impale                        |
-|                 | \" |   | 4+ |   |                                 |
+|                 | " |   | 4+ |   |                                 |
 |                 |    | 1 |    | S |                                 |
 |                 |    |   |    | P |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Natrix shock  | 6  | |  | | Bypass, Shock Pulse           |
-| lance         | \" |   | 2+ |   |                                 |
+| lance         | " |   | 2+ |   |                                 |
 |                 |    | 1 |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Graviton      |  | 2 |  | | Arc (Front), Demolisher,      |
 | eradicator    | 30 |   | \- |   | Graviton Pulse                |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Conversion    | 6  | 2 |  | | Arc (Front)                   |
-| beam          | \" |   | 4+ |   |                                 |
+| beam          | " |   | 4+ |   |                                 |
 | dissolutor    |    |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
@@ -777,13 +777,13 @@ height="12.99215223097113in"}
 |                 | 6\ |   | 3+ |   |                                 |
 |                 | "- |   |    | - |                                 |
 |                 | 18 |   |    | 3 |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 | 1  | 2 |  | | Arc (Front), Demolisher       |
 |                 | 8\ |   | 2+ |   |                                 |
 |                 | "- |   |    | - |                                 |
 |                 | 35 |   |    | 4 |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 
 **Upgrades**
@@ -806,7 +806,7 @@ Agile, Void Shields (2)
 
 **Name Movement Sv CAF Morale W**
 
-Dire Wolf Titan 7\" 2+ +10 - 4
+Dire Wolf Titan 7" 2+ +10 - 4
 
 **Weapons**
 
@@ -821,8 +821,8 @@ the De Bellis Titanicus as 'Scout Titans' in reference to their common
 operational role as vanguards to larger Titan battle groups, or
 support elements to lesser ground forces. The sheer scale*
 
-![](../media/image388.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image388.png)
+
 
 **Special Rules**
 
@@ -850,13 +850,13 @@ neutron laser and volcano cannon*
 |                 | Movem | Sv | *CA | **Mor | *W |                 |
 |                 | ent** | ** | F** | ale** | ** |                 |
 +-----------------+-------+----+-----+-------+----+-----------------+
-| Reaver Battle | 6\"   | 2+ |   | \-  | 5  |                 |
+| Reaver Battle | 6"   | 2+ |   | \-  | 5  |                 |
 | Titan         |       |    | +12 |       |    |                 |
 +-----------------+-------+----+-----+-------+----+-----------------+
 
 **Weapons**
 
-Reaver Titans have two weapons chosen from the list below -- it may
+Reaver Titans have two weapons chosen from the list below - it may
 choose two of the same weapon:
 
 -   Reaver laser blaster
@@ -887,8 +887,8 @@ Reaver Titans also have one weapon chosen from the list below:
 
 -   Reaver conversion beam dissolutor
 
-![](../media/image389.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image389.png)
+
 
 +-----------------+----+---+----+---+---------------------------------+
 | **Weapon**    |  | |  | | **Traits**                    |
@@ -904,27 +904,27 @@ height="12.99215223097113in"}
 +=================+====+===+====+===+=================================+
 | Reaver laser  |  | 3 |  | | Arc (Front)                   |
 | blaster       | 40 |   | 4+ |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |  | |  | | Arc (Front)                   |
 | gatling       | 35 |   | 4+ |   |                                 |
-| blaster       | \" | 4 |    | - |                                 |
+| blaster       | " | 4 |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |  | |  | | Arc (Front), Engine Killer    |
 | volcano       | 60 |   | 2+ |   | (3)                           |
-| cannon        | \" | 1 |    | - |                                 |
+| cannon        | " | 1 |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver melta  |  | |  | | Anti-tank, Arc (Front),       |
 | cannon        | 14 |   | 4+ |   | Demolisher                    |
-|                 | \" | 2 |    | - |                                 |
+|                 | " | 2 |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 |  | | 3+ | | Anti-tank, Arc (Front),       |
 |                 |  8 |   |    |   | Demolisher, Engine Killer (4) |
-|                 | \" | 2 |    | - |                                 |
+|                 | " | 2 |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver power  |  | |  | | Engine Killer (1), Rend,      |
@@ -939,7 +939,7 @@ height="12.99215223097113in"}
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |  | 3 |  | | Beam, Deflagrate, Light AT,   |
 | volkite       | 16 |   | 4+ |   | Shieldbane                    |
-| eradicator    | \" |   |    | - |                                 |
+| eradicator    | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |    |   |    |   |                                 |
@@ -947,46 +947,46 @@ height="12.99215223097113in"}
 +-----------------+----+---+----+---+---------------------------------+
 | missile       |  | |  | | Heavy Barrage                 |
 | launcher      |  8 |   | 4+ |   |                                 |
-|                 | \" | 5 |    | - |                                 |
+|                 | " | 5 |    | - |                                 |
 |                 | -1 |   |    | 1 |                                 |
 |                 | 00 |   |    |   |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver Vulcan |  | |  | | Light AT, Rapid Fire,         |
 | mega-bolter   | 22 |   | 5+ |   | Shieldbane                    |
-|                 | \" | 9 |    | - |                                 |
+|                 | " | 9 |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |    | |  | | Accurate                      |
 | turbo-laser   |    |   | 4+ |   |                                 |
 | destructor    |    | 2 |    | - |                                 |
-| 40\"          |    |   |    | 3 |                                 |
+| 40"          |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver Titan  |    | |  | | Arc (Front), Engine Killer    |
 | warp missile  |    |   | 2+ |   | (3), Limited (1), Warp        |
-| 8\"-75\"      |    | S |    | - |                                 |
+| 8"-75"      |    | S |    | - |                                 |
 |                 |    | P |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |    | |  | | Demolisher, Graviton Pulse    |
 | graviton      |    |   | \- |   |                                 |
 | eradicator    |    | 2 |    | - |                                 |
-| 30\"          |    |   |    | 2 |                                 |
+| 30"          |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |    |   |    |   |                                 |
 | conversion    |    |   |    |   |                                 |
 | beam          |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | dissolutor    |    | |  | |                                 |
-| 6\"           |    |   | 4+ |   |                                 |
+| 6"           |    |   | 4+ |   |                                 |
 |                 |    | 2 |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
-| 6\"-18\"        |    | | 3+ | | Demolisher                    |
+| 6"-18"        |    | | 3+ | | Demolisher                    |
 |                 |    |   |    |   |                                 |
 |                 |    | 2 |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
-| 18\"-35\"       |    | | 3+ | | Demolisher                    |
+| 18"-35"       |    | | 3+ | | Demolisher                    |
 |                 |    |   |    |   |                                 |
 |                 |    | 2 |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
@@ -998,7 +998,7 @@ height="12.99215223097113in"}
 | (4)           |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 
-### ![](../media/image390.png){width="9.448832020997376in" height="12.99215223097113in"}TITAN DETACHMENTS {#titan-detachments-4 .unnumbered}
+### ![](../media/image390.png)TITAN DETACHMENTS {#titan-detachments-4 .unnumbered}
 
 ####### Warbringer Nemesis Titan 525 Points {#warbringer-nemesis-titan-525-points .unnumbered}
 
@@ -1010,7 +1010,7 @@ height="12.99215223097113in"}
 |                       |           |      |        |          | *W |
 |                       |           |      |        |          | ** |
 +=======================+===========+======+========+==========+====+
-| Warbringer Nemesis  | 5\"       | 2+ | +12  | \-     |  |
+| Warbringer Nemesis  | 5"       | 2+ | +12  | \-     |  |
 | Titan               |           |      |        |          |  5 |
 +-----------------------+-----------+------+--------+----------+----+
 
@@ -1023,7 +1023,7 @@ height="12.99215223097113in"}
 -   Mori quake cannon or Belicosa volcano cannon
 
 In addition, a Warbringer Nemesis Titan has two weapons chosen from
-the list below -- it may choose two of the same weapon:
+the list below - it may choose two of the same weapon:
 
 +-----------------+----+---+----+---+---------------------------------+
 | -   Reaver      |    |   |    |   |                                 |
@@ -1053,37 +1053,37 @@ the list below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver laser  |  | 3 |  | | Arc (Front)                   |
 | blaster       | 40 |   | 4+ |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |  | 4 |  | | Arc (Front)                   |
 | gatling       | 35 |   | 4+ |   |                                 |
-| blaster       | \" |   |    | - |                                 |
+| blaster       | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver        |  | 1 |  | | Arc (Front), Engine Killer    |
 | volcano       | 60 |   | 2+ |   | (3)                           |
-| cannon        | \" |   |    | - |                                 |
+| cannon        | " |   |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Reaver melta  |  | 2 |  | | Anti-tank, Arc (Front),       |
 | cannon        | 14 |   | 4+ |   | Demolisher                    |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 |  | 2 |  | | Anti-tank, Arc (Front),       |
 |                 |  8 |   | 3+ |   | Demolisher, Engine Killer (4) |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
-| Mori quake    |  | 1 |  | | Arc (Front), Blast (5\"),     |
+| Mori quake    |  | 1 |  | | Arc (Front), Blast (5"),     |
 | cannon        | 80 |   | 3+ |   | Quake                         |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Belicosa      |  | 1 |  | | Arc (Front), Engine Killer    |
 | volcano       | 70 |   | 2+ |   | (4)                           |
-| cannon        | \" |   |    | - |                                 |
+| cannon        | " |   |    | - |                                 |
 |                 |    |   |    | 5 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
@@ -1091,7 +1091,7 @@ the list below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | mauler bolt   |  | 5 |  | | Light AT, Point Defence       |
 | cannon        |  8 |   | 5+ |   |                                 |
-| turrets       | \" |   |    | - |                                 |
+| turrets       | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Anvillus      |    |   |    |   |                                 |
@@ -1099,7 +1099,7 @@ the list below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | defence       |  | 5 |  | | Point Defence, Skyfire        |
 | batteries     | 20 |   | 5+ |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | **Special     |    |   |    |   |                                 |
@@ -1121,7 +1121,7 @@ the list below -- it may choose two of the same weapon:
 |                     |              |      |        |          | *W |
 |                     |              |      |        |          | ** |
 +=====================+==============+======+========+==========+====+
-| Warlord Battle    | 5\"        | 2+   | +14  | \-     |  |
+| Warlord Battle    | 5"        | 2+   | +14  | \-     |  |
 | Titan             |              |      |        |          |  6 |
 +---------------------+--------------+------+--------+----------+----+
 
@@ -1131,7 +1131,7 @@ the list below -- it may choose two of the same weapon:
     turrets
 
 In addition, Warlord Battle Titans have two weapons chosen from the
-list below -- it may choose two of the same weapon:
+list below - it may choose two of the same weapon:
 
 -   Belicosa volcano cannon
 
@@ -1149,8 +1149,8 @@ list below -- it may choose two of the same weapon:
 
 -   Conversion beam extripator
 
-![](../media/image391.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image391.png)
+
 
 Warlord Battle Titans also have one weapon chosen from the list below:
 
@@ -1178,27 +1178,27 @@ Warlord Battle Titans also have one weapon chosen from the list below:
 |                      | * |    |   |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Belicosa volcano   | |  | | Arc (Front), Engine Killer    |
-| cannon 70\"        |   | 2+ |   | (4)                           |
+| cannon 70"        |   | 2+ |   | (4)                           |
 |                      | 1 |    | - |                                 |
 |                      |   |    | 5 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Sunfury plasma     | 3 | 3+ | | Arc (Front)                   |
-| annihilator 25\"   |   |    |   |                                 |
+| annihilator 25"   |   |    |   |                                 |
 |                      |   |    | - |                                 |
 |                      |   |    | 3 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Macro-gatling      | | 3+ | | Arc (Front), Rapid Fire       |
-| blaster 35\"       |   |    |   |                                 |
+| blaster 35"       |   |    |   |                                 |
 |                      | 5 |    | - |                                 |
 |                      |   |    | 2 |                                 |
 +----------------------+---+----+---+---------------------------------+
-| Mori quake cannon  | | 3+ | | Arc (Front), Blast (5\"),     |
-| 80\"               |   |    |   | Quake                         |
+| Mori quake cannon  | | 3+ | | Arc (Front), Blast (5"),     |
+| 80"               |   |    |   | Quake                         |
 |                      | 1 |    | - |                                 |
 |                      |   |    | 2 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Arioch power claw  | |  | | Arc (Front), Light AT, Rapid  |
-| 18\"               |   | 5+ |   | Fire, Shieldbane              |
+| 18"               |   | 5+ |   | Fire, Shieldbane              |
 |                      | 8 |    | - |                                 |
 |                      |   |    | 1 |                                 |
 +----------------------+---+----+---+---------------------------------+
@@ -1208,67 +1208,67 @@ Warlord Battle Titans also have one weapon chosen from the list below:
 |                      | - |    | 4 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Volkite destructor | |  | | Arc (Front), Beam,            |
-| 16\"               |   | 4+ |   | Deflagrate, Light AT,         |
+| 16"               |   | 4+ |   | Deflagrate, Light AT,         |
 |                      | 4 |    | - | Shieldbane                    |
 |                      |   |    | 2 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Apocalypse         |   |    |   |                                 |
 +----------------------+---+----+---+---------------------------------+
 | missile launchers  | |  | | Arc (Front), Heavy Barrage    |
-| 8\"-100\"          |   | 4+ |   |                                 |
+| 8"-100"          |   | 4+ |   |                                 |
 |                      | 1 |    | - |                                 |
 |                      | 0 |    | 1 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Paired gatling     | |  | | Arc (Front)                   |
-| blasters 35\"      |   | 4+ |   |                                 |
+| blasters 35"      |   | 4+ |   |                                 |
 |                      | 8 |    | - |                                 |
 |                      |   |    | 2 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Paired turbo-laser | |  | | Accurate, Arc (Front)         |
-| destructors 40\"   |   | 4+ |   |                                 |
+| destructors 40"   |   | 4+ |   |                                 |
 |                      | 4 |    | - |                                 |
 |                      |   |    | 3 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Vulcan mega-bolter | |  | | Arc (Front), Light AT, Rapid  |
-| array 22\"         |   | 5+ |   | Fire, Shieldbane              |
+| array 22"         |   | 5+ |   | Fire, Shieldbane              |
 |                      | 2 |    | - |                                 |
 |                      | 0 |    | 1 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Paired laser       | |  | | Arc (Front)                   |
-| blasters 40\"      |   | 4+ |   |                                 |
+| blasters 40"      |   | 4+ |   |                                 |
 |                      | 6 |    | - |                                 |
 |                      |   |    | 3 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Ardex-defensor     |   |    |   |                                 |
 +----------------------+---+----+---+---------------------------------+
 | mauler bolt cannon | |  | | Light AT, Point Defence       |
-| turrets 8\"        |   | 5+ |   |                                 |
+| turrets 8"        |   | 5+ |   |                                 |
 |                      | 5 |    | - |                                 |
 |                      |   |    | 2 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Ardex-defensor     |   |    |   |                                 |
 +----------------------+---+----+---+---------------------------------+
 | lascannon turrets  | |  | | Anti-tank, Arc (Rear), Point  |
-| 16\"               |   | 5+ |   | Defence                       |
+| 16"               |   | 5+ |   | Defence                       |
 |                      | 2 |    | - |                                 |
 |                      |   |    | 1 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Warlord graviton   | 3 |  | | Arc (Front), Demolisher,      |
-| ruinator 30\"      |   | \- |   | Graviton Pulse                |
+| ruinator 30"      |   | \- |   | Graviton Pulse                |
 |                      |   |    | - |                                 |
 |                      |   |    | 3 |                                 |
 +----------------------+---+----+---+---------------------------------+
 | Conversion beam    | | 3+ | | Arc (Front)                   |
-| extripator 6\"     |   |    |   |                                 |
+| extripator 6"     |   |    |   |                                 |
 |                      | 2 |    | - |                                 |
 |                      |   |    | 2 |                                 |
 +----------------------+---+----+---+---------------------------------+
-| 6\"-18\"             | 3 | 3+ | | Arc (Front), Demolisher       |
+| 6"-18"             | 3 | 3+ | | Arc (Front), Demolisher       |
 |                      |   |    |   |                                 |
 |                      |   |    | - |                                 |
 |                      |   |    | 3 |                                 |
 +----------------------+---+----+---+---------------------------------+
-| 18\"-35\"            | 3 |  | | Arc (Front), Demolisher       |
+| 18"-35"            | 3 |  | | Arc (Front), Demolisher       |
 |                      |   | 2+ |   |                                 |
 |                      |   |    | - |                                 |
 |                      |   |    | 4 |                                 |
@@ -1288,7 +1288,7 @@ Warlord Battle Titans also have one weapon chosen from the list below:
 |                   |                |      |        |          | *W |
 |                   |                |      |        |          | ** |
 +===================+================+======+========+==========+====+
-|                 | 5\"          | 2+   | +14  | \-     |  |
+|                 | 5"          | 2+   | +14  | \-     |  |
 |  Warlord-Sinister |                |      |        |          |  6 |
 |                 |                |      |        |          |    |
 | **Weapons**     |                |      |        |          |    |
@@ -1336,8 +1336,8 @@ one of the following:
 
 -   Conversion beam extripator
 
-![](../media/image392.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image392.png)
+
 
 +----------------------+---+-----+---+---------------------------------+
 | **Weapon Range**   | * | * | | **Traits**                    |
@@ -1350,32 +1350,32 @@ height="12.99215223097113in"}
 |                      | * |     | * |                                 |
 +======================+===+=====+===+=================================+
 | Sinistramanus      | 3 |   | | Arc (Front), Heavy Beam, Psi  |
-| Tenebrae 40\"      |   |  4+ |   |                                 |
+| Tenebrae 40"      |   |  4+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 4 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Belicosa volcano   | 1 |   | | Arc (Front), Engine Killer    |
-| cannon 70\"        |   |  2+ |   | (4)                           |
+| cannon 70"        |   |  2+ |   | (4)                           |
 |                      |   |     | - |                                 |
 |                      |   |     | 5 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Sunfury plasma     | 3 |   | | Arc (Front)                   |
-| annihilator 25\"   |   |  3+ |   |                                 |
+| annihilator 25"   |   |  3+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 3 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Macro-gatling      | 5 |   | | Arc (Front), Rapid Fire       |
-| blaster 35\"       |   |  3+ |   |                                 |
+| blaster 35"       |   |  3+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 2 |                                 |
 +----------------------+---+-----+---+---------------------------------+
-| Mori quake cannon  | 1 |   | | Arc (Front), Blast (5\"),     |
-| 80\"               |   |  3+ |   | Quake                         |
+| Mori quake cannon  | 1 |   | | Arc (Front), Blast (5"),     |
+| 80"               |   |  3+ |   | Quake                         |
 |                      |   |     | - |                                 |
 |                      |   |     | 2 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Arioch power claw  | 8 |   | | Arc (Front), Light AT, Rapid  |
-| 18\"               |   |  5+ |   | Fire, Shieldbane              |
+| 18"               |   |  5+ |   | Fire, Shieldbane              |
 |                      |   |     | - |                                 |
 |                      |   |     | 1 |                                 |
 +----------------------+---+-----+---+---------------------------------+
@@ -1385,85 +1385,85 @@ height="12.99215223097113in"}
 |                      |   |     | 4 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Volkite destructor | 4 |   | | Arc (Front), Beam,            |
-| 16\"               |   |  4+ |   | Deflagrate, Light AT,         |
+| 16"               |   |  4+ |   | Deflagrate, Light AT,         |
 |                      |   |     | - | Shieldbane                    |
 |                      |   |     | 2 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Apocalypse         |   |     |   |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | missile launchers  | 1 |   | | Arc (Front), Heavy Barrage    |
-| 8\"-100\"          | 0 |  4+ |   |                                 |
+| 8"-100"          | 0 |  4+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 1 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Paired gatling     | 8 |   | | Arc (Front)                   |
-| blasters 35\"      |   |  4+ |   |                                 |
+| blasters 35"      |   |  4+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 2 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Paired turbo-laser | 4 |   | | Accurate, Arc (Front)         |
-| destructors 40\"   |   |  4+ |   |                                 |
+| destructors 40"   |   |  4+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 3 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Vulcan mega-bolter | 2 |   | | Arc (Front), Light AT, Rapid  |
-| array 22\"         | 0 |  5+ |   | Fire, Shieldbane              |
+| array 22"         | 0 |  5+ |   | Fire, Shieldbane              |
 |                      |   |     | - |                                 |
 |                      |   |     | 1 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Paired laser       | 6 |   | | Arc (Front)                   |
-| blasters 40\"      |   |  4+ |   |                                 |
+| blasters 40"      |   |  4+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 3 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Ardex-defensor     |   |     |   |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | mauler bolt cannon | 5 |   | | Light AT, Point Defence       |
-| turrets 8\"        |   |  5+ |   |                                 |
+| turrets 8"        |   |  5+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 2 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Ardex-defensor     |   |     |   |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | lascannon turrets  | 2 |   | | Arc (Rear), Anti-tank, Point  |
-| 16\"               |   |  5+ |   | Defence                       |
+| 16"               |   |  5+ |   | Defence                       |
 |                      |   |     | - |                                 |
 |                      |   |     | 1 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Warlord graviton   | 3 |   | | Arc (Front), Demolisher,      |
-| ruinator 30\"      |   |  \- |   | Graviton Pulse                |
+| ruinator 30"      |   |  \- |   | Graviton Pulse                |
 |                      |   |     | - |                                 |
 |                      |   |     | 3 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 | Conversion beam    | 2 |   | | Arc (Front)                   |
-| extripator 6\"     |   |  3+ |   |                                 |
+| extripator 6"     |   |  3+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 2 |                                 |
 +----------------------+---+-----+---+---------------------------------+
-| 6\"-18\"             | 3 |   | | Arc (Front), Demolisher       |
+| 6"-18"             | 3 |   | | Arc (Front), Demolisher       |
 |                      |   |  3+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 3 |                                 |
 +----------------------+---+-----+---+---------------------------------+
-| 18\"-35\"            | 3 |   | | Arc (Front), Demolisher       |
+| 18"-35"            | 3 |   | | Arc (Front), Demolisher       |
 |                      |   |  2+ |   |                                 |
 |                      |   |     | - |                                 |
 |                      |   |     | 4 |                                 |
 +----------------------+---+-----+---+---------------------------------+
-| Death pulse 7\"    | D |   | | Psi, Saturation Fire          |
+| Death pulse 7"    | D |   | | Psi, Saturation Fire          |
 |                      | 3 |  4+ |   |                                 |
 |                      | + |     | - |                                 |
 |                      | 1 |     | 1 |                                 |
 +----------------------+---+-----+---+---------------------------------+
-| Antipathic tempest | 1 |   | | Blast (5\"), Ignores Cover,   |
-| 20\"               |   |  4+ |   | Psi, Quake                    |
+| Antipathic tempest | 1 |   | | Blast (5"), Ignores Cover,   |
+| 20"               |   |  4+ |   | Psi, Quake                    |
 |                      |   |     | - |                                 |
 |                      |   |     | 1 |                                 |
 +----------------------+---+-----+---+---------------------------------+
 
 **Special Rules**
 
-Dread Aura (8\"), Loyalist, Necrotechica, Void Shields (6)
+Dread Aura (8"), Loyalist, Necrotechica, Void Shields (6)
 
 ### TITAN DETACHMENTS {#titan-detachments-7 .unnumbered}
 
@@ -1477,7 +1477,7 @@ Dread Aura (8\"), Loyalist, Necrotechica, Void Shields (6)
 |                    |                |      |        |          | *W |
 |                    |                |      |        |          | ** |
 +====================+================+======+========+==========+====+
-| Warmaster Titan  | 5\"          | 1+ | +18  | \-     |  |
+| Warmaster Titan  | 5"          | 1+ | +18  | \-     |  |
 |                    |                |      |        |          |  7 |
 +--------------------+----------------+------+--------+----------+----+
 
@@ -1493,11 +1493,11 @@ Dread Aura (8\"), Loyalist, Necrotechica, Void Shields (6)
 
 -   Anvilus pattern defence batteries or Ardex-defensor bombard turrets
 
-![](../media/image393.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image393.png)
+
 
 In addition, a Warmaster Titan has two weapons chosen from the list
-below -- it may choose two of the same weapon:
+below - it may choose two of the same weapon:
 
 +-----------------+----+---+----+---+---------------------------------+
 | -   Apocalypse  |    |   |    |   | -   Vulcan mega-bolter          |
@@ -1525,39 +1525,39 @@ below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | plasma        |  | | 3+ | | Arc (Front), Demolisher       |
 | destructor    | 26 |   |    |   |                                 |
-|                 | \" | 4 |    | - |                                 |
+|                 | " | 4 |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 |  | 2 |  | | Arc (Front), Demolisher,      |
 |                 | 16 |   | 2+ |   | Engine Killer (2)             |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
-| Revelator     |  | 2 |  | | Arc (Front), Blast (5\")      |
+| Revelator     |  | 2 |  | | Arc (Front), Blast (5")      |
 | missile       | 40 |   | 4+ |   |                                 |
-| launcher      | \" |   |    | - |                                 |
+| launcher      | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Plasma        |  | 2 | 3+ | | Arc (Front)                   |
 | blastgun      | 20 |   |    |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Apocalypse    |  | |  | | Arc (Front), Heavy Barrage    |
 | missile array |  8 |   | 4+ |   |                                 |
-|                 | \" | 4 |    | - |                                 |
+|                 | " | 4 |    | - |                                 |
 |                 | -1 |   |    | 1 |                                 |
 |                 | 00 |   |    |   |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Vulcan        |  | |  | | Arc (Front), Light AT, Rapid  |
 | mega-bolter   | 22 |   | 5+ |   | Fire, Shieldbane              |
-|                 | \" | 1 |    | - |                                 |
+|                 | " | 1 |    | - |                                 |
 |                 |    | 0 |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Turbo-laser   |  | 2 |  | | Accurate, Arc (Front)         |
 | destructor    | 40 |   | 4+ |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Inferno gun   |  | |  | | Arc (Front), Firestorm, Light |
@@ -1567,12 +1567,12 @@ below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | Melta cannon  |  | 2 |  | | Anti-tank, Arc (Front),       |
 |                 | 14 |   | 4+ |   | Demolisher                    |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 3 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 |  | 2 | 3+ | | Anti-tank, Arc (Front),       |
 |                 |  8 |   |    |   | Demolisher, Engine Killer (2) |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 4 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
@@ -1580,7 +1580,7 @@ below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | mauler bolt   |  | 5 |  | | Light AT, Point Defence       |
 | cannon        |  8 |   | 5+ |   |                                 |
-| turrets       | \" |   |    | - |                                 |
+| turrets       | " |   |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
@@ -1588,7 +1588,7 @@ below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | lascannon     |  | 2 |  | | Anti-tank, Arc (Rear), Point  |
 | turrets       | 16 |   | 5+ |   | Defence                       |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
@@ -1596,7 +1596,7 @@ below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | bombard       |  | |  | | Barrage, Light AT, Ignores    |
 | turrets       | 15 |   | 5+ |   | Cover                         |
-|                 | \" | 4 |    | - |                                 |
+|                 | " | 4 |    | - |                                 |
 |                 |    |   |    | 2 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Anvilus       |    |   |    |   |                                 |
@@ -1604,7 +1604,7 @@ below -- it may choose two of the same weapon:
 +-----------------+----+---+----+---+---------------------------------+
 | defence       |  | 5 |  | | Point Defence, Skyfire        |
 | batteries     | 20 |   | 5+ |   |                                 |
-|                 | \" |   |    | - |                                 |
+|                 | " |   |    | - |                                 |
 |                 |    |   |    | 1 |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | **Special     |    |   |    |   |                                 |
@@ -1625,7 +1625,7 @@ below -- it may choose two of the same weapon:
 | **Name Movement**      |  | * |     | *  |                 |
 |                        | ** | *CA | **Mor | *W |                 |
 | Warmaster Iconoclast   | Sv | F** | ale** | ** |                 |
-| 6\"                    | ** |   |     |    |                 |
+| 6"                    | ** |   |     |    |                 |
 |                          |  |   | \-  |  |                 |
 |                          |  | +18 |       |  7 |                 |
 |                          | 1+ |     |       |    |                 |
@@ -1646,7 +1646,7 @@ below -- it may choose two of the same weapon:
 -   Cruciator gatling array
 
 In addition, a Warmaster Iconoclast has two weapons chosen from the
-list below -- it may choose two of the same weapon:
+list below - it may choose two of the same weapon:
 
 -   Apocalypse missile array
 
@@ -1660,8 +1660,8 @@ list below -- it may choose two of the same weapon:
 
 -   Plasma blastgun
 
-![](../media/image394.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image394.png)
+
 
 A Warmaster Iconoclast can exchange its Kirus siege drill for a Kirus
 grav imploder for +10 points.
@@ -1690,11 +1690,11 @@ grav imploder for +10 points.
 +-----------------+----+---+----+---+---------------------------------+
 | Cruciator     |  | 1 |  | - | Arc (Front), Light AT,        |
 | gatling array | 24 | 4 | 5+ | 1 | Shieldbane, Shred             |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Kirus grav    |  | 2 | 3+ | - | Demolisher, Ignores Cover,    |
 | imploder      |  6 |   |    | 3 | Quake                         |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 |  | |  | - | Rend, Wrecker (5)             |
 |                 | \- |   | \- | 5 |                                 |
@@ -1703,23 +1703,23 @@ grav imploder for +10 points.
 +-----------------+----+---+----+---+---------------------------------+
 | Plasma        |  | 2 | 3+ | - | Arc (Front)                   |
 | blastgun      | 20 |   |    | 3 |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Apocalypse    |  | |  | - | Arc (Front), Heavy Barrage    |
 | missile array |  8 |   | 4+ | 1 |                                 |
-|                 | \" | 4 |    |   |                                 |
+|                 | " | 4 |    |   |                                 |
 |                 | -1 |   |    |   |                                 |
 |                 | 00 |   |    |   |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Vulcan        |  | |  | - | Arc (Front), Light AT, Rapid  |
 | mega-bolter   | 22 |   | 5+ | 1 | Fire, Shieldbane              |
-|                 | \" | 1 |    |   |                                 |
+|                 | " | 1 |    |   |                                 |
 |                 |    | 0 |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Turbo-laser   |  | 2 |  | - | Accurate, Arc (Front)         |
 | destructor    | 40 |   | 4+ | 3 |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Inferno gun   |  | |  | - | Arc (Front), Firestorm, Light |
 |                 |  T |   | 4+ | 2 | AT, Shieldbane                |
@@ -1728,39 +1728,39 @@ grav imploder for +10 points.
 +-----------------+----+---+----+---+---------------------------------+
 | Melta cannon  |  | 2 |  | - | Anti-tank, Arc (Front),       |
 |                 | 14 |   | 4+ | 3 | Demolisher                    |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |                 |  | 2 | 3+ | - | Anti-tank, Arc (Front),       |
 |                 |  8 |   |    | 4 | Demolisher, Engine Killer (2) |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
 |  Ardex-defensor |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | mauler bolt   |  | 5 |  | - | Light AT, Point Defence       |
 | cannon        |  8 |   | 5+ | 2 |                                 |
-| turrets       | \" |   |    |   |                                 |
+| turrets       | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
 |  Ardex-defensor |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | lascannon     |  | 2 |  | - | Anti-tank, Arc (Rear), Point  |
 | turrets       | 16 |   | 5+ | 1 | Defence                       |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 |               |    |   |    |   |                                 |
 |  Ardex-defensor |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | bombard       |  | |  | - | Barrage, Light AT, Ignores    |
 | turrets       | 15 |   | 5+ | 2 | Cover                         |
-|                 | \" | 4 |    |   |                                 |
+|                 | " | 4 |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | Anvilus       |    |   |    |   |                                 |
 | pattern       |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | defence       |  | 5 |  | - | Point Defence, Skyfire        |
 | batteries     | 20 |   | 5+ | 1 |                                 |
-|                 | \" |   |    |   |                                 |
+|                 | " |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 | **Special     |    |   |    |   |                                 |
 | Rules**       |    |   |    |   |                                 |

@@ -52,10 +52,10 @@ Formation, though some Detachments may have restrictions as to which
 Army they can be included in, such as armies with a particular
 Allegiance.
 
-![](../media/image374.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image374.png)
 
-## ![](../media/image375.png){width="9.448832020997376in" height="12.99215223097113in"}LEGIO ASTORUM WARLORD BATTLE TITAN {#legio-astorum-warlord-battle-titan .unnumbered}
+
+## ![](../media/image375.png)LEGIO ASTORUM WARLORD BATTLE TITAN {#legio-astorum-warlord-battle-titan .unnumbered}
 
 ####### Dauntless Wrath {#dauntless-wrath .unnumbered}
 
@@ -71,7 +71,7 @@ in the Horus Heresy, veterans of Tallarn would often recall what they
 had endured during the fighting on that dead planet, and cite it among
 the greatest crimes wrought by the Warmaster.
 
-## ![](../media/image376.png){width="9.448832020997376in" height="12.99215223097113in"}KNIGHT BANNER 'ZHOLON-KUTHOS' {#knight-banner-zholon-kuthos .unnumbered}
+## ![](../media/image376.png)KNIGHT BANNER 'ZHOLON-KUTHOS' {#knight-banner-zholon-kuthos .unnumbered}
 
 #### Legio Ulicon Support Element House Malinax {#legio-ulicon-support-element-house-malinax .unnumbered}
 
@@ -83,21 +83,21 @@ the greatest crimes wrought by the Warmaster.
 
 A Banner-marshal of House Malinax, Zholon-Kuthos commanded numerous
 actions in the name of the Warmaster's cause, despite the Forge World
-to which Malinax was bonded -- Xana -- being wont to chart an
+to which Malinax was bonded - Xana - being wont to chart an
 autonomous course. In support of the Traitor Legio Ulicon during the
 Scouring of Arten's World, Zholon-Kuthos and his underlings slew three
 times their own number of Knights of House Vornherr, grievous losses
 for a Household already driven to the precipice of extinction due to
 the events of Calth.
 
-## ![](../media/image377.png){width="9.448832020997376in" height="12.99215223097113in"}LEGIO FUREANS {#legio-fureans .unnumbered}
+## ![](../media/image377.png)LEGIO FUREANS {#legio-fureans .unnumbered}
 
 **Cyra Jal**
 
 **Maeraka Hazn Dakh Cynal**
 
-![](../media/image378.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image378.png)
+
 
 **Leyaka Varr**
 
@@ -118,8 +118,8 @@ kills between them.
 
 **House Vextrix Questoris Knight Styrix Fractured Angel**
 
-![](../media/image379.png){width="9.448832020997376in"
-height="12.99215223097113in"}**House Sidus Questoris Knight Magaera
+![](../media/image379.png)
+**House Sidus Questoris Knight Magaera
 Ursanghou**
 
 **House Morbidia Cerastus Knight Atrapos Ire of Mars**
@@ -147,8 +147,8 @@ Scions and the wondrous artifice of each Knight to ensure victory.
 
 **COMPULSORY DETACHMENTS**
 
-![](../media/image380.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image380.png)
+
 
 **Paragon of Duty:** Each Knight Scion is a master of battle, trained
 in the tactics of their Household. As such,
@@ -165,8 +165,8 @@ is formed of three Independent Units: a Knight Errant, a Knight
 Paladin and a Knight Paladin.*
 
 In some cases, this will mean the entire Detachment is formed of
-Independent Units -- they still count as
+Independent Units - they still count as
 
-a single Detachment, and so must maintain a Coherency of 6\" with at
+a single Detachment, and so must maintain a Coherency of 6" with at
 least one other model in the Detachment, but otherwise can be issued
 an Order separately, have some models Engaged and not others, etc.

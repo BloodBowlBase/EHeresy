@@ -2,7 +2,7 @@
 
 **Primogenitor:** Lion El'Jonson
 
-####  The Ist Legion -- Dark Angels {#the-ist-legion-dark-angels .unnumbered}
+####  The Ist Legion - Dark Angels {#the-ist-legion-dark-angels .unnumbered}
 
 **Observed Strategic Tendencies:** None; within the Legion there was
 at least one Host
@@ -66,8 +66,8 @@ apply. If the Formation had two Legion Tactical Detachments and two
 Legion Dreadnought Detachments, it would not meet the requirements,
 even if the Tactical Detachments had Dedicated Transports.*
 
-![](../media/image329.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image329.png)
+
 
 *Ist Legion battle plate is black with heraldic elements and motifs
 rendered in white or red.*
@@ -77,7 +77,7 @@ Wings of the Hexagrammaton.*
 
 **Primogenitor:** Fulgrim
 
-####  The IIIrd Legion -- Emperor's Children {#the-iiird-legion-emperors-children .unnumbered}
+####  The IIIrd Legion - Emperor's Children {#the-iiird-legion-emperors-children .unnumbered}
 
 **Observed Strategic Tendencies:** Combined Arms Warfare, the use of
 Complex Manoeuvre and Discursive
@@ -111,7 +111,7 @@ one Formation consisting entirely of Emperor's Children models
 (ignoring models within an Allied Contingent) may choose to win
 Initiative instead of rolling. They must declare they are doing this
 before rolling. If both players have this rule, the player who did not
-have Initiative last round chooses if they use the rule first -- if
+have Initiative last round chooses if they use the rule first - if
 they do so, no other player can use it this round.
 
 If an Army includes at least one Allied Contingent comprised entirely
@@ -121,8 +121,8 @@ do this if at least one Emperor's Children Detachment is on the
 battlefield or in Reserve; if all have been destroyed or left the
 battlefield due to other special rules, this rule has no effect.
 
-![](../media/image330.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image330.png)
+
 
 *The IIIrd Legion wears the tyrion purple of the rulers of Ancient
 Terran Roma, with secondary elements including white enamel panels,
@@ -130,7 +130,7 @@ platinum inlay and black.*
 
 **Primogenitor:** Perturabo
 
-####  The IVth Legion -- Iron Warriors {#the-ivth-legion-iron-warriors .unnumbered}
+####  The IVth Legion - Iron Warriors {#the-ivth-legion-iron-warriors .unnumbered}
 
 bastion-holds established on at least seventy planets plus unknown
 numbers of secondary outposts and
@@ -187,16 +187,16 @@ own deployment zone, for the purposes of determining which player
 controls an objective within that deployment zone (but not for other
 reasons unless stated).*
 
-![](../media/image331.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image331.png)
+
 
 *The IVth Legion bears livery appropriate to its grim personality and
-to its moniker -- dull iron, with black inset elements and banding of
+to its moniker - dull iron, with black inset elements and banding of
 dark bronze or gold; the use of yellow hazard markings were common.*
 
 **Primogenitor:** Jaghatai Khan
 
-####  The Vth Legion -- White Scars {#the-vth-legion-white-scars .unnumbered}
+####  The Vth Legion - White Scars {#the-vth-legion-white-scars .unnumbered}
 
 **Observed Strategic Tendencies:** Shock Assault Strikes, Highly
 Mobile Hit-and-run Campaigns, and Extended
@@ -240,8 +240,8 @@ special rule improve their Jink Save
 (the number shown in brackets) by 1 (i.e., a model with Jink (6+)
 would become Jink (5+), etc.), to a maximum of 3+.
 
-![](../media/image332.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image332.png)
+
 
 *The Vth Legion wears battle plate of ivory white, often adding a
 chevron patterning in red.*
@@ -250,7 +250,7 @@ chevron patterning in red.*
 
 **Primogenitor:** Leman Russ
 
-####  The VIth Legion -- Space Wolves {#the-vith-legion-space-wolves .unnumbered}
+####  The VIth Legion - Space Wolves {#the-vith-legion-space-wolves .unnumbered}
 
 **Observed Strategic Tendencies:** Shock Assaults, Search and Destroy,
 Pursuit Operations, Punitive and
@@ -287,14 +287,14 @@ The following special rules apply to all Space Wolves models in a
 Legiones Astartes Army.
 
 **Preternatural Sense:** Enemy Detachments with the Infiltrate special
-rule cannot be deployed within 16\" of a Space Wolves model. In
+rule cannot be deployed within 16" of a Space Wolves model. In
 addition, an enemy model with the Outflank special rule may not be
-placed on the battlefield within 8\" of any Space Wolves model when
+placed on the battlefield within 8" of any Space Wolves model when
 arriving from Reserve, unless it is arriving from its own battlefield
 edge.
 
-![](../media/image333.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image333.png)
+
 
 *The colours of the VIth Legion were a brooding dark grey,*
 
@@ -303,7 +303,7 @@ bronze.*
 
 **Primogenitor:** Rogal Dorn
 
-####  The VIIth Legion -- Imperial Fists {#the-viith-legion-imperial-fists .unnumbered}
+####  The VIIth Legion - Imperial Fists {#the-viith-legion-imperial-fists .unnumbered}
 
 **Observed Strategic Tendencies:** Ship-borne Assaults and Boarding
 Actions, Defensive and Fortification
@@ -362,15 +362,15 @@ the end of that round:
 
 -   Heavy bolters
 
-![](../media/image334.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image334.png)
+
 
 *The Imperial Fists wear yellow, banded with black and occasional
 details in red or white. Alternative schemes include the inverted
 heraldry, with battle plate of black, with yellow helms and pauldrons,
 worn by the 1st Company elite.*
 
-#### The VIIIth Legion -- Night Lords {#the-viiith-legion-night-lords .unnumbered}
+#### The VIIIth Legion - Night Lords {#the-viiith-legion-night-lords .unnumbered}
 
 **Primogenitor:** Konrad Curze (the Night Haunter)
 
@@ -386,7 +386,7 @@ Enforced Pacification, Terror Assaults, Psychological Warfare
 
 The VIIIth Legion was a force that shaped cruelty and fear into a
 weapon. It was known foremost for its disproportionate and merciless
-application of violence -- its first blow an atrocity of such wanton
+application of violence - its first blow an atrocity of such wanton
 brutality that it often forced entire populations to surrender in an
 effort to avoid such a fate. Any who still refused to capitulate were
 subjected to an extended campaign
@@ -403,7 +403,7 @@ a means to an end. As was fitting for a Legion of such ill-repute, it
 did not go meekly to meet its fate. Instead, amid the turmoil and
 destruction of the Horus Heresy, the Legion would turn against the
 Imperium and itself, beginning an orgy of violence intended to sever
-itself from a singular curse -- its own Primarch.
+itself from a singular curse - its own Primarch.
 
 #######  Legion Special Rules {#legion-special-rules-6 .unnumbered}
 
@@ -413,7 +413,7 @@ Legiones Astartes Army.
 **Seeds of Dissent:** If a Night Lords model destroys an enemy model
 with the Commander or the Solar
 
-Auxilia HQ (X) special rule, each enemy Detachment within 4\" of the
+Auxilia HQ (X) special rule, each enemy Detachment within 4" of the
 destroyed model suffers a number of Hits equal to three times the
 starting Wounds characteristic of the destroyed model (e.g., a model
 with a starting Wounds characteristic of 1 would generate 3 Hits).
@@ -428,8 +428,8 @@ Save rolls.
 Knights, Titans and models with a Morale characteristic of '-' are
 unaffected by this rule.
 
-![](../media/image335.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image335.png)
+
 
 *The sons of the Night Haunter are known for a heraldry of the dark
 blue of midnight. Secondary elements are picked out in black or red,
@@ -437,7 +437,7 @@ and armour banding is gold or bronze.*
 
 **Primogenitor:** Sanguinius
 
-####  The IXth Legion -- Blood Angels {#the-ixth-legion-blood-angels .unnumbered}
+####  The IXth Legion - Blood Angels {#the-ixth-legion-blood-angels .unnumbered}
 
 **Noteworthy Domains:** Baal, Terran Enclaves, Canopus IV, Saiph
 
@@ -475,7 +475,7 @@ The following special rules apply to all Blood Angels models in a
 Legiones Astartes Army.
 
 **Encarmine Fury:** All models within a Blood Angels Detachment that
-win a Combat may move up to 3\" after all Withdrawal moves have been
+win a Combat may move up to 3" after all Withdrawal moves have been
 completed, so long as the Detachment is not Engaged. Models can move
 into base contact with enemy models
 
@@ -488,15 +488,15 @@ again this round. Otherwise, do not resolve the Combat. A Detachment
 can only move via the Encarmine Fury rule once per round and cannot
 move if it is still Engaged after the Combat is won.
 
-![](../media/image336.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image336.png)
+
 
 *The Blood Angels make war resplendent in vermillion red, with banding
 and other details in shining gold.*
 
 *Individual segments, as well as cloth details are often black.*
 
-#### The Xth Legion -- Iron Hands {#the-xth-legion-iron-hands .unnumbered}
+#### The Xth Legion - Iron Hands {#the-xth-legion-iron-hands .unnumbered}
 
 **Primogenitor:** Ferrus Manus (also known as 'The Gorgon')
 
@@ -545,14 +545,14 @@ The First Fire Order must still be in effect
 rule to take effect. This does not affect the AP if Hits are allocated
 to Void Shields.
 
-![](../media/image337.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image337.png)
+
 
 *The Iron Hands are ill-disposed towards superfluous adornment,
 favouring varying tones of black and iron with polished chrome accents
 and minimal ornamental details save clan markings.*
 
-#### The XIIth Legion -- World Eaters {#the-xiith-legion-world-eaters .unnumbered}
+#### The XIIth Legion - World Eaters {#the-xiith-legion-world-eaters .unnumbered}
 
 **Primogenitor:** Angron the Conqueror
 
@@ -596,8 +596,8 @@ Legiones Astartes Army.
 Eaters Infantry, Cavalry and Walker models can re-roll a single D6
 when making Fight rolls.
 
-![](../media/image338.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image338.png)
+
 
 *At the onset of the galactic civil war the World Eaters were clad in
 livery of white, with secondary elements in blue.*
@@ -605,7 +605,7 @@ livery of white, with secondary elements in blue.*
 *As the war ground onwards, the blue was replaced by the red of
 clotted blood.*
 
-#### The XIIIth Legion -- Ultramarines {#the-xiiith-legion-ultramarines .unnumbered}
+#### The XIIIth Legion - Ultramarines {#the-xiiith-legion-ultramarines .unnumbered}
 
 **Primogenitor:** Roboute Guilliman
 
@@ -652,13 +652,13 @@ one or more Hits
 scored against it this round by an Ultramarines model from the same
 Formation as the firing model.
 
-![](../media/image339.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image339.png)
+
 
 *The Ultramarines wear battle plate of azurite blue, with gold banding
 and other insignia rendered in white or black.*
 
-#### The XIVth Legion -- Death Guard {#the-xivth-legion-death-guard .unnumbered}
+#### The XIVth Legion - Death Guard {#the-xivth-legion-death-guard .unnumbered}
 
 **Primogenitor:** Mortarion the Reaper **Cognomen:** (Prior) The Dusk
 Raiders **Noteworthy Domains:** Barbarus
@@ -678,7 +678,7 @@ victory by any means.
 
 Few Legions had beginnings as glorious as the Death Guard, nor ends as
 tragic. From heights of splendour, the Legion and its warriors would
-become the very thing they once fought tirelessly against -- inhuman,
+become the very thing they once fought tirelessly against - inhuman,
 soulless monsters, little more than nightmares
 
 made manifest.
@@ -700,10 +700,10 @@ any other rules that apply.
 
 Two Structures can be selected in place of a single area of terrain.
 Each time a model Garrisons or leaves a Structure designated as
-Dangerous terrain, it counts as having moved 1\" through it.
+Dangerous terrain, it counts as having moved 1" through it.
 
-![](../media/image340.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image340.png)
+
 
 *The Death Guard wear a livery of off -white, with secondary elements
 in green and banding of dull gold or bronze.*
@@ -711,7 +711,7 @@ in green and banding of dull gold or bronze.*
 *Superficial surface wear and weathering was left unattended until a
 campaign's resolution.*
 
-#### The XVth Legion -- Thousand Sons {#the-xvth-legion-thousand-sons .unnumbered}
+#### The XVth Legion - Thousand Sons {#the-xvth-legion-thousand-sons .unnumbered}
 
 **Primogenitor:** Magnus the Red **Cognomen:** (Prior) None
 **Noteworthy Domains:** Prospero
@@ -746,13 +746,13 @@ Legiones Astartes Army.
 **Kine Shields:** Thousand Sons models with the Commander special rule
 gain the Shield Generator (6+) special rule.
 
-![](../media/image341.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image341.png)
+
 
 *The primary colour of the Thousand Sons livery is a distinctive red,
 with secondary elements picked out in black, white or gold.*
 
-#### The XVIth Legion -- Sons of Horus {#the-xvith-legion-sons-of-horus .unnumbered}
+#### The XVIth Legion - Sons of Horus {#the-xvith-legion-sons-of-horus .unnumbered}
 
 **Primogenitor:** Horus Lupercal
 
@@ -788,14 +788,14 @@ The following special rules apply to all Sons of Horus models in a
 Legiones Astartes Army.
 
 **Death Dealers:** When a Sons of Horus model issued with an Advance
-Order is firing at a target within 6\" of it, it may re-roll Hit rolls
+Order is firing at a target within 6" of it, it may re-roll Hit rolls
 of a 1 when firing a weapon with the Light or Light AT trait while the
 Order is
 
 in effect.
 
-![](../media/image342.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image342.png)
+
 
 *Upon the elevation of the Warmaster, the XVIth Legion assumed the
 metallic green of a sea in storm as its colours.*
@@ -803,7 +803,7 @@ metallic green of a sea in storm as its colours.*
 *Among the Warmaster's own Legion black came to signify the warrior
 elite, while red marked captains and commanders.*
 
-#### The XVIIth Legion -- Word Bearers {#the-xviith-legion-word-bearers .unnumbered}
+#### The XVIIth Legion - Word Bearers {#the-xviith-legion-word-bearers .unnumbered}
 
 **Primogenitor:** Lorgar the Urizen, also known as Lorgar Aurelian
 
@@ -856,8 +856,8 @@ Order they normally could instead of just the Advance Order or March
 Order. In addition, all Word Bearers Detachments ignore the effects of
 the Dread Aura (X) special rule.
 
-![](../media/image343.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image343.png)
+
 
 *As the Age of Darkness progressed, the traditional grey of the Word
 Bearers was replaced by the deep red shown here, with secondary
@@ -865,13 +865,13 @@ elements of black and banding of gold.*
 
 **Primogenitor:** Vulkan
 
-####  The XVIIIth Legion -- Salamanders {#the-xviiith-legion-salamanders .unnumbered}
+####  The XVIIIth Legion - Salamanders {#the-xviiith-legion-salamanders .unnumbered}
 
 **Observed Strategic Tendencies:** High- intensity or Asymmetric
 Warfare, Zone Mortalis
 
 **Cognomen:** (Prior) None officially recognised (see ref: The
-Manticore Cataclysm -- informal designation 'The Fearless' used by
+Manticore Cataclysm - informal designation 'The Fearless' used by
 Imperial Army units)
 
 **Noteworthy Domains:** The Nocturne System (Nocturne Primary, Moon of
@@ -913,15 +913,15 @@ they prefer.
 In addition, all Salamanders Detachments in the Army gain the
 Implacable special rule.
 
-![](../media/image344.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image344.png)
+
 
 *The Salamanders wear heraldry of chromium-oxide green, with elements
 of flame-orange and black; prominent black hull plates on vehicles
 indicate assignment to a Salamanders command unit. Banding is bronze
 or gold and often highly sculptural.*
 
-#### The XIXth Legion -- Raven Guard {#the-xixth-legion-raven-guard .unnumbered}
+#### The XIXth Legion - Raven Guard {#the-xixth-legion-raven-guard .unnumbered}
 
 **Primogenitor:** Corvus Corax, the Raven Lord
 
@@ -959,14 +959,14 @@ The following special rules apply to all Raven Guard models in a
 Legiones Astartes Army.
 
 **By Wing and Talon:** All Detachments that contain only Raven Guard
-Infantry models gain the Infiltrate special rule -- if the Formation
+Infantry models gain the Infiltrate special rule - if the Formation
 has Dedicated Transports, it does not gain this rule. All Detachments
 that contain only Raven Guard Cavalry or Walker models, or Raven Guard
 Infantry models with Dedicated Transports, gain the Forward Deployment
 special rule.
 
-![](../media/image345.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image345.png)
+
 
 *The Raven Guard value stealth above all, and so go to war clad in the
 umbral black of night,*
@@ -974,7 +974,7 @@ umbral black of night,*
 *with minimal markings in white, grey or sometimes gloss black, while
 banding was dulled steel or bronze.*
 
-#### The XXth Legion -- Alpha Legion {#the-xxth-legion-alpha-legion .unnumbered}
+#### The XXth Legion - Alpha Legion {#the-xxth-legion-alpha-legion .unnumbered}
 
 **Primogenitor:** Alpharius Omegon
 
@@ -1026,19 +1026,19 @@ A Detachment chosen to be affected by Mutable Tactics gains a special
 rule dependent on the Detachment Type. If a selected Detachment is
 made up of Infantry, Cavalry, Walker or Vehicle models, all models
 within it gain either the Infiltrate, Outflank or Forward Deployment
-special rule -- this is chosen by the controlling player and different
+special rule - this is chosen by the controlling player and different
 Detachments can choose different rules. If the selected Detachment is
 of another type, it gains the Forward Deployment rule.
 
-![](../media/image346.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image346.png)
+
 
 *The primary livery of the Alpha Legion was metallic or iridescent
 blue-green, with secondary elements of black and banding of gold or
 silver.*
 
-![](../media/image347.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image347.png)
+
 
 []{#_bookmark35 .anchor}*"Let my epitaph be this;*
 

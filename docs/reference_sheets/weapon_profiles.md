@@ -1,5 +1,5 @@
 | Weapon                   | Range          | Dice | To Hit | AP  | Traits                              |
-| ------------------------ | -------------- | ---- | ------ | --- | ----------------------------------- |
+| :------------------------ | :--------------: | :----: | :------: | :---: | :----------------------------------- |
 | Acastus autocannon       | 16"            | 3    | 5+    | -1  | Arc (Front), Light AT              |
 | Acastus lascannon        | 22"            | 1    | 4+    | -1  | Anti-tank, Arc (Front)             |
 | Acheron pattern flame cannon | 8"         | 3    | 4+    | -2  | Arc (Front), Light AT, Ignores Cover |
@@ -73,7 +73,7 @@
 | In-built twin-linked heavy bolters  | 12"             | 2    | 5+    | 0   | Arc (Front), Light, Point Defence |
 | Incisor pattern melta lance         | 14"             | 1    | 4+    | -3  | Accurate, Anti-tank, Arc (Front), Demolisher |
 |                                      | 6"              | 1    | 3+    | -4  | Accurate, Anti-tank, Arc (Front), Demolisher, Engine Killer (2) |
-| Inferno gun                          | T               | 4+  | -2    | Arc (Front), Firestorm, Light AT, Shieldbane |
+| Inferno gun                          | T             | -  | 4+  | -2    | Arc (Front), Firestorm, Light AT, Shieldbane |
 | Ion gauntlet shield                 | 6"              | 2    | 5+    | -2  | Arc (Front)                        |
 | Ironstorm missile pod               | 25"             | 3    | 4+    | -1  | Arc (Front), Light AT             |
 | Karacnos mortar battery             | 30"             | 2    | 4+    | -1  | Arc (Front), Barrage, Ignores Cover |

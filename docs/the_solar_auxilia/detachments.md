@@ -30,11 +30,11 @@
 |                  |                 |      | * |     |   |           |
 +------------------+-----------------+------+---+-----+---+-----------+
 | *Solar Auxilia | Archaeotech   |    | |   | - |         |
-| Cohort         | pistols       |  6\" |   |  5+ | 1 | Accurate, |
+| Cohort         | pistols       |  6" |   |  5+ | 1 | Accurate, |
 | together,*     |                 |      | 1 |     |   | Light   |
 +------------------+-----------------+------+---+-----+---+-----------+
 | *guiding the   | Volkite       |    | |   | 0 | De      |
-| actions and*   | chargers      |  8\" |   |  5+ |   | flagrate, |
+| actions and*   | chargers      |  8" |   |  5+ |   | flagrate, |
 |                  |                 |      | 1 |     |   | Light   |
 +------------------+-----------------+------+---+-----+---+-----------+
 | *allegiance of |                 |      |   |     |   |           |
@@ -42,8 +42,8 @@
 | warriors*      |                 |      |   |     |   |           |
 +------------------+-----------------+------+---+-----+---+-----------+
 
-![](../media/image357.png){width="9.448832020997376in"
-height="12.99215223097113in"}*across the war-torn galaxy.*
+![](../media/image357.png)
+*across the war-torn galaxy.*
 
 *Solar Auxilia Tactical Command Sections are specialists in
 battlefield command and control. They facilitate the flow of orders,
@@ -57,14 +57,14 @@ unit's standard.*
 
 **Special Rules**
 
-Commander, Inspire (8\"), Invulnerable Save (6+), Master Tactician,
-Solar Auxilia HQ (10\")
+Commander, Inspire (8"), Invulnerable Save (6+), Master Tactician,
+Solar Auxilia HQ (10")
 
 ####### Auxilia Tactical Command Detachment 10 Points Infantry (1) Detachment Size: 1 {#auxilia-tactical-command-detachment-10-points-infantry-1-detachment-size-1 .unnumbered}
 
 **Name Movement Sv CAF Morale W**
 
-Tactical Command 5\" 6+ +1 3+ 1
+Tactical Command 5" 6+ +1 3+ 1
 
 **Weapons**
 
@@ -72,17 +72,17 @@ Tactical Command 5\" 6+ +1 3+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Auxilia lasrifles 10\" 1 5+ 0 Light
+Auxilia lasrifles 10" 1 5+ 0 Light
 
 **Special Rules**
 
-Commander, Inspire (8\"), Solar Auxilia HQ (6\")
+Commander, Inspire (8"), Solar Auxilia HQ (6")
 
-![](../media/image358.png){width="9.4488156167979in"
-height="12.99215223097113in"}
+![](../media/image358.png)
 
-![](../media/image359.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+
+![](../media/image359.png)
+
 
 ###### CORE DETACHMENTS {#core-detachments-2 .unnumbered}
 
@@ -119,7 +119,7 @@ hostile battlefield.*
 
 **Name Movement Sv CAF Morale W**
 
-Auxiliaries 5\" 6+ +0 4+ 1
+Auxiliaries 5" 6+ +0 4+ 1
 
 **Weapons**
 
@@ -127,9 +127,9 @@ Auxiliaries 5\" 6+ +0 4+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Auxilia lasrifles 10\" 1 5+ 0 Light
+Auxilia lasrifles 10" 1 5+ 0 Light
 
-Flamers 6\" 1 4+ 0 Ignores Cover, Light
+Flamers 6" 1 4+ 0 Ignores Cover, Light
 
 **Upgrades**
 
@@ -162,8 +162,8 @@ Chain of Command, Line
 
 ###### DETACHMENT UPGRADES {#detachment-upgrades-4 .unnumbered}
 
-![](../media/image360.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image360.png)
+
 
 +------------+--------+---+--------+------+------+------------------+
 | **Name** |      | * | *    | **   | *  | *The Tercio's  |
@@ -174,7 +174,7 @@ height="12.99215223097113in"}
 |            |        | * |        |      |      | adaptability,  |
 |            |        |   |        |      |      | working*       |
 +============+========+===+========+======+======+==================+
-|          | 5\"  | 6 | +1   | 4+ | 1    | *in concert    |
+|          | 5"  | 6 | +1   | 4+ | 1    | *in concert    |
 |  Veletarii |        | + |        |      |      | with more*     |
 +------------+--------+---+--------+------+------+------------------+
 |            |        |   |        |      |      | *specialised   |
@@ -205,7 +205,7 @@ height="12.99215223097113in"}
 |            |        | * |        |      |      |                  |
 |            |        | * |        |      |      |                  |
 +------------+--------+---+--------+------+------+------------------+
-| Auxilia  | 6\"    | 1 | 5+ 0 | L  |      | *called for,   |
+| Auxilia  | 6"    | 1 | 5+ 0 | L  |      | *called for,   |
 |          |        |   |        | ight |      | operating as   |
 | laspistols |        |   |        |      |      | shock*         |
 +------------+--------+---+--------+------+------+------------------+
@@ -260,7 +260,7 @@ height="12.99215223097113in"}
 |          |        | 6 | +3   | 4+ | 1    |                  |
 |  Charonite |        | + |        |      |      |                  |
 | Ogryns   |        |   |        |      |      |                  |
-| 5\"      |        |   |        |      |      |                  |
+| 5"      |        |   |        |      |      |                  |
 +------------+--------+---+--------+------+------+------------------+
 | *        |        |   |        |      |      |                  |
 | *Weapons** |        |   |        |      |      |                  |
@@ -292,8 +292,8 @@ height="12.99215223097113in"}
 | ndependent |        |   |        |      |      |                  |
 +------------+--------+---+--------+------+------+------------------+
 
-![](../media/image361.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image361.png)
+
 
 []{#_bookmark39 .anchor}**SUPPORT DETACHMENTS**
 
@@ -332,7 +332,7 @@ wavering defence.*
 |                   |               |      |        |          | *W |
 |                   |               |      |        |          | ** |
 +===================+===============+======+========+==========+====+
-| Charonite       | 5\"         | 6+   | +3   | 4+     |  |
+| Charonite       | 5"         | 6+   | +3   | 4+     |  |
 | Ogryns          |               |      |        |          |  1 |
 +-------------------+---------------+------+--------+----------+----+
 | **Weapons**     |               |      |        |          |    |
@@ -362,7 +362,7 @@ Furious Charge
 
 **Name Movement Sv CAF Morale W**
 
-Veletarii 5\" 6+ +1 4+ 1
+Veletarii 5" 6+ +1 4+ 1
 
 +-------------------------+------------+-----+--------+-----+--------+
 | **Weapons**           |            |     |        |     |        |
@@ -375,7 +375,7 @@ Veletarii 5\" 6+ +1 4+ 1
 |                         |  **Range** | Dic |      | **A | aits** |
 |                         |            | e** |  Hit** | P** |        |
 +-------------------------+------------+-----+--------+-----+--------+
-| Auxilia laspistols    | 6\"      | 1   | 5+   | 0 |      |
+| Auxilia laspistols    | 6"      | 1   | 5+   | 0 |      |
 |                         |            |     |        |     |  Light |
 +-------------------------+------------+-----+--------+-----+--------+
 | Power axes            | \-       | \-  | \-   |   | Rend |
@@ -402,7 +402,7 @@ Steadfast
 
 **Name Movement Sv CAF Morale W**
 
-Auxilia Rapier 4\" 6+ +0 4+ 1
+Auxilia Rapier 4" 6+ +0 4+ 1
 
 **Weapons**
 
@@ -414,8 +414,8 @@ Auxilia Rapier 4\" 6+ +0 4+ 1
 its rugged track assembly able to transport support weaponry too heavy
 for an auxiliary to carry, employing a number of different weapon*
 
-![](../media/image362.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image362.png)
+
 
 **Upgrades**
 
@@ -440,9 +440,9 @@ Auxilia Tarantula - 5+ -3 - 1
 -   Tarantula lascannon battery or Hyperios air-defence missile launcher
 
 **Weapon Range Dice To Hit AP Traits** Tarantula lascannon battery
-22\" 2 5+ -1 Anti-tank Hyperios air-defence
+22" 2 5+ -1 Anti-tank Hyperios air-defence
 
-missile launcher 25\" 1 4+ -1 Skyfire, Tracking
+missile launcher 25" 1 4+ -1 Skyfire, Tracking
 
 **Upgrades**
 
@@ -470,8 +470,8 @@ elaborated over the decades, of Tarantula weapons batteries granted
 honorary induction into a regiment following a close fought battle
 where their presence contributed greatly to the tally of enemy dead.*
 
-![](../media/image363.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image363.png)
+
 
 ###### VANGUARD DETACHMENTS {#vanguard-detachments .unnumbered}
 
@@ -509,7 +509,7 @@ advance.*
 
 **Name Movement Sv CAF Morale W**
 
-Aethon Heavy Sentinel 7\" 4+ +0 4+ 1
+Aethon Heavy Sentinel 7" 4+ +0 4+ 1
 
 **Weapons**
 
@@ -519,11 +519,11 @@ Aethon Heavy Sentinel 7\" 4+ +0 4+ 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Multi-laser 14\" 2 5+ 0 Light AT
+Multi-laser 14" 2 5+ 0 Light AT
 
-Sentinel missile launcher 20\" 2 4+ 0 Light, Ignore Cover
+Sentinel missile launcher 20" 2 4+ 0 Light, Ignore Cover
 
-20\" 1 4+ -1 Anti-tank
+20" 1 4+ -1 Anti-tank
 
 **Upgrades**
 
@@ -546,7 +546,7 @@ Forward Deployment
 
 **Name Movement Sv CAF Morale W**
 
-Leman Russ Tank 8\" 2+ +2 4+ 1
+Leman Russ Tank 8" 2+ +2 4+ 1
 
 **Weapons**
 
@@ -577,11 +577,11 @@ including the anti- armour Vanquisher, mount*
 +================+====+===+====+===+================+=================+
 | Leman Russ   |  | |  | - |                | *'Solar'      |
 | battlecannon | 25 |   | 4+ | 1 |                | pattern,      |
-|                | \" | 1 |    |   |                | fitted with*  |
+|                | " | 1 |    |   |                | fitted with*  |
 +----------------+----+---+----+---+----------------+-----------------+
 | Vanquisher   |  | |  | - | Anti-tank,   |               |
 | battlecannon | 32 |   | 4+ | 2 |                |  *supplementary |
-|                | \" | 1 |    |   |                | survival and* |
+|                | " | 1 |    |   |                | survival and* |
 +----------------+----+---+----+---+----------------+-----------------+
 |                |    |   |    |   | Armourbane   | *exploration  |
 |                |    |   |    |   |                | systems.      |
@@ -589,7 +589,7 @@ including the anti- armour Vanquisher, mount*
 +----------------+----+---+----+---+----------------+-----------------+
 | Hull Mounted |  | |  | 0 | Arc (Front), | *Russ tanks   |
 | heavy bolter | 12 |   | 5+ |   | Light,       | in Auxilia    |
-|                | \" | 2 |    |   |                | strike*       |
+|                | " | 2 |    |   |                | strike*       |
 +----------------+----+---+----+---+----------------+-----------------+
 |                |    |   |    |   | Point        | *squadrons    |
 |                |    |   |    |   | Defence      | are fitted    |
@@ -597,7 +597,7 @@ including the anti- armour Vanquisher, mount*
 +----------------+----+---+----+---+----------------+-----------------+
 | Hull Mounted |  | |  | - | Anti-tank,   | *extended     |
 | lascannon    | 22 |   | 4+ | 1 | Arc (Front)  | fuel reserves |
-|                | \" | 1 |    |   |                | and*          |
+|                | " | 1 |    |   |                | and*          |
 |                |    |   |    |   |                |               |
 |                |    |   |    |   |                | *their        |
 |                |    |   |    |   |                | engines       |
@@ -605,8 +605,8 @@ including the anti- armour Vanquisher, mount*
 |                |    |   |    |   |                | with*         |
 +----------------+----+---+----+---+----------------+-----------------+
 
-![](../media/image364.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Upgrades**
+![](../media/image364.png)
+**Upgrades**
 
 A Leman Russ Strike Squadron can purchase one of the following
 upgrades:
@@ -628,8 +628,8 @@ advances in order to engage*
 *an enemy at the moment the infantry sections launch their own
 attack.*
 
-![](../media/image365.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image365.png)
+
 
 ###### BATTLE TANK DETACHMENTS {#battle-tank-detachments-6 .unnumbered}
 
@@ -666,7 +666,7 @@ supply and resource.*
 |                  |                | Sv** | *CAF** | Morale** | *W |
 |                  |                |      |        |          | ** |
 +==================+================+======+========+==========+====+
-| Malcador Tank  | 9\"          | 3+ | +2   | 4+     | 2  |
+| Malcador Tank  | 9"          | 3+ | +2   | 4+     | 2  |
 +------------------+----------------+------+--------+----------+----+
 
 **Weapons**
@@ -689,50 +689,50 @@ Hull Mounted autocannon or Hull Mounted demolisher cannon
 |                       |      | ** |       |    |                   |
 +=======================+======+====+=======+====+===================+
 | Malcador            |    |  | 4+  | -1 | Arc (Front)     |
-| battlecannon        | 25\" |  1 |       |    |                   |
+| battlecannon        | 25" |  1 |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | Malcador            |      |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | Vanquisher          |    |  | 4+  | -2 | Anti-tank,      |
-| battlecannon        | 32\" |  1 |       |    |                   |
+| battlecannon        | 32" |  1 |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Arc (Front),    |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Armourbane      |
 +-----------------------+------+----+-------+----+-------------------+
 | Malcador lascannon  |    |  | 4+  | -1 | Anti-tank, Arc  |
-| turret              | 22\" |  2 |       |    | (Front)         |
+| turret              | 22" |  2 |       |    | (Front)         |
 +-----------------------+------+----+-------+----+-------------------+
 | Malcador            |      |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | heavy bolter        |    |  | 5+  | 0  | Light, Point    |
-| sponsons            | 12\" |  2 |       |    | Defence         |
+| sponsons            | 12" |  2 |       |    | Defence         |
 +-----------------------+------+----+-------+----+-------------------+
 | Malcador            |      |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | lascannon sponsons  |    |  | 4+  | -1 | Anti-tank       |
-|                       | 22\" |  1 |       |    |                   |
+|                       | 22" |  1 |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | Malcador            |      |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | autocannon sponsons |    |  | 5+  | -1 | Light AT        |
-|                       | 16\" |  2 |       |    |                   |
+|                       | 16" |  2 |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | Hull Mounted heavy  |    |  | 5+  | 0  | Arc (Front),    |
-| bolter              | 12\" |  2 |       |    | Light,          |
+| bolter              | 12" |  2 |       |    | Light,          |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Point Defence   |
 +-----------------------+------+----+-------+----+-------------------+
 | Hull Mounted        |    |  | 4+  | -1 | Anti-tank, Arc  |
-| lascannon           | 22\" |  1 |       |    | (Front)         |
+| lascannon           | 22" |  1 |       |    | (Front)         |
 +-----------------------+------+----+-------+----+-------------------+
 | Hull Mounted        |    |  | 5+  | -1 | Arc (Front),    |
-| autocannon          | 16\" |  2 |       |    | Light AT        |
+| autocannon          | 16" |  2 |       |    | Light AT        |
 +-----------------------+------+----+-------+----+-------------------+
 | Hull Mounted        |      |    |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 | demolisher cannon   |    |  | 4+  | -3 | Arc (Front),    |
-|                       | 12\" |  1 |       |    |                   |
+|                       | 12" |  1 |       |    |                   |
 +-----------------------+------+----+-------+----+-------------------+
 |                       |      |    |       |    | Demolisher,     |
 +-----------------------+------+----+-------+----+-------------------+
@@ -763,7 +763,7 @@ Chain of Command, Explorator Adaptation
 
 **Name Movement Sv CAF Morale W**
 
-Auxilia Super-heavy 7\" 2+ +4 4+ 2
+Auxilia Super-heavy 7" 2+ +4 4+ 2
 
 **Weapons**
 
@@ -803,11 +803,11 @@ those who marched alongside it. The*
 +================+====+===+====+===+===============+=================+
 | Baneblade    |  | 1 |  | - |               | *the basis    |
 | cannon       | 25 |   | 4+ | 3 |               | for a number  |
-|                | \" |   |    |   |               | of*           |
+|                | " |   |    |   |               | of*           |
 +----------------+----+---+----+---+---------------+-----------------+
 | Hellhammer   |  | 1 |  | - | Demolisher, | *more         |
 | cannon       | 14 |   | 4+ | 3 |               | specialised   |
-|                | \" |   |    |   |               | variants*     |
+|                | " |   |    |   |               | variants*     |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Ignores     | *including    |
 |                |    |   |    |   | Cover       | the           |
@@ -815,7 +815,7 @@ those who marched alongside it. The*
 +----------------+----+---+----+---+---------------+-----------------+
 | Co-axial     |  | 2 |  | | Co-axial,   | *exchanging   |
 | autocannon   | 16 |   | 5+ |   | Light AT    | the standard* |
-|                | \" |   |    | - |               |                 |
+|                | " |   |    | - |               |                 |
 |                |    |   |    | 1 |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | Hull Mounted |    |   |    |   |               | *Baneblade    |
@@ -823,7 +823,7 @@ those who marched alongside it. The*
 +----------------+----+---+----+---+---------------+-----------------+
 | Demolisher   |  | 1 |  | - | Arc         | *with a       |
 | cannon       | 12 |   | 4+ | 3 | (Front),    | Hellhammer*   |
-|                | \" |   |    |   | Ignores     |                 |
+|                | " |   |    |   | Ignores     |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Cover,      | *cannon that  |
 |                |    |   |    |   | Demolisher  | sacrifices*   |
@@ -834,7 +834,7 @@ those who marched alongside it. The*
 +----------------+----+---+----+---+---------------+-----------------+
 | heavy bolter |  | 2 |  | | Arc         | *penetration  |
 | turret       | 12 |   | 5+ |   | (Front),    | and           |
-|                | \" |   |    | 0 | Light,      |               |
+|                | " |   |    | 0 | Light,      |               |
 |                |    |   |    |   |               |  fortification* |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Point       | *destruction  |
@@ -842,20 +842,20 @@ those who marched alongside it. The*
 +----------------+----+---+----+---+---------------+-----------------+
 | Lascannon    |  | 2 |  | | Anti-tank   |                 |
 | sponson      | 22 |   | 4+ |   |               |                 |
-| turrets      | \" |   |    | - |               |                 |
+| turrets      | " |   |    | - |               |                 |
 |                |    |   |    | 1 |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | Baneblade    |    |   |    |   |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | heavy bolter |  | 4 |  | | Light,      |                 |
 | sponsons     | 12 |   | 5+ |   | Point       |                 |
-|                | \" |   |    | 0 | Defence     |                 |
+|                | " |   |    | 0 | Defence     |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | Baneblade    |    |   |    |   |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | autocannon   |  | 2 |  | | Light AT,   |                 |
 | sponsons     | 16 |   | 5+ |   |               |                 |
-|                | \" |   |    | - |               |                 |
+|                | " |   |    | - |               |                 |
 |                |    |   |    | 1 |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Point       |                 |
@@ -865,14 +865,14 @@ those who marched alongside it. The*
 +----------------+----+---+----+---+---------------+-----------------+
 | heavy flamer |  | 2 |  | | Light,      |                 |
 | sponsons     |  6 |   | 4+ |   | Ignores     |                 |
-|                | \" |   |    | 0 | Cover,      |                 |
+|                | " |   |    | 0 | Cover,      |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Point       |                 |
 |                |    |   |    |   | Defence     |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 
-![](../media/image366.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Upgrades**
+![](../media/image366.png)
+**Upgrades**
 
 An Auxilia Super-heavy Tank Squadron can purchase any of the following
 upgrades. It may purchase the same upgrade multiple times, to a
@@ -902,7 +902,7 @@ manner of missions, making it ideal for dominating*
 
 **Name Movement Sv CAF Morale W**
 
-Thunderbolt Fighter 25\" 4+ +0 - 1
+Thunderbolt Fighter 25" 4+ +0 - 1
 
 **Weapons**
 
@@ -912,8 +912,8 @@ Thunderbolt Fighter 25\" 4+ +0 - 1
 
 -   Hellstrike missiles or Skystrike missiles or wing bombs
 
-![](../media/image367.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image367.png)
+
 
 *with damage that would have downed a lesser craft.*
 
@@ -941,7 +941,7 @@ Flyer, Interceptor, Jink (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Avenger Strike Fighter 28\" 4+ +0 - 1
+Avenger Strike Fighter 28" 4+ +0 - 1
 
 **Weapons**
 
@@ -972,14 +972,14 @@ formations, raking the vulnerable weaker sides of their armours with*
 |               |     | * |    |   |                |                 |
 +===============+=====+===+====+===+================+=================+
 | Avenger     | 1 | 5 |  | - | Arc (Front), | *The Avenger  |
-| bolt cannon | 6\" |   | 5+ | 1 | Light AT,    | can also be*  |
+| bolt cannon | 6" |   | 5+ | 1 | Light AT,    | can also be*  |
 +---------------+-----+---+----+---+----------------+-----------------+
 |               |     |   |    |   | Rapid Fire,  | *employed in  |
 |               |     |   |    |   | Skyfire      | the           |
 |               |     |   |    |   |                | secondary*    |
 +---------------+-----+---+----+---+----------------+-----------------+
 | Avenger     | 1 | 4 |  | - | Arc (Front), | *role of      |
-| autocannon  | 6\" |   | 5+ | 1 | Light AT,    | interceptor,  |
+| autocannon  | 6" |   | 5+ | 1 | Light AT,    | interceptor,  |
 |               |     |   |    |   |                | providing*    |
 +---------------+-----+---+----+---+----------------+-----------------+
 |               |     |   |    |   | Skyfire      | *close air    |
@@ -987,14 +987,14 @@ formations, raking the vulnerable weaker sides of their armours with*
 |               |     |   |    |   |                | ground*       |
 +---------------+-----+---+----+---+----------------+-----------------+
 | Avenger     | 2 | 2 |  | - | Anti-tank,   | *troops       |
-| lascannon   | 2\" |   | 4+ | 1 | Arc (Front), | against       |
+| lascannon   | 2" |   | 4+ | 1 | Arc (Front), | against       |
 |               |     |   |    |   |                | enemy*        |
 +---------------+-----+---+----+---+----------------+-----------------+
 |               |     |   |    |   | Skyfire      | *bomber       |
 |               |     |   |    |   |                | squadrons.*   |
 +---------------+-----+---+----+---+----------------+-----------------+
 | Heavy       | 1 | 2 |  | 0 | Arc (Rear),  |                 |
-| stubber     | 4\" |   | 6+ |   | Light AT,    |                 |
+| stubber     | 4" |   | 6+ |   | Light AT,    |                 |
 | tail gun    |     |   |    |   |                |                 |
 +---------------+-----+---+----+---+----------------+-----------------+
 |               |     |   |    |   | Point        |                 |
@@ -1003,12 +1003,12 @@ formations, raking the vulnerable weaker sides of their armours with*
 |               |     |   |    |   | Skyfire      |                 |
 +---------------+-----+---+----+---+----------------+-----------------+
 | Hellstrike  | 3 | 2 |  | - | Arc (Front), |                 |
-| missiles    | 0\" |   | 4+ | 1 |                |                 |
+| missiles    | 0" |   | 4+ | 1 |                |                 |
 +---------------+-----+---+----+---+----------------+-----------------+
 |               |     |   |    |   | Armourbane   |                 |
 +---------------+-----+---+----+---+----------------+-----------------+
 | Skystrike   | 3 | 2 |  | - | Anti-tank,   |                 |
-| missiles    | 0\" |   | 4+ | 1 |                |                 |
+| missiles    | 0" |   | 4+ | 1 |                |                 |
 +---------------+-----+---+----+---+----------------+-----------------+
 |               |     |   |    |   | Arc (Front), |                 |
 |               |     |   |    |   | Skyfire,     |                 |
@@ -1021,8 +1021,8 @@ formations, raking the vulnerable weaker sides of their armours with*
 |               |     |   |    |   | Bombing Run  |                 |
 +---------------+-----+---+----+---+----------------+-----------------+
 
-![](../media/image368.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Upgrades**
+![](../media/image368.png)
+**Upgrades**
 
 An Auxilia Avenger Strike Fighter Squadron can purchase one of the
 following upgrades:
@@ -1055,7 +1055,7 @@ Primaris-Lightning represented a new paradigm*
 
 **Name Movement Sv CAF Morale W**
 
-Lightning Fighter 30\" 4+ +0 - 1
+Lightning Fighter 30" 4+ +0 - 1
 
 **Weapons**
 
@@ -1066,12 +1066,12 @@ Lightning Fighter 30\" 4+ +0 - 1
 
 *\* A model can take multiples of the same option.*
 
-![](../media/image369.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image369.png)
+
 
 *purely to the failure of weak flesh. These factors, however, saw the
 pattern's issue limited to elite close support units, while a
-'degraded' -- if easier to operate and maintain*
+'degraded' - if easier to operate and maintain*
 
 *-- version of the Lightning was rumoured to be under consideration
 just prior to the outbreak of the Horus Heresy, although this reduced
@@ -1098,7 +1098,7 @@ Flyer, Interceptor, Jink (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Marauder Bomber 24\" 3+ +0 - 1
+Marauder Bomber 24" 3+ +0 - 1
 
 **Weapons**
 
@@ -1138,7 +1138,7 @@ far afield with minimal resupply. The Marauder bomber is*
 +================+====+===+====+===+===============+=================+
 | Nose Mounted |  | 2 |  | - | Anti-tank,  | *demolish     |
 | lascannon    | 22 |   | 4+ | 1 |               | strategic     |
-|                | \" |   |    |   |               | targets or*   |
+|                | " |   |    |   |               | targets or*   |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Arc         | *to soften    |
 |                |    |   |    |   | (Front),    | fortified     |
@@ -1150,7 +1150,7 @@ far afield with minimal resupply. The Marauder bomber is*
 +----------------+----+---+----+---+---------------+-----------------+
 | heavy bolter |  | 3 |  | 0 | Arc (Rear), | *assault.*    |
 | turrets      | 12 |   | 6+ |   | Light AT,   |                 |
-|                | \" |   |    |   |               |                 |
+|                | " |   |    |   |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Point       |                 |
 |                |    |   |    |   | Defence,    |                 |
@@ -1164,13 +1164,13 @@ far afield with minimal resupply. The Marauder bomber is*
 +----------------+----+---+----+---+---------------+-----------------+
 | Hellstrike   |  | 2 |  | - | Arc         |                 |
 | missiles     | 30 |   | 4+ | 1 | (Front),    |                 |
-|                | \" |   |    |   |               |                 |
+|                | " |   |    |   |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Armourbane  |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 | Skystrike    |  | 2 |  | - | Anti-tank,  |                 |
 | missiles     | 30 |   | 4+ | 1 |               |                 |
-|                | \" |   |    |   |               |                 |
+|                | " |   |    |   |               |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 |                |    |   |    |   | Arc         |                 |
 |                |    |   |    |   | (Front),    |                 |
@@ -1184,8 +1184,8 @@ far afield with minimal resupply. The Marauder bomber is*
 |                |    |   |    |   | Bombing Run |                 |
 +----------------+----+---+----+---+---------------+-----------------+
 
-![](../media/image370.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Upgrades**
+![](../media/image370.png)
+**Upgrades**
 
 Any model in the Detachment can be upgraded to one of the following
 Marauder variants, using the respective profile shown on pages
@@ -1235,7 +1235,7 @@ enemy titans or subterranean facilities through the employment*
 
 **Name Movement Sv CAF Morale W**
 
-Marauder Pathfinder 22\" 3+ +0 - 1
+Marauder Pathfinder 22" 3+ +0 - 1
 
 **Weapons**
 
@@ -1254,11 +1254,11 @@ Marauder Pathfinder 22\" 3+ +0 - 1
 
 **Weapon Range Dice To Hit AP Traits**
 
-Nose Mounted heavy bolter 12\" 3 6+ 0 Arc (Front),
+Nose Mounted heavy bolter 12" 3 6+ 0 Arc (Front),
 
 Light AT, Point Defence, Skyfire
 
-Rear Mounted heavy bolter 12\" 3 6+ 0 Arc (Rear),
+Rear Mounted heavy bolter 12" 3 6+ 0 Arc (Rear),
 
 Light AT, Point Defence, Skyfire
 
@@ -1270,7 +1270,7 @@ Auger Array, Flyer, Jink (5+)
 
 **Name Movement Sv CAF Morale W**
 
-Marauder Colossus 22\" 3+ +0 - 1
+Marauder Colossus 22" 3+ +0 - 1
 
 **Weapons**
 
@@ -1289,8 +1289,8 @@ Marauder Colossus 22\" 3+ +0 - 1
 -   *A model can take multiples of the same option. See page 195 for
     these options.*
 
-![](../media/image371.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image371.png)
+
 
 +--------------------------+------+----+-------+----+----------------+
 | **Weapon**             | *  | ** |     | ** | **Traits**   |
@@ -1299,7 +1299,7 @@ height="12.99215223097113in"}
 |                          |      | ** | Hit** |    |                |
 +==========================+======+====+=======+====+================+
 | Nose Mounted heavy     |    | 3  | 6+  | 0  | Arc (Front), |
-| bolter                 | 12\" |    |       |    |                |
+| bolter                 | 12" |    |       |    |                |
 +--------------------------+------+----+-------+----+----------------+
 |                          |      |    |       |    | Light AT,    |
 |                          |      |    |       |    | Point        |
@@ -1308,7 +1308,7 @@ height="12.99215223097113in"}
 |                          |      |    |       |    | Skyfire      |
 +--------------------------+------+----+-------+----+----------------+
 | Rear Mounted heavy     |    | 3  | 6+  | 0  | Arc (Rear),  |
-| bolter                 | 12\" |    |       |    |                |
+| bolter                 | 12" |    |       |    |                |
 +--------------------------+------+----+-------+----+----------------+
 |                          |      |    |       |    | Light AT,    |
 |                          |      |    |       |    | Point        |
@@ -1336,7 +1336,7 @@ height="12.99215223097113in"}
 
 **Name Movement Sv CAF Morale W**
 
-Marauder Destroyer 24\" 3+ +0 - 1
+Marauder Destroyer 24" 3+ +0 - 1
 
 **Weapons**
 
@@ -1380,7 +1380,7 @@ unarmed as it is not a combat vehicle and is not expected*
 +----------------+----+---+----+---+-------------+------------------+
 | autocannon   |  | 6 |  | - | Arc       | *use of a      |
 | array        | 16 |   | 5+ | 1 | (Front),  | variant of     |
-|                | \" |   |    |   |             | the*           |
+|                | " |   |    |   |             | the*           |
 +----------------+----+---+----+---+-------------+------------------+
 |                |    |   |    |   | Light AT, | *Arvus and of  |
 |                |    |   |    |   | Skyfire   | several        |
@@ -1392,7 +1392,7 @@ unarmed as it is not a combat vehicle and is not expected*
 +----------------+----+---+----+---+-------------+------------------+
 | heavy bolter |  | 3 |  | 0 | Arc       | *to insert     |
 | turrets      | 12 |   | 6+ |   | (Rear),   | infantry       |
-|                | \" |   |    |   |             | sections*      |
+|                | " |   |    |   |             | sections*      |
 +----------------+----+---+----+---+-------------+------------------+
 |                |    |   |    |   | Light AT, | *and command   |
 |                |    |   |    |   | Point     | units into*    |
@@ -1402,7 +1402,7 @@ unarmed as it is not a combat vehicle and is not expected*
 +----------------+----+---+----+---+-------------+------------------+
 | Marauder     |  | 3 |  | - | Arc       | *accuracy.     |
 | assault      | 12 |   | 5+ | 1 | (Rear),   | Because its    |
-| cannon       | \" |   |    |   |             | carrying*      |
+| cannon       | " |   |    |   |             | carrying*      |
 +----------------+----+---+----+---+-------------+------------------+
 |                |    |   |    |   | Light AT, | *capacity is   |
 |                |    |   |    |   | Rapid     | limited to     |
@@ -1439,7 +1439,7 @@ unarmed as it is not a combat vehicle and is not expected*
 |                |    |   |    |   |             | Arvus*         |
 +----------------+----+---+----+---+-------------+------------------+
 
-### ![](../media/image372.png){width="9.448832020997376in" height="12.99215223097113in"}TRANSPORT DETACHMENTS {#transport-detachments-3 .unnumbered}
+### ![](../media/image372.png)TRANSPORT DETACHMENTS {#transport-detachments-3 .unnumbered}
 
 ####### Auxilia Arvus Lighter 12 Points Per Model Vehicle (2) Detachment Size: Variable {#auxilia-arvus-lighter-12-points-per-model-vehicle-2-detachment-size-variable .unnumbered}
 
@@ -1449,7 +1449,7 @@ unarmed as it is not a combat vehicle and is not expected*
 |                 |                 |      |        |          | *W |
 |                 |                 |      |        |          | ** |
 +=================+=================+======+========+==========+====+
-| Arvus Lighter | 25\"          | 4+ | +0   | \-     |  |
+| Arvus Lighter | 25"          | 4+ | +0   | \-     |  |
 |                 |                 |      |        |          |  1 |
 +-----------------+-----------------+------+--------+----------+----+
 | **Weapons**   |                 |      |        |          |    |
@@ -1464,8 +1464,8 @@ Flyer, Hover, Jink (6+), Transport (2)
 *to fulfil the role of inserting smaller units with specific
 battlefield tasks to perform.*
 
-![](../media/image373.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image373.png)
+
 
 []{#_bookmark46 .anchor}*"None can look upon us without fear, for we
 are gods, and the galaxy will bow before us."*

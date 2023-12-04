@@ -62,7 +62,7 @@ outside of the Legiones Astartes ensured the Solar Auxilia left a
 lasting mark on the galaxy, both during the Great Crusade and the
 blood-drenched conflict that followed.
 
-#### ![](../media/image348.png){width="9.448832020997376in" height="12.99215223097113in"}The Origins and Principles of the Solar Auxilia {#the-origins-and-principles-of-the-solar-auxilia .unnumbered}
+#### ![](../media/image348.png)The Origins and Principles of the Solar Auxilia {#the-origins-and-principles-of-the-solar-auxilia .unnumbered}
 
 As its name suggests, the origins of the Solar Auxilia lie in the Sol
 System. Indeed, the first ten cohorts of the Solar Auxilia, known
@@ -82,7 +82,7 @@ the Space Marine Legions, the exact tactics and composition of
 different Solar Auxilia cohorts varied depending on the culture from
 which it was derived and the necessities placed upon it by their
 principal theatres of war. Nevertheless, the most overriding principle
-of all cohorts lay in the notion of 'aggressive defence' -- the
+of all cohorts lay in the notion of 'aggressive defence' - the
 seizure of key defensive locations followed by the fortification and
 protracted defence of said points. Other common doctrines were
 'lightning assault', consisting of massed forces assaulting divided
@@ -103,18 +103,18 @@ of the Great Crusade and most infamous battles of the Horus Heresy.
 
 **Forces of the Great Crusade: Excertus Imperialis**
 
-**Strategic Disposition: Macro-command Level -- Expeditionary
+**Strategic Disposition: Macro-command Level - Expeditionary
 Fleet/Dedicated Battlegroup**
 
 **Primary: Lord Militant/Lord Solar (I)**
 
 Secondary tier by deployment type Lord Marshal
 
-\[Expansion/Battlegroup Command\] Lord Castellan
+[Expansion/Battlegroup Command] Lord Castellan
 
-\[Garrison/Defence Command\] Lord Admiral
+[Garrison/Defence Command] Lord Admiral
 
-\[Primary Fleet Command\]
+[Primary Fleet Command]
 
 Individual assets of a Lord Militant of any kind will vary widely, but
 will commonly include personal flagship (Capital class), various
@@ -150,14 +150,14 @@ Munitoria, Officio Medicae, Lectato and Discipline Corps.
 structure of permanently or semi-permanently detached Mechanicum
 forces, and their sub-factions.*
 
-\[Primary\] Magos Militant, Enginseer Covenant Excertus, Emissaries
+[Primary] Magos Militant, Enginseer Covenant Excertus, Emissaries
 Mechanicum
 
-\[Secondary\] Allied Taghmata, Ordo Reductor, Legio Cybernetica, Legio
+[Secondary] Allied Taghmata, Ordo Reductor, Legio Cybernetica, Legio
 Titanicus
 
-![](../media/image349.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Extra-Incorporate Assigned Forces**
+![](../media/image349.png)
+**Extra-Incorporate Assigned Forces**
 *Varied and diverse operatives, agencies and irregular forces
 operating under the authority of the Lord Militant, but outside of the
 usual chain of command, are notionally located in this division of
@@ -181,7 +181,7 @@ authority.*
 
 {prohibited}
 
-**Cohort and Regimental Command Structure \[Simplified Overview\]**
+**Cohort and Regimental Command Structure [Simplified Overview]**
 
 *The bulk of the Excertus Imperialis armed forces are made up of
 independently operating regiments, Militia Legions Minoris and Cohort
@@ -232,7 +232,7 @@ for the purpose of planetary defence emergencies, etc.*
 
 **Strategic Disposition of a Solar Auxilia Cohort**
 
-**Notional Organisation Late Great Crusade Era Exemplar Unit -- 278th
+**Notional Organisation Late Great Crusade Era Exemplar Unit - 278th
 Cohort 'Arkadian' Muster, Solar Pattern**
 
 278th Arkadian Cohort
@@ -244,7 +244,7 @@ Cohort Level Assigned Strategic Assets
 
 -   Warp-capable Troop Transport Vessels
 
--   Boarding Craft (Shark pattern -- most common)
+-   Boarding Craft (Shark pattern - most common)
 
 -   Planetary Landers and Combat Drop Vessels, Orbital Lighters
 
@@ -293,8 +293,8 @@ any vessels of the Armada Imperialis*
 of no higher independent rank than Captain of the second rating
 (Captain-Commander) operating at equivalent rank to a Cohort Tribune.*
 
-![](../media/image350.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image350.png)
+
 
 **Nominal Strength 278th Solar Auxilia Cohort**
 
@@ -379,13 +379,13 @@ meet specific tactical objectives.*
 *Legate commanders are able to call on Cohort-level air support assets
 to perform specific localised support missions.*
 
-####### ![](../media/image351.png){width="9.448832020997376in" height="12.99215223097113in"}Auxilia Arvus Lighter {#auxilia-arvus-lighter .unnumbered}
+####### ![](../media/image351.png)Auxilia Arvus Lighter {#auxilia-arvus-lighter .unnumbered}
 
 *Detached from Cohort-level Light Interface Transport echelon to
 provide additional battlefield mobility for rapid redeployment,
 reinforcement and resupply tasks.*
 
-## ![](../media/image352.png){width="9.448832020997376in" height="12.99215223097113in"}SOLAR AUXILIA ARMOURED COMPANY {#solar-auxilia-armoured-company .unnumbered}
+## ![](../media/image352.png)SOLAR AUXILIA ARMOURED COMPANY {#solar-auxilia-armoured-company .unnumbered}
 
 *One example of a Sub-Cohort level formation constituted in later
 Great Crusade era approved Armoured Company configuration.*
@@ -405,7 +405,7 @@ company's commanding field officer and their second in command.*
 *Cohort-level air support assets on call for immediate support
 taskings.*
 
-#### ![](../media/image353.png){width="9.448832020997376in" height="12.99215223097113in"}Solar Auxilia Army List {#solar-auxilia-army-list .unnumbered}
+#### ![](../media/image353.png)Solar Auxilia Army List {#solar-auxilia-army-list .unnumbered}
 
 The following section presents the Army List for the Solar Auxilia,
 reflecting the foundation upon which the various Solar Auxilia cohorts
@@ -432,14 +432,14 @@ Solar Auxilia HQ (X) special rule. These rules can be found in the
 Special Rules section to the right.
 
 **Tank Commander:** Certain Formations and/or Detachments allow a
-model to be upgraded to a Tank Commander -- where applicable, this
+model to be upgraded to a Tank Commander - where applicable, this
 will be stated in the relevant description. A model upgraded to a Tank
-Commander gains the Solar Auxilia HQ (6\") special rule
+Commander gains the Solar Auxilia HQ (6") special rule
 
 and increases its Morale characteristic by 1, to a maximum of 2+.
 
 Where possible, a model upgraded to a Tank Commander should be clearly
-visible -- this can be done through having an officer in the cupola, a
+visible - this can be done through having an officer in the cupola, a
 small banner, an alternative paint scheme or similar identifiable
 method.
 
@@ -462,8 +462,8 @@ brackets noted as part of this special rule. This special
 rule does not allow a Broken Detachment to be issued an Order other
 than the Advance Order or Charge Order.
 
-![](../media/image354.png){width="9.448832020997376in"
-height="12.99213801399825in"}
+![](../media/image354.png)
+
 
 ####### Solar Auxilia Formations {#solar-auxilia-formations .unnumbered}
 
@@ -480,7 +480,7 @@ Formation must be filled with Auxilia Lasrifle Tercio Detachments.
 
 **COMPULSORY DETACHMENTS OPTIONAL DETACHMENTS**
 
-####### ![](../media/image355.png){width="9.448832020997376in" height="12.99215223097113in"}1349th Solax Auxilia Cohort, Magnathan Thunder Lords {#th-solax-auxilia-cohort-magnathan-thunder-lords .unnumbered}
+####### ![](../media/image355.png)1349th Solax Auxilia Cohort, Magnathan Thunder Lords {#th-solax-auxilia-cohort-magnathan-thunder-lords .unnumbered}
 
 *The 1349 th Cohort, primarily operated as a mechanised company,
 relying on a combination of mobile infantry, armoured batteries and
@@ -499,8 +499,8 @@ One of the following:
 
 One of the following:
 
-![](../media/image356.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Solar Auxilia Armoured Company**
+![](../media/image356.png)
+**Solar Auxilia Armoured Company**
 
 Armoured Companies were the hammer of Solar Auxilia Cohorts, each one
 consisting of dedicated tank squadrons commanded by a seasoned

@@ -1,36 +1,39 @@
-## PLAYING LEGIONS IMPERIALIS
+# PLAYING LEGIONS IMPERIALIS
 
 Shown here is an example of a game of Legions Imperialis in full swing, as Loyalist and Traitor forces clash over a ruined city, giving you an idea of how a game is set up.
 
-1.  **The Battlefield**
 
-Any flat area can become a suitable battlefield with the addition of some terrain. Typically, a game of Legions Imperialis is fought on a 5'x4' battlefield, however smaller games can be fought on smaller tables.
+[![](media/playfield_thumbnail.jpg)](media/playfield.jpg)
 
-2.  **Terrain**
+&emsp;1. **The Battlefield**
+
+Any flat area can become a suitable battlefield with the addition of some terrain. Typically, a game of Legions Imperialis is fought on a 5' x 4' battlefield, however smaller games can be fought on smaller tables.
+
+&emsp;2. **Terrain**
 
 Games of Legions Imperialis are improved by the inclusion of terrain, such as the modular Manufactorum Imperialis, and Civitas Imperialis buildings and ruins sets. A variety of rules are included within the Terrain section of this book (see page 66) that allow players to use a wide variety of different terrain pieces on the battlefield. 
 
-3.  **Models**
+&emsp;3. **Models**
 
-Models are the core of Legions Imperialis, representing the armies that fought during the Horus Heresy. Each player will need a set of miniatures to represent their armies on the battlefield. The addition of more models increases the size and scope of the battles, with the average Legions Imperialis game seeing 2,500-3,000 points per player -- see page 126 for more details.
+Models are the core of Legions Imperialis, representing the armies that fought during the Horus Heresy. Each player will need a set of miniatures to represent their armies on the battlefield. The addition of more models increases the size and scope of the battles, with the average Legions Imperialis game seeing 2,500-3,000 points per player - see page 126 for more details.
 
-4.  **Dice**
+&emsp;4. **Dice**
 
-Legions Imperialis uses dice, primarily D6, to resolve most aspects of the game -- see page 33 for more details.
+Legions Imperialis uses dice, primarily D6, to resolve most aspects of the game - see page 33 for more details.
 
-5.  **Rulebook**
+&emsp;5. **Rulebook**
 
 The book in your hands. Within, you'll find all the rules you need to play a game of Legions Imperialis, including the core rules (see page 32) , Missions (see page 104) and Army Lists and datasheets (see page 126).
 
-6.  **Reference Sheets**
+&emsp;6. **Reference Sheets**
 
 A reference sheet which allows players to easily look up the most commonly used rules and tables for Legions Imperialis mid-game.
 
-7.  **Blast and Flame Templates**
+&emsp;7. **Blast and Flame Templates**
 
-These templates represent massive explosions, energy blasts and gouts of flame, and are used with weapons that have certain Traits -- see page 77 for more details.
+These templates represent massive explosions, energy blasts and gouts of flame, and are used with weapons that have certain Traits - see page 77 for more details.
 
-8.  **Range Ruler**
+&emsp;8. **Range Ruler**
 
 At various points, players will be called upon to measure distances, such as when moving a model or measuring the range of a weapon. A Range Ruler is a handy tool for doing that, though players can use any measuring tool they wish, such as a tape measure.
 

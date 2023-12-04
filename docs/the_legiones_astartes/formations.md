@@ -22,7 +22,7 @@ The process was quickly refined and systematised, and the numbers
 of these new enhanced warriors grew swiftly, leading them to be
 organised into twenty distinct regiments that in turn grew into the
 twenty Space Marine Legions. Only eighteen would survive to grow into
-vast forces -- as to the fate of those that did not, this record does
+vast forces - as to the fate of those that did not, this record does
 not speak.
 
 When the Emperor's ambitions turned to the stars, it was the Legiones
@@ -52,7 +52,7 @@ with the finest wargear the Imperium can supply. Each member of the
 Legiones Astartes carries the martial
 
 worth of many times their number in terms of regular troops, for each
-is a killing machine bred for war -- tireless, faster, and more
+is a killing machine bred for war - tireless, faster, and more
 disciplined and clear-sighted than any mortal warrior. A Legion
 assembled in its full might can conquer worlds in days, and wields the
 power to doom entire civilisations and species to extinction.
@@ -69,9 +69,9 @@ Legion had its own distinct character and divergent order of battle.
 These unique divisions would birth rivalries and, over time, lead to
 feuds which would erupt with the advent of the Horus Heresy.
 
-![](../media/image175.png){width="0.8670024059492564in"
-height="0.2887128171478565in"}![](../media/image176.png){width="9.063497375328083in"
-height="8.19623797025372in"}•
+![](../media/image175.png)
+![](../media/image176.png)
+•
 
 • •
 
@@ -83,10 +83,10 @@ height="8.19623797025372in"}•
 
 **Consular Representatives^†^**
 
-\[^†^Senior representatives of the Armourium, Astropathic Chamber,
+[^†^Senior representatives of the Armourium, Astropathic Chamber,
 Navigators-Plenipotentiary, Librarus (when present), Apothecarion,
 Masters of the Fleet, Castrum of Ordnance, Castellans of Domain, et
-al\]
+al]
 
 **Vexillarius** (Legion Standard Bearers, Subalterns and Equerries)
 
@@ -128,7 +128,7 @@ the availability of replacement recruits.*
 
 **Battalion\* Battalion I** **II**
 
-######## [BattalionCommand(example)]{.smallcaps} {#battalioncommandexample .unnumbered}
+######## [BattalionCommand(example)] {#battalioncommandexample .unnumbered}
 
 *(Battalions were alternatively designated as Cohorts, Regiments,
 Battle Groups, etc)*
@@ -171,7 +171,7 @@ Marshal, Legate, etc)
 **Company Company Company I II** **III**
 
 \**Nominally Battalions numbered five companies each of a hundred
-Legionaries -- Battalion I was composed of Veterans and other elite
+Legionaries - Battalion I was composed of Veterans and other elite
 units, II, III and IV were line companies and the V^th^ Company
 comprised entirely of specialist troops such as dedicated assault,
 outrider or destroyer units. However in practice many larger Legions
@@ -182,8 +182,8 @@ individual*
 
 *companies also varied in strength.*
 
-![](../media/image177.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image177.png)
+
 
 *Company, battalion and even Chapter-level strike forces can be
 created by assigning higher-level assets to subordinate line units in
@@ -205,7 +205,7 @@ combined in numerous different configurations.*
 | *VII** |            |            |            |            | etc)** |
 +--------+------------+------------+------------+------------+--------+
 
-######## ![](../media/image178.png){width="9.448832020997376in" height="12.99215223097113in"}[ChapterCommand(example)]{.smallcaps} {#chaptercommandexample .unnumbered}
+######## ![](../media/image178.png)[ChapterCommand(example)] {#chaptercommandexample .unnumbered}
 
 *(Chapters were alternatively designated as Great Companies, Harrows,
 Millennials, etc)*
@@ -225,7 +225,7 @@ Subalterns and Equerries) **Chapter Command Bodyguard**
 *Nominally each Battalion was composed of five hundred line
 Legionaries each, as well as various specialists and support staff.*
 
-######## [CompanyCommand(example)]{.smallcaps} {#companycommandexample .unnumbered}
+######## [CompanyCommand(example)] {#companycommandexample .unnumbered}
 
 *(Companies were alternatively designated as Maniples, Bands,
 Brotherhoods, etc)* **Company Captain** *(alternatively Centurion,
@@ -314,8 +314,8 @@ combat.*
 
 **Legion Tactical Support Squad**
 
-![](../media/image179.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image179.png)
+
 
 **Legion Fire Raptor Gunships**
 
@@ -352,8 +352,8 @@ combat.*
 
 **Legion Deredeo Dreadnoughts**
 
-![](../media/image180.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image180.png)
+
 
 **Legion Rapier Battery Detachment**
 
@@ -371,7 +371,7 @@ interdiction duties in defence of static ground forces as required.*
 echelons provide dynamic defence and rapid counter-attack capability
 to otherwise static formations.*
 
-#### ![](../media/image181.png){width="9.448832020997376in" height="12.99215223097113in"}Legiones Astartes Army List {#legiones-astartes-army-list .unnumbered}
+#### ![](../media/image181.png)Legiones Astartes Army List {#legiones-astartes-army-list .unnumbered}
 
 The following section presents the Legiones Astartes Army List,
 reflecting the Space Marine Legions during the final years of the
@@ -382,7 +382,7 @@ rules needed to build a Legiones Astartes Army.
 
 When building a Legiones Astartes Army, the following special rules
 apply. Some rules will mention Legiones Astartes Formations,
-Detachment and/or models -- this refers to any Formation, Detachment
+Detachment and/or models - this refers to any Formation, Detachment
 or model drawn from the Legiones Astartes list, and not other
 Formations, Detachments and models that are part of the same
 
@@ -400,8 +400,8 @@ When a player musters an Army using a Legiones Astartes Army List as
 the Primary Army List, that player must select a Legion for each
 Legiones Astartes Formation within it.
 
-The Formation is referred to as a \[Legion Name\] Formation and all
-Detachments and models within it are referred to as \[Legion Name\]
+The Formation is referred to as a [Legion Name] Formation and all
+Detachments and models within it are referred to as [Legion Name]
 Detachments or models. Detachment and models within that Formation may
 gain special rules associated with the chosen Legion (see page 154).
 
@@ -431,7 +431,7 @@ Formations of that Legion. Where this is the case it will always be
 clearly stated as part of the Detachment's datasheet.
 
 A player can declare their Formations are drawn from any Legion,
-regardless of the Army's Allegiance -- though
+regardless of the Army's Allegiance - though
 
 certain Legions sided with the Emperor or the Warmaster, it was not
 unknown for disparate elements to go against the will of their
@@ -439,8 +439,8 @@ Primarch and choose a different path during the Horus Heresy. The only
 restrictions are units that are specifically Loyalist or Traitor (see
 the Loyalist and Traitors special rules in the Special Rules section).
 
-![](../media/image182.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image182.png)
+
 
 ####### Legiones Astartes Formations {#legiones-astartes-formations .unnumbered}
 
@@ -454,8 +454,8 @@ units, to ensure battle readiness in the face of myriad threats.
 
 **COMPULSORY DETACHMENTS OPTIONAL DETACHMENTS**
 
-![](../media/image183.png){width="9.448832020997376in"
-height="12.99215223097113in"}
+![](../media/image183.png)
+
 
 **Dedicated Transports:** Any Legiones Astartes Detachment within the
 Formation that contains only Infantry models may be upgraded with
@@ -471,8 +471,8 @@ One of the following:
 
 One of the following:
 
-![](../media/image184.png){width="9.448832020997376in"
-height="12.99215223097113in"}**Legion Garrison Force**
+![](../media/image184.png)
+**Legion Garrison Force**
 
 Elements of the Legiones Astartes were tasked with garrisoning planets
 on the Imperium's frontier or securing strongholds in an active
@@ -535,53 +535,53 @@ firepower and the capacity for rapid troop deployment.
 
 **Air Support**
 
-![](../media/image185.png){width="9.448832020997376in"
-height="12.992158792650919in"}![](../media/image10.png){width="9.448766404199475in"
-height="13.227759186351706in"}![](../media/image186.png){width="7.559066054243219in"
-height="5.0623326771653545in"}![](../media/image187.png){width="7.558999343832021in"
-height="4.843999343832021in"}![](../media/image188.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image189.png){width="0.6913331146106737in"
-height="0.2981660104986877in"}![](../media/image188.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image190.png){width="0.6628324584426947in"
-height="0.387166447944007in"}![](../media/image188.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image190.png){width="0.6628324584426947in"
-height="0.387166447944007in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image192.png){width="0.6675in"
-height="0.306499343832021in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image193.png){width="0.6913331146106737in"
-height="0.2981660104986877in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image194.png){width="0.6628324584426947in"
-height="0.387166447944007in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image194.png){width="0.6628324584426947in"
-height="0.387166447944007in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image193.png){width="0.6913331146106737in"
-height="0.2981660104986877in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image195.png){width="0.566499343832021in"
-height="0.464332895888014in"}![](../media/image188.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image196.png){width="0.5831660104986877in"
-height="0.6603324584426946in"}![](../media/image188.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image197.png){width="0.4148326771653543in"
-height="0.5594991251093613in"}![](../media/image188.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image198.png){width="0.4203324584426947in"
-height="0.6084995625546806in"}![](../media/image199.png){width="7.558999343832021in"
-height="4.848833114610674in"}![](../media/image200.png){width="0.7948326771653543in"
-height="0.7948326771653543in"}![](../media/image201.png){width="0.661499343832021in"
-height="0.5479997812773403in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image202.png){width="0.4148326771653543in"
-height="0.5594991251093613in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image203.png){width="0.4203324584426947in"
-height="0.6084995625546806in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image195.png){width="0.566499343832021in"
-height="0.464332895888014in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image202.png){width="0.4148326771653543in"
-height="0.5594991251093613in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image195.png){width="0.566499343832021in"
-height="0.464332895888014in"}![](../media/image204.png){width="7.558999343832021in"
-height="1.6666666666666666e-2in"}![](../media/image204.png){width="7.558999343832021in"
-height="1.666557305336833e-2in"}![](../media/image205.png){width="7.558999343832021in"
-height="5.0623326771653545in"}![](../media/image191.png){width="0.786499343832021in"
-height="0.786499343832021in"}![](../media/image203.png){width="0.4203324584426947in"
-height="0.6084995625546806in"}
+![](../media/image185.png)
+![](../media/image10.png)
+![](../media/image186.png)
+![](../media/image187.png)
+![](../media/image188.png)
+![](../media/image189.png)
+![](../media/image188.png)
+![](../media/image190.png)
+![](../media/image188.png)
+![](../media/image190.png)
+![](../media/image191.png)
+![](../media/image192.png)
+![](../media/image191.png)
+![](../media/image193.png)
+![](../media/image191.png)
+![](../media/image194.png)
+![](../media/image191.png)
+![](../media/image194.png)
+![](../media/image191.png)
+![](../media/image193.png)
+![](../media/image191.png)
+![](../media/image195.png)
+![](../media/image188.png)
+![](../media/image196.png)
+![](../media/image188.png)
+![](../media/image197.png)
+![](../media/image188.png)
+![](../media/image198.png)
+![](../media/image199.png)
+![](../media/image200.png)
+![](../media/image201.png)
+![](../media/image191.png)
+![](../media/image202.png)
+![](../media/image191.png)
+![](../media/image203.png)
+![](../media/image191.png)
+![](../media/image195.png)
+![](../media/image191.png)
+![](../media/image202.png)
+![](../media/image191.png)
+![](../media/image195.png)
+![](../media/image204.png)
+height="1.6666666666666666e-2in"}![](../media/image204.png)
+height="1.666557305336833e-2in"}![](../media/image205.png)
+![](../media/image191.png)
+![](../media/image203.png)
+
 
 **Dedicated Transports:** Any Legiones Astartes Detachment within a
 Legion Aerial Assault Formation can be upgraded with Legion Storm
@@ -592,4 +592,4 @@ Eagles or Legion Thunderhawks as Dedicated Transports, at a cost of
 have the Flyer special rule must begin the game Embarked upon a
 Transport with the Flyer special rule.
 
-### ![](../media/image206.png){width="9.448833114610673in" height="12.992158792650919in"}![](../media/image16.png){width="9.488194444444444in" height="13.227759186351706in"}![](../media/image207.png){width="5.324832677165355in" height="2.6673326771653545in"}![](../media/image208.png){width="5.331999125109362in" height="5.296165791776028in"}![](../media/image209.png){width="2.0984995625546805in" height="10.582666229221347in"}![](../media/image210.png){width="2.014832677165354in" height="10.368665791776028in"}![](../media/image211.png){width="2.1228324584426947in" height="0.25066601049868764in"}![](../media/image212.png){width="0.328332239720035in" height="0.328332239720035in"}![](../media/image213.png){width="1.216499343832021in" height="0.21233267716535434in"}![](../media/image13.png){width="0.383332239720035in" height="0.38333333333333336in"}![](../media/image214.png){width="1.2228324584426946in" height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in" height="0.38333333333333336in"}![](../media/image215.png){width="1.3919991251093613in" height="0.21233267716535434in"}![](../media/image15.png){width="0.38333333333333336in" height="0.38333333333333336in"}![](../media/image216.png){width="1.3919991251093613in" height="0.21233267716535434in"}![](../media/image33.png){width="0.383332239720035in" height="0.38333333333333336in"}![](../media/image217.png){width="5.320833333333334in" height="0.358665791776028in"}![](../media/image217.png){width="5.320833333333334in" height="0.358665791776028in"}![](../media/image218.png){width="5.324832677165355in" height="5.255325896762905in"}![](../media/image219.png){width="5.331999125109362in" height="0.29766622922134733in"}![](../media/image220.png){width="5.320166229221347in" height="0.29766622922134733in"}![](../media/image221.png){width="5.331999125109362in" height="2.7804997812773404in"}![](../media/image222.png){width="5.331999125109362in" height="3.1923326771653544in"}![](../media/image223.png){width="5.331999125109362in" height="5.296165791776028in"}
+### ![](../media/image206.png)![](../media/image16.png)![](../media/image207.png)![](../media/image208.png)![](../media/image209.png)![](../media/image210.png)![](../media/image211.png)![](../media/image212.png)![](../media/image213.png)![](../media/image13.png)![](../media/image214.png)![](../media/image15.png)![](../media/image215.png)![](../media/image15.png)![](../media/image216.png)![](../media/image33.png)![](../media/image217.png)![](../media/image217.png)![](../media/image218.png)![](../media/image219.png)![](../media/image220.png)![](../media/image221.png)![](../media/image222.png)![](../media/image223.png)
