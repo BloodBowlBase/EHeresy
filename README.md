@@ -1,4 +1,4 @@
-# Blood Bowl Base
+# Epic Heresy
 
 To start on you local PC:
 * install python 
