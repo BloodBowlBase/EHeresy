@@ -1,15 +1,16 @@
 ##  HQ DETACHMENTS 
 
-### Legate Commander Detachment 
-**16 Points** 
+### Legate Commander Detachment [16 Points]
 
-**Infantry (1) Detachment Size: 1**
+* **Type:** Infantry (1)
+* **Detachment Size:** 1
 
 Name               | Movement | Sv  | CAF | Morale | W
 -------------------|----------|-----|-----|--------|---
 Auxilia Commander  | 5"       | 6+  | +3  | 2+     | 1
 
 **Weapons**
+
 * Archaeotech pistols
 * Volkite chargers
 
@@ -24,10 +25,10 @@ Commander, Inspire (8"), Invulnerable Save (6+), Master Tactician, Solar Auxilia
 
 ---
 
-### Auxilia Tactical Command Detachment 
-**10 Points** 
+### Auxilia Tactical Command Detachment [10 Points]
 
-**Infantry (1) Detachment Size: 1** 
+* **Type:** Infantry (1) 
+* **Detachment Size:** 1
 
 Name            | Movement | Sv  | CAF | Morale | W
 ----------------|----------|-----|-----|--------|---
@@ -49,10 +50,10 @@ Commander, Inspire (8"), Solar Auxilia HQ (6")
 
 ##  CORE DETACHMENTS 
 
-### Auxilia Lasrifle Tercio 
-**30 Points** 
+### Auxilia Lasrifle Tercio [30 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name        | Movement | Sv  | CAF | Morale | W
 ------------|----------|-----|-----|--------|---
@@ -71,19 +72,17 @@ Flamers           | 6"    | 1    | 4+     | 0   | Ignores Cover, Light
 
 An Auxilia Lasrifle Tercio can purchase up to six upgrades chosen from the list below. It may purchase the same upgrade multiple times. Each upgrade increases the Detachment size by 2, adding the respective models:
 
-* **Auxiliaries** +12 points
+* **Auxiliaries** [+12 points]
 
-* **Auxiliaries with Flamers** +12 points\*
+* **Auxiliaries with Flamers** [+12 points]\*
 
-* **Veletarii** **+**12 points†
+* **Veletarii** [+12 points]†
 
-* **Ogryn Charonites** +15 points†
+* **Ogryn Charonites** [+15 points]†
 
-*\*Models added via this upgrade are Auxiliaries that exchange Auxilia
-lasrifles for flamers.*
+*\*Models added via this upgrade are Auxiliaries that exchange Auxilia lasrifles for flamers.*
 
-†*Models added via these upgrade use the respective profiles on the
-following page.*
+†*Models added via these upgrade use the respective profiles on the following page.*
 
 **Special Rules**
 
@@ -94,7 +93,8 @@ Chain of Command, Line
 ### Detachment Upgrades 
 
 #### Veletarii 
-**Infantry (1)** 
+
+* **Type:** Infantry (1)
 
 Name      | Movement | Sv  | CAF | Morale | W
 ----------|----------|-----|-----|--------|---
@@ -117,7 +117,8 @@ Independent, Line
 ---
 
 #### Charonite Ogryns 
-**Infantry (1)** 
+
+* **Type:** Infantry (1)
 
 Name            | Movement | Sv  | CAF | Morale | W
 ----------------|----------|-----|-----|--------|---
@@ -139,10 +140,10 @@ Furious Charge, Independent
 
 ##  SUPPORT DETACHMENTS 
 
-### Auxilia Ogryn Charonite Section 
-**50 Points**
+### Auxilia Ogryn Charonite Section [50 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name               | Movement | Sv  | CAF | Morale | W
 -------------------|----------|-----|-----|--------|---
@@ -160,8 +161,8 @@ Charonite claws  | -     | -    | -      | -   | Rend
 
 An Auxilia Ogryn Charonite Section can purchase one of the following upgrades:
 
-* Increase the Detachment size by 2 +15 points
-* Increase the Detachment size by 4 +30 points
+* Increase the Detachment size by 2 [+15 points]
+* Increase the Detachment size by 4 [+30 points]
 
 **Special Rules**
 
@@ -169,10 +170,10 @@ Furious Charge
 
 ---
 
-### Auxilia Veletaris Storm Section 
-**40 Points**
+### Auxilia Veletaris Storm Section [40 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name          | Movement | Sv  | CAF | Morale | W
 --------------|----------|-----|-----|--------|---
@@ -192,8 +193,8 @@ Power axes      | -     | -    | -      | -   | Rend
 
 A Veletaris Storm Section can purchase one of the following upgrades:
 
-* Increase the Detachment size by 2 +10 points
-* Increase the Detachment size by 4 +20 points
+* Increase the Detachment size by 2 [+10 points]
+* Increase the Detachment size by 4 [+20 points]
 
 **Special Rules**
 
@@ -203,10 +204,10 @@ Steadfast
 
 ## BASTION DETACHMENTS 
 
-### Auxilia Rapier Battery 
-**50 Points**
+### Auxilia Rapier Battery [50 Points]
 
-**Infantry (1) Detachment Size: 3**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 3
 
 Name            | Movement | Sv  | CAF | Morale | W
 ----------------|----------|-----|-----|--------|---
@@ -227,8 +228,8 @@ Mole mortar          | 20"       | 1    | 4+     | -1   | Burrowing
 
 An Auxilia Rapier Battery can purchase one of the following upgrades:
 
-* Increase the Detachment size by 3  +40 points
-* Increase the Detachment size by 6  +70 points
+* Increase the Detachment size by 3  [+40 points]
+* Increase the Detachment size by 6  [+70 points]
 
 **Special Rules**
 
@@ -236,10 +237,10 @@ Bulky, Chain of Command
 
 ---
 
-### Auxilia Tarantula Battery 
-**36 Points**
+### Auxilia Tarantula Battery [36 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name              | Movement | Sv  | CAF | Morale | W
 ------------------|----------|-----|-----|--------|---
@@ -258,8 +259,8 @@ Hyperios air-defense missile launcher             | 25"   | 1    | 4+     | -1  
 
 An Auxilia Tarantula Battery can purchase one of the following upgrades:
 
-* Increase the Detachment size by 2 +15 points
-* Increase the Detachment size by 4 +25 points
+* Increase the Detachment size by 2 [+15 points]
+* Increase the Detachment size by 4 [+25 points]
 
 **Special Rules**
 
@@ -269,10 +270,10 @@ Automated Sentry
 
 ##  VANGUARD DETACHMENTS 
 
-### Auxilia Aethon Heavy Sentinel Patrol 
-**35 Points**
+### Auxilia Aethon Heavy Sentinel Patrol [35 Points]
 
-**Walker (1) Detachment Size: 2**
+* **Type:** Walker (1) 
+* **Detachment Size:** 2
 
 Name                    | Movement | Sv  | CAF | Morale | W
 ------------------------|----------|-----|-----|--------|---
@@ -293,9 +294,9 @@ Sentinel missile launcher   | 20"   | 2    | 4+     | 0    | Light, Ignore Cover
 
 An Auxilia Aethon Heavy Sentinel Patrol can purchase one of the following upgrades:
 
-* Increase the Detachment size by 2 +25 points
-* Increase the Detachment size by 4 +45 points
-* Increase the Detachment size by 6 +65 points
+* Increase the Detachment size by 2 [+25 points]
+* Increase the Detachment size by 4 [+45 points]
+* Increase the Detachment size by 6 [+65 points]
 
 **Special Rules**
 
@@ -305,10 +306,10 @@ Forward Deployment
 
 ## BATTLE TANK DETACHMENTS 
 
-### Leman Russ Strike Squadron 
-**175 Points**
+### Leman Russ Strike Squadron [175 Points]
 
-**Vehicle (2) Detachment Size: 4**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 4
 
 Name                  | Movement | Sv  | CAF | Morale | W
 ----------------------|----------|-----|-----|--------|---
@@ -330,9 +331,9 @@ Hull Mounted lascannon      | 22"   | 1    | 4+     | -1   | Anti-tank, Arc (Fro
 
 A Leman Russ Strike Squadron can purchase one of the following upgrades:
 
-* Increase the Detachment size by 2 +85 points
-* Increase the Detachment size by 4 +160 points
-* Increase the Detachment size by 6 +220 points
+* Increase the Detachment size by 2 [+85 points]
+* Increase the Detachment size by 4 [+160 points]
+* Increase the Detachment size by 6 [+220 points]
 
 **Special Rules**
 
@@ -340,10 +341,10 @@ Chain of Command, Explorator Adaptation
 
 ---
 
-### Malcador Tank Squadron 
-**165 Points**
+### Malcador Tank Squadron [165 Points]
 
-**Vehicle (2) Detachment Size: 2**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 2
 
 Name                  | Movement | Sv  | CAF | Morale | W
 ----------------------|----------|-----|-----|--------|---
@@ -372,9 +373,9 @@ Hull Mounted demolisher cannon | 12"   | 1    | 4+     | -3   | Arc (Front), Dem
 
 A Malcador Tank Squadron can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
-* Increase the Detachment size by 1 +70 points
-* Increase the Detachment size by 2 +130 points
-* Increase the Detachment size by 4 +240 points
+* Increase the Detachment size by 1 [+70 points]
+* Increase the Detachment size by 2 [+130 points]
+* Increase the Detachment size by 4 [+240 points]
 
 **Special Rules**
 
@@ -384,10 +385,10 @@ Chain of Command, Explorator Adaptation
 
 ## HEAVY ARMOUR DETACHMENTS
 
-### Auxilia Super-heavy Tank Squadron 
-**100 Points**
+### Auxilia Super-heavy Tank Squadron [100 Points]
 
-**Super-heavy Vehicle (3) Detachment Size: 1**
+* **Type:** Super-heavy Vehicle (3) 
+* **Detachment Size:** 1
 
 Name                            | Movement | Sv  | CAF | Morale | W
 --------------------------------|----------|-----|-----|--------|---
@@ -417,9 +418,9 @@ Baneblade heavy flamer sponsons | 6"    | 2    | 4+     | 0    | Light, Ignores 
 
 An Auxilia Super-heavy Tank Squadron can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
-* Increase the Detachment size by 1 +90 points
-* Increase the Detachment size by 3 +255 points
-* Increase the Detachment size by 5 +390 points
+* Increase the Detachment size by 1 [+90 points]
+* Increase the Detachment size by 3 [+255 points]
+* Increase the Detachment size by 5 [+390 points]
 
 **Special Rules**
 
@@ -429,10 +430,10 @@ Chain of Command, Explorator Adaptation
 
 ##  AIR SUPPORT DETACHMENTS 
 
-### Auxilia Thunderbolt Squadron 
-**80 Points**
+### Auxilia Thunderbolt Squadron [80 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name                  | Movement | Sv  | CAF | Morale | W
 ----------------------|----------|-----|-----|--------|---
@@ -455,13 +456,13 @@ Wing bombs                            | -     | 2    | 4+     | -2   | Arc (Rear
 
 **Upgrades**
 
-Any Thunderbolt Fighter can exchange its quad autocannon for an Avenger bolt cannon for +3 points per model.
+Any Thunderbolt Fighter can exchange its quad autocannon for an Avenger bolt cannon for [+3 points] per model.
 
 An Auxilia Thunderbolt Squadron can purchase one of the following upgrades:
 
-* Increase the Detachment size by 1 +80 points
-* Increase the Detachment size by 2 +150 points
-* Increase the Detachment size by 3 +210 points
+* Increase the Detachment size by 1 [+80 points]
+* Increase the Detachment size by 2 [+150 points]
+* Increase the Detachment size by 3 [+210 points]
 
 **Special Rules**
 
@@ -469,10 +470,10 @@ Flyer, Interceptor, Jink (5+)
 
 ---
 
-### Auxilia Avenger Strike Fighter Squadron 
-**85 Points**
+### Auxilia Avenger Strike Fighter Squadron [85 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name                         | Movement | Sv  | CAF | Morale | W
 -----------------------------|----------|-----|-----|--------|---
@@ -499,9 +500,9 @@ Wing bombs                            | -     | 2    | 4+     | -2   | Arc (Rear
 
 An Auxilia Avenger Strike Fighter Squadron can purchase one of the following upgrades:
 
-* Increase the Detachment size by 1 +85 points
-* Increase the Detachment size by 2 +160 points
-* Increase the Detachment size by 3 +220 points
+* Increase the Detachment size by 1 [+85 points]
+* Increase the Detachment size by 2 [+160 points]
+* Increase the Detachment size by 3 [+220 points]
 
 **Special Rules**
 
@@ -509,10 +510,10 @@ Flyer, Interceptor, Jink (5+)
 
 ---
 
-### Auxilia Lightning Fighter Squadron 
-**85 Points**
+### Auxilia Lightning Fighter Squadron [85 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name                  | Movement | Sv  | CAF | Morale | W
 ----------------------|----------|-----|-----|--------|---
@@ -537,9 +538,9 @@ Phosphex bomb clusters                | -     | 2    | 4+     | -1   | Arc (Rear
 
 An Auxilia Lightning Fighter Squadron can purchase one of the following upgrades:
 
-* Increase the Detachment size by 1 +85 points
-* Increase the Detachment size by 2 +160 points
-* Increase the Detachment size by 3 +220 points
+* Increase the Detachment size by 1 [+85 points]
+* Increase the Detachment size by 2 [+160 points]
+* Increase the Detachment size by 3 [+220 points]
 
 **Special Rules**
 
@@ -547,10 +548,10 @@ Flyer, Interceptor, Jink (5+)
 
 ---
 
-### Auxilia Marauder Bomber Squadron 
-**85 Points**
+### Auxilia Marauder Bomber Squadron [85 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name                  | Movement | Sv  | CAF | Morale | W
 ----------------------|----------|-----|-----|--------|---
@@ -578,15 +579,15 @@ Wing bombs                            | -     | 2    | 4+     | -2   | Arc (Rear
 
 Any model in the Detachment can be upgraded to one of the following Marauder variants, using the respective profile shown on pages 196-197:
 
-* Marauder Pathfinder:.Free
-* Marauder Colossus: .Free
-* Marauder Destroyer: +10 points
+* Marauder Pathfinder [Free]
+* Marauder Colossus [Free]
+* Marauder Destroyer [+10 points]
 
 An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
-* Increase the Detachment size by 1 +85 points
-* Increase the Detachment size by 2 +160 points
-* Increase the Detachment size by 3 +220 points
+* Increase the Detachment size by 1 [+85 points]
+* Increase the Detachment size by 2 [+160 points]
+* Increase the Detachment size by 3 [+220 points]
 
 **Special Rules**
 
@@ -597,7 +598,7 @@ Flyer, Jink (5+)
 ###  Detachment Upgrades 
 
 #### Auxilia Marauder Pathfinder
-**Vehicle (2)**
+* **Type:** Vehicle (2)**
 
 Name                  | Movement | Sv  | CAF | Morale | W
 ----------------------|----------|-----|-----|--------|---
@@ -623,7 +624,7 @@ Auger Array, Flyer, Jink (5+)
 ---
 
 #### Auxilia Marauder Colossus
-**Vehicle (2)**
+* **Type:** Vehicle (2)**
 
 Name                | Movement | Sv  | CAF | Morale | W
 --------------------|----------|-----|-----|--------|---
@@ -651,7 +652,7 @@ Flyer, Jink (5+)
 ---
 
 #### Auxilia Marauder Destroyer
-**Vehicle (2)**
+* **Type:** Vehicle (2)**
 
 Name                   | Movement | Sv  | CAF | Morale | W
 -----------------------|----------|-----|-----|--------|---
@@ -663,8 +664,9 @@ Marauder Destroyer     | 24"      | 3+  | +0  | -      | 1
 * Marauder heavy bolter turrets
 * Marauder assault cannon
 * Destroyer bomb bay
-* Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs*
-* A model can take multiples of the same option. See page 195 for these options.
+* Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
+
+\* A model can take multiples of the same option. See page 195 for these options.
 
 Weapon                                | Range | Dice | To Hit | AP   | Traits
 --------------------------------------|-------|------|--------|------|-------------------
@@ -681,10 +683,10 @@ Flyer, Jink (5+)
 
 ## TRANSPORT DETACHMENTS 
 
-### Auxilia Arvus Lighter
-**12 Points Per Model**
+### Auxilia Arvus Lighter [12 Points Per Model]
 
-**Vehicle (2) Detachment Size: Variable**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** Variable**
 
 Name          | Movement | Sv  | CAF | Morale | W
 --------------|----------|-----|-----|--------|---

@@ -54,6 +54,7 @@ nav:
       - 'Formations': 'the_solar_auxilia/formations.md'
       - 'Detachments': 'the_solar_auxilia/detachments.md'      
   - 'Strategic Assets': 
+      - 'Strategic Assets': 'strategic_assets/index.md'
       - 'Formations': 'strategic_assets/formations.md'
       - 'Detachments': 'strategic_assets/detachments.md'
   - 'Reference Sheets': 

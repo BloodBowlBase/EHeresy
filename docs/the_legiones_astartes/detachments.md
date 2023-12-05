@@ -1,10 +1,9 @@
 ## HQ DETACHMENTS
 
-### Legion Command
+### Legion Command [25 Points]
 
-**25 Points**
-
-**Infantry (1) Detachment Size: 1**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 1
 
 | Name     | Movement | Sv | CAF | Morale | W |
 | ------------- | -------- | -- | --- | ------ | - |
@@ -26,11 +25,10 @@ Commander, Inspire (8"), Invulnerable Save (6+), Master Tactician, Medicae
 
 ## TRANSPORT DETACHMENTS
 
-### Legion Rhino Detachment
+### Legion Rhino Detachment [10 Points per Rhino]
 
-**10 Points per Rhino**
-
-**Vehicle (2) Detachment Size: Variable**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** Variable**
 
 | Name | Movement | Sv | CAF | Morale | W |
 | ----- | -------- | -- | --- | ------ | - |
@@ -50,8 +48,8 @@ Commander, Inspire (8"), Invulnerable Save (6+), Master Tactician, Medicae
 
 A Rhino may exchange its Pintle Mounted twin-linked bolter for one of the following:
 
-* Pintle Mounted havoc launcher (2 points per model)
-* Pintle Mounted multi-melta (4 points per model)
+* Pintle Mounted havoc launcher [2 points per model]
+* Pintle Mounted multi-melta [4 points per model]
 
 **Special Rules**
 
@@ -61,11 +59,10 @@ Transport (2)
 
 ## CORE DETACHMENTS
 
-### Legion Tactical Detachment
+### Legion Tactical Detachment [35 Points]
 
-**35 Points**
-
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 | Name         | Movement | Sv | CAF | Morale | W |
 | -------------------- | -------- | -- | --- | ------ | - |
@@ -86,11 +83,11 @@ Transport (2)
 
 A Legion Tactical Detachment can purchase up to four upgrades chosen from the list below. It may purchase the same upgrade multiple times. Each upgrade increases the Detachment size by 2, adding the respective models:
 
-* **Tactical Legionaries** +12 points
-* **Plasma Tactical Support Legionaries** +15 points\*
-* **Missile Launcher Heavy Support Legionaries** +15 points†
-* **Legion Terminators** +15 points‡
-* **Assault Marines** +12 points‡
+* **Tactical Legionaries** [+12 points]
+* **Plasma Tactical Support Legionaries** [+15 points]\*
+* **Missile Launcher Heavy Support Legionaries** [+15 points]†
+* **Legion Terminators** [+15 points]‡
+* **Assault Marines** [+12 points]‡
 
 *\*Models added via this upgrade are Tactical Legionaries that exchange Legion bolters for plasma guns.*
 
@@ -104,7 +101,7 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 
 #### Legion Terminators
 
-**Infantry (1)**
+* **Type:** Infantry (1)**
 
 | Name        | Movement | Sv | CAF | Morale | W |
 | ------------------ | -------- | -- | --- | ------ | - |
@@ -126,7 +123,7 @@ Bulky, Deep Strike, Implacable, Invulnerable Save (6+), Steadfast
 
 #### Assault Marines 
 
-**Infantry (1)**
+* **Type:** Infantry (1)**
 
 | Name       | Movement | Sv | CAF | Morale | W |
 |------------------|----------|-----|-----|--------|---|
@@ -148,10 +145,10 @@ Independent, Jump Packs
 
 ## SUPPORT DETACHMENTS
 
-### Legion Plasma Gun Support Detachment 
-**35 Points**
+### Legion Plasma Gun Support Detachment [35 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 | Name        | Movement | Sv | CAF | Morale | W |
 |---------------------|----------|-----|-----|--------|---|
@@ -169,16 +166,15 @@ Independent, Jump Packs
 
 A Legion Plasma Gun Support Detachment can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +15 points
-* **Increase the Detachment size by 4** +30 points
+* **Increase the Detachment size by 2** [+15 points]
+* **Increase the Detachment size by 4** [+30 points]
 
 ---
 
-### Legion Missile Launcher Support Detachment 
-**40 Points** 
+### Legion Missile Launcher Support Detachment [40 Points]
 
-**Infantry (1)** 
-**Detachment Size: 4**
+* **Type:** Infantry (1)**
+* **Detachment Size:** 4
 
 | Name        | Movement | Sv | CAF | Morale | W |
 |---------------------|----------|-----|-----|--------|---|
@@ -198,17 +194,17 @@ A Legion Plasma Gun Support Detachment can purchase one of the following upgrade
 A Legion Missile Launcher Support Detachment can purchase one of the
 following upgrades:
 
-* **Increase the Detachment size by 2** +15 points
-* **Increase the Detachment size by 4** +30 points
+* **Increase the Detachment size by 2** [+15 points]
+* **Increase the Detachment size by 4** [+30 points]
 
 ---
 
 ## SUPPORT DETACHMENTS
 
-### Legion Assault Detachment 
-**30 Points**
+### Legion Assault Detachment [30 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name      | Movement | Sv | CAF | Morale | W
 ----------------|----------|-----|-----|--------|---
@@ -226,8 +222,8 @@ Legion bolt pistols | 6"  | 1  | 5+   | 0  | Light
 
 A Legion Assault Detachment can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +12 points
-* **Increase the Detachment size by 4** +24 points
+* **Increase the Detachment size by 2** [+12 points]
+* **Increase the Detachment size by 4** [+24 points]
 
 **Special Rules**
 
@@ -235,10 +231,10 @@ Jump Packs
 
 ---
 
-### Legion Terminator Detachment 
-**50 Points**
+### Legion Terminator Detachment [50 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name        | Movement | Sv | CAF | Morale | W
 -------------------|----------|-----|-----|--------|---
@@ -256,8 +252,8 @@ Legion combi-bolters | 8"  | 1  | 5+   | 0  | Accurate, Assault, Light
 
 A Legion Terminator Detachment can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +15 points
-* **Increase the Detachment size by 4** +30 points
+* **Increase the Detachment size by 2** [+15 points]
+* **Increase the Detachment size by 4** [+30 points]
 
 **Special Rules**
 
@@ -265,10 +261,10 @@ Bulky, Deep Strike, Implacable, Invulnerable Save (6+), Steadfast
 
 ---
 
-### Legion Rapier Battery Detachment 
-**40 Points** 
+### Legion Rapier Battery Detachment [40 Points]
 
-**Infantry (1) Detachment Size: 2**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 2
 
 Name     | Movement | Sv | CAF | Morale | W
 -------------|----------|-----|-----|--------|---
@@ -290,9 +286,9 @@ Quad launcher      | 6"-30"    | 2  | 4+   | -1 | Barrage, Light
 
 A Legion Rapier Battery Detachment can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +30 points
-* **Increase the Detachment size by 4** +60 points
-* **Increase the Detachment size by 6** +90 points
+* **Increase the Detachment size by 2** [+30 points]
+* **Increase the Detachment size by 4** [+60 points]
+* **Increase the Detachment size by 6** [+90 points]
 
 **Special Rules**
 
@@ -300,10 +296,10 @@ Bulky
 
 ---
 
-### Leviathan Siege Dreadnought Detachment 
-**75 Points** 
+### Leviathan Siege Dreadnought Detachment [75 Points]
 
-**Walker (1) Detachment Size: 4**
+* **Type:** Walker (1) 
+* **Detachment Size:** 4
 
 Name         | Movement | Sv | CAF | Morale | W
 ---------------------|----------|-----|-----|--------|---
@@ -326,8 +322,8 @@ Leviathan siege claw   | -   | -  | -   | -4 | Rend, Wrecker (2)
 
 A Leviathan Siege Dreadnought Detachment can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +35 points
-* **Increase the Detachment size by 4** +70 points
+* **Increase the Detachment size by 2** [+35 points]
+* **Increase the Detachment size by 4** [+70 points]
 
 **Special Rules**
 
@@ -335,10 +331,10 @@ Armoured, Invulnerable Save (5+)
 
 ---
 
-### Legion Dreadnought Talon 
-**70 Points** 
+### Legion Dreadnought Talon [70 Points]
 
-**Walker (1) Detachment Size: 4**
+* **Type:** Walker (1) 
+* **Detachment Size:** 4
 
 Name          | Movement | Sv | CAF | Morale | W
 -----------------------|----------|-----|-----|--------|---
@@ -359,8 +355,8 @@ In-built twin-linked bolter  | 8"  | 1  | 5+   | 0  | Assault, Light, Point Defe
 
 A Legion Dreadnought Talon can purchase up to three upgrades chosen from the list below. It may purchase the same upgrade multiple times. Each upgrade increases the Detachment size by 2, adding the respective models:
 
-* **Contemptor Dreadnoughts** +30 points
-* **Leviathan Siege Dreadnoughts** +35 points\*
+* **Contemptor Dreadnoughts** [+30 points]
+* **Leviathan Siege Dreadnoughts** [+35 points]\*
 
 *\*Models added via this upgrade use the respective profiles below.*
 
@@ -373,7 +369,7 @@ Armoured, Invulnerable Save (6+)
 ### Detachment Upgrades
 
 #### Leviathan Siege Dreadnought 
-**Walker (1)**
+* **Type:** Walker (1)**
 
 | Name       | Movement | Sv | CAF | Morale | W  |
 |-------------------|----------|-----|------|--------|-----|
@@ -400,10 +396,10 @@ Armoured, Invulnerable Save (5+)
 
 ## BASTION DETACHMENTS
 
-### Legion Tarantula Battery 
-**36 Points** 
+### Legion Tarantula Battery [36 Points]
 
-**Infantry (1) Detachment Size: 4**
+* **Type:** Infantry (1) 
+* **Detachment Size:** 4
 
 Name       | Movement | Sv | CAF | Morale | W
 -----------------|----------|-----|-----|--------|---
@@ -422,8 +418,8 @@ Hyperios air-defence missile launcher | 25"  | 1  | 4+   | -1 | Skyfire, Trackin
 
 A Legion Tarantula Battery can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +15 points
-* **Increase the Detachment size by 4** +30 points
+* **Increase the Detachment size by 2** [+15 points]
+* **Increase the Detachment size by 4** [+30 points]
 
 **Special Rules**
 
@@ -431,10 +427,10 @@ Automated Sentry
 
 ---
 
-#### Legion Deredeo Dreadnought Detachment 
-**85 Points**
+#### Legion Deredeo Dreadnought Detachment [85 Points]
 
-**Walker (1) Detachment Size: 4**
+* **Type:** Walker (1) 
+* **Detachment Size:** 4
 
 Name         | Movement | Sv | CAF | Morale | W
 ---------------------|----------|-----|-----|--------|---
@@ -457,8 +453,8 @@ Deredeo Dreadnought | 5"    | 4+ | +2 | 3+   | 1
 
 A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 2** +40 points
-* **Increase the Detachment size by 4** +80 points
+* **Increase the Detachment size by 2** [+40 points]
+* **Increase the Detachment size by 4** [+80 points]
 
 **Special Rules**
 
@@ -468,10 +464,10 @@ Armoured, Invulnerable Save (5+), Tracking Array
 
 ## BATTLE TANK DETACHMENTS
 
-### Legion Predator Squadron 
-**115 Points** 
+### Legion Predator Squadron [115 Points]
 
-**Vehicle (2) Detachment Size: 3**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 3
 
 Name      | Movement | Sv | CAF | Morale | W
 ----------------|----------|-----|-----|--------|---
@@ -493,16 +489,16 @@ Legion Predator | 9"    | 3+ | +2 | 3+   | 1
 
 A Legion Predator Detachment can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 9:
 
-* **Increase the Detachment size by 1** +35 points
-* **Increase the Detachment size by 3** +95 points
-* **Increase the Detachment size by 6** +185 points
+* **Increase the Detachment size by 1** [+35 points]
+* **Increase the Detachment size by 3** [+95 points]
+* **Increase the Detachment size by 6** [+185 points]
 
 ---
 
-#### Legion Sicaran Squadron 
-**105 Points** 
+#### Legion Sicaran Squadron [105 Points]
 
-**Vehicle (2) Detachment Size: 2**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 2
 
 Name      | Movement | Sv | CAF | Morale | W
 ---------------|----------|-----|-----|--------|---
@@ -526,18 +522,18 @@ Legion Sicaran | 10"   | 3+ | +2 | 3+   | 1
 
 A Legion Sicaran Squadron can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
-* **Increase the Detachment size by 1** +40 points
-* **Increase the Detachment size by 2** +70 points
-* **Increase the Detachment size by 4** +140 points
+* **Increase the Detachment size by 1** [+40 points]
+* **Increase the Detachment size by 2** [+70 points]
+* **Increase the Detachment size by 4** [+140 points]
 
 ---
 
 ## HEAVY ARMOUR DETACHMENTS
 
-### Legion Kratos Squadron 
-**150 Points** 
+### Legion Kratos Squadron [150 Points]
 
-**Vehicle (2) Detachment Size: 2**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 2
 
 Name     | Movement | Sv | CAF | Morale | W
 -------------|----------|-----|-----|--------|---
@@ -565,18 +561,18 @@ Legion Kratos | 8"   | 2+ | +3 | 3+   | 2
 
 A Legion Kratos Squadron can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
 
-* **Increase the Detachment size by 1** +60 points
-* **Increase the Detachment size by 2** +110 points
-* **Increase the Detachment size by 4** +200 points
+* **Increase the Detachment size by 1** [+60 points]
+* **Increase the Detachment size by 2** [+110 points]
+* **Increase the Detachment size by 4** [+200 points]
 
 ---
 
 ## AIR SUPPORT DETACHMENTS
 
-### Legion Xiphon Interceptor Squadron 
-**95 Points** 
+### Legion Xiphon Interceptor Squadron [95 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name       | Movement | Sv | CAF | Morale | W
 ------------------|-----------|-----|-----|--------|---
@@ -596,9 +592,9 @@ Xiphon Interceptor| 30"    | 3+ | +0 | -   | 1
 
 A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 1** +85 points
-* **Increase the Detachment size by 2** +160 points
-* **Increase the Detachment size by 3** +215 points
+* **Increase the Detachment size by 1** [+85 points]
+* **Increase the Detachment size by 2** [+160 points]
+* **Increase the Detachment size by 3** [+215 points]
 
 **Special Rules**
 
@@ -606,10 +602,10 @@ Flyer, Interceptor, Jink (5+)
 
 ---
 
-### Legion Storm Eagle Squadron 
-**100 Points** 
+### Legion Storm Eagle Squadron [100 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name     | Movement | Sv | CAF | Morale | W
 -------------|----------|-----|-----|--------|---
@@ -633,8 +629,8 @@ Storm Eagle | 25"   | 3+ | +0 | -   | 1
 
 A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 1** +100 points
-* **Increase the Detachment size by 2** +190 points
+* **Increase the Detachment size by 1** [+100 points]
+* **Increase the Detachment size by 2** [+190 points]
 
 **Special Rules**
 
@@ -642,10 +638,10 @@ Assault Transport (5), Flyer, Hover, Jink (5+)
 
 ---
 
-### Legion Fire Raptor Squadron 
-**100 Points** 
+### Legion Fire Raptor Squadron [100 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name     | Movement | Sv | CAF | Morale | W
 -------------|----------|-----|-----|--------|---
@@ -669,8 +665,8 @@ Fire Raptor | 25"   | 3+ | +0 | -   | 1
 
 A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 1** +100 points
-* **Increase the Detachment size by 2** +190 points
+* **Increase the Detachment size by 1** [+100 points]
+* **Increase the Detachment size by 2** [+190 points]
 
 **Special Rules**
 
@@ -678,10 +674,10 @@ Flyer, Hover, Jink (5+)
 
 ---
 
-#### Legion Thunderhawk Gunship 
-**150 Points** 
+#### Legion Thunderhawk Gunship [150 Points]
 
-**Vehicle (2) Detachment Size: 1**
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
 
 Name        | Movement | Sv | CAF | Morale | W
 --------------------|----------|-----|-----|--------|---
@@ -705,8 +701,8 @@ Thunderhawk Gunship | 25"   | 2+ | +0 | -   | 2
 
 A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 
-* **Increase the Detachment size by 1** +150 points
-* **Increase the Detachment size by 2** +280 points
+* **Increase the Detachment size by 1** [+150 points]
+* **Increase the Detachment size by 2** [+280 points]
 
 **Special Rules**
 

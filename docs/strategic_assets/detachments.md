@@ -1,172 +1,681 @@
+## KNIGHT DETACHMENTS 
 
-##  STRATEGIC ASSETS 
+### Questoris Knight Banner [180 Points]
 
-hen the Emperor embarked on the Great Crusade, he began the daunting
-task of uniting the vast diaspora of humanity. Among these
-rediscovered children
+* **Type:** Knight (4)
+* **Detachment Size:** 1
 
-of Terra were the Knight Worlds, wondrous feudal kingdoms which had
-endured the Age of Strife, their populaces elevating the Scions and
-their Knights to the rank of nobility and swearing their fealty to
-them. These planets, often isolated frontier realms or domains allied
-with nearby Forge Worlds, were notable for the number of ancient
-Knight armours they maintained. Each an esoteric artefact of a bygone
-age, the Knight armour was akin to the god-engines of the Collegia
-Titanica in many of
+| Name              | Movement | Sv  | CAF | Morale | W  |
+| ----------------- | -------- | --  | --- | ------ | -- |
+| Questoris Knight  | 8"      | 3+  | +8  | 2+     | 3  |
 
-its technologies, with each Knight piloted by a single brave
-individual instilled with a code of honour and chivalry known as a
-Knight Scion.
+**Weapons**
 
-Knight-class walkers were true relics of an age of human history lost
-now to allegory and myth. These unique machines and the mind-impulse
-systems that control them predate the arts and arcana of the
-Mechanicum by a considerable measure, and to the priests of the
-Omnissiah they are things of sacred mystery and beauty.
+Each Questoris Knight has one of the following weapon loadouts:
 
-Many of the methods of their construction are beyond the realms of all
-but the most learned Magos to fully understand, but the presence of
-priceless STC manufacturing units devoted to their construction on
-ancient colony worlds of the Knight Households, known collectively as
-the Questoris Familia, makes the replication and maintenance of these
-powerful machines possible. Serving both as militant worlds and as
-archives of technology lost to all others, Knight Worlds are thus
-afforded a measure of political and military independence in return
-for sharing both strength of arms and knowledge.
+* **Knight Errant:** Thermal cannon, heavy stubber, and a Reaper chainsword\*
+* **Knight Paladin:** Rapid-fire battlecannon, heavy stubber, and a Reaper chainsword\*
+* **Knight Warden:** Questoris-avenger gatling cannon, meltagun, and a Reaper chainsword\*
+* **Knight Gallant:** Thunderstrike gauntlet, meltagun, and a Reaper chainsword\*
+* **Knight Crusader:** Heavy stubber and either a Questoris-avenger gatling cannon and thermal cannon or a rapid-fire battlecannon and thermal cannon\*
 
-####### Using Strategic Assets 
+For +15 points, a Questoris Knight may have one of the following weapon loadouts instead:
 
-Strategic Assets represent elements of the Imperium's armies that
-don't fit neatly into a single Army List or were widespread across the
-Expeditionary fleets of the Great Crusade. Included in these ranks are
-the god-engines of the Collegia Titanica and the Knight Banners of the
-Questoris Familia.
+* **Knight Styrix**†
+* **Knight Magaera**†
 
-Strategic Assets are not a full Army List and therefore cannot be
-chosen as the Primary List of an Army. Instead, it encompasses a
-number of Formations that can be used as Allied Contingents within an
-Army.
+\*A Questoris Knight with this loadout may also be equipped with rocket pods for +5 points.
 
-Unless instructed otherwise, any Army can take a Strategic Asset
-Formation, though some Detachments may have restrictions as to which
-Army they can be included in, such as armies with a particular
-Allegiance.
+†Knight Styrix/Knight Magaera use the corresponding profiles on page 207.
 
-![](../media/image374.png)
+| Weapon              | Range | Dice | To Hit | AP  | Traits                     |
+| ------------------- | ----- | ---- | ------ | --  | -------------------------- |
+| Thermal cannon       | 12"   | 2    | 4+     | -3  | Anti-tank, Arc (Front), Demolisher |
+|                     | 6"    | 1    | 3+     | -4  | Anti-tank, Arc (Front), Demolisher, Engine Killer (1) |
+| Rapid-fire battlecannon | 28" | 2    | 4+     | -2  | Arc (Front), Rapid Fire    |
+| Questoris-avenger gatling cannon | 16" | 5 | 5+  | -2  | Arc (Front), Light AT, Rapid Fire |
+| Heavy stubber        | 14"   | 1    | 5+     | 0   | Arc (Front), Light, Point Defence |
+| Meltagun             | 6"    | 1    | 4+     | -3  | Anti-tank, Arc (Front)     |
+| Reaper chainsword    | -     | -    | -      | -   | Rend                       |
+| Thunderstrike gauntlet | -  | -    | -      | -2  | Rend, Wrecker (1)          |
+| Rocket pods          | 16"   | 2    | 4+     | -1  | Arc (Front), Barrage       |
+
+**Upgrades**
+
+Questoris Knights can exchange their Reaper chainsword for a thunderstrike gauntlet for [+2 points per model].
+
+A Questoris Knight Banner can purchase one of the following upgrades:
+
+* Increase the Detachment size by 1 [+180 points]
+* Increase the Detachment size by 2 [+340 points]
+
+In addition, a Questoris Knight Banner may purchase one of the following upgrades:
+
+* Questoris Knight Armiger Talon [+180 points]‡
+* Mechanicum Knight Moirax Talon [+200 points]‡
+
+‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles on page 211.
+
+**Special Rules**
+
+Independent, Ion Shields (4+), Nimble
+
+### Detachment Upgrades 
+
+#### Knight Styrix
+
+* **Type:** Knight (4)
+
+| Name          | Movement | Sv  | CAF | Morale | W  |
+| ------------- | -------- | --  | --- | ------ | -- |
+| Knight Styrix | 8"      | 3+  | +8  | 2+     | 3  |
+
+**Weapons**
+
+* Volkite chieorovile
+* Hekaton siege claw
+* Graviton gun
+
+| Weapon              | Range | Dice | To Hit | AP  | Traits                            |
+| ------------------- | ----- | ---- | ------ | --  | --------------------------------- |
+| Volkite chieorovile | 12"   | 3    | 4+     | -2  | Arc (Front), Deflagrate, Light AT, Shieldbane |
+| Hekaton siege claw  | -     | -    | -      | -5  | Rend, Wrecker (3)                 |
+| Graviton gun        | 6"    | 1    | -      | -1  | Arc (Front), Graviton Pulse       |
+
+**Special Rules**
+
+Blessed Auto-simulacra, Independent, Ionic Flare Shield, Ion Shields (4+), Nimble
+
+#### Knight Magaera
+
+* **Type:** Knight (4)
+
+| Name          | Movement | Sv  | CAF | Morale | W  |
+| ------------- | -------- | --  | --- | ------ | -- |
+| Knight Magaera | 8"      | 3+  | +8  | 2+     | 3  |
+
+**Weapons**
+
+* Lightning cannon
+* Hekaton siege claw
+* Phased plasma-fusil
+
+| Weapon              | Range | Dice | To Hit | AP  | Traits                            |
+| ------------------- | ----- | ---- | ------ | --  | --------------------------------- |
+| Lightning cannon     | 22"   | 2    | 5+     | -2  | Arc (Front), Blast (3")          |
+| Hekaton siege claw  | -     | -    | -      | -5  | Rend, Wrecker (3)                |
+| Phased plasma-fusil | 10"   | 1    | 4+     | -2  | Arc (Front), Light AT            |
+
+**Special Rules**
+
+Blessed Auto-simulacra, Independent, Ionic Flare Shield, Ion Shields (4+), Nimble
+
+### Cerastus Knight Banner [215 Points]
+
+* **Type:** Knight (4)
+* **Detachment Size:** 1
+
+| Name            | Movement | Sv  | CAF | Morale | W  |
+| --------------- | -------- | --  | --- | ------ | -- |
+| Cerastus Knight | 9"      | 3+  | +11 | 2+     | 3  |
+
+**Weapons**
+
+Each Cerastus Knight has one of the following weapon loadouts:
+
+* **Knight Acheron:** Acheron pattern flame cannon, Reaper chainfist, and in-built twin-linked heavy bolters.
+* **Knight Castigator:** Castigator pattern bolt cannon and a Tempest warblade.
+* **Knight Lancer:** Shock lance and an ion gauntlet shield\*
+
+For +20 points, a Cerastus Knight may have one of the following loadouts instead:
+
+* **Cerastus Knight Atrapos**†
+
+\*A Knight Lancer exchanges the Ion Shield (4+) special rule for Ion Shield (3+).
+
+†Cerastus Knight Atrapos use the corresponding profiles on page 209.
+
+| Weapon                 | Range | Dice | To Hit | AP  | Traits                           |
+| ---------------------- | ----- | ---- | ------ | --  | -------------------------------- |
+| Acheron pattern flame cannon | 8"  | 3    | 4+     | -2  | Arc (Front), Ignores Cover, Light AT |
+| In-built twin-linked heavy bolters | 12" | 2 | 5+ | 0 | Arc (Front), Light, Point Defence |
+| Reaper chainfist       | -     | -    | -      | -   | Rend                            |
+| Castigator pattern bolt cannon | 14" | 4 | 5+ | -2 | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+| Tempest warblade       | -     | -    | -      | -   | Rend                            |
+| Shock lance            | -     | -    | -      | -   | Reach, Rend                     |
+| Ion gauntlet shield    | 6"    | 2    | 5+    | -2  | Arc (Front)                     |
+
+**Upgrades**
+
+A Cerastus Knight Banner can purchase one of the following upgrades:
+
+* Increase the Detachment size by 1 [+200 points]
+* Increase the Detachment size by 2 [+390 points]
+
+In addition, a Cerastus Knight Banner may purchase one of the following upgrades:
+
+* Questoris Knight Armiger Talon [+180 points]‡
+* Mechanicum Knight Moirax Talon [+200 points]‡
+
+‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles on page 211.
+
+**Special Rules**
+
+Furious Charge, Independent, Ion Shields (4+), Nimble
+
+### Detachment Upgrades 
+
+#### Cerastus Knight Atrapos 
+
+* **Type:** Knight (4)
+
+| Name              | Movement | Sv  | CAF | Morale | W  |
+| ----------------- | -------- | --  | --- | ------ | -- |
+| Cerastus Knight   | 9"      | 3+  | +11 | 2+     | 3  |
+
+**Weapons**
+
+* Graviton singularity cannon
+* Atrapos lascutter
+
+| Weapon                      | Range | Dice | To Hit | AP  | Traits                            |
+| --------------------------- | ----- | ---- | ------ | --  | --------------------------------- |
+| Graviton singularity cannon | 16"   | 2    | 3+     | -3  | Arc (Front), Armourbane, Collapsing Singularity |
+| Atrapos lascutter            | 6"    | 1    | 2+     | -4  | Arc (Front), Engine Killer (1), Rend, Wrecker (3) |
+
+**Special Rules**
+
+Furious Charge, Independent, Ion Shield (3+), Macro-extinction Targeting Protocols, Nimble
+
+### Acastus Knight Banner [250 Points]
+
+* **Type:** Knight (4)
+* **Detachment Size:** 1
+
+| Name            | Movement | Sv  | CAF | Morale | W  |
+| --------------- | -------- | --  | --- | ------ | -- |
+| Acastus Knight   | 6"      | 2+  | +7  | 2+     | 3  |
+
+**Weapons**
+
+* Two Twin magna lascannon
+* Acastus lascannon or Acastus autocannon
+* Ironstorm missile pod or Helios defence missiles
+
+Any Acastus Knight may exchange all of its weapons for the following, for [+20 points]:
+
+* Two conversion beam cannon
+* Volkite culverin
+* Karacnos mortar battery
+
+| Weapon                    | Range | Dice | To Hit | AP  | Traits                                  |
+| ------------------------- | ----- | ---- | ------ | --  | --------------------------------------- |
+| Twin magna lascannon      | 25"   | 2    | 4+     | -3  | Accurate, Anti-tank, Arc (Front)       |
+| Ironstorm missile pod     | 25"   | 3    | 4+     | -1  | Arc (Front), Light AT                  |
+| Helios defence missiles   | 25"   | 2    | 4+     | -2  | Anti-tank, Arc (Front), Skyfire, Tracking |
+| Acastus lascannon         | 22"   | 1    | 4+     | -1  | Anti-tank, Arc (Front)                 |
+| Conversion beam cannon    | 6"    | 1    | 4+     | -2  | Arc (Front)                            |
+|                          | 6"-18" | 1    | 3+     | -3  | Arc (Front), Demolisher               |
+|                          | 18"-35" | 2   | 3+     | -4  | Arc (Front), Demolisher               |
+| Volkite culverin          | 14"   | 2    | 4+     | 0   | Arc (Front), Deflagrate, Light        |
+| Karacnos mortar battery   | 30"   | 2    | 4+     | -1  | Arc (Front), Barrage, Ignores Cover    |
+| Acastus autocannon        | 16"   | 3    | 5+     | -1  | Arc (Front), Light AT                |
+
+**Upgrades**
+
+An Acastus Knight Banner can increase its Detachment size by 1 for [+250 points].
+
+In addition, an Acastus Knight Banner may purchase one of the following upgrades:
+
+* Questoris Knight Armiger Talon [+180 points]\*
+* Mechanicum Knight Moirax Talon [+200 points]\*
+
+\*Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles on page 211.
+
+**Special Rules**
+
+Blessed Auto-simulacra, Independent, Ion Shields (4+)
+
+### Detachment Upgrades 
+
+### Questoris Knight Armiger Talon [180 Points]
+
+* **Type:** Knight (4)
+
+| Name             | Movement | Sv  | CAF | Morale | W  |
+| ---------------- | -------- | --  | --- | ------ | -- |
+| Knight Armiger   | 8"      | 3+  | +6  | 2+     | 2  |
+
+**Weapons**
+
+* Thermal spear and Reaper chain-cleaver or Armiger autocannon
+
+| Weapon                 | Range | Dice | To Hit | AP  | Traits                            |
+| ---------------------- | ----- | ---- | ------ | --  | --------------------------------- |
+| Thermal spear          | 8"   | 1    | 3+     | -3  | Arc (Front), Demolisher, Engine Killer (1) |
+| Reaper chain-cleaver   | -    | -    | -      | -   | Rend                              |
+| Armiger autocannon     | 16"  | 2    | 5+     | -1  | Arc (Front), Light AT            |
+
+**Special Rules**
+
+Ion Shields (5+), Nimble
+
+#### Mechanicum Knight Moirax Talon 
+
+* **Type:** Knight (4)
+
+| Name          | Movement | Sv  | CAF | Morale | W  |
+| ------------- | -------- | --  | --- | ------ | -- |
+| Knight Moirax | 8"      | 3+  | +6  | 2+     | 2  |
+
+**Weapons**
+
+* Armiger lightning locks or a volkite veuglaire and a Gyges siege claw
+
+| Weapon                   | Range | Dice | To Hit | AP  | Traits                               |
+| ------------------------ | ----- | ---- | ------ | --  | ------------------------------------ |
+| Armiger lightning locks  | 12"   | 2    | 5+     | -2  | Arc (Front)                          |
+| Volkite veuglaire         | 14"   | 2    | 4+     | -1  | Arc (Front), Deflagrate, Light AT   |
+| Gyges siege claw          | -     | -    | -      | -4  | Rend, Wrecker (2)                   |
+
+**Special Rules**
+
+Ionic Flare Shield, Ion Shields (5+), Nimble
 
 
-## ![](../media/image375.png)LEGIO ASTORUM WARLORD BATTLE TITAN 
+## TITAN DETACHMENTS 
 
-####### Dauntless Wrath 
+### Warhound Hunting Pack [330 Points]
 
-During the defence of Tallarn, the Legio Gryphonicus called upon their
-brothers in the Legio Astorum to aid them. While the majority of the
-Warp Runners Titans were engaged elsewhere, they were able to send
-several maniples to counter the combined might of the Legio Krytos and
-their Iron Warriors
+* **Type:** Titan (5)
+* **Detachment Size:** 1
 
-allies. *Dauntless Wrath* was one of the Legio Astorum Warlord Titans
-to see action on Tallarn and survive the scouring of that world. Later
-in the Horus Heresy, veterans of Tallarn would often recall what they
-had endured during the fighting on that dead planet, and cite it among
-the greatest crimes wrought by the Warmaster.
+| Name            | Movement | Sv  | CAF | Morale | W  |
+| --------------- | -------- | --  | --- | ------ | -- |
+| Warhound Titan  | 7"      | 2+  | +10 | -      | 4  |
 
-## ![](../media/image376.png)KNIGHT BANNER 'ZHOLON-KUTHOS' 
+**Weapons**
 
-#### Legio Ulicon Support Element House Malinax 
+Warhound Titans have two weapons chosen from the list below – it may choose two of the same weapon:
 
-**Scouring of Arten's World**
+* Inferno gun
+* Vulcan mega-bolter
+* Turbo-laser destructor
+* Plasma blastgun
+* Graviton eradicator
+* Conversion beam dissolutor
+* Ursus claw
+* Natrix shock lance
+* Incisor pattern melta lance
+* Volkite eradicator
+* Warhound shudder missiles
+* Warhound swarmer missiles
 
-**Thonal Zhul**
+| Weapon                          | Range | Dice | To Hit | AP  | Traits                                           |
+| ------------------------------- | ----- | ---- | ------ | --  | ------------------------------------------------ |
+| Vulcan mega-bolter              | 22"   | 10   | 5+     | -1  | Arc (Front), Light AT, Rapid Fire, Shieldbane  |
+| Turbo-laser destructor          | 40"   | 2    | 4+     | -3  | Accurate, Arc (Front)                          |
+| Plasma blastgun                 | 20"   | 2    | 3+     | -3  | Arc (Front)                                    |
+| Inferno gun                     | T     | -    | 4+     | -2  | Arc (Front), Firestorm, Light AT, Shieldbane |
+| Incisor pattern melta lance     | 14"   | 1    | 4+     | -3  | Accurate, Anti-tank, Arc (Front), Demolisher  |
+|                                 | 6"    | 1    | 3+     | -4  | Accurate, Anti-tank, Arc (Front), Demolisher, Engine Killer (2) |
+| Volkite eradicator              | 16"   | 3    | 4+     | -2  | Arc (Front), Beam, Deflagrate, Light AT, Shieldbane |
+| Warhound shudder missiles       | 35"   | 2    | 4+     | -1  | Arc (Front), Barrage, Quake                   |
+| Warhound swarmer missiles       | 35"   | 8    | 5+     | -1  | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+| Ursus claw                      | 6"    | 1    | 4+    | SP  | Impale                                          |
+| Natrix shock lance              | 6"    | 1    | 2+    | -1  | Bypass, Shock Pulse                            |
+| Graviton eradicator             | 30"   | 2    | -      | -2  | Arc (Front), Demolisher, Graviton Pulse       |
+| Conversion beam dissolutor      | 6"    | 2    | 4+    | -2  | Arc (Front)                                    |
+|                                 | 6"-18" | 2    | 3+    | -3  | Arc (Front), Demolisher                       |
+|                                 | 18"-35" | 2   | 2+    | -4  | Arc (Front), Demolisher                       |
 
-**Kzilus Lokazluk**
+**Upgrades**
 
-A Banner-marshal of House Malinax, Zholon-Kuthos commanded numerous
-actions in the name of the Warmaster's cause, despite the Forge World
-to which Malinax was bonded - Xana - being wont to chart an
-autonomous course. In support of the Traitor Legio Ulicon during the
-Scouring of Arten's World, Zholon-Kuthos and his underlings slew three
-times their own number of Knights of House Vornherr, grievous losses
-for a Household already driven to the precipice of extinction due to
-the events of Calth.
+A Warhound Hunting Pack can purchase one of the following upgrades:
 
-## ![](../media/image377.png)LEGIO FUREANS 
+* Increase the Detachment size by 1 [+330 points]
+* Increase the Detachment size by 2 [+640 points]
 
-**Cyra Jal**
+**Special Rules**
 
-**Maeraka Hazn Dakh Cynal**
-
-![](../media/image378.png)
-
-
-**Leyaka Varr**
-
-**Leyaka Rakis**
-
-The introduction of Reaver class Battle Titans did not occur within
-Legio Fureans until its participation during the Great Crusade, with
-the Forge World of Incaladion incapable of producing them
-independently before the Imperium's arrival. The princeps of the
-*Leyaka Rakis* and *Leyaka Varr* were amongst the first to assume
-command of such god-engines, pioneering a range of unique manoeuvres
-that made novel use of the class' characteristics. These tactics were
-of particular use against Loyalist elements on Paramar V, with the two
-princeps and their crews accounting for three confirmed Battle Titan
-kills between them.
-
-**House Col'Khak Cerastus Knight Atrapos Omnissiah's Will**
-
-**House Vextrix Questoris Knight Styrix Fractured Angel**
-
-![](../media/image379.png)
-**House Sidus Questoris Knight Magaera
-Ursanghou**
-
-**House Morbidia Cerastus Knight Atrapos Ire of Mars**
-
-####### Strategic Asset Formations 
-
-**Legion Support**
-
-The god-engines of the Collegia Titanica were terrifying weapons of
-war, each one capable of obliterating hordes of lesser enemies. Though
-it was not unheard of for a Titan Legion to be fielded in large
-numbers, it was more common for a small number of god-engines to be
-attached to other Imperial forces, lending their considerable might
-for the duration of a campaign.
-
-**Knight Household Lance**
-
-Knight Scions would frequently march to battle in Lances, consisting
-of a group of Knight armours of the same class commanded by a Scion of
-middling rank. These units would act as support elements for Titan
-maniples or other Imperial elements, utilising the skill of their
-Scions and the wondrous artifice of each Knight to ensure victory.
-
-**COMPULSORY DETACHMENTS**
-
-**COMPULSORY DETACHMENTS**
-
-![](../media/image380.png)
+Agile, Void Shields (2)
 
 
-**Paragon of Duty:** Each Knight Scion is a master of battle, trained
-in the tactics of their Household. As such,
+### Dire Wolf Heavy Scout Titan [385 Points]
 
-each Knight model within this Formation that has the Independent
-special rule always forms its own Independent Unit, even if there are
-several models within a Detachment that have the same name.
+* **Type:** Titan (5)
+* **Detachment Size:** 1
 
-*For example:*
+| Name           | Movement | Sv  | CAF | Morale | W  |
+| -------------- | -------- | --  | --- | ------ | -- |
+| Dire Wolf Titan | 7"      | 2+  | +10 | -      | 4  |
 
-*A Questoris Knight Banner consists of a Knight Errant, 2 Knight
-Paladin and 1 Questoris Knight Armiger Talon. As such the Detachment
-is formed of three Independent Units: a Knight Errant, a Knight
-Paladin and a Knight Paladin.*
+**Weapons**
 
-In some cases, this will mean the entire Detachment is formed of
-Independent Units - they still count as
+* Ardex mega-bolters
+* Neutron laser or a volcano cannon or conversion beam dissipator
 
-a single Detachment, and so must maintain a Coherency of 6" with at
-least one other model in the Detachment, but otherwise can be issued
-an Order separately, have some models Engaged and not others, etc.
+| Weapon                     | Range | Dice | To Hit | AP  | Traits                                     |
+| -------------------------- | ----- | ---- | ------ | --  | ------------------------------------------ |
+| Neutron laser              | 38"   | 1    | 4+     | -3  | Arc (Front), Shock Pulse                   |
+| Volcano cannon             | 70"   | 1    | 3+     | -4  | Arc (Front), Engine Killer (2)            |
+| Ardex mega-bolters         | 12"   | 9    | 5+     | -1  | Light AT, Point Defence, Rapid Fire, Shieldbane |
+| Conversion beam dissipator | 6"    | 2    | 4+     | -2  | Arc (Front), Accurate                     |
+|                            | 6"-18" | 3    | 3+     | -3  | Arc (Front), Accurate, Demolisher         |
+|                            | 18"-35" | 3   | 3+     | -4  | Arc (Front), Accurate, Demolisher         |
+
+**Special Rules**
+
+Agile, Infiltrate, Void Shields (2)
+
+### Reaver Battle Titan [415 Points]
+
+* **Type:** Titan (5)
+* **Detachment Size:** 1
+
+| Name               | Movement | Sv  | CAF | Morale | W  |
+| ------------------ | -------- | --  | --- | ------ | -- |
+| Reaver Battle Titan | 6"      | 2+  | +12 | -      | 5  |
+
+**Weapons**
+
+Reaver Titans have two weapons chosen from the list below – it may choose two of the same weapon:
+
+* Reaver laser blaster
+* Reaver gatling blaster
+* Reaver volcano cannon
+* Reaver melta cannon
+* Reaver power fist
+* Reaver chainfist
+
+Reaver Titans also have one weapon chosen from the list below:
+
+* Reaver apocalypse missile launcher
+* Reaver Vulcan mega-bolter
+* Reaver Titan warp missile
+* Reaver turbo-laser destructor
+* Reaver volkite eradicator
+* Reaver graviton eradicator
+* Reaver conversion beam dissolutor
+
+| Weapon                          | Range    | Dice | To Hit | AP  | Traits                                   |
+| ------------------------------- | -------- | ---- | ------ | --  | ---------------------------------------- |
+| Reaver laser blaster            | 40"      | 3    | 4+     | -3  | Arc (Front)                              |
+| Reaver gatling blaster          | 35"      | 4    | 4+     | -2  | Arc (Front)                              |
+| Reaver volcano cannon           | 60"      | 1    | 2+     | -4  | Arc (Front), Engine Killer (3)           |
+| Reaver melta cannon             | 14"      | 2    | 4+     | -3  | Anti-tank, Arc (Front), Demolisher      |
+|                                 | 8"       | 2    | 3+     | -4  | Anti-tank, Arc (Front), Demolisher, Engine Killer (4) |
+| Reaver power fist               | -        | -    | -      | -4  | Engine Killer (1), Rend, Wrecker (4)    |
+| Reaver chainfist                | -        | -    | -      | -4  | Engine Killer (2), Rend, Wrecker (3)    |
+| Reaver volkite eradicator       | 16"      | 3    | 4+     | -2  | Beam, Deflagrate, Light AT, Shieldbane  |
+| Reaver Apocalypse missile launcher | 8"-100" | 5    | 4+     | -1  | Heavy Barrage                            |
+| Reaver Vulcan mega-bolter       | 22"      | 9    | 5+     | -1  | Light AT, Rapid Fire, Shieldbane       |
+| Reaver turbo-laser destructor   | 40"      | 2    | 4+     | -3  | Accurate                                 |
+| Reaver Titan warp missile       | 8"-75"   | SP   | 2+     | -3  | Arc (Front), Engine Killer (3), Limited (1), Warp |
+| Reaver graviton eradicator      | 30"      | 2    | -      | -2  | Demolisher, Graviton Pulse              |
+| Reaver conversion beam dissolutor | 6"     | 2    | 4+     | -2  |                                          |
+|                                  | 6"-18"  | 2    | 3+     | -3  | Demolisher                              |
+|                                  | 18"-35" | 2    | 3+     | -4  | Demolisher                              |
+
+**Special Rules**
+
+Void Shields (4)
+
+### Warbringer Nemesis Titan [525 Points]
+
+* **Type:** Titan (5)
+* **Detachment Size:** 1
+
+| Name                    | Movement | Sv  | CAF | Morale | W  |
+| ----------------------- | -------- | --  | --- | ------ | -- |
+| Warbringer Nemesis Titan | 5"      | 2+  | +12 | -      | 5  |
+
+**Weapons**
+
+* Anvillus pattern defence batteries
+* Ardex-defensor mauler bolt cannon turrets
+* Mori quake cannon or Belicosa volcano cannon
+
+In addition, a Warbringer Nemesis Titan has two weapons chosen from the list below – it may choose two of the same weapon:
+
+* Reaver laser blaster
+* Reaver gatling blaster
+* Reaver volcano cannon
+* Reaver melta cannon
+
+| Weapon                         | Range  | Dice | To Hit | AP  | Traits                                |
+| ------------------------------ | ------ | ---- | ------ | --  | ------------------------------------- |
+| Reaver laser blaster           | 40"    | 3    | 4+     | -3  | Arc (Front)                           |
+| Reaver gatling blaster         | 35"    | 4    | 4+     | -2  | Arc (Front)                           |
+| Reaver volcano cannon          | 60"    | 1    | 2+     | -4  | Arc (Front), Engine Killer (3)        |
+| Reaver melta cannon            | 14"    | 2    | 4+     | -3  | Anti-tank, Arc (Front), Demolisher   |
+|                                | 8"     | 2    | 3+     | -4  | Anti-tank, Arc (Front), Demolisher, Engine Killer (4) |
+| Mori quake cannon              | 80"    | 1    | 3+     | -2  | Arc (Front), Blast (5"), Quake       |
+| Belicosa volcano cannon        | 70"    | 1    | 2+     | -5  | Arc (Front), Engine Killer (4)        |
+| Ardex-defensor mauler bolt cannon turrets | 8"  | 5    | 5+     | -2  | Light AT, Point Defence               |
+| Anvillus pattern defence batteries | 20"  | 5    | 5+     | -1  | Point Defence, Skyfire                |
+
+**Special Rules**
+
+Void Shields (6)
+
+### Warlord Battle Titan [600 Points]
+
+* **Type:** Titan (5)
+* **Detachment Size:** 1
+
+| Name                  | Movement | Sv  | CAF | Morale | W  |
+| --------------------- | -------- | --  | --- | ------ | -- |
+| Warlord Battle Titan  | 5"      | 2+  | +14 | -      | 6  |
+
+**Weapons**
+
+* Ardex-defensor mauler bolt cannon turrets
+* Ardex-defensor lascannon turrets
+
+In addition, Warlord Battle Titans have two weapons chosen from the list below – it may choose two of the same weapon:
+
+* Belicosa volcano cannon
+* Sunfury plasma annihilator
+* Macro-gatling blaster
+* Mori quake cannon
+* Arioch power claw
+* Volkite destructor
+* Warlord graviton ruinator
+* Conversion beam extripator
+
+Warlord Battle Titans also have one weapon chosen from the list below:
+
+* Apocalypse missile launchers
+* Paired gatling blasters
+* Paired turbo-laser destructors
+* Vulcan mega-bolter array
+* Paired laser blasters
+
+| Weapon                             | Range    | Dice | To Hit | AP  | Traits                                   |
+| ---------------------------------- | -------- | ---- | ------ | --  | ---------------------------------------- |
+| Belicosa volcano cannon             | 70"      | 1    | 2+     | -5  | Arc (Front), Engine Killer (4)           |
+| Sunfury plasma annihilator          | 25"      | 3    | 3+     | -3  | Arc (Front)                              |
+| Macro-gatling blaster               | 35"      | 5    | 3+     | -2  | Arc (Front), Rapid Fire                 |
+| Mori quake cannon                   | 80"      | 1    | 3+     | -2  | Arc (Front), Blast (5"), Quake          |
+| Arioch power claw                   | 18"      | 8    | 5+     | -1  | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+|                                     | -        | -    | -      | -4  | Engine Killer (1), Rend, Wrecker (5)    |
+| Volkite destructor                  | 16"      | 4    | 4+     | -2  | Arc (Front), Beam, Deflagrate, Light AT, Shieldbane |
+| Apocalypse missile launchers        | 8"-100"  | 10   | 4+     | -1  | Arc (Front), Heavy Barrage             |
+| Paired gatling blasters             | 35"      | 8    | 4+     | -2  | Arc (Front)                             |
+| Paired turbo-laser destructors      | 40"      | 4    | 4+     | -3  | Accurate, Arc (Front)                   |
+| Vulcan mega-bolter array            | 22"      | 20   | 5+     | -1  | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+| Paired laser blasters               | 40"      | 6    | 4+     | -3  | Arc (Front)                             |
+| Ardex-defensor mauler bolt cannon turrets | 8"  | 5    | 5+     | -2  | Light AT, Point Defence                 |
+| Ardex-defensor lascannon turrets    | 16"      | 2    | 5+     | -1  | Anti-tank, Arc (Rear), Point Defence    |
+| Warlord graviton ruinator           | 30"      | 3    | -      | -3  | Arc (Front), Demolisher, Graviton Pulse |
+| Conversion beam extripator          | 6"       | 2    | 3+     | -2  | Arc (Front)                             |
+|                                     | 6"-18"   | 3    | 3+     | -3  | Arc (Front), Demolisher                 |
+|                                     | 18"-35"  | 3    | 2+     | -4  | Arc (Front), Demolisher                 |
+
+**Special Rules**
+
+Void Shields (6)
+
+### Warlord-Sinister Battle Titan [675 Points]
+
+* **Type:** Titan (5)
+* **Detachment Size:** 1
+
+| Name                     | Movement | Sv  | CAF | Morale | W  |
+| ------------------------ | -------- | --  | --- | ------ | -- |
+| Warlord-Sinister         | 5"      | 2+  | +14 | -      | 6  |
+
+**Weapons**
+
+* Sinistramanus Tenebrae
+* Arioch power claw
+* Death pulse
+* Antipathic tempest
+* Ardex-defensor mauler bolt cannon turrets
+* Ardex-defensor lascannon turrets
+
+Warlord-Sinister Battle Titans also have one weapon chosen from the list below:
+
+* Apocalypse missile launchers
+* Paired gatling blasters
+* Paired turbo-laser destructors
+* Vulcan mega-bolter array
+* Paired laser blasters
+
+A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of the following:
+
+* Belicosa volcano cannon
+* Sunfury plasma annihilator
+* Macro-gatling blaster
+* Mori quake cannon
+* Volkite destructor
+* Warlord graviton ruinator
+* Conversion beam extripator
+
+| Weapon                                  | Range    | Dice    | To Hit | AP   | Traits                                        |
+| --------------------------------------- | -------- | ------- | ------ | ---- | --------------------------------------------- |
+| Sinistramanus Tenebrae                   | 40"      | 3       | 4+     | -4   | Arc (Front), Heavy Beam, Psi                |
+| Belicosa volcano cannon                  | 70"      | 1       | 2+     | -5   | Arc (Front), Engine Killer (4)              |
+| Sunfury plasma annihilator               | 25"      | 3       | 3+     | -3   | Arc (Front)                                  |
+| Macro-gatling blaster                    | 35"      | 5       | 3+     | -2   | Arc (Front), Rapid Fire                    |
+| Mori quake cannon                        | 80"      | 1       | 3+     | -2   | Arc (Front), Blast (5"), Quake             |
+| Arioch power claw                        | 18"      | 8       | 5+     | -1   | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+|                                         | -        | -       | -      | -4   | Engine Killer (1), Rend, Wrecker (5)        |
+| Volkite destructor                      | 16"      | 4       | 4+     | -2   | Arc (Front), Beam, Deflagrate, Light AT, Shieldbane |
+| Apocalypse missile launchers            | 8"-100"  | 10      | 4+     | -1   | Arc (Front), Heavy Barrage                |
+| Paired gatling blasters                 | 35"      | 8       | 4+     | -2   | Arc (Front)                                 |
+| Paired turbo-laser destructors          | 40"      | 4       | 4+     | -3   | Accurate, Arc (Front)                      |
+| Vulcan mega-bolter array                | 22"      | 20      | 5+     | -1   | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+| Paired laser blasters                   | 40"      | 6       | 4+     | -3   | Arc (Front)                                 |
+| Ardex-defensor mauler bolt cannon turrets | 8"      | 5       | 5+     | -2   | Light AT, Point Defence                    |
+| Ardex-defensor lascannon turrets         | 16"     | 2       | 5+     | -1   | Arc (Rear), Anti-tank, Point Defence      |
+| Warlord graviton ruinator               | 30"      | 3       | -      | -3   | Arc (Front), Demolisher, Graviton Pulse    |
+| Conversion beam extripator              | 6"       | 2       | 3+     | -2   | Arc (Front)                                 |
+|                                         | 6"-18"   | 3       | 3+     | -3   | Arc (Front), Demolisher                    |
+|                                         | 18"-35"  | 3       | 2+     | -4   | Arc (Front), Demolisher                    |
+| Death pulse                             | 7"       | D3+1    | 4+    | -1   | Psi, Saturation Fire                        |
+| Antipathic tempest                      | 20"      | 1       | 4+     | -1   | Blast (5"), Ignores Cover, Psi, Quake      |
+
+**Special Rules**
+
+Dread Aura (8"), Loyalist, Necrotechica, Void Shields (6)
+
+### Warmaster Heavy Battle Titan [750 Points]
+
+* **Type:** Titan (5)
+* **Detachment Size:** 1
+
+| Name                     | Movement | Sv  | CAF | Morale | W  |
+| ------------------------ | -------- | --  | --- | ------ | -- |
+| Warmaster                | 5"       | 1+  | +18 | -      | 7  |
+
+**Weapons**
+
+* Two Suzerain class plasma destructors
+* Revelator missile launcher
+* Ardex-defensor lascannon turrets
+* Ardex-defensor mauler bolt cannon turrets
+* Anvilus pattern defence batteries or Ardex-defensor bombard turrets
+
+In addition, a Warmaster Titan has two weapons chosen from the list below – it may choose two of the same weapon:
+
+* Apocalypse missile array
+* Melta cannon
+* Inferno gun
+* Vulcan mega-bolter
+* Turbo-laser destructor
+* Plasma blastgun
+
+| Weapon                               | Range    | Dice    | To Hit | AP   | Traits                                        |
+| ------------------------------------ | -------- | ------- | ------ | ---- | --------------------------------------------- |
+| Suzerain class plasma destructor     | 26"      | 4       | 3+     | -4   | Arc (Front), Demolisher                     |
+|                                      | 16"      | 2       | 2+     | -4   | Arc (Front), Demolisher, Engine Killer (2)   |
+| Revelator missile launcher           | 40"      | 2       | 4+     | -2   | Arc (Front), Blast (5")                     |
+| Plasma blastgun                      | 20"      | 2       | 3+     | -3   | Arc (Front)                                  |
+| Apocalypse missile array             | 8"-100"  | 4       | 4+     | -1   | Arc (Front), Heavy Barrage                |
+| Vulcan mega-bolter                   | 22"      | 10      | 5+     | -1   | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+| Turbo-laser destructor               | 40"      | 2       | 4+     | -3   | Accurate, Arc (Front)                      |
+| Inferno gun                          | T        | -       | 4+    | -2   | Arc (Front), Firestorm, Light AT, Shieldbane |
+| Melta cannon                         | 14"      | 2       | 4+     | -3   | Anti-tank, Arc (Front), Demolisher          |
+|                                      | 8"       | 2       | 3+     | -4   | Anti-tank, Arc (Front), Demolisher, Engine Killer (2) |
+| Ardex-defensor mauler bolt cannon turrets | 8"  | 5    | 5+     | -2   | Light AT, Point Defence                    |
+| Ardex-defensor lascannon turrets      | 16"      | 2       | 5+     | -1   | Anti-tank, Arc (Rear), Point Defence      |
+| Ardex-defensor bombard turrets       | 15"      | 4       | 5+     | -2   | Barrage, Light AT, Ignores Cover          |
+| Anvilus pattern defence batteries     | 20"      | 5       | 5+     | -1   | Point Defence, Skyfire                     |
+
+**Special Rules**
+
+Void Shields (12)
+
+### Warmaster Iconoclast Titan [750 Points]
+
+* **Type:** Titan (5)
+* **Detachment Size:** 1
+
+| Name                     | Movement | Sv  | CAF | Morale | W  |
+| ------------------------ | -------- | --  | --- | ------ | -- |
+| Warmaster Iconoclast     | 6"       | 1+  | +18 | -      | 7  |
+
+**Weapons**
+
+* Desolator chainsword
+* Kirus siege drill
+* Ardex-defensor mauler bolt cannon turrets
+* Ardex-defensor lascannon turrets
+* Anvilus pattern defence batteries or Ardex-defensor bombard turrets
+* Cruciator gatling array
+
+In addition, a Warmaster Iconoclast has two weapons chosen from the list below – it may choose two of the same weapon:
+
+* Apocalypse missile array
+* Melta cannon
+* Inferno gun
+* Vulcan mega-bolter
+* Turbo-laser destructor
+* Plasma blastgun
+
+A Warmaster Iconoclast can exchange its Kirus siege drill for a Kirus grav imploder for +10 points.
+
+| Weapon                           | Range    | Dice    | To Hit | AP   | Traits                                     |
+| -------------------------------- | -------- | ------- | ------ | ---- | ------------------------------------------ |
+| Desolator chainsword              | -        | -       | -      | -    | Engine Killer (2), Reach, Rend            |
+| Kirus siege drill                 | -        | -       | -      | -7   | Rend, Wrecker (8)                         |
+| Cruciator gatling array           | 24"      | 14      | 5+    | -1   | Arc (Front), Light AT, Shieldbane, Shred |
+| Kirus grav imploder               | 6"       | 2       | 3+    | -3   | Demolisher, Ignores Cover, Quake         |
+|                                  | -        | -       | -      | -5   | Rend, Wrecker (5)                        |
+| Plasma blastgun                   | 20"      | 2       | 3+    | -3   | Arc (Front)                               |
+| Apocalypse missile array          | 8"-100"  | 4       | 4+    | -1   | Arc (Front), Heavy Barrage               |
+| Vulcan mega-bolter                | 22"      | 10      | 5+    | -1   | Arc (Front), Light AT, Rapid Fire, Shieldbane |
+| Turbo-laser destructor            | 40"      | 2       | 4+    | -3   | Accurate, Arc (Front)                    |
+| Inferno gun                       | T        | -       | 4+    | -2   | Arc (Front), Firestorm, Light AT, Shieldbane |
+| Melta cannon                      | 14"      | 2       | 4+    | -3   | Anti-tank, Arc (Front), Demolisher        |
+|                                  | 8"       | 2       | 3+    | -4   | Anti-tank, Arc (Front), Demolisher, Engine Killer (2) |
+| Ardex-defensor mauler bolt cannon turrets | 8"  | 5    | 5+    | -2   | Light AT, Point Defence                   |
+| Ardex-defensor lascannon turrets  | 16"      | 2       | 5+    | -1   | Anti-tank, Arc (Rear), Point Defence     |
+| Ardex-defensor bombard turrets    | 15"      | 4       | 5+    | -2   | Barrage, Light AT, Ignores Cover         |
+| Anvilus pattern defence batteries | 20"      | 5       | 5+    | -1   | Point Defence, Skyfire                   |
+
+**Special Rules**
+
+Void Shields (12)
