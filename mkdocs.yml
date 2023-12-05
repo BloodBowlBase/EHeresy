@@ -50,6 +50,7 @@ nav:
       - 'Detachments': 'the_legiones_astartes/detachments.md'      
       - 'Legiones Astartes Special Rules': 'the_legiones_astartes/legiones_astartes_special_rules.md'
   - 'The Solar Auxilia': 
+      - 'The Solar Auxilia': 'the_solar_auxilia/index.md'
       - 'Formations': 'the_solar_auxilia/formations.md'
       - 'Detachments': 'the_solar_auxilia/detachments.md'      
   - 'Strategic Assets': 
