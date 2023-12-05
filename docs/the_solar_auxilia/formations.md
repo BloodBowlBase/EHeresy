@@ -1,5 +1,5 @@
 
-##  THE SOLAR AUXILIA {#the-solar-auxilia .unnumbered}
+##  THE SOLAR AUXILIA 
 
 s formidable as the Legiones Astartes were, their numbers remained far
 too small to conquer and protect an entire galaxy. In answer, the
@@ -62,7 +62,7 @@ outside of the Legiones Astartes ensured the Solar Auxilia left a
 lasting mark on the galaxy, both during the Great Crusade and the
 blood-drenched conflict that followed.
 
-#### ![](../media/image348.png)The Origins and Principles of the Solar Auxilia {#the-origins-and-principles-of-the-solar-auxilia .unnumbered}
+#### ![](../media/image348.png)The Origins and Principles of the Solar Auxilia 
 
 As its name suggests, the origins of the Solar Auxilia lie in the Sol
 System. Indeed, the first ten cohorts of the Solar Auxilia, known
@@ -165,7 +165,7 @@ authority.*
 
 -   Agents of the Imperial Court, Agents of the Assassinorum,
     Plenipotentiary Representatives of the Council of Terra,
-    {prohibited}
+    
 
 -   Assigned detachments of the Legiones Astartes, Households of the
     Knights Questoris
@@ -177,9 +177,9 @@ authority.*
 -   Deputations of the Orders of Iterators, Remembrancers and Savants
     Logos
 
--   Warden Charonate, {prohibited},
+-   Warden Charonate, ,
 
-{prohibited}
+
 
 **Cohort and Regimental Command Structure [Simplified Overview]**
 
@@ -342,14 +342,14 @@ is required to attain a specific objective. This temporary formation
 will be commanded by the most senior-ranked legate present in the
 brigade.*
 
-## SOLAR AUXILIA SUB-COHORT {#solar-auxilia-sub-cohort .unnumbered}
+## SOLAR AUXILIA SUB-COHORT 
 
 *One example of a Sub-Cohort constituted in later Great Crusade era
 approved combined arms configuration. In these proportions the
 Lasrifle Sections would most likely be serving in support of the Leman
 Russ battle tanks rather than the other way around.*
 
-####### Legate Commander {#legate-commander .unnumbered}
+####### Legate Commander 
 
 *Commanded by a junior legate-level field officer holding one of many
 possible titles. Accompanied by a companion bodyguard of veteran
@@ -372,20 +372,20 @@ meet specific tactical objectives.*
 
 **Auxilia Aethon Heavy Sentinel Patrol**
 
-#######  Auxilia Thunderbolt Squadron {#auxilia-thunderbolt-squadron .unnumbered}
+#######  Auxilia Thunderbolt Squadron 
 
 *Detached from Sub-Cohort Ancillary Support Tercio.*
 
 *Legate commanders are able to call on Cohort-level air support assets
 to perform specific localised support missions.*
 
-####### ![](../media/image351.png)Auxilia Arvus Lighter {#auxilia-arvus-lighter .unnumbered}
+####### ![](../media/image351.png)Auxilia Arvus Lighter 
 
 *Detached from Cohort-level Light Interface Transport echelon to
 provide additional battlefield mobility for rapid redeployment,
 reinforcement and resupply tasks.*
 
-## ![](../media/image352.png)SOLAR AUXILIA ARMOURED COMPANY {#solar-auxilia-armoured-company .unnumbered}
+## ![](../media/image352.png)SOLAR AUXILIA ARMOURED COMPANY 
 
 *One example of a Sub-Cohort level formation constituted in later
 Great Crusade era approved Armoured Company configuration.*
@@ -400,12 +400,12 @@ Great Crusade era approved Armoured Company configuration.*
 this example the Baneblade super-heavy tanks would be commanded by the
 company's commanding field officer and their second in command.*
 
-####### Thunderbolt Fighters {#thunderbolt-fighters .unnumbered}
+####### Thunderbolt Fighters 
 
 *Cohort-level air support assets on call for immediate support
 taskings.*
 
-#### ![](../media/image353.png)Solar Auxilia Army List {#solar-auxilia-army-list .unnumbered}
+#### ![](../media/image353.png)Solar Auxilia Army List 
 
 The following section presents the Army List for the Solar Auxilia,
 reflecting the foundation upon which the various Solar Auxilia cohorts
@@ -465,7 +465,7 @@ than the Advance Order or Charge Order.
 ![](../media/image354.png)
 
 
-####### Solar Auxilia Formations {#solar-auxilia-formations .unnumbered}
+####### Solar Auxilia Formations 
 
 **Solar Auxilia Sub-Cohort**
 
@@ -480,7 +480,7 @@ Formation must be filled with Auxilia Lasrifle Tercio Detachments.
 
 **COMPULSORY DETACHMENTS OPTIONAL DETACHMENTS**
 
-####### ![](../media/image355.png)1349th Solax Auxilia Cohort, Magnathan Thunder Lords {#th-solax-auxilia-cohort-magnathan-thunder-lords .unnumbered}
+####### ![](../media/image355.png)1349th Solax Auxilia Cohort, Magnathan Thunder Lords 
 
 *The 1349 th Cohort, primarily operated as a mechanised company,
 relying on a combination of mobile infantry, armoured batteries and

@@ -1,6 +1,6 @@
-### ![](../media/image381.png)KNIGHT DETACHMENTS {#knight-detachments .unnumbered}
+### ![](../media/image381.png)KNIGHT DETACHMENTS 
 
-####### Questoris Knight Banner 180 Points {#questoris-knight-banner-180-points .unnumbered}
+####### Questoris Knight Banner 180 Points 
 
 **Knight (4) Detachment Size: 1**
 
@@ -116,9 +116,9 @@ these upgrades use the corresponding profiles on page 211.*
 
 Independent, Ion Shields (4+), Nimble
 
-#### Detachment Upgrades {#detachment-upgrades-8 .unnumbered}
+#### Detachment Upgrades 
 
-####### Knight Styrix Knight (4) {#knight-styrix-knight-4 .unnumbered}
+####### Knight Styrix Knight (4) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -147,7 +147,7 @@ Graviton gun 6" 1 - -1 Arc (Front), Graviton Pulse
 Blessed Auto-simulacra, Independent, Ionic Flare Shield, Ion Shields
 (4+), Nimble
 
-###### DETACHMENT UPGRADES {#detachment-upgrades-9 .unnumbered}
+###### DETACHMENT UPGRADES 
 
 *The Knight Questoris was the most common suit*
 
@@ -258,7 +258,7 @@ Blessed Auto-simulacra, Independent, Ionic Flare Shield, Ion Shields
 ![](../media/image383.png)
 
 
-###### KNIGHT DETACHMENTS {#knight-detachments-1 .unnumbered}
+###### KNIGHT DETACHMENTS 
 
 *The Cerastus type Knights appear to have been designed not as
 protectors but as bloody-handed conquerors and tools of destruction, a
@@ -285,9 +285,9 @@ the battlefield, a reaper of lives carefully designed not only*
 *to destroy, but also to inspire terror both in appearance and the
 manner in which it undertakes its grim task.*
 
-###  KNIGHT DETACHMENTS {#knight-detachments-2 .unnumbered}
+###  KNIGHT DETACHMENTS 
 
-####### Cerastus Knight Banner 215 Points Knight (4) Detachment Size: 1 {#cerastus-knight-banner-215-points-knight-4-detachment-size-1 .unnumbered}
+####### Cerastus Knight Banner 215 Points Knight (4) Detachment Size: 1 
 
 +------------------+---------------+------+--------+----------+----+
 | **Name**       |             | ** | *    | **     |  |
@@ -384,9 +384,9 @@ these upgrades use the corresponding profiles on page 211* .
 
 Furious Charge, Independent, Ion Shields (4+), Nimble
 
-#### ![](../media/image384.png)Detachment Upgrades {#detachment-upgrades-10 .unnumbered}
+#### ![](../media/image384.png)Detachment Upgrades 
 
-####### Cerastus Knight Atrapos Knight (4) {#cerastus-knight-atrapos-knight-4 .unnumbered}
+####### Cerastus Knight Atrapos Knight (4) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -415,7 +415,7 @@ Wrecker (3)
 Furious Charge, Independent, Ion Shield (3+), Macro-extinction
 Targeting Protocols, Nimble
 
-###### DETACHMENT UPGRADES {#detachment-upgrades-11 .unnumbered}
+###### DETACHMENT UPGRADES 
 
 *A Cerastus pattern of ancient provenance and staggering potency, it
 is a rare honour for a Household to count*
@@ -435,7 +435,7 @@ Atrapos sated only with the ruination of such great adversaries.*
 ![](../media/image385.png)
 
 
-###### KNIGHT DETACHMENTS {#knight-detachments-3 .unnumbered}
+###### KNIGHT DETACHMENTS 
 
 *One of the most heavily armed and armoured of all Knight chassis in
 service, few Households were able to muster Acastus armours, even at
@@ -463,9 +463,9 @@ saturating ramparts with high-impact explosives while*
 
 *of priority.*
 
-###  KNIGHT DETACHMENTS {#knight-detachments-4 .unnumbered}
+###  KNIGHT DETACHMENTS 
 
-####### Acastus Knight Banner 250 Points Knight (4) Detachment Size: 1 {#acastus-knight-banner-250-points-knight-4-detachment-size-1 .unnumbered}
+####### Acastus Knight Banner 250 Points Knight (4) Detachment Size: 1 
 
 +------------------+----------------+------+--------+----------+----+
 | **Name**       | **Movement** | ** | *    | **     |  |
@@ -570,9 +570,9 @@ these upgrades use the corresponding profiles on page 211.*
 
 Blessed Auto-simulacra, Independent, Ion Shields (4+)
 
-#### Detachment Upgrades {#detachment-upgrades-12 .unnumbered}
+#### Detachment Upgrades 
 
-####### Questoris Knight Armiger Talon Knight (4) {#questoris-knight-armiger-talon-knight-4 .unnumbered}
+####### Questoris Knight Armiger Talon Knight (4) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -582,13 +582,13 @@ Knight Armiger 8" 3+ +6 2+ 2
 
 -   Thermal spear and Reaper chain-cleaver or Armiger autocannon
 
-######  DETACHMENT UPGRADES {#detachment-upgrades-13 .unnumbered}
+######  DETACHMENT UPGRADES 
 
 *The Armiger Knight is a lighter, more agile cousin to the Questoris
 Knight that often fought alongside its larger confederates during the
 Great Crusade, picking off threats which came from*
 
-####### Mechanicum Knight Moirax Talon Knight (4) {#mechanicum-knight-moirax-talon-knight-4 .unnumbered}
+####### Mechanicum Knight Moirax Talon Knight (4) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -646,9 +646,9 @@ Ionic Flare Shield, Ion Shields (5+), Nimble
 
 *noble lines were expended in the radioactive prison of a Moirax.*
 
-### TITAN DETACHMENTS {#titan-detachments .unnumbered}
+### TITAN DETACHMENTS 
 
-####### Warhound Hunting Pack 330 Points {#warhound-hunting-pack-330-points .unnumbered}
+####### Warhound Hunting Pack 330 Points 
 
 **Titan (5) Detachment Size: 1**
 
@@ -800,9 +800,9 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 
 Agile, Void Shields (2)
 
-### TITAN DETACHMENTS {#titan-detachments-1 .unnumbered}
+### TITAN DETACHMENTS 
 
-####### Dire Wolf Heavy Scout Titan 385 Points Titan (5) Detachment Size: 1 {#dire-wolf-heavy-scout-titan-385-points-titan-5-detachment-size-1 .unnumbered}
+####### Dire Wolf Heavy Scout Titan 385 Points Titan (5) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -814,7 +814,7 @@ Dire Wolf Titan 7" 2+ +10 - 4
 
 -   Neutron laser or a volcano cannon or conversion beam dissipator
 
-######  TITAN DETACHMENTS {#titan-detachments-2 .unnumbered}
+######  TITAN DETACHMENTS 
 
 *Warhounds are the smallest class of 'true' Titan, classified within
 the De Bellis Titanicus as 'Scout Titans' in reference to their common
@@ -837,7 +837,7 @@ neutron laser and volcano cannon*
 
 *are the most common such armaments.*
 
-### TITAN DETACHMENTS {#titan-detachments-3 .unnumbered}
+### TITAN DETACHMENTS 
 
 +-----------------+-------+----+-----+-------+----+-----------------+
 | **Reaver      |       |    |     |       |    | **415 Points**  |
@@ -998,9 +998,9 @@ Reaver Titans also have one weapon chosen from the list below:
 | (4)           |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 
-### ![](../media/image390.png)TITAN DETACHMENTS {#titan-detachments-4 .unnumbered}
+### ![](../media/image390.png)TITAN DETACHMENTS 
 
-####### Warbringer Nemesis Titan 525 Points {#warbringer-nemesis-titan-525-points .unnumbered}
+####### Warbringer Nemesis Titan 525 Points 
 
 **Titan (5) Detachment Size: 1**
 
@@ -1109,9 +1109,9 @@ the list below - it may choose two of the same weapon:
 | (6)           |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 
-### TITAN DETACHMENTS {#titan-detachments-5 .unnumbered}
+### TITAN DETACHMENTS 
 
-####### Warlord Battle Titan 600 Points {#warlord-battle-titan-600-points .unnumbered}
+####### Warlord Battle Titan 600 Points 
 
 **Titan (5) Detachment Size: 1**
 
@@ -1278,9 +1278,9 @@ Warlord Battle Titans also have one weapon chosen from the list below:
 | Void Shields (6)   |   |    |   |                                 |
 +----------------------+---+----+---+---------------------------------+
 
-### TITAN DETACHMENTS {#titan-detachments-6 .unnumbered}
+### TITAN DETACHMENTS 
 
-####### Warlord-Sinister Battle Titan 675 Points Titan (5) Detachment Size: 1 {#warlord-sinister-battle-titan-675-points-titan-5-detachment-size-1 .unnumbered}
+####### Warlord-Sinister Battle Titan 675 Points Titan (5) Detachment Size: 1 
 
 +-------------------+----------------+------+--------+----------+----+
 | **Name**        | **Movement** | **   | *    | **     |  |
@@ -1465,9 +1465,9 @@ one of the following:
 
 Dread Aura (8"), Loyalist, Necrotechica, Void Shields (6)
 
-### TITAN DETACHMENTS {#titan-detachments-7 .unnumbered}
+### TITAN DETACHMENTS 
 
-####### Warmaster Heavy Battle Titan 750 Points {#warmaster-heavy-battle-titan-750-points .unnumbered}
+####### Warmaster Heavy Battle Titan 750 Points 
 
 **Titan (5) Detachment Size: 1**
 
@@ -1614,7 +1614,7 @@ below - it may choose two of the same weapon:
 | (12)          |    |   |    |   |                                 |
 +-----------------+----+---+----+---+---------------------------------+
 
-### TITAN DETACHMENTS {#titan-detachments-8 .unnumbered}
+### TITAN DETACHMENTS 
 
 +--------------------------+----+-----+-------+----+-----------------+
 | **Warmaster Iconoclast |    |     |       |    | **750 Points**  |

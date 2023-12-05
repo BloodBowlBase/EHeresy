@@ -45,6 +45,7 @@ nav:
       - 'Secondary Objectives': 'legions_imperialis_rules/secondary_objectives.md'
       - 'Mustering an Army': 'legions_imperialis_rules/mustering_an_army.md'
   - 'The Legiones Astartes':
+      - 'The Legiones Astartes': 'the_legiones_astartes/index.md'
       - 'Formations': 'the_legiones_astartes/formations.md'
       - 'Detachments': 'the_legiones_astartes/detachments.md'      
       - 'Legiones Astartes Special Rules': 'the_legiones_astartes/legiones_astartes_special_rules.md'

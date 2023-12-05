@@ -1,11 +1,11 @@
 
-###### HQ DETACHMENTS {#hq-detachments-2 .unnumbered}
+###### HQ DETACHMENTS 
 
 *Legate Marshals are*
 
-###  HQ DETACHMENTS {#hq-detachments-3 .unnumbered}
+###  HQ DETACHMENTS 
 
-####### Legate Commander Detachment 16 Points Infantry (1) Detachment Size: 1 {#legate-commander-detachment-16-points-infantry-1-detachment-size-1 .unnumbered}
+####### Legate Commander Detachment 16 Points Infantry (1) Detachment Size: 1 
 
 +------------------+-----------------+------+---+-----+---+-----------+
 | *leaders upon  | **Weapons**   |      |   |     |   |           |
@@ -60,7 +60,7 @@ unit's standard.*
 Commander, Inspire (8"), Invulnerable Save (6+), Master Tactician,
 Solar Auxilia HQ (10")
 
-####### Auxilia Tactical Command Detachment 10 Points Infantry (1) Detachment Size: 1 {#auxilia-tactical-command-detachment-10-points-infantry-1-detachment-size-1 .unnumbered}
+####### Auxilia Tactical Command Detachment 10 Points Infantry (1) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -84,7 +84,7 @@ Commander, Inspire (8"), Solar Auxilia HQ (6")
 ![](../media/image359.png)
 
 
-###### CORE DETACHMENTS {#core-detachments-2 .unnumbered}
+###### CORE DETACHMENTS 
 
 *Solar Auxiliaries are recruited from all over the Imperium, from
 void-born asteroid miners and the children of noble families to
@@ -111,9 +111,9 @@ with lasguns and as capable fighting in 'Zone Mortalis' environments
 as they were launching massed assaults across the galaxy's most
 hostile battlefield.*
 
-###  CORE DETACHMENTS {#core-detachments-3 .unnumbered}
+###  CORE DETACHMENTS 
 
-####### Auxilia Lasrifle Tercio 30 Points {#auxilia-lasrifle-tercio-30-points .unnumbered}
+####### Auxilia Lasrifle Tercio 30 Points 
 
 **Infantry (1) Detachment Size: 4**
 
@@ -156,11 +156,11 @@ following page.*
 
 Chain of Command, Line
 
-#### Detachment Upgrades {#detachment-upgrades-3 .unnumbered}
+#### Detachment Upgrades 
 
-####### Veletarii Infantry (1) {#veletarii-infantry-1 .unnumbered}
+####### Veletarii Infantry (1) 
 
-###### DETACHMENT UPGRADES {#detachment-upgrades-4 .unnumbered}
+###### DETACHMENT UPGRADES 
 
 ![](../media/image360.png)
 
@@ -295,7 +295,7 @@ Chain of Command, Line
 ![](../media/image361.png)
 
 
-[]{#_bookmark39 .anchor}**SUPPORT DETACHMENTS**
+[]**SUPPORT DETACHMENTS**
 
 *Charonites are biochemically and cybernetically altered Ogryn
 abhumans, mutilated in mind and body and left entirely creatures of
@@ -322,9 +322,9 @@ under*
 as a line reserve, able to shatter the enemy lines or bolster a
 wavering defence.*
 
-###  SUPPORT DETACHMENTS {#support-detachments-8 .unnumbered}
+###  SUPPORT DETACHMENTS 
 
-####### Auxilia Ogryn Charonite Section 50 Points Infantry (1) Detachment Size: 4 {#auxilia-ogryn-charonite-section-50-points-infantry-1-detachment-size-4 .unnumbered}
+####### Auxilia Ogryn Charonite Section 50 Points Infantry (1) Detachment Size: 4 
 
 +-------------------+---------------+------+--------+----------+----+
 | **Name**        |             | ** | *    | **     |  |
@@ -358,7 +358,7 @@ upgrades:
 
 Furious Charge
 
-####### Auxilia Veletaris Storm Section 40 Points Infantry (1) Detachment Size: 4 {#auxilia-veletaris-storm-section-40-points-infantry-1-detachment-size-4 .unnumbered}
+####### Auxilia Veletaris Storm Section 40 Points Infantry (1) Detachment Size: 4 
 
 **Name Movement Sv CAF Morale W**
 
@@ -394,9 +394,9 @@ A Veletaris Storm Section can purchase one of the following upgrades:
 
 Steadfast
 
-### BASTION DETACHMENTS {#bastion-detachments-2 .unnumbered}
+### BASTION DETACHMENTS 
 
-####### Auxilia Rapier Battery 50 Points {#auxilia-rapier-battery-50-points .unnumbered}
+####### Auxilia Rapier Battery 50 Points 
 
 **Infantry (1) Detachment Size: 3**
 
@@ -408,7 +408,7 @@ Auxilia Rapier 4" 6+ +0 4+ 1
 
 -   Laser destroyer array, quad launcher or mole mortar
 
-######  BASTION DETACHMENTS {#bastion-detachments-3 .unnumbered}
+######  BASTION DETACHMENTS 
 
 *The Solar Auxilia makes extensive use of the Rapier weapons carrier,
 its rugged track assembly able to transport support weaponry too heavy
@@ -429,7 +429,7 @@ An Auxilia Rapier Battery can purchase one of the following upgrades:
 
 Bulky, Chain of Command
 
-####### Auxilia Tarantula Battery 36 Points Infantry (1) Detachment Size: 4 {#auxilia-tarantula-battery-36-points-infantry-1-detachment-size-4 .unnumbered}
+####### Auxilia Tarantula Battery 36 Points Infantry (1) Detachment Size: 4 
 
 **Name Movement Sv CAF Morale W**
 
@@ -473,7 +473,7 @@ where their presence contributed greatly to the tally of enemy dead.*
 ![](../media/image363.png)
 
 
-###### VANGUARD DETACHMENTS {#vanguard-detachments .unnumbered}
+###### VANGUARD DETACHMENTS 
 
 *The Sentinel Walker is a ubiquitous pattern of bipedal walker piloted
 by a single individual, employed across the Imperium by both civilian
@@ -503,9 +503,9 @@ and patrols*
 *were most commonly used as flanking elements in concert with the main
 advance.*
 
-###  VANGUARD DETACHMENTS {#vanguard-detachments-1 .unnumbered}
+###  VANGUARD DETACHMENTS 
 
-####### Auxilia Aethon Heavy Sentinel Patrol 35 Points Walker (1) Detachment Size: 2 {#auxilia-aethon-heavy-sentinel-patrol-35-points-walker-1-detachment-size-2 .unnumbered}
+####### Auxilia Aethon Heavy Sentinel Patrol 35 Points Walker (1) Detachment Size: 2 
 
 **Name Movement Sv CAF Morale W**
 
@@ -540,9 +540,9 @@ following upgrades:
 
 Forward Deployment
 
-### BATTLE TANK DETACHMENTS {#battle-tank-detachments-4 .unnumbered}
+### BATTLE TANK DETACHMENTS 
 
-####### Leman Russ Strike Squadron 175 Points Vehicle (2) Detachment Size: 4 {#leman-russ-strike-squadron-175-points-vehicle-2-detachment-size-4 .unnumbered}
+####### Leman Russ Strike Squadron 175 Points Vehicle (2) Detachment Size: 4 
 
 **Name Movement Sv CAF Morale W**
 
@@ -554,7 +554,7 @@ Leman Russ Tank 8" 2+ +2 4+ 1
 
 -   Hull Mounted heavy bolter or Hull Mounted lascannon
 
-###### BATTLE TANK DETACHMENTS {#battle-tank-detachments-5 .unnumbered}
+###### BATTLE TANK DETACHMENTS 
 
 *The Leman Russ battle tank is a reliable and proven armoured vehicle
 named after the Primarch of the Legiones Astartes Space Wolves in
@@ -631,7 +631,7 @@ attack.*
 ![](../media/image365.png)
 
 
-###### BATTLE TANK DETACHMENTS {#battle-tank-detachments-6 .unnumbered}
+###### BATTLE TANK DETACHMENTS 
 
 *A truly ancient design dating back to the wars of the Age of Strife
 on Old Earth, the Imperial production model of this heavy tank pattern
@@ -657,9 +657,9 @@ used*
 *as test-beds for a variety of new variants designed to plug gaps in
 supply and resource.*
 
-###  BATTLE TANK DETACHMENTS {#battle-tank-detachments-7 .unnumbered}
+###  BATTLE TANK DETACHMENTS 
 
-####### Malcador Tank Squadron 165 Points Vehicle (2) Detachment Size: 2 {#malcador-tank-squadron-165-points-vehicle-2-detachment-size-2 .unnumbered}
+####### Malcador Tank Squadron 165 Points Vehicle (2) Detachment Size: 2 
 
 +------------------+----------------+------+--------+----------+----+
 | **Name**       | **Movement** | ** | *    | **     | *  |
@@ -755,11 +755,11 @@ Detachment size of 6:
 
 Chain of Command, Explorator Adaptation
 
-### HEAVY ARMOUR {#heavy-armour-1 .unnumbered}
+### HEAVY ARMOUR 
 
 **DETACHMENTS HEAVY ARMOUR DETACHMENTS**
 
-####### Auxilia Super-heavy Tank Squadron 100 Points Super-heavy Vehicle (3 ) Detachment Size: 1 {#auxilia-super-heavy-tank-squadron-100-points-super-heavy-vehicle-3-detachment-size-1 .unnumbered}
+####### Auxilia Super-heavy Tank Squadron 100 Points Super-heavy Vehicle (3 ) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -888,7 +888,7 @@ maximum Detachment size of 6:
 
 Chain of Command, Explorator Adaptation
 
-###### AIR SUPPORT DETACHMENTS {#air-support-detachments-3 .unnumbered}
+###### AIR SUPPORT DETACHMENTS 
 
 *A heavy fighter combining devastating strike potential with a high
 degree of speed and manoeuvrability, the Thunderbolt forms the bulk of
@@ -896,9 +896,9 @@ the Imperialis Armada's intra-atmosphere fighter aircraft. The
 Thunderbolt's versatile array of armaments enables it to tackle all
 manner of missions, making it ideal for dominating*
 
-###  AIR SUPPORT DETACHMENTS {#air-support-detachments-4 .unnumbered}
+###  AIR SUPPORT DETACHMENTS 
 
-####### Auxilia Thunderbolt Squadron 80 Points Vehicle (2) Detachment Size: 1 {#auxilia-thunderbolt-squadron-80-points-vehicle-2-detachment-size-1 .unnumbered}
+####### Auxilia Thunderbolt Squadron 80 Points Vehicle (2) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -935,9 +935,9 @@ upgrades:
 
 Flyer, Interceptor, Jink (5+)
 
-### AIR SUPPORT DETACHMENTS {#air-support-detachments-5 .unnumbered}
+### AIR SUPPORT DETACHMENTS 
 
-####### Auxilia Avenger Strike Fighter Squadron 85 Points Vehicle (2) Detachment Size: 1 {#auxilia-avenger-strike-fighter-squadron-85-points-vehicle-2-detachment-size-1 .unnumbered}
+####### Auxilia Avenger Strike Fighter Squadron 85 Points Vehicle (2) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -953,7 +953,7 @@ Avenger Strike Fighter 28" 4+ +0 - 1
 
 -   Hellstrike missiles or Skystrike missiles or wing bombs
 
-###### AIR SUPPORT DETACHMENTS {#air-support-detachments-6 .unnumbered}
+###### AIR SUPPORT DETACHMENTS 
 
 *The Avenger Strike Fighter is a superlative ground attack aircraft
 designed to operate alongside Solar Auxilia cohorts during planetary
@@ -1037,7 +1037,7 @@ following upgrades:
 
 Flyer, Interceptor, Jink (5+)
 
-###### AIR SUPPORT DETACHMENTS {#air-support-detachments-7 .unnumbered}
+###### AIR SUPPORT DETACHMENTS 
 
 *A relatively recent addition to the armouries of the Great Crusade,
 the Primaris- Lightning Strike Fighter is a high speed suborbital
@@ -1049,9 +1049,9 @@ Archmagos-Arbiter*
 *Sykosk Thule, master of the sovereign Forge World of Voss, the
 Primaris-Lightning represented a new paradigm*
 
-###  AIR SUPPORT DETACHMENTS {#air-support-detachments-8 .unnumbered}
+###  AIR SUPPORT DETACHMENTS 
 
-####### Auxilia Lightning Fighter Squadron 85 Points Vehicle (2) Detachment Size: 1 {#auxilia-lightning-fighter-squadron-85-points-vehicle-2-detachment-size-1 .unnumbered}
+####### Auxilia Lightning Fighter Squadron 85 Points Vehicle (2) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -1092,9 +1092,9 @@ following upgrades:
 
 Flyer, Interceptor, Jink (5+)
 
-### AIR SUPPORT DETACHMENTS {#air-support-detachments-9 .unnumbered}
+### AIR SUPPORT DETACHMENTS 
 
-####### Auxilia Marauder Bomber Squadron 85 Points Vehicle (2) Detachment Size: 1 {#auxilia-marauder-bomber-squadron-85-points-vehicle-2-detachment-size-1 .unnumbered}
+####### Auxilia Marauder Bomber Squadron 85 Points Vehicle (2) Detachment Size: 1 
 
 **Name Movement Sv CAF Morale W**
 
@@ -1111,12 +1111,12 @@ Marauder Bomber 24" 3+ +0 - 1
 -   Any two of following: Hellstrike missiles, Skystrike missiles or
     wing bombs\*
 
-```{=html}
+```
 <!-- --
 ```
 -   *A model can take multiples of the same option.*
 
-###### AIR SUPPORT DETACHMENTS {#air-support-detachments-10 .unnumbered}
+###### AIR SUPPORT DETACHMENTS 
 
 *Sturdily built and possessed of an extensive capacity of munitions,
 the Marauder Bomber is the archetypal heavy bomber of the Divisio
@@ -1210,7 +1210,7 @@ upgrades:
 
 Flyer, Jink (5+)
 
-###### DETACHMENT UPGRADES {#detachment-upgrades-5 .unnumbered}
+###### DETACHMENT UPGRADES 
 
 *The Marauder frame is highly adaptable, leading to the development of
 many variants that fulfil operation niches. The most common variation
@@ -1229,9 +1229,9 @@ enemy titans or subterranean facilities through the employment*
 
 *of a guided, high- explosive munition.*
 
-####  Detachment Upgrades {#detachment-upgrades-6 .unnumbered}
+####  Detachment Upgrades 
 
-####### Auxilia Marauder Pathfinder Vehicle (2) {#auxilia-marauder-pathfinder-vehicle-2 .unnumbered}
+####### Auxilia Marauder Pathfinder Vehicle (2) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -1246,7 +1246,7 @@ Marauder Pathfinder 22" 3+ +0 - 1
 -   Any two of the following: Hellstrike missiles, Skystrike missiles
     and wing bombs\*
 
-```{=html}
+```
 <!-- --
 ```
 -   *A model can take multiples of the same option. See page 195 for
@@ -1266,7 +1266,7 @@ Light AT, Point Defence, Skyfire
 
 Auger Array, Flyer, Jink (5+)
 
-####### Auxilia Marauder Colossus Vehicle (2) {#auxilia-marauder-colossus-vehicle-2 .unnumbered}
+####### Auxilia Marauder Colossus Vehicle (2) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -1283,7 +1283,7 @@ Marauder Colossus 22" 3+ +0 - 1
 -   Any two of the following: Hellstrike missiles, Skystrike missiles
     and wing bombs\*
 
-```{=html}
+```
 <!-- --
 ```
 -   *A model can take multiples of the same option. See page 195 for
@@ -1330,9 +1330,9 @@ Marauder Colossus 22" 3+ +0 - 1
 | Flyer, Jink (5+)       |      |    |       |    |                |
 +--------------------------+------+----+-------+----+----------------+
 
-#### Detachment Upgrades {#detachment-upgrades-7 .unnumbered}
+#### Detachment Upgrades 
 
-####### Auxilia Marauder Destroyer Vehicle (2) {#auxilia-marauder-destroyer-vehicle-2 .unnumbered}
+####### Auxilia Marauder Destroyer Vehicle (2) 
 
 **Name Movement Sv CAF Morale W**
 
@@ -1354,7 +1354,7 @@ Marauder Destroyer 24" 3+ +0 - 1
 *\* A model can take multiples of the same option. See page 195 for
 these options.*
 
-###### TRANSPORT DETACHMENTS {#transport-detachments-2 .unnumbered}
+###### TRANSPORT DETACHMENTS 
 
 *The Arvus is a light utility shuttle used by the Imperialis Armada
 for transferring supplies or small groups of personnel from
@@ -1439,9 +1439,9 @@ unarmed as it is not a combat vehicle and is not expected*
 |                |    |   |    |   |             | Arvus*         |
 +----------------+----+---+----+---+-------------+------------------+
 
-### ![](../media/image372.png)TRANSPORT DETACHMENTS {#transport-detachments-3 .unnumbered}
+### ![](../media/image372.png)TRANSPORT DETACHMENTS 
 
-####### Auxilia Arvus Lighter 12 Points Per Model Vehicle (2) Detachment Size: Variable {#auxilia-arvus-lighter-12-points-per-model-vehicle-2-detachment-size-variable .unnumbered}
+####### Auxilia Arvus Lighter 12 Points Per Model Vehicle (2) Detachment Size: Variable 
 
 +-----------------+-----------------+------+--------+----------+----+
 | **Name**      | **Movement**  | ** | *    | **     |  |
@@ -1467,7 +1467,7 @@ battlefield tasks to perform.*
 ![](../media/image373.png)
 
 
-[]{#_bookmark46 .anchor}*"None can look upon us without fear, for we
+[]*"None can look upon us without fear, for we
 are gods, and the galaxy will bow before us."*
 
 Princeps Vitus, Legio Mortis

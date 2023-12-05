@@ -1,5 +1,5 @@
 
-##  STRATEGIC ASSETS {#strategic-assets .unnumbered}
+##  STRATEGIC ASSETS 
 
 hen the Emperor embarked on the Great Crusade, he began the daunting
 task of uniting the vast diaspora of humanity. Among these
@@ -34,7 +34,7 @@ archives of technology lost to all others, Knight Worlds are thus
 afforded a measure of political and military independence in return
 for sharing both strength of arms and knowledge.
 
-####### Using Strategic Assets {#using-strategic-assets .unnumbered}
+####### Using Strategic Assets 
 
 Strategic Assets represent elements of the Imperium's armies that
 don't fit neatly into a single Army List or were widespread across the
@@ -55,9 +55,9 @@ Allegiance.
 ![](../media/image374.png)
 
 
-## ![](../media/image375.png)LEGIO ASTORUM WARLORD BATTLE TITAN {#legio-astorum-warlord-battle-titan .unnumbered}
+## ![](../media/image375.png)LEGIO ASTORUM WARLORD BATTLE TITAN 
 
-####### Dauntless Wrath {#dauntless-wrath .unnumbered}
+####### Dauntless Wrath 
 
 During the defence of Tallarn, the Legio Gryphonicus called upon their
 brothers in the Legio Astorum to aid them. While the majority of the
@@ -71,9 +71,9 @@ in the Horus Heresy, veterans of Tallarn would often recall what they
 had endured during the fighting on that dead planet, and cite it among
 the greatest crimes wrought by the Warmaster.
 
-## ![](../media/image376.png)KNIGHT BANNER 'ZHOLON-KUTHOS' {#knight-banner-zholon-kuthos .unnumbered}
+## ![](../media/image376.png)KNIGHT BANNER 'ZHOLON-KUTHOS' 
 
-#### Legio Ulicon Support Element House Malinax {#legio-ulicon-support-element-house-malinax .unnumbered}
+#### Legio Ulicon Support Element House Malinax 
 
 **Scouring of Arten's World**
 
@@ -90,7 +90,7 @@ times their own number of Knights of House Vornherr, grievous losses
 for a Household already driven to the precipice of extinction due to
 the events of Calth.
 
-## ![](../media/image377.png)LEGIO FUREANS {#legio-fureans .unnumbered}
+## ![](../media/image377.png)LEGIO FUREANS 
 
 **Cyra Jal**
 
@@ -124,7 +124,7 @@ Ursanghou**
 
 **House Morbidia Cerastus Knight Atrapos Ire of Mars**
 
-####### Strategic Asset Formations {#strategic-asset-formations .unnumbered}
+####### Strategic Asset Formations 
 
 **Legion Support**
 
