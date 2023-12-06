@@ -4,7 +4,7 @@
 | Acastus lascannon                         |   22"   |  1  |   4+   | -1 | [Anti-tank], [Arc] (Front)                                                |
 | Acheron pattern flame cannon              |   8"   |  3  |   4+   | -2 | [Arc] (Front), [Light AT], [Ignores Cover]                                |
 | Aiolos missile launcher                   |   25"   |  1  |   4+   | -2 | [Anti-tank], [Skyfire]                                                    |
-| Antipathic tempest                        |   20"   |  1  |   4+   | -1 | [Blast (5")], [Ignores Cover], [Psi], [Quake]                             |
+| Antipathic tempest                        |   20"   |  1  |   4+   | -1 | [Blast] (5"), [Ignores Cover], [Psi], [Quake]                             |
 | Anvilus autocannon battery                |   16"   |  2  |   5+   | -1 | [Accurate], [Light AT]                                                    |
 | Anvilus pattern defence batteries         |   20"   |  5  |   5+   | -1 | [Point Defence], [Skyfire]                                                |
 | Apocalypse missile array                  | 8"-100" |  4  |   4+   | -1 | [Arc] (Front), [Heavy Barrage]                                            |

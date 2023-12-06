@@ -7,7 +7,7 @@
 [Designer's Note: Weapon Traits and AP]: ../../legions_imperialis_rules/weapon_traits/#designers-note-weapon-traits-and-ap
 [Barrage]: ../../legions_imperialis_rules/weapon_traits/#barrage
 [Beam]: ../../legions_imperialis_rules/weapon_traits/#beam
-[Blast (3"/5")]: ../../legions_imperialis_rules/weapon_traits/#blast-35
+[Blast]: ../../legions_imperialis_rules/weapon_traits/#blast-35
 [Bombing Run]: ../../legions_imperialis_rules/weapon_traits/#bombing-run
 [Bunker Buster]: ../../legions_imperialis_rules/weapon_traits/#bunker-buster
 [Bypassing Void Shields and Saves]: ../../legions_imperialis_rules/weapon_traits/#bypassing-void-shields-and-saves

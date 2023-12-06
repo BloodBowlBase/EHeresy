@@ -1,4 +1,4 @@
-The Titan Detachment type represents the towering god-engines of the Mechanicum and other war machines or esoteric beasts of similar size. To reflect their unique nature, the following section covers additional rules that apply to Titans during the course of a game. Some of the rules reference the way a Titan interacts with various types of terrain - [see page 66](../legions_imperialis_rules/terrain/) for more details on terrain.
+The Titan Detachment type represents the towering god-engines of the Mechanicum and other war machines or esoteric beasts of similar size. To reflect their unique nature, the following section covers additional rules that apply to Titans during the course of a game. Some of the rules reference the way a Titan interacts with various types of terrain - [see page 66](../../legions_imperialis_rules/terrain/) for more details on terrain.
 
 ## Titans in the Movement Phase
 
@@ -36,13 +36,13 @@ Once per round, when a Titan is activated in either the First Fire or Advancing 
 
 When a Titan attempts to destroy a Structure, the opposing player makes a Save roll for the building, applying any relevant modifiers. When attempting to destroy a Structure with the Titan itself (but not its Wrecker weapons), an AP of D6-1 (to a minimum of 1) is applied to the Save roll. If the result of the roll is less than the Structure's Armour Save characteristic, the Structure suffers D3 Wounds, plus an additional 1 Wound if the starting Wound characteristic of the Titan was 5 or more, or an additional 2 Wounds if the starting Wound characteristic of the Titan was 7 or more.
 
-Attempting to destroy a Structure with a Wrecker weapon follows the rules described in the Wrecker trait ([see page 85](../legions_imperialis_rules/weapon_traits/#wrecker-x)) instead.
+Attempting to destroy a Structure with a Wrecker weapon follows the rules described in the Wrecker trait ([see page 85](../../legions_imperialis_rules/weapon_traits/#wrecker-x)) instead.
 
 A Titan that attempts to destroy a Structure may still fire its weapons as normal. It can attempt to destroy a Structure before or after firing its weapons.
 
 ### Titans in the Combat Phase
 
-Titans function much the same as other Detachments during the Combat phase, with two notable exceptions: split fire and obstructions ([see page 56](../legions_imperialis_rules/playing_the_game/#obstructions) for Obstructions).
+Titans function much the same as other Detachments during the Combat phase, with two notable exceptions: split fire and obstructions ([see page 56](../../legions_imperialis_rules/playing_the_game/#obstructions) for Obstructions).
 
 #### Split Fire
 

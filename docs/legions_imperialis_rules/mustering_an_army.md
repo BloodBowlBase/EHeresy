@@ -2,7 +2,7 @@ In Legions Imperialis, players take command of epic armies consisting of a wide 
 
 When playing a game of Legions Imperialis, each player controls an Army. Each Army is made up of a number of Formations, each of which is a group of Detachments that works together on the battlefield. This system of Formations and their component Detachments allow a player to select a flexible force, capable of countering the strategies of their opponent and taking on a variety of Missions and battlefield challenges.
 
-The process of selecting an Army differs depending on the type of game being played. An Open Play game ([see page 100](../legions_imperialis_rules/fighting_a_battle/#open-play-and-narrative-play)) does not impose any restrictions on which models may be included in an Army, and players are free to select whichever models they choose before beginning the battle. In Matched Play and Narrative Play ([see page 100](../legions_imperialis_rules/fighting_a_battle/#matched-play)), players must use a specific method of selecting armies for play, with a number of restrictions imposed upon which models may be selected in order to ensure a balanced game that reflects the armies of the Horus Heresy.
+The process of selecting an Army differs depending on the type of game being played. An Open Play game ([see page 100](../../legions_imperialis_rules/fighting_a_battle/#open-play-and-narrative-play)) does not impose any restrictions on which models may be included in an Army, and players are free to select whichever models they choose before beginning the battle. In Matched Play and Narrative Play ([see page 100](../../legions_imperialis_rules/fighting_a_battle/#matched-play)), players must use a specific method of selecting armies for play, with a number of restrictions imposed upon which models may be selected in order to ensure a balanced game that reflects the armies of the Horus Heresy.
 
 When playing a Matched or Narrative Play game, both players use a points limit to determine the size of the game that is to be played. The 'standard' points limit for games of Legions Imperialis is 3,000 points - this is a guideline, however, and players can agree upon whatever points limit they wish.
 
@@ -38,13 +38,13 @@ This rulebook includes basic Army Lists for the Legiones Astartes and Solar Auxi
 
 A player must spend at least 70% of the points available from the agreed Points Limit on Formations and Detachments from their Primary Army List.
 
-Most Army Lists have a number of special rules that apply to all Formations and Detachments selected from that Army List. Unless instructed otherwise, these rules do not apply to any Allied Contingents ([see page 129](../legions_imperialis_rules/mustering_an_army/#allied-contingents)) which are selected from another Army List, such formations instead use any special rules that are a part of the Army List from which they were selected.
+Most Army Lists have a number of special rules that apply to all Formations and Detachments selected from that Army List. Unless instructed otherwise, these rules do not apply to any Allied Contingents ([see page 129](../../legions_imperialis_rules/mustering_an_army/#allied-contingents)) which are selected from another Army List, such formations instead use any special rules that are a part of the Army List from which they were selected.
 
 ### Assemble Compulsory Formations
 
 Once an Allegiance has been declared and a Primary Army List chosen, players can begin to select the models that will compose their armies. These armies are formed of two distinct components: Formations and Detachments.
 
-Formations are the primary tool by which armies are assembled and organised. Formations are strategic groupings of Detachments that determine the composition of an Army and affect Detachment Morale (see the Morale and Break Point rules [on page 64](../legions_imperialis_rules/playing_the_game/#morale-checks)). In general, larger Formations have a higher Break Point and are more advantageous on the battlefield.
+Formations are the primary tool by which armies are assembled and organised. Formations are strategic groupings of Detachments that determine the composition of an Army and affect Detachment Morale (see the Morale and Break Point rules [on page 64](../../legions_imperialis_rules/playing_the_game/#morale-checks)). In general, larger Formations have a higher Break Point and are more advantageous on the battlefield.
 
 Formations represent the main building blocks of an Army; each Army must include a minimum of 1 Formation from its Primary Army List for each full 1,500 points of the agreed points limit for each Army (i.e., an Army assembled to a 3,000 points limit must include at least 2 Formations, a 4,500 point Army must include at least 3 Formations etc,.).
 
@@ -56,7 +56,7 @@ Each Formation is represented by a Formation Organisation chart - which Detachme
 
 Compulsory slots are slots that must be filled with the appropriate Detachment for that Formation to be fielded. Optional slots are slots the player can fill with the appropriate Detachments but they do not have to.
 
-Each slot represents either a specific Detachment, such as a Legion Tactical Detachment, or a Detachment Role, such as 'Core Detachments'. Where a specific Detachment is listed, the slot must be filled with that Detachment. In the case of a Detachment Role, any Detachment from that Role can fill the slot; each datasheet has an icon which represents the relevant Detachment's Role, which informs which Detachments can be taken in which slots ([see page 128](../legions_imperialis_rules/mustering_an_army/#formations-detachments) for more details on Detachment Roles). A Formation's slots can only be filled by Detachments drawn from the same Army List as the Formation unless instructed otherwise.
+Each slot represents either a specific Detachment, such as a Legion Tactical Detachment, or a Detachment Role, such as 'Core Detachments'. Where a specific Detachment is listed, the slot must be filled with that Detachment. In the case of a Detachment Role, any Detachment from that Role can fill the slot; each datasheet has an icon which represents the relevant Detachment's Role, which informs which Detachments can be taken in which slots ([see page 128](../../legions_imperialis_rules/mustering_an_army/#formations-detachments) for more details on Detachment Roles). A Formation's slots can only be filled by Detachments drawn from the same Army List as the Formation unless instructed otherwise.
 
 Some slots may offer choices, such as '*Choose one Detachment from the following*:', listing either multiple specific Detachments or Detachment Roles. Where this is the case, the slot may be filled with any Detachment from the list or from the listed Detachment Roles. Additionally, some Formation Organisation charts might allow multiple slots to be filled with a choice of Detachments or Detachment Roles, such as '*Choose a maximum of* *three Detachments from the following:*'. Where this is the case, the slots may be filled with any combination of the listed Detachments or Detachment Roles, up to the maximum allowed. 
 
@@ -120,7 +120,7 @@ An Army must include the minimum number of Formations drawn from the Primary Arm
 
 Allied Contingents represent forces from the Army List available to other armies, such as battlegroups of Legiones Astartes warriors lending their strength to a Solar Auxilia force.
 
-For each Formation drawn from the Primary Army List, an Army can include a single Allied Contingent by choosing a Formation from a different Army List or the Strategic Assets list [on page 198](../strategic_assets/). This Formation is assembled in the normal way using Detachments from that Army List or the Strategic Assets list - Detachments from the Primary Army List cannot fill slots in an Allied Contingent.
+For each Formation drawn from the Primary Army List, an Army can include a single Allied Contingent by choosing a Formation from a different Army List or the Strategic Assets list [on page 198](../../strategic_assets/). This Formation is assembled in the normal way using Detachments from that Army List or the Strategic Assets list - Detachments from the Primary Army List cannot fill slots in an Allied Contingent.
 
 Each Allied Contingent in an Army can be drawn from a different list if the player wishes. The total points cost of all Detachments within Allied Contingents in an Army cannot be greater than 30% of the points limit of the Army. An Allied Contingent functions like any other Formation on the battlefield.
 

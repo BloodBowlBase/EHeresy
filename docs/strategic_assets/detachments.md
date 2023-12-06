@@ -28,7 +28,7 @@ For +15 points, a Questoris Knight may have one of the following weapon loadouts
 
 \*A Questoris Knight with this loadout may also be equipped with rocket pods for +5 points.
 
-†Knight Styrix/Knight Magaera use the corresponding profiles [on page 207](../strategic_assets/detachments/#detachment-upgrades).
+†Knight Styrix/Knight Magaera use the corresponding profiles [on page 207](../../strategic_assets/detachments/#detachment-upgrades).
 
 | Weapon                           | Range | Dice | To Hit | AP | Traits                                                |
 | -------------------------------- | ----- | ---- | ------ | -- | ----------------------------------------------------- |
@@ -56,7 +56,7 @@ In addition, a Questoris Knight Banner may purchase one of the following upgrade
 * Questoris Knight Armiger Talon [+180 points]‡
 * Mechanicum Knight Moirax Talon [+200 points]‡
 
-‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../strategic_assets/detachments/#detachment-upgrades_2).
+‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../../strategic_assets/detachments/#detachment-upgrades_2).
 
 **Special Rules**
 
@@ -139,7 +139,7 @@ For +20 points, a Cerastus Knight may have one of the following loadouts instead
 
 \*A Knight Lancer exchanges the Ion Shield (4+) special rule for Ion Shield (3+).
 
-†Cerastus Knight Atrapos use the corresponding profiles [on page 209](../strategic_assets/detachments/#detachment-upgrades_1).
+†Cerastus Knight Atrapos use the corresponding profiles [on page 209](../../strategic_assets/detachments/#detachment-upgrades_1).
 
 | Weapon                             | Range | Dice | To Hit | AP | Traits                                        |
 | ---------------------------------- | ----- | ---- | ------ | -- | --------------------------------------------- |
@@ -163,7 +163,7 @@ In addition, a Cerastus Knight Banner may purchase one of the following upgrades
 * Questoris Knight Armiger Talon [+180 points]‡
 * Mechanicum Knight Moirax Talon [+200 points]‡
 
-‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../strategic_assets/detachments/#detachment-upgrades_2).
+‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../../strategic_assets/detachments/#detachment-upgrades_2).
 
 **Special Rules**
 
@@ -242,7 +242,7 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 * Questoris Knight Armiger Talon [+180 points]\*
 * Mechanicum Knight Moirax Talon [+200 points]\*
 
-\*Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../strategic_assets/detachments/#detachment-upgrades_2).
+\*Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../../strategic_assets/detachments/#detachment-upgrades_2).
 
 **Special Rules**
 
