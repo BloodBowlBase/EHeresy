@@ -23,7 +23,7 @@ Some effects take place at the start of a round or at the start of a phase. Thes
 
 The Assign Orders stage is when both players plan out their round, determining what actions can be undertaken by the Army they control. This is accomplished by issuing an Order to each Detachment in the Army. Both players must issue one Order to each Detachment in their Army by placing tokens at the same time and in any order, face-down and hidden from their opponent, as follows.
 
-An Order is issued by selecting a Detachment, then selecting an Order available to that Detachment and placing a token representing that Order face-down on either the Detachment's Order token slot on the Army roster or next to the Detachment on the battlefield. This process is repeated for every Detachment in the Army, unless another rule dictates that a given Detachment may not be issued an Order, or the }Detachment already has an Order carried over from a previous round (such as the Fall Back Order). This includes Detachments that are not on the battlefield but have not been destroyed, such as those Embarked within a Transport (see page 96) or held in Reserve (see page 102). If a Detachment is no longer taking part in the battle, (for example, due to being destroyed or having left the table due to a Mission's special rule), then it cannot be issued an Order.
+An Order is issued by selecting a Detachment, then selecting an Order available to that Detachment and placing a token representing that Order face-down on either the Detachment's Order token slot on the Army roster or next to the Detachment on the battlefield. This process is repeated for every Detachment in the Army, unless another rule dictates that a given Detachment may not be issued an Order, or the Detachment already has an Order carried over from a previous round (such as the Fall Back Order). This includes Detachments that are not on the battlefield but have not been destroyed, such as those Embarked within a Transport ([see page 96](../legions_imperialis_rules/special_rules/#transport-x)) or held in Reserve ([see page 102](../legions_imperialis_rules/fighting_a_battle/#reserves)). If a Detachment is no longer taking part in the battle, (for example, due to being destroyed or having left the table due to a Mission's special rule), then it cannot be issued an Order.
 
 Once all players have issued an Order to each eligible Detachment, and all tokens have been placed face-down on either the battlefield or the controlling player's Army roster, the Assign Orders stage ends. 
 
@@ -53,7 +53,7 @@ A Detachment issued with the First Fire Order may fire during the First Fire sta
 
 ![](../media/legions_imperialis_rules/advance.jpg)
 
-Each model within a Detachment issued with the Advance Order may move up to a number of inches equal to its Movement characteristic during the Movement phase and may fire in the Advancing Fire stage of the Combat phase. The Advance Order is the only Order which can be issued to a Detachment that is not in Detachment Coherency (see page 50), and one of two Orders which can be issued to a Detachment that is Broken (see Morale, page 63). A model cannot move within 1" of an enemy model, unless instructed otherwise (see Engagement Zones on page 51).
+Each model within a Detachment issued with the Advance Order may move up to a number of inches equal to its Movement characteristic during the Movement phase and may fire in the Advancing Fire stage of the Combat phase. The Advance Order is the only Order which can be issued to a Detachment that is not in Detachment Coherency ([see page 50](../legions_imperialis_rules/playing_the_game/#coherency)), and one of two Orders which can be issued to a Detachment that is Broken (see Morale, [page 63](../legions_imperialis_rules/playing_the_game/#broken)). A model cannot move within 1" of an enemy model, unless instructed otherwise (see Engagement Zones [on page 51](../legions_imperialis_rules/playing_the_game/#engagement-zone)).
 
 #### March Orders
 
@@ -77,13 +77,13 @@ Models in a Detachment issued with a Charge Order add 1 to any Fight roll they m
 
 Certain situations, such as failing a Morale test, may require a Detachment to be issued with a Fall Back Order or to have its existing Order replaced with a Fall Back Order. When a Fall Back Order is issued to a Detachment, the controlling player must remove any other Order it is issued with. However, unless stated otherwise, a Detachment cannot voluntarily be issued with a Fall Back Order by a player.
 
-A Detachment with a Fall Back Order cannot be activated in any phase other than the End phase. As such, a Detachment with a Fall Back Order cannot move in the Movement phase and cannot fire in any phase. In the End phase, a Detachment with a Fall Back Order must be activated and 'flees', as described on page 65.
+A Detachment with a Fall Back Order cannot be activated in any phase other than the End phase. As such, a Detachment with a Fall Back Order cannot move in the Movement phase and cannot fire in any phase. In the End phase, a Detachment with a Fall Back Order must be activated and 'flees', as described [on page 65](../legions_imperialis_rules/playing_the_game/#fleeing).
 
 In the Order phase, a Detachment with a Fall Back Order cannot be issued a new order, nor remove the Fall Back Order unless a rule specifically says to.
 
 A Detachment with a Morale value of '-' cannot be issued with a Fall Back Order for any reason, and instead retains its original Order.
 
-For more information on how Detachments that are issued with the Fall Back Order act, see page 64.
+For more information on how Detachments that are issued with the Fall Back Order act, [see page 64](../legions_imperialis_rules/playing_the_game/#fall-back-stage).
 
 ## Initiative Phase
 
@@ -95,13 +95,13 @@ The Movement phase is where players move their Detachments around the battlefiel
 
 ### Activating Detachments
 
-During the Movement phase, players take it in turns, starting with the player with Initiative, to choose and activate one of their Detachments that has been issued an Advance Order, Charge Order or March Order. Detachments with a First Fire Order cannot be activated during this phase unless it is to Overwatch (see page 52). If one player has activated all Detachments they control with an Advance Order, Charge Order or March Order and the other player still has Detachments eligible to be activated in this stage, the other player activates each of their remaining eligible Detachments in an order of their choosing.
+During the Movement phase, players take it in turns, starting with the player with Initiative, to choose and activate one of their Detachments that has been issued an Advance Order, Charge Order or March Order. Detachments with a First Fire Order cannot be activated during this phase unless it is to Overwatch ([see page 52](../legions_imperialis_rules/playing_the_game/#overwatch)). If one player has activated all Detachments they control with an Advance Order, Charge Order or March Order and the other player still has Detachments eligible to be activated in this stage, the other player activates each of their remaining eligible Detachments in an order of their choosing.
 
 When a Detachment is activated, the controlling player may move the Detachment in a manner specified by its Order. For example, models in a Detachment issued with an Advance Order may move up to a number of inches equal to the model's Movement characteristic. 
 
 Once a Detachment has finished its activation, play passes to the opposing player, who then activates one of their eligible Detachments.
 
-All Detachments with an Advance Order, March Order or Charge Order must be activated during this phase, though they can be activated and do nothing - this includes any eligible Detachment that is not on the battlefield but is still in play, such as Detachments with the Flyer special rule or Detachments in Reserve (see page 102).
+All Detachments with an Advance Order, March Order or Charge Order must be activated during this phase, though they can be activated and do nothing - this includes any eligible Detachment that is not on the battlefield but is still in play, such as Detachments with the Flyer special rule or Detachments in Reserve ([see page 102](../legions_imperialis_rules/fighting_a_battle/#reserves)).
 
 #### Activating Detachments in Reserve
 
@@ -119,7 +119,7 @@ When a Detachment is activated in the Movement phase, models within that Detachm
 
 * Move twice their Movement characteristic if issued with the March Order or, if the Detachment is made up entirely of Infantry models that are not Embarked on a Transport when the Detachment is activated, up to three times its Movement characteristic.
 
-Most Detachment types can move in any direction and finish their move facing in a direction of the controlling player's choice. However, some Detachment types have some restrictions on their movement - the most common example is Titans, which have a number of unique rules covered on page 75.
+Most Detachment types can move in any direction and finish their move facing in a direction of the controlling player's choice. However, some Detachment types have some restrictions on their movement - the most common example is Titans, which have a number of unique rules covered [on page 75](../legions_imperialis_rules/titans/).
 
 A Movement characteristic of '-' means models in the Detachment cannot move, and the characteristic cannot be modified in any way.
 
@@ -200,7 +200,7 @@ A Detachment that has been issued with an Advance Order or First Fire Order may 
 To call Overwatch, the following conditions must be met:
 
 * The Detachment calling Overwatch must be issued with an Advance Order or First Fire Order. 
-* The activating Detachment must be an eligible target for the firing Detachment - see Firing on page 56 for more details. 
+* The activating Detachment must be an eligible target for the firing Detachment - see Firing [on page 56](../legions_imperialis_rules/playing_the_game/#firing) for more details. 
 * No other Detachment has called Overwatch during the same enemy Detachment's activation.
 
 When a Detachment calls Overwatch, the normal sequence of the phase is paused. The Overwatching Detachment may immediately fire, targeting only the Detachment which is completing its activation, following the normal rules for firing (with the enemy Detachment that has been activated being the chosen target). Any Hit rolls made as part of an Overwatch subtract 2 from the result of the roll, in addition to any other modifiers - as noted in Firing, a natural roll of a 6 always scores a Hit, no matter the modifiers.
@@ -214,7 +214,7 @@ Once the Overwatch has been resolved, the controlling player removes the firing 
 #### Designer's Note: Overwatch and Timing 
 When models move, they aren't really picked up from one point on the battlefield and placed at another. Furthermore, time is abstract in a tabletop game - everything is happening simultaneously and a Detachment moves as one, not one model at a time.
 
-There will be times when Overwatch (see page 52) is called against an enemy Detachment that starts its activation out of line of sight of the Overwatching Detachment and/or would end it out of sight of the Overwatching Detachment. In such cases, it is presumed the Overwatching Detachment catches its target in the midst of movement. When firing, determine how many enemy models from the target Detachment would cross into line of sight of the Overwatching models during the Detachment's movement. All of these are eligible targets if other requirements are met and can be fired upon and allocated Hits as normal.
+There will be times when Overwatch ([see page 52](../legions_imperialis_rules/playing_the_game/#overwatch)) is called against an enemy Detachment that starts its activation out of line of sight of the Overwatching Detachment and/or would end it out of sight of the Overwatching Detachment. In such cases, it is presumed the Overwatching Detachment catches its target in the midst of movement. When firing, determine how many enemy models from the target Detachment would cross into line of sight of the Overwatching models during the Detachment's movement. All of these are eligible targets if other requirements are met and can be fired upon and allocated Hits as normal.
 
 The Overwatching Detachment can choose the 'time' it fires - for example, if the target leaves an area of terrain, crosses Open terrain and enters a new area of terrain (all of which are visible and within range of the Overwatching Detachment), that Detachment can choose to fire at its target when it is in Open terrain, avoiding negative modifiers due to terrain.
 
@@ -236,7 +236,7 @@ The Order a Detachment is issued with determines which stage it can be activated
 
 In the First Fire stage, players take it in turns, starting with the player with Initiative, to activate one of their Detachments that is issued with a First Fire Order. If one player has activated all Detachments they control issued with a First Fire Order and the other player still has Detachments eligible to be activated in this stage, the other player activates each of their remaining eligible Detachments in an order of their choosing. All Detachments issued with a First Fire Order must be activated in this stage, even if they do nothing. However, a Detachment that was issued a First Fire Order that has since had them removed (due to calling Overwatch or failing a Morale test) may not be activated in this stage.
 
-When a Detachment is activated during the First Fire stage, it may fire - see Firing on page 56 for more details - or do nothing. Once the Detachment's activation is complete, remove the Detachment's Order token; if the Detachment has not fired, either due to not wishing to fire or having no eligible target, the Order is still removed and the Detachment can do nothing else this round unless instructed otherwise.
+When a Detachment is activated during the First Fire stage, it may fire - see Firing [on page 56](../legions_imperialis_rules/playing_the_game/#firing) for more details - or do nothing. Once the Detachment's activation is complete, remove the Detachment's Order token; if the Detachment has not fired, either due to not wishing to fire or having no eligible target, the Order is still removed and the Detachment can do nothing else this round unless instructed otherwise.
 
 Detachments that are Engaged & Pinned at the start of the First Fire stage cannot be activated and simply discard their First Fire Order at the end of the stage.
 
@@ -266,7 +266,7 @@ The following diagrams highlight examples of Combat.
 
 ***LIR55.2:** A more complex example. The Legion Tactical Detachment (A) is Engaged with a Lasrifle Tercio (B) and an Auxilia Aethon Heavy Sentinel Patrol Detachment (D). The Lasrifle Tercio is also Engaged with the Dreadnought Detachment (C). As such, all four Detachments are within the same Combat, even though the Dreadnoughts and Sentinels are not Engaged with one another.*
 
-Once all Combats have been determined, each Combat is resolved in turn, in an order determined by the player with Initiative - see Combat on page 60 for more details. Any Detachments issued with a Charge Order must remove their Order token at the end of the Engagement stage, regardless of whether they participated in a combat or not. If a Detachment that began the Engagement stage Engaged has no models in base to base contact with enemy models, it is no longer Engaged.
+Once all Combats have been determined, each Combat is resolved in turn, in an order determined by the player with Initiative - see Combat [on page 60](../legions_imperialis_rules/playing_the_game/#combat) for more details. Any Detachments issued with a Charge Order must remove their Order token at the end of the Engagement stage, regardless of whether they participated in a combat or not. If a Detachment that began the Engagement stage Engaged has no models in base to base contact with enemy models, it is no longer Engaged.
 
 #### Combat vs. Engaged
 
@@ -280,7 +280,7 @@ In the Advancing Fire stage, players take it in turns, starting with the player 
 
 A Detachment can be activated and may fire during the Advancing Fire stage if it is not Engaged & Pinned and is issued with an Advance Order and is on the battlefield. Detachments in Reserve are not activated during the Advancing Fire stage, unless instructed otherwise.
 
-When one player has activated all eligible Detachments, the other player activates each of their remaining Detachments in an order of their choosing. All Detachments issued with an Advance Order or First Fire Order must be activated in this stage, though they can be activated and do nothing. When a Detachment is activated it may fire - see Firing on page 56 for more details - or do nothing.
+When one player has activated all eligible Detachments, the other player activates each of their remaining Detachments in an order of their choosing. All Detachments issued with an Advance Order or First Fire Order must be activated in this stage, though they can be activated and do nothing. When a Detachment is activated it may fire - see Firing [on page 56](../legions_imperialis_rules/playing_the_game/#firing) for more details - or do nothing.
 
 Once a Detachment has finished its activation, the controlling player removes its Order token.
 
@@ -328,7 +328,7 @@ A model can only be allocated a Hit if it is an eligible target for the firing m
 
 The controlling player then makes a Save roll for that model by rolling a D6. Save rolls are made using a Save characteristic. Typically, this is made against the Armour Save characteristic of a model, though some special rules grant additional types of Save characteristics; the controlling player must choose which Save characteristic they wish to use. An Armour Save of '-' means models in the Detachment have no Armour Save and therefore it can't be improved or worsened in any way.
 
-Apply any modifiers to the Dice roll or the target's Save characteristic (e.g., due to the AP of the weapon). For example, if a target model has an Armour Save of 3+ and is hit by a weapon with an AP of -2, the target's Armour Save is worsened to 5+ against that weapon. The AP of a weapon can be modified by a special rule or weapon Trait. The AP value is always modified before applying it to the target's Armour Save characteristic, which is relevant for some weapon Traits such as Light AT (see page 82). After applying any modifiers, compare the Dice roll against the chosen Save characteristic.
+Apply any modifiers to the Dice roll or the target's Save characteristic (e.g., due to the AP of the weapon). For example, if a target model has an Armour Save of 3+ and is hit by a weapon with an AP of -2, the target's Armour Save is worsened to 5+ against that weapon. The AP of a weapon can be modified by a special rule or weapon Trait. The AP value is always modified before applying it to the target's Armour Save characteristic, which is relevant for some weapon Traits such as Light AT ([see page 82](../legions_imperialis_rules/weapon_traits/#light-at)). After applying any modifiers, compare the Dice roll against the chosen Save characteristic.
 
 If the result is equal to or greater than the target's Save characteristic, no damage is done and the Hit is discarded. If the result of the roll is lower than the model's Save characteristic, that model suffers a Wound and reduces its Wounds characteristic by 1. When a model is reduced to 0 Wounds, it is destroyed and removed from the battlefield.
 
@@ -338,7 +338,7 @@ All Hit rolls must be made and resolved against a chosen target before moving on
 
 ##### Multiple Save Characteristics
 
-All models have an Armour Save characteristic shown on their datasheet. However, various special rules can confer additional Save characteristics, such as the Invulnerable Save (X) special rule or a Cover Save granted by an area of terrain (see page 67). These additional Save characteristics can be used in place of the Armour Save characteristic of the model when making a Save roll.
+All models have an Armour Save characteristic shown on their datasheet. However, various special rules can confer additional Save characteristics, such as the Invulnerable Save (X) special rule or a Cover Save granted by an area of terrain ([see page 67](../legions_imperialis_rules/terrain/#types-of-terrain)). These additional Save characteristics can be used in place of the Armour Save characteristic of the model when making a Save roll.
 
 Unless instructed otherwise, a model can only make a single Save roll against each Hit, regardless of how many Save characteristics it has available to it. However, the controlling player may choose which Save characteristic a model uses to make a Save roll for each Hit scored - usually, this will be the best Save available to them.
 
@@ -352,9 +352,9 @@ In Legions Imperialis, most models only have 1 Wound but some, such as Titans or
 
 It is common for armoured war machines to have weaker armour in the rear than the front. To represent this, the direction from which a target model is being fired upon can be important when it comes to making Save rolls. As such, the following rule applies to Vehicles, Super-heavy Vehicles, Knights and Titans:
 
-When a Hit is allocated against a Vehicle, Super-heavy Vehicle, Knight or Titan, determine which of the target's Arcs the firing model is within. If the firing model is within the target's Rear Arc, the AP of the firing weapon is improved by 1 (for example, an AP of -1 would become AP -2) for that Hit. This takes effect after other rules, such as the Light AT trait, modify the AP (e.g., the AP of a Light AT weapon would be reduced to 0 then improved to -1 if within the target's Rear Arc) - see page 77 for more information on Traits.
+When a Hit is allocated against a Vehicle, Super-heavy Vehicle, Knight or Titan, determine which of the target's Arcs the firing model is within. If the firing model is within the target's Rear Arc, the AP of the firing weapon is improved by 1 (for example, an AP of -1 would become AP -2) for that Hit. This takes effect after other rules, such as the Light AT trait, modify the AP (e.g., the AP of a Light AT weapon would be reduced to 0 then improved to -1 if within the target's Rear Arc) - [see page 77](../legions_imperialis_rules/weapon_traits/) for more information on Traits.
 
-Any Hits scored by a firing model in a target's Rear Arc that are allocated to a Void Shield (see page 97) do not improve their AP by 1. In other words, a weapon with an AP of 0 or worse would still be automatically discarded when allocated to a Void Shield, even if the firing model was in the target's Rear Arc. 
+Any Hits scored by a firing model in a target's Rear Arc that are allocated to a Void Shield ([see page 97](../legions_imperialis_rules/special_rules/#void-shields-x)) do not improve their AP by 1. In other words, a weapon with an AP of 0 or worse would still be automatically discarded when allocated to a Void Shield, even if the firing model was in the target's Rear Arc. 
 
 ![](../media/legions_imperialis_rules/rear_armour.jpg)
 
@@ -420,7 +420,7 @@ Once all of a model's Fights have been resolved, the player with Initiative choo
 
 Once all Fights within a Combat have been resolved, players need to determine which side won the Combat. To do so, determine which side won the most Fights - the side that won the most Fights is the winner of the Combat. If one side has no models left in the Combat, then it automatically loses the Combat, even if it won the most Fights.
 
-All Detachments on the losing side that are involved in the Combat must make a Morale check (see page 64). If the check is passed, nothing happens. If the check is failed, the Detachment Withdraws. A Detachment that is part of a Formation that is Broken must roll two D6 and choose the lower result when making a Morale check in this way. If a Detachment has a Morale characteristic of '-', then it does not make a Morale check and does not Withdraw.
+All Detachments on the losing side that are involved in the Combat must make a Morale check ([see page 64](../legions_imperialis_rules/playing_the_game/#morale-checks)). If the check is passed, nothing happens. If the check is failed, the Detachment Withdraws. A Detachment that is part of a Formation that is Broken must roll two D6 and choose the lower result when making a Morale check in this way. If a Detachment has a Morale characteristic of '-', then it does not make a Morale check and does not Withdraw.
 
 If both sides won the same amount of Fights, the Combat is a draw. If the fight was a draw, neither side makes Morale checks. Any Detachments which have one or more models in base to base contact with enemy models remain Engaged - otherwise a Detachment is not Engaged once the Combat ends.
 
@@ -462,7 +462,7 @@ If, for whatever reason, models are added back into a Detachment, or a Titan or 
 
 #### Morale Checks
 
-If, when fired at by an enemy Detachment, a Detachment suffers Casualties equal to one half or more (rounding up) of the number of models composing that Detachment when it was targeted, the controlling player must make a 'Morale check' for that Detachment once the enemy Detachment has fully resolved the attack or, in the case of casualties caused by an Overwatch, once the target Detachment has finished its activation. A Morale check is only caused in this manner as the result of an enemy Detachment attacking during the First Fire or Advancing Fire stages of the Combat phase, or due to the result of Overwatch. The Engagement stage and casualties inflicted due to Fights cause Morale checks using the rules found in the Engagement stage section (see page 54).
+If, when fired at by an enemy Detachment, a Detachment suffers Casualties equal to one half or more (rounding up) of the number of models composing that Detachment when it was targeted, the controlling player must make a 'Morale check' for that Detachment once the enemy Detachment has fully resolved the attack or, in the case of casualties caused by an Overwatch, once the target Detachment has finished its activation. A Morale check is only caused in this manner as the result of an enemy Detachment attacking during the First Fire or Advancing Fire stages of the Combat phase, or due to the result of Overwatch. The Engagement stage and casualties inflicted due to Fights cause Morale checks using the rules found in the Engagement stage section ([see page 54](../legions_imperialis_rules/playing_the_game/#engagement-stage)).
 
 *For example, a Detachment currently composed of 8 models must make a Morale check if an enemy Detachment fires at it and causes 4 or more models to be removed as destroyed.*
 
@@ -517,10 +517,10 @@ During this stage, any remaining Order tokens, other than the Fall Back Order, i
 
 ### Remove Flyers Stage
 
-In the Remove Flyers stage, players remove their Flyers from the battlefield, as described in the Flyer special rule (see page 89).
+In the Remove Flyers stage, players remove their Flyers from the battlefield, as described in the Flyer special rule ([see page 89](../legions_imperialis_rules/special_rules/#flyer)).
 
 ### Calculate Victory Points Stage
 
-If playing a Mission that involves Victory Points and/or Objective markers, determine which player is in control of which Objective marker and award any Victory Points (see page 103 for more details). 
+If playing a Mission that involves Victory Points and/or Objective markers, determine which player is in control of which Objective marker and award any Victory Points ([see page 103](../legions_imperialis_rules/fighting_a_battle/#scoring-victory-points) for more details). 
 
 Once all stages of the End phase have been resolved, the round ends and either the next round begins or, if the Mission dictates, the battle ends.

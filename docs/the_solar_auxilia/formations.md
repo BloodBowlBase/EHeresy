@@ -24,7 +24,7 @@ One of the following:
 
 Armoured Companies were the hammer of Solar Auxilia Cohorts, each one consisting of dedicated tank squadrons commanded by a seasoned veteran. When assembled in number, the massed ranks of Solar Auxilia armour were capable of grinding all resistance beneath their treads.
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see page 178).
+**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points ([see page 178](../the_solar_auxilia/#tank-commander)).
 
 **COMPULSORY DETACHMENTS** 
 

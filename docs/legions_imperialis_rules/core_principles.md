@@ -22,7 +22,7 @@ Before going further, it is worth establishing some core principles and conventi
 
 ### Modifying Rolls
 
-Sometimes it will be necessary to add to or subtract from a D6 roll -- for example, a rule might say to roll D6+1.
+Sometimes it will be necessary to add to or subtract from a D6 roll - for example, a rule might say to roll D6+1.
 
 In this case, a D6 would be rolled and 1 would be added to the result. Similarly, a rule might instruct a player to halve or divide a roll. In this case, any fractions are rounded up, unless instructed otherwise. A dice can never be modified to 0 or lower, regardless of the modifier.
 
@@ -40,7 +40,7 @@ The term **'natural roll'** refers to the result of a dice roll before modifiers
 
 ### Re-rolls
 
-Some rules allow a player to **re-roll** a dice, while others might force players to re-roll a dice. In such instances, a re-roll is done by simply picking up the dice and rolling it again -- the second result stands even if the first was preferable. A dice cannot be re-rolled more than once.
+Some rules allow a player to **re-roll** a dice, while others might force players to re-roll a dice. In such instances, a re-roll is done by simply picking up the dice and rolling it again - the second result stands even if the first was preferable. A dice cannot be re-rolled more than once.
 
 When re-rolling a roll that contains multiple dice (for example, a 2D6 roll or a three D6 roll), the player must re-roll all the dice unless it is specifically mentioned that only some of the dice can be re-rolled.
 
@@ -68,7 +68,7 @@ A target number can never be improved past 1+; if the end result after multiple 
 
 ## Tokens
 
-In Legions Imperialis, Detachments act according to the '**Order**' issued to them at the start of each round (see page 46). Orders are issued through the use of '**Order tokens**'. There are five kinds of Order tokens used in Legions Imperialis:
+In Legions Imperialis, Detachments act according to the '**Order**' issued to them at the start of each round ([see page 46](../legions_imperialis_rules/playing_the_game/#orders-phase)). Orders are issued through the use of '**Order tokens**'. There are five kinds of Order tokens used in Legions Imperialis:
 
 ![](../media/legions_imperialis_rules/advance.jpg) Advance
  
@@ -112,7 +112,7 @@ Players muster an Army by using an Army List of their choice, up to an agreed po
 
 A player's Army points value (i.e., the total points cost of all its Detachments) can be equal to or less than the agreed points limit, but can never exceed it.
 
-For more information on mustering an Army, see page 126.
+For more information on mustering an Army, [see page 126](../legions_imperialis_rules/mustering_an_army/).
 
 ### Friendly and Enemy
 
@@ -146,7 +146,7 @@ The same principles are used for rules that refer to Formations; a single model 
 
 Whether a model can see another model is often determined by the presence of terrain and other models. 
 
-Terrain can take many forms but, broadly speaking, a piece of terrain is presumed to be a realistic scale representation of actual structures, ruins or other terrain features. Therefore, if a model can see part of another model, such as one of its figures or one of a Vehicle's tracks, ignoring any insignificant elements such as protruding weapons or bases, then it has line of sight to it unless a specific rule prevents this from happening - for example, an area of Obstructing terrain (see page 68) blocks line of sight through it, so even if you personally can see a model, the model you control cannot.
+Terrain can take many forms but, broadly speaking, a piece of terrain is presumed to be a realistic scale representation of actual structures, ruins or other terrain features. Therefore, if a model can see part of another model, such as one of its figures or one of a Vehicle's tracks, ignoring any insignificant elements such as protruding weapons or bases, then it has line of sight to it unless a specific rule prevents this from happening - for example, an area of Obstructing terrain ([see page 68](../legions_imperialis_rules/terrain/#obstructing-terrain)) blocks line of sight through it, so even if you personally can see a model, the model you control cannot.
 
 If it is unclear if a model can see another model, then players can check by getting a 'model's eye view'. To do this, position yourself so you are level with the model and see what they can see. If the other model is not completely obscured by terrain or another Detachment, then the first model has line of sight to it.
 
@@ -186,11 +186,11 @@ For some models, such as Vehicles, the direction an attack is coming from can ha
 
 ## The Battlefield 
 
-All games are played on a 'battlefield'. The exact size and nature of the battlefield is up to the players, however the standard game of Legions Imperialis uses a 5' x 4' battlefield. The battlefield represents the boundaries of the battle the players are fighting -- models cannot move off the battlefield except in special circumstances.
+All games are played on a 'battlefield'. The exact size and nature of the battlefield is up to the players, however the standard game of Legions Imperialis uses a 5' x 4' battlefield. The battlefield represents the boundaries of the battle the players are fighting - models cannot move off the battlefield except in special circumstances.
 
 ## Datasheets
 
-On the battlefield, each model is represented by a characteristics profile, which details their capabilities in battle. A model's profile can be found in their respective 'datasheet'. The Army Lists section of this book (see page 126) presents a number of datasheets for Detachments which you can field on the battlefield; future supplements will add to this. A datasheet shows the characteristics of each model within the Detachment alongside any special rules that affect them and upgrade options available to the Detachment. The datasheet for a Legion Assault Detachment is shown below as an example:
+On the battlefield, each model is represented by a characteristics profile, which details their capabilities in battle. A model's profile can be found in their respective 'datasheet'. The Army Lists section of this book ([see page 126](../legions_imperialis_rules/mustering_an_army/)) presents a number of datasheets for Detachments which you can field on the battlefield; future supplements will add to this. A datasheet shows the characteristics of each model within the Detachment alongside any special rules that affect them and upgrade options available to the Detachment. The datasheet for a Legion Assault Detachment is shown below as an example:
 
 ![](../media/legions_imperialis_rules/datasheet.jpg)
 
@@ -200,11 +200,11 @@ The name of the Detachment. If a rule refers to a Detachment by name, the rule a
 
 **Points Cost**
 
-The base points cost of a Detachment - all models within the Detachment size are included in the points cost of the Detachment. See Mustering an Army on page 126 for more details.
+The base points cost of a Detachment - all models within the Detachment size are included in the points cost of the Detachment. See Mustering an Army on [page 126](../legions_imperialis_rules/mustering_an_army/) for more details.
 
 **Detachment Type**
 
-A 'Detachment type' is a keyword that is used to reflect how certain rules affect the Detachment, such as how the Detachment interacts with terrain (see page 66 for more on terrain). Detachment types are accompanied by a number in brackets - this is the Scale (see page 45) of each model within that Detachment.
+A 'Detachment type' is a keyword that is used to reflect how certain rules affect the Detachment, such as how the Detachment interacts with terrain ([see page 66](../legions_imperialis_rules/terrain/) for more on terrain). Detachment types are accompanied by a number in brackets - this is the Scale ([see page 45](../legions_imperialis_rules/core_principles/#model-scale)) of each model within that Detachment.
 
 **Detachment Size**
 
@@ -216,27 +216,27 @@ The name of each model in the Detachment; upgrades may add models with different
 
 **Movement**
 
-The distance, in inches, that the model can move (see page 49 for more details).
+The distance, in inches, that the model can move ([see page 49](../legions_imperialis_rules/playing_the_game/#movement-phase) for more details).
 
 **Armour Save (Sv)**
 
-How protected a model is from incoming enemy fire. The Armour Save characteristic is a target number and can be used when a model makes a Save roll. Armour Save is a type of Save characteristic; a Detachment can gain additional Save characteristics through special rules (see page 57 for more details).
+How protected a model is from incoming enemy fire. The Armour Save characteristic is a target number and can be used when a model makes a Save roll. Armour Save is a type of Save characteristic; a Detachment can gain additional Save characteristics through special rules ([see page 57](../legions_imperialis_rules/playing_the_game/#multiple-save-characteristics) for more details).
 
 **Close Assault Factor (CAF)**
 
-How skilled a model is in close combat - see Combat on page 60 for more details.
+How skilled a model is in close combat - see Combat [on page 60](../legions_imperialis_rules/playing_the_game/#combat) for more details.
 
 **Morale**
 
-A measure of a model's resolve. Morale is a target number and is used when making Morale checks - see page 63 for more details.
+A measure of a model's resolve. Morale is a target number and is used when making Morale checks - [see page 63](../legions_imperialis_rules/playing_the_game/#morale) for more details.
 
 **Wounds**
 
-When a model fails a Save roll after taking a Hit, it suffers a Wound (see Firing on page 56) and it reduces its Wounds characteristic by 1. If it is ever reduced to 0, the model is destroyed and removed from the battlefield.
+When a model fails a Save roll after taking a Hit, it suffers a Wound (see Firing [on page 56](../legions_imperialis_rules/playing_the_game/#firing)) and it reduces its Wounds characteristic by 1. If it is ever reduced to 0, the model is destroyed and removed from the battlefield.
 
 **Weapons**
 
-The weapons each model in the Detachment has are listed here. Some models have a choice of weapons, which is chosen by the controlling player when assembling an Army. Models within a Detachment can be armed differently from one another, allowing players to mix and match weapons within a Detachment, unless it is stated that '*All models in the Detachment must have the same weapons*'. Some Detachments will have the option of replacing weapons with other weapons, usually at an additional points cost - for more information, see Mustering an Army on page 126.
+The weapons each model in the Detachment has are listed here. Some models have a choice of weapons, which is chosen by the controlling player when assembling an Army. Models within a Detachment can be armed differently from one another, allowing players to mix and match weapons within a Detachment, unless it is stated that '*All models in the Detachment must have the same weapons*'. Some Detachments will have the option of replacing weapons with other weapons, usually at an additional points cost - for more information, see Mustering an Army [on page 126](../legions_imperialis_rules/mustering_an_army/).
 
 **Weapon Name**
 
@@ -260,7 +260,7 @@ How effective the weapon is at punching through armour. This is almost always ei
 
 **Traits**
 
-Some weapons have Traits, which are special rules that apply to those weapons. The rules for each Trait will be listed either on page 77 or in the respective supplement.
+Some weapons have Traits, which are special rules that apply to those weapons. The rules for each Trait will be listed either [on page 77](../legions_imperialis_rules/weapon_traits/) or in the respective supplement.
 
 **Upgrades**
 
@@ -270,7 +270,7 @@ If an upgrade increases the Detachment size, then the added models are the same 
 
 **Special Rules**
 
-Some models are affected by additional rules that represent their extraordinary abilities. The exact effects of a special rule can be found in the Special Rules section of this book (see page 86) or in the relevant supplement.
+Some models are affected by additional rules that represent their extraordinary abilities. The exact effects of a special rule can be found in the Special Rules section of this book ([see page 86](../legions_imperialis_rules/special_rules/)) or in the relevant supplement.
 
 ## Model Scale
 

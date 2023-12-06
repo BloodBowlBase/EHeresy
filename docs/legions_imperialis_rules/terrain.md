@@ -113,7 +113,7 @@ Models in an area of Cliff can move as if in Open terrain, and can spend any mov
 
 Towering city spires, fortified bunkers and promethium processing plants are all examples of Structures.
 
-Each individual Structure is its own area of terrain. Unless instructed otherwise, a Structure blocks line of sight and is classed as Impassable terrain to all models except Infantry. Infantry Detachments can Garrison Structures - see page 72 for more details.
+Each individual Structure is its own area of terrain. Unless instructed otherwise, a Structure blocks line of sight and is classed as Impassable terrain to all models except Infantry. Infantry Detachments can Garrison Structures - [see page 72](../legions_imperialis_rules/terrain/#garrisoning-structures) for more details.
 
 ![](../media/legions_imperialis_rules/structures.jpg)
 
@@ -188,19 +188,19 @@ Any model that survives is then placed by the controlling player within the new 
 
 Models Garrisoned within a Structure may fire at enemy Detachments as normal. When firing, models Garrisoned within a Structure treat the entire area of the Structure as their base, and can draw line of sight from any point of the Structure.
 
-Similarly, enemy models may fire upon Detachments Garrisoned within a Structure, as long as they can see part of the Structure and are within range of that part. If more than one Detachment is Garrisoned within a Structure, then the firing player must nominate which Detachment or Detachments are the target. Any Hit rolls made against Detachments Garrisoned within a Structure suffer negative modifiers to their Hit rolls, depending on the Structure Type - see the Structure Bonus column on the Structure table on page 71.
+Similarly, enemy models may fire upon Detachments Garrisoned within a Structure, as long as they can see part of the Structure and are within range of that part. If more than one Detachment is Garrisoned within a Structure, then the firing player must nominate which Detachment or Detachments are the target. Any Hit rolls made against Detachments Garrisoned within a Structure suffer negative modifiers to their Hit rolls, depending on the Structure Type - see the Structure Bonus column on the Structure table [on page 71](../legions_imperialis_rules/terrain/#structures).
 
 #### Structures and Fights
 
 If one or more Detachments are Engaged with one or more enemy Detachments that are Garrisoned within a Structure, then those Detachments are in a Combat.
 
-Fights involving Garrisoned models are resolved as normal, with models paired off as described in the Combat section (see page 54). Any model in base contact with a Structure counts as being in base contact with all models within the Structure for the purposes of pairing off Fights, and thus are paired off accordingly.
+Fights involving Garrisoned models are resolved as normal, with models paired off as described in the Combat section ([see page 54](../legions_imperialis_rules/playing_the_game/#combat-phase)). Any model in base contact with a Structure counts as being in base contact with all models within the Structure for the purposes of pairing off Fights, and thus are paired off accordingly.
 
 As normal, the player with Initiative determines which models are paired off with one another. Models must first be paired off into one-on-one Fights. If all of a player's models have been paired off into one-on-one Fights and the other player still has models not paired off, then the player with Initiative pairs off these models into two-on- one Fights, then three-on-one Fights and so on, until all models have been paired off.
 
 In other words, models can only be paired off against multiple enemy models if one player has excess models, at which point the number of models that can be paired off against each enemy model increases by 1.
 
-Models that are Garrisoning a Structure gain bonuses to their CAF characteristic depending on the type of Structure they are Garrisoned within. The bonus they gain is shown in the Structure Bonus column of the Structure table on page 71.
+Models that are Garrisoning a Structure gain bonuses to their CAF characteristic depending on the type of Structure they are Garrisoned within. The bonus they gain is shown in the Structure Bonus column of the Structure table [on page 71](../legions_imperialis_rules/terrain/#structures).
 
 Detachments Garrisoned within a Structure only have to make a Morale check and Withdraw if they lose the Combat and at least one enemy model is in base contact with the Structure; if the Garrisoned Detachments lost the Combat but no enemy model is in base contact with the Structure, then no Morale checks are made and the Garrisoned Detachments do not Withdraw. Otherwise, they Withdraw as normal.
 
@@ -208,4 +208,4 @@ If all Detachments Garrisoning a Structure are destroyed during a Combat or With
 
 #### Targeting Structures
 
-For the purposes of choosing a target for a firing model, rules that refer to models and Detachments also apply to the Structure. For example, if a weapon targets all Detachments within 4" of the firing model and can also damage Structures, then all Structures within 4" are included as part of the attack. Where exceptions are made, such as in the case of splitting the dice of a Titan's weapon (see page 76), it will be noted.
+For the purposes of choosing a target for a firing model, rules that refer to models and Detachments also apply to the Structure. For example, if a weapon targets all Detachments within 4" of the firing model and can also damage Structures, then all Structures within 4" are included as part of the attack. Where exceptions are made, such as in the case of splitting the dice of a Titan's weapon ([see page 76](../legions_imperialis_rules/titans/#split-fire)), it will be noted.

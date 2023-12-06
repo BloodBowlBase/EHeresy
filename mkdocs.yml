@@ -3,7 +3,7 @@ theme:
   name: material
   palette:
     primary: blue grey
-    accent: yellow
+    accent: amber
   custom_dir: overrides
   logo: assets/EH_Logo.png
   favicon: assets/EH_Favicon.ico
@@ -24,13 +24,8 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.snippets:
       auto_append:
-        - includes/tooltip_skills.md
-        - includes/tooltip_teams.md        
-        - includes/tooltip_staff.md
-        - includes/tooltip_starplayers.md
-        - includes/tooltip_team_special_rules.md
-        - includes/tooltip_inducements.md
-        - includes/tooltip_new_inducements.md
+        - includes/tooltip_special_rules.md
+        - includes/tooltip_weapon_traits.md
 nav:
   - 'Legions Imperialis Rules':
       - 'The Rules': 'legions_imperialis_rules/the_rules.md'

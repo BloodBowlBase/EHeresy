@@ -14,7 +14,7 @@
 
 The following special rules apply to all Dark Angels models in a Legiones Astartes Army.
 
-**Formations of the Hexagrammaton:** At the start of the battle, before any Detachment is deployed, determine which Dark Angels Formations contain a total of three or more different Detachment types -- Dedicated Transports are ignored for the purposes of this calculation.
+**Formations of the Hexagrammaton:** At the start of the battle, before any Detachment is deployed, determine which Dark Angels Formations contain a total of three or more different Detachment types - Dedicated Transports are ignored for the purposes of this calculation.
 
 Any Formation that meets these requirements gains one of the following benefits, chosen by the controlling player from the list below:
 
