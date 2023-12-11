@@ -6,19 +6,19 @@ A Cohort's strength was commonly divided into 'Sub-Cohorts', each one assigned i
 
 **COMPULSORY DETACHMENTS** 
 
-![](../media/the_solar_auxilia/compulsory_hq.jpg) ![](../media/the_solar_auxilia/compulsory_support.jpg) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) 
+[![](../media/the_solar_auxilia/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_solar_auxilia/compulsory_support.jpg)](../detachments/#support-detachments) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) 
 
 **OPTIONAL DETACHMENTS**
 
-![](../media/the_solar_auxilia/optional_transport.jpg) ![](../media/the_solar_auxilia/optional_transport.jpg) ![](../media/the_solar_auxilia/optional_transport.jpg) ![](../media/the_solar_auxilia/optional_support.jpg) ![](../media/the_solar_auxilia/optional_support.jpg) ![](../media/the_solar_auxilia/optional_battle_tank.jpg) ![](../media/the_solar_auxilia/optional_core.jpg) 
+[![](../media/the_solar_auxilia/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_solar_auxilia/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_solar_auxilia/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](../detachments/#core-detachments) 
 
 One of the following:
 
-![](../media/the_solar_auxilia/optional_light_armour.jpg) ![](../media/the_solar_auxilia/optional_vanguard.jpg)
+![](../media/the_solar_auxilia/optional_light_armour.jpg) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments)
 
 One of the following:
 
-![](../media/the_solar_auxilia/optional_artillery.jpg) ![](../media/the_solar_auxilia/optional_battle_tank.jpg) ![](../media/the_solar_auxilia/optional_air_support.jpg) 
+![](../media/the_solar_auxilia/optional_artillery.jpg) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
 
 ## Solar Auxilia Armoured Company
 
@@ -28,15 +28,15 @@ Armoured Companies were the hammer of Solar Auxilia Cohorts, each one consisting
 
 **COMPULSORY DETACHMENTS** 
 
-![](../media/the_solar_auxilia/compulsory_battle_tank.jpg) ![](../media/the_solar_auxilia/compulsory_battle_tank.jpg) ![](../media/the_solar_auxilia/compulsory_battle_tank.jpg) 
+[![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) 
 
 **OPTIONAL DETACHMENTS**
 
-![](../media/the_solar_auxilia/optional_battle_tank.jpg) ![](../media/the_solar_auxilia/optional_battle_tank.jpg) ![](../media/the_solar_auxilia/optional_heavy_armour.jpg) 
+[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) 
 
 One of the following:
 
-![](../media/the_solar_auxilia/optional_battle_tank.jpg) ![](../media/the_solar_auxilia/optional_artillery.jpg) ![](../media/the_solar_auxilia/optional_air_support.jpg) 
+[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) ![](../media/the_solar_auxilia/optional_artillery.jpg) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
 
 ## Solar Auxilia Pioneer Company
 
@@ -46,14 +46,14 @@ Formed around a core of Veletaris veterans, and reinforced with heavier weapons,
 
 **COMPULSORY DETACHMENTS** 
 
-![](../media/the_solar_auxilia/compulsory_hq.jpg) ![](../media/the_solar_auxilia/compulsory_bastion.jpg) ![](../media/the_solar_auxilia/compulsory_storm_section.jpg) ![](../media/the_solar_auxilia/compulsory_bastion.jpg) 
+[![](../media/the_solar_auxilia/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_solar_auxilia/compulsory_bastion.jpg)](../detachments/#bastion-detachments) ![](../media/the_solar_auxilia/compulsory_storm_section.jpg) [![](../media/the_solar_auxilia/compulsory_bastion.jpg)](../detachments/#bastion-detachments) 
 
 **OPTIONAL DETACHMENTS**
 
-![](../media/the_solar_auxilia/optional_support.jpg) ![](../media/the_solar_auxilia/optional_core.jpg) ![](../media/the_solar_auxilia/optional_air_support.jpg) ![](../media/the_solar_auxilia/optional_vanguard.jpg) ![](../media/the_solar_auxilia/optional_vanguard.jpg) 
+[![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments) 
 
 One of the following:
 
-![](../media/the_solar_auxilia/optional_battle_tank.jpg) ![](../media/the_solar_auxilia/optional_artillery.jpg) ![](../media/the_solar_auxilia/optional_air_support.jpg) 
+[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) ![](../media/the_solar_auxilia/optional_artillery.jpg) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
 
 

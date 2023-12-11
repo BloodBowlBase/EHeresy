@@ -145,7 +145,7 @@ An Auxilia Lasrifle Tercio can purchase up to six upgrades chosen from the list 
 
 ---
 
-### Auxilia Ogryn Charonite Section [50 Points]
+### <center>Auxilia Ogryn Charonite Section [50 Points]</center>
 
 * **Type:** Infantry (1) 
 * **Detachment Size:** 4
@@ -614,7 +614,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 ---
 
-### <center>Auxilia Marauder Pathfinder</center>
+#### <center>Auxilia Marauder Pathfinder</center>
 
 * **Type:** Vehicle (2)
 
@@ -641,7 +641,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 ---
 
-### <center>Auxilia Marauder Colossus</center>
+#### <center>Auxilia Marauder Colossus</center>
 
 * **Type:** Vehicle (2)
 
@@ -670,7 +670,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 ---
 
-### <center>Auxilia Marauder Destroyer</center>
+#### <center>Auxilia Marauder Destroyer</center>
 
 * **Type:** Vehicle (2)
 

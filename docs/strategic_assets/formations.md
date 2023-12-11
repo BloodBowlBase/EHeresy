@@ -4,7 +4,7 @@ The god-engines of the Collegia Titanica were terrifying weapons of war, each on
 
 **COMPULSORY DETACHMENTS**
 
-![](../media/strategic_assets/compulsory_titan.jpg)
+[![](../media/strategic_assets/compulsory_titan.jpg)](../detachments/#titan-detachments)
 
 ## Knight Household Lance
 
@@ -18,4 +18,4 @@ In some cases, this will mean the entire Detachment is formed of Independent Uni
 
 **COMPULSORY DETACHMENTS**
 
-![](../media/strategic_assets/compulsory_knight.jpg)
+[![](../media/strategic_assets/compulsory_knight.jpg)](../detachments/#knight-detachments)

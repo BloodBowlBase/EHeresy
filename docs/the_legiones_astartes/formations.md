@@ -9,19 +9,19 @@ Demi-Companies were the heart of every Legion, formed of several contingents of 
 
 ### COMPULSORY DETACHMENTS 
 
-![](../media/the_legiones_astartes/compulsory_hq.jpg) ![](../media/the_legiones_astartes/compulsory_support.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) 
+[![](../media/the_legiones_astartes/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_legiones_astartes/compulsory_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments) 
 
 ### OPTIONAL DETACHMENTS
 
-![](../media/the_legiones_astartes/optional_bastion.jpg) ![](../media/the_legiones_astartes/optional_core.jpg) ![](../media/the_legiones_astartes/optional_transport.jpg) ![](../media/the_legiones_astartes/optional_transport.jpg) ![](../media/the_legiones_astartes/optional_support.jpg) ![](../media/the_legiones_astartes/optional_support.jpg) ![](../media/the_legiones_astartes/optional_vanguard.jpg) 
+[![](../media/the_legiones_astartes/optional_bastion.jpg)](../detachments/#bastion-detachments) [![](../media/the_legiones_astartes/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_legiones_astartes/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/optional_vanguard.jpg)](../detachments/#vanguard-detachments) 
 
 One of the following:
 
-![](../media/the_legiones_astartes/optional_light_armour.jpg) ![](../media/the_legiones_astartes/optional_air_support.jpg) 
+![](../media/the_legiones_astartes/optional_light_armour.jpg) [![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) 
 
 One of the following:
 
-![](../media/the_legiones_astartes/optional_artillery.jpg) ![](../media/the_legiones_astartes/optional_battle_tank.jpg) ![](../media/the_legiones_astartes/optional_heavy_armour.jpg)
+![](../media/the_legiones_astartes/optional_artillery.jpg) [![](../media/the_legiones_astartes/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_legiones_astartes/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments)
 
 ## Legion Garrison Force
 
@@ -29,15 +29,15 @@ Elements of the Legiones Astartes were tasked with garrisoning planets on the Im
 
 ### COMPULSORY DETACHMENTS 
 
-![](../media/the_legiones_astartes/compulsory_hq.jpg) ![](../media/the_legiones_astartes/compulsory_support.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) ![](../media/the_legiones_astartes/compulsory_bastion.jpg) 
+[![](../media/the_legiones_astartes/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_legiones_astartes/compulsory_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/compulsory_bastion.jpg)](../detachments/#bastion-detachments) 
 
 ### OPTIONAL DETACHMENTS
 
-![](../media/the_legiones_astartes/optional_bastion.jpg) ![](../media/the_legiones_astartes/optional_core.jpg) ![](../media/the_legiones_astartes/optional_air_support.jpg) ![](../media/the_legiones_astartes/optional_bastion.jpg) ![](../media/the_legiones_astartes/optional_support.jpg) ![](../media/the_legiones_astartes/optional_support.jpg) ![](../media/the_legiones_astartes/optional_artillery.jpg) 
+[![](../media/the_legiones_astartes/optional_bastion.jpg)](../detachments/#bastion-detachments) [![](../media/the_legiones_astartes/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_legiones_astartes/optional_bastion.jpg)](../detachments/#bastion-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) ![](../media/the_legiones_astartes/optional_artillery.jpg) 
 
 One of the following:
 
-![](../media/the_legiones_astartes/optional_heavy_armour.jpg) ![](../media/the_legiones_astartes/optional_artillery.jpg)
+[![](../media/the_legiones_astartes/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) ![](../media/the_legiones_astartes/optional_artillery.jpg)
 
 ## Legion Armoured Company
 
@@ -45,15 +45,15 @@ Armoured Companies were dedicated sub-sections of armoured units deployed to opp
 
 ### COMPULSORY DETACHMENTS 
 
-![](../media/the_legiones_astartes/compulsory_battle_tank.jpg) ![](../media/the_legiones_astartes/compulsory_battle_tank.jpg) ![](../media/the_legiones_astartes/compulsory_heavy_armour.jpg)
+[![](../media/the_legiones_astartes/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_legiones_astartes/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_legiones_astartes/compulsory_heavy_armour.jpg)](../detachments/#heavy-armour-detachments)
 
 ### OPTIONAL DETACHMENTS
 
-![](../media/the_legiones_astartes/optional_light_armour.jpg) ![](../media/the_legiones_astartes/optional_heavy_armour.jpg) ![](../media/the_legiones_astartes/optional_battle_tank.jpg) ![](../media/the_legiones_astartes/optional_battle_tank.jpg)
+![](../media/the_legiones_astartes/optional_light_armour.jpg) [![](../media/the_legiones_astartes/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) [![](../media/the_legiones_astartes/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_legiones_astartes/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments)
 
 One of the following:
 
-![](../media/the_legiones_astartes/optional_air_support.jpg) ![](../media/the_legiones_astartes/optional_heavy_armour.jpg)
+[![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_legiones_astartes/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments)
 
 ## Legion Aerial Assault
 
@@ -65,9 +65,9 @@ A Legion's aerial units were designed to support its methods of war and included
 
 ### COMPULSORY DETACHMENTS
 
-![](../media/the_legiones_astartes/compulsory_hq.jpg) ![](../media/the_legiones_astartes/compulsory_support.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) 
+[![](../media/the_legiones_astartes/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_legiones_astartes/compulsory_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments) 
 
 
 ### OPTIONAL DETACHMENTS
 
-![](../media/the_legiones_astartes/optional_support.jpg) ![](../media/the_legiones_astartes/optional_core.jpg) ![](../media/the_legiones_astartes/optional_air_support.jpg) ![](../media/the_legiones_astartes/optional_support.jpg) ![](../media/the_legiones_astartes/optional_core.jpg) ![](../media/the_legiones_astartes/optional_air_support.jpg) 
+[![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) 

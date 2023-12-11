@@ -6,6 +6,7 @@
 [Battlesmith]: ../../legions_imperialis_rules/special_rules/#battlesmith
 [Blessed Auto-simulacra]: ../../legions_imperialis_rules/special_rules/#blessed-auto-simulacra
 [Bulky]: ../../legions_imperialis_rules/special_rules/#bulky
+[Chain of Command]: ../../the_solar_auxilia/#chain-of-command
 [Commander]: ../../legions_imperialis_rules/special_rules/#commander
 [Compact]: ../../legions_imperialis_rules/special_rules/#compact
 [Deep Strike]: ../../legions_imperialis_rules/special_rules/#deep-strike
@@ -40,6 +41,7 @@
 [Shield Generator]: ../../legions_imperialis_rules/special_rules/#shield-generator-x
 [Scout]: ../../legions_imperialis_rules/special_rules/#scout
 [Skimmer]: ../../legions_imperialis_rules/special_rules/#skimmer
+[Solar Auxilia HQ]: ../../the_solar_auxilia/#solar-auxilia-hq-x
 [Steadfast]: ../../legions_imperialis_rules/special_rules/#steadfast
 [Tracking Array]: ../../legions_imperialis_rules/special_rules/#tracking-array
 [Transport]: ../../legions_imperialis_rules/special_rules/#transport-x

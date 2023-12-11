@@ -208,10 +208,6 @@ A Legion Missile Launcher Support Detachment can purchase one of the following u
 
 ---
 
-## SUPPORT DETACHMENTS
-
----
-
 ### <center>Legion Assault Detachment [30 Points]</center>
 
 * **Type:** Infantry (1)
