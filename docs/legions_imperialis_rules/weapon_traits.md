@@ -105,9 +105,9 @@ These additional Hits can only be allocated to models within the target Detachme
 A weapon with the Demolisher trait can damage Structures.
 
 ### Engine Killer (X)
-When a Super-heavy Vehicle, Knight or Titan suffers a Wound caused by a weapon with the Engine Killer (X) trait, they suffer a number of additional Wounds equal to the number shown in brackets. No Save rolls of any kind can be made against these additional Wounds. Note, only the model that suffered the first Wound suffers the additional Wounds; if this Wound causes the model to be destroyed, the additional Wounds cannot be assigned to another model within the Detachment.
+When a Vehicle, Super-heavy Vehicle, Knight or Titan suffers a Wound caused by a weapon with the Engine Killer (X) trait, they suffer a number of additional Wounds equal to the number shown in brackets No Save rolls of any kind can be made against these additional Wounds. Note, only the model that suffered the first Wound suffers the additional Wounds; if this Wound causes the model to be destroyed, the additional Wounds cannot be assigned to another model within the Detachment.
 
-If a weapon has the Engine Killer (X) trait and the Rend trait, enemy Super-heavy Vehicles, Knights and Titans suffer a number of additional Wounds equal to the number shown in brackets if they lose a Fight against the model that has that weapon.
+If a weapon has the Engine Killer (X) trait and the Rend trait, enemy Vehicles, Super-heavy Vehicles, Knights and Titans suffer a number of additional Wounds equal to the number shown in brackets if they lose a Fight against the model that has that weapon.
 
 ### Firestorm
 When firing a weapon with the Firestorm trait, place the Flame template (denoted as T in the weapon profile's range) so the narrow end is touching the weapon, or the firing model if the weapon is not physically represented. Make Hit rolls for each Detachment that has one or more models that are under the Flame template equal to the number of models from that Detachment that are at least 50% under the Flame template. Roll a D6 for each model that is less than 50% covered by the template - on a 4+, the model is counted for the purpose of calculating Hit rolls and allocating Hits. On a 1-3, the model is ignored for such purposes. If a weapon has the Firestorm trait and the Skyfire trait, the template only hits models with the Flyer special rule, while if it does not have the Skyfire trait then Flyers are ignored and cannot be hit.
@@ -225,7 +225,7 @@ Models with at least one weapon with the Skyfire trait may choose to fire on its
 A model firing a weapon with the Tracking trait at a Flyer can re-roll failed Hit rolls.
 
 ### Warp
-When making an attack with a weapon with the Warp trait, roll a number of Dice equal to the number of models in the target Detachment which are visible to the firing model and within range; Titans cannot split these dice across multiple Detachments. If targeting a Knight or Titan, then the Dice roll is equal to the number of remaining Wounds the target Detachment has. Roll To Hit as normal.
+When making an attack with a weapon with the Warp trait, roll a number of Dice equal to the number of models in the target Detachment which are visible to the firing model and within range; Titans cannot split these dice across multiple Detachments. If targeting a Knight or Titan, then the Dice value of the weapon is 1. Roll To Hit as normal.
 
 In addition, Hits scored by a weapon with the Warp trait bypass the following: Armour Saves, Cover Saves, Invulnerable Saves, Ion Shields, Void Shields.
 

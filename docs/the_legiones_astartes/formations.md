@@ -65,7 +65,7 @@ A Legion's aerial units were designed to support its methods of war and included
 
 ### COMPULSORY DETACHMENTS
 
-![](../media/the_legiones_astartes/compulsory_hq.jpg) ![](../media/the_legiones_astartes/compulsory_support.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) ![](../media/the_legiones_astartes/compulsory_vanguard.jpg) 
+![](../media/the_legiones_astartes/compulsory_hq.jpg) ![](../media/the_legiones_astartes/compulsory_support.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) ![](../media/the_legiones_astartes/compulsory_core.jpg) 
 
 
 ### OPTIONAL DETACHMENTS

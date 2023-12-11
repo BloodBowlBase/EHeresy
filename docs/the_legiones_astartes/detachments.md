@@ -642,7 +642,6 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 | ------------------------ | :---: | :--: | :----: | :--: | ------------------------------------------ |
 | Storm Eagle heavy bolter |  12"  |  3   |   5+   |  0   | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
 | Vengeance launcher       |  25"  |  2   |   4+   | -1   | [Arc] (Front), [Light AT]                      |
-| Tempest rockets          |  35"  |  1   |   2+   | -2   | [Arc] (Front), [Skyfire]                       |
 | Wing Mounted lascannon   |  22"  |  2   |   4+   | -1   | [Anti-tank], [Arc] (Front), [Skyfire]            |
 
 **Upgrades**
