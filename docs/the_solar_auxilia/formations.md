@@ -28,7 +28,7 @@ Armoured Companies were the hammer of Solar Auxilia Cohorts, each one consisting
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) 
+[![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) 
 
 **OPTIONAL DETACHMENTS**
 
