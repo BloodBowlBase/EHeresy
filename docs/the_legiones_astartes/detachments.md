@@ -455,9 +455,9 @@ A Legion Tarantula Battery can purchase one of the following upgrades:
 | **Weapon**                    |  Range | Dice | To Hit |  AP  | Traits               |
 | --------------------------- | :----: | :--: | :----: | :--: | ----------------- |
 | Sarcophagus Mounted weapons |   8"   |  1   |   6+   |  0   | [Light], [Point Defence] |
-| Aiolos missile launcher     |   5"   |  1   |   4+   |  -2  | [Anti-tank], [Skyfire]   |
-| Hellfire plasma cannonade   |   4"   |  2   |   4+   |  -2  | [Light AT]             |
-| Anvilus autocannon battery  |   6"   |  2   |   5+   |  -1  | [Accurate], [Light AT]   |
+| Aiolos missile launcher     |   25"   |  1   |   4+   |  -2  | [Anti-tank], [Skyfire]   |
+| Hellfire plasma cannonade   |   14"   |  2   |   4+   |  -2  | [Light AT]             |
+| Anvilus autocannon battery  |   16"   |  2   |   5+   |  -1  | [Accurate], [Light AT]   |
 
 **Upgrades**
 
