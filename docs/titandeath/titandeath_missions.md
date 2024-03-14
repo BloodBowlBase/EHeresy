@@ -1,5 +1,3 @@
-## TITANDEATH MISSIONS
-
 The following pages list a set of Missions intended solely for use with the Titandeath rules presented in this section. Each Mission comprises a deployment map and the conditions for winning the battle.
 
 The Missions presented in this book assume a battlefield size of 5\'x4\', and all deployment maps are written with this in mind. However, players are free to agree amongst themselves the battlefield size, adjusting deployment zones and Objective marker placement as needed.

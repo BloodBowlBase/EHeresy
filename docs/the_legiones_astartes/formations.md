@@ -74,13 +74,20 @@ One of the following:
 
 **COMPULSORY DETACHMENTS**
 
+[![](../media/the_legiones_astartes/compulsory_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_legiones_astartes/compulsory_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_legiones_astartes/compulsory_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_legiones_astartes/compulsory_vanguard.jpg)](../detachments/#vanguard-detachments) 
+
 **OPTIONAL DETACHMENTS**
 
+![](../media/the_legiones_astartes/optional_light_armour.jpg) ![](../media/the_legiones_astartes/optional_light_armour.jpg) [![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_legiones_astartes/optional_vanguard.jpg)](../detachments/#vanguard-detachments) 
 
 ## Legion Drop Pod Assault
 
-***Dedicated Transports:** All Legiones Astartes Detachments within the Formation that contain only Infantry models (excluding models with the Deep Strike special rule) must be upgraded with Legion Drop Pods as Dedicated Transports, and all Legiones Astartes Detachments within the Formation that contain only Walker models (excluding models with the Deep Strike special rule) must be upgraded with Dreadnought Drop Pods as Dedicated Transports.
+**Dedicated Transports:** All Legiones Astartes Detachments within the Formation that contain only Infantry models (excluding models with the Deep Strike special rule) must be upgraded with Legion Drop Pods as Dedicated Transports, and all Legiones Astartes Detachments within the Formation that contain only Walker models (excluding models with the Deep Strike special rule) must be upgraded with Dreadnought Drop Pods as Dedicated Transports.
 
 **COMPULSORY DETACHMENTS**
 
+[![](../media/the_legiones_astartes/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_legiones_astartes/compulsory_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../detachments/#core-detachments)
+
 **OPTIONAL DETACHMENTS**
+
+[![](../media/the_legiones_astartes/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_legiones_astartes/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_legiones_astartes/optional_support.jpg)](../detachments/#support-detachments)

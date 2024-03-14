@@ -1,5 +1,3 @@
-## WARFRONT CAMPAIGN
-
 The following steps will instruct you on how to set up and play a Warfront campaign for Legions Imperialis.
 
 ### Victory Conditions

@@ -51,3 +51,4 @@
 [Traitor]: ../../legions_imperialis_rules/special_rules/#traitor
 [Unique]: ../../legions_imperialis_rules/special_rules/#unique
 [Void Shields]: ../../legions_imperialis_rules/special_rules/#void-shields-x)
+[Remote Controlled Detonation]: ../../legions_imperialis_rules/special_rules/#remote-controlled-detonation)

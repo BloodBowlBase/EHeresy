@@ -263,7 +263,7 @@ Embarking and Disembarking from a Transport with the Flyer special rule works sl
 
 Some special rules (such as Jump Packs) allow a model to ignore the need to Hover. If the Flyer does not have the Hover special rule then models cannot Disembark from it unless a rule (such as the Jump Packs special rule) explicitly says they can. If a Transport with the Flyer special rule is destroyed, models within it are also destroyed, without making Save rolls, unless those models can normally Disembark from a Flyer without it Hovering.
 
-### Remote Controlled Detonation:
+### Remote Controlled Detonation
 
 If a model with the Remote Controlled Detonation special rule ends its movement within 12" of a friendly model with the Commander special rule, it may detonate. When a model detonates, it attacks with all of its weapons that have the Blast (3"/5") trait. The central hole of the Blast template is placed over the detonating model - it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter. Once the effects of the detonation have been resolved, the detonating model is destroyed.
 

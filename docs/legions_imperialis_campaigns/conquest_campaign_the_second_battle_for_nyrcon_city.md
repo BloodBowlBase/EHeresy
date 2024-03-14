@@ -1,5 +1,3 @@
-## THE SECOND BATTLE FOR NYRCON CITY
-
 In this section you will find a variant of a Conquest campaign for six players, allowing you to refight the Traitor assault on Nyrcon City in 012.M31. This will include a number of changes to the Conquest campaign format required to fight this unique variant, as well as a new territory specific to Nyrcon City and a new mission.
 
 ### Changes to the Conquest Campaign Format
@@ -61,8 +59,6 @@ The edge of each of these Tunnel Entrance markers is treated as being an additio
 **Fleeing**
 
 In this mission, while a tunnel entrance is on the battlefield, the edge of each of these is treated as one of the Attacker's battlefield edges, as well as the marked edge of the battlefield. When a Detachment from the Attacker's Army flees, determine which of the Attacker's battlefield edges is closest to the majority of models in that Detachment. Each model in that Detachment must move towards that battlefield edge. If there is no majority, the controlling player should randomise which battlefield edge that Detachment flees towards.
-
-![](./media/media/image132.jpeg){width="5.843055555555556in" height="3.6069444444444443in"}![](./media/media/image133.jpeg){width="1.7465277777777777in" height="3.526388888888889in"}
 
 ##### Secondary Objective
 

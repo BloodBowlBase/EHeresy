@@ -1,5 +1,3 @@
-## TITANDEATH BATTLE SEQUENCE**
-
 To fight a Titandeath battle, perform the following steps, in order.
 
 **Titandeath Battle Sequence**

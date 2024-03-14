@@ -1,5 +1,3 @@
-## ADDITIONAL MISSIONS
-
 In this section you will find a series of asymmetrical Missions intended for use in a Legions Imperialis campaign. These are designed to provide interesting scenarios for your campaign, such as ambushes or assaults on static defensive positions. Because the objectives of these Missions are different for each player, you may find that the forces required to succeed are a little different to what you might use in one of the Matched Play Missions presented in the *Legions Imperialis Rulebook*.
 
 For each of these Missions, one player will be designated as the Attacker, and the other will be designated as the Defender. If you are playing one of these Missions as part of a campaign, the player from the Invading Faction is the Attacker and the player from the Protecting Faction is the Defender.If you wish to play one of these Missions as a

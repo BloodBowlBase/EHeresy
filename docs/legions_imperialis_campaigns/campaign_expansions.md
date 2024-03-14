@@ -1,5 +1,3 @@
-## Campaign Expansions
-
 Campaign Expansions are additional rules that can be added to a campaign to introduce additional elements, either to add detail to the campaign process, or additional rewards. Expansions should be chosen at the start of the campaign when selecting the format for that campaign.
 
 ### Campaign Expansion: System Warfare

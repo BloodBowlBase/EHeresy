@@ -1,5 +1,3 @@
-## CONQUEST CAMPAIGNS
-
 Conquest campaigns allow players to directly follow the consequences of each battle, using a map of the region or planet that the players are fighting over, divided into a number of territories which players can conquer and defend. Each territory within it represents a particular area of the region being fought over, awarding Campaign Points, Requisition Points and other bonuses to the player that controls it.
 
 ### Campaign Map

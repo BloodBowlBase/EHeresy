@@ -1,5 +1,3 @@
-## TERRITORIES
-
 The following section contains a list of territories which can be used in a Conquest campaign. A generalised example territory is shown below:
 
 ![](../media/legions_imperialis_campaigns/territory_example.jpg)

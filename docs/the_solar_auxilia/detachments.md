@@ -207,6 +207,105 @@ A Veletaris Storm Section can purchase one of the following upgrades:
 
 ---
 
+### <center>Auxilia Cyclops Battery [40 Points]</center>
+
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 2
+
+| Name    | Movement | Sv  | CAF | Morale | W |
+| ------- | :------: | :-: | :-: | :----: | -:|
+| Cyclops |    9"    | 5+  | -8  |   -    | 1 |
+
+**Weapons**
+
+- Demolition charge or an incineration charge. All models in the Detachment must be equipped with the same weapons.
+
+| Weapon               | Range | Dice | To Hit | AP  | **Traits**                                   |
+| -------------------- |:-----:|:----:|:------:|:---:| -------------------------------------------- |
+| Demolition charge    |   -   |  1   |   3+   | -1  | [Blast] (3"), [Demolisher]                   |
+| Incineration charge  |   -   |  1   |   3+   | -1  | [Blast] (3"), [Ignores Cover], [Light AT]    |
+
+**Upgrades**
+
+An Auxilia Cyclops Battery can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 2 [+40 points]
+- **Increase the Detachment size by** 4 [+80 points]
+
+**Special Rules**
+
+[Compact], [Remote Controlled Detonation]
+
+---
+
+### <center>Auxilia Malcador Infernus Squadron [70 Points]</center>
+
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
+
+| Name               | Movement | Sv  | CAF | Morale | W |
+| ------------------ | :------: | :-: | :-: | :----: | -:|
+| Malcador Infernus  |    8"    | 3+  | +1  |   4+   | 2 |
+
+**Weapons**
+
+- Malcador inferno gun
+- Malcador autocannon sponsons or Malcador lascannon sponsons
+
+| Weapon                         | Range | Dice | To Hit | AP  | **Traits**                        |
+| ------------------------------ | :---: | :--: | :----: | :-: | --------------------------------- |
+| Malcador inferno gun           |   -   |   T  |   4+   | -1  | [Arc] (Front), [Firestorm], [Light AT] |
+| Malcador autocannon sponsons   |  16"  |   2  |   5+   | -1  | [Light AT]                        |
+| Malcador lascannon sponsons    |  22"  |   1  |   4+   | -1  | [Anti-tank]                       |
+
+**Upgrades**
+
+An Auxilia Malcador Infernus Squadron can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 1 [+70 points]
+- **Increase the Detachment size by** 2 [+140 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+---
+
+### <center>Auxilia Valdor Squadron [70 Points]</center>
+
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
+
+| Name  | Movement | Sv  | CAF | Morale | W |
+| ----- | :------: | :-: | :-: | :----: | -:|
+| Valdor|    8"    | 3+  | +1  |   4+   | 2 |
+
+**Weapons**
+
+- Neutron beam laser
+- Malcador autocannon sponson or Malcador lascannon sponson
+
+**Weapons**
+
+| Weapon                        | Range | Dice | To Hit | AP  | **Traits**                  |
+| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------- |
+| Neutron beam laser            |  22"  |  1   |   4+   | -3  | [Arc] (Front), [Shock Pulse]|
+| Malcador autocannon sponson   |  16"  |  2   |   5+   | -1  | [Light AT]                  |
+| Malcador lascannon sponson    |  22"  |  1   |   4+   | -1  | [Anti-tank]                 |
+
+**Upgrades**
+
+An Auxilia Valdor Squadron can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 1 [+70 points]
+- **Increase the Detachment size by** 2 [+140 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+---
+
 ## BASTION DETACHMENTS 
 
 ---
@@ -434,6 +533,44 @@ An Auxilia Super-heavy Tank Squadron can purchase any of the following upgrades.
 * **Increase the Detachment size by 1** [+90 points]
 * **Increase the Detachment size by 3** [+255 points]
 * **Increase the Detachment size by 5** [+390 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+---
+
+### <center>Auxilia Stormhammer Squadron [100 Points]</center>
+
+* **Type:** Super-heavy Vehicle (3) 
+* **Detachment Size:** 1
+
+| Name         | Movement | Sv  | CAF | Morale | W |
+| ------------ | :------: | :-: | :-: | :----: | -:|
+| Stormhammer  |    6"    | 2+  | +2  |   4+   | 2 |
+
+**Weapons**
+
+- Stormhammer cannon with co-axial multi-laser
+- Dual battlecannon
+- Hull Mounted lascannon
+- Stormhammer multi-laser sponsons
+
+| Weapon                             | Range | Dice | To Hit | AP  | Traits                                  |
+| ---------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
+| Stormhammer cannon                 | 28"   | 2    | 4+     | -2  | [Arc] (Front), [Shred]                      |
+| Dual battlecannon                  | 25"   | 2    | 4+     | -1  | [Arc] (Front)                               |
+| Co-axial multi-laser               | 14"   | 2    | 4+     |  0  | [Arc] (Front), [Co-axial], [Light AT]       |
+| Hull Mounted lascannon             | 22"   | 1    | 4+     | -1  | [Arc] (Front), [Anti-tank]                  |
+| Stormhammer multi-laser sponsons   | 14"   | 5    | 4+     |  0  | [Light AT], [Point Defence]                 |
+| Stormhammer lascannon sponsons     | 22"   | 4    | 4+     | -1  | [Anti-tank]                                 |
+
+**Upgrades**
+
+An Auxilia Stormhammer Squadron can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 1 [+100 points]
+- **Increase the Detachment size by** 2 [+200 points]
 
 **Special Rules**
 
@@ -737,174 +874,42 @@ None
 
 - Hull Mounted twin lascannon
 
-| Weapon                    |  Range  | Dice | To Hit |  AP  | Traits                        |
-| ------------------------- |:-------:|:----:|:------:|:----:|-------------------------------|
-| Hull Mounted twin lascannon|   22"   |  1   |   4+   |  -1  | Accurate, Arc (Front), Anti-tank |
-| Hull Mounted demolisher cannon| 12" |  1   |   4+   |  -3  | Arc (Front), Demolisher, Ignores Cover |
-
-**Upgrades**
-
-Any Dracosan may exchange its Hull Mounted twin lascannon for a Hull Mounted demolisher cannon for +5 points per model. Any model that does replaces its Transport (4) special rule with the Transport (2) special rule.
-
-**Special Rules**
-
-Explorator Adaptation, Transport (4)
-
-## SUPPORT DETACHMENTS
-
-### <center>Auxilia Cyclops Battery [40 Points]</center>
-
-* **Type:** Vehicle (2) 
-* **Detachment Size:** 2
-
-| Name    | Movement | Sv  | CAF | Morale | W |
-| ------- | :------: | :-: | :-: | :----: | -:|
-| Cyclops |    9"    | 5+  | -8  |   -    | 1 |
-
 **Weapons**
 
-- Demolition charge or an incineration charge. All models in the Detachment must be equipped with the same weapons.
-
-| Weapon              |  Range  | Dice | To Hit |  AP  | Traits                        |
-| ------------------- |:-------:|:----:|:------:|:----:|-------------------------------|
-| Demolition charge   |    -    |  1   |   3+   |  -1  | Blast (3"), Demolisher       |
-| Incineration charge|    -    |  1   |   3+   |  -1  | Blast (3"), Ignores Cover, Light AT |
+| Weapon                          | Range | Dice | To Hit | AP  | **Traits**                                  |
+| ------------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
+| Hull Mounted twin lascannon    |  22"  |  1   |   4+   | -1  | [Accurate], [Arc] (Front), [Anti-tank]      |
+| Hull Mounted demolisher cannon |  12"  |  1   |   4+   | -3  | [Arc] (Front), [Demolisher], [Ignores Cover]|
 
 **Upgrades**
 
-An Auxilia Cyclops Battery can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 2 [+40 points]
-- **Increase the Detachment size by** 4 [+80 points]
+Any Dracosan may exchange its Hull Mounted twin lascannon for a Hull Mounted demolisher cannon for [+5 points per model]. Any model that does replaces its [Transport] (4) special rule with the [Transport] (2) special rule.
 
 **Special Rules**
 
-[Compact, Remote Controlled Detonation]
+[Explorator Adaptation], [Transport] (4)
+
+
+## ARTILLERY DETACHMENTS
 
 ---
-
-### <center>Auxilia Malcador Infernus Squadron [70 Points]</center>
-
-* **Type:** Vehicle (2) 
-* **Detachment Size:** 1
-
-|         | Auxilia Malcador Infernus Squadron   | 70 Points |
-|---------|--------------------------------------|------------|
-|         | **Vehicle (2) Detachment Size: 1**  |            |
-|         |                                      |            |
-| **Name Movement Sv CAF**                    | **Morale W** |
-| Malcador Infernus 8" 3+ +1                 | 4+ 2        |
-
-**Weapons**
-
-- Malcador inferno gun
-- Malcador autocannon sponsons or Malcador lascannon sponsons
-
-| Weapon                        | Range | Dice | To Hit | AP  | Traits               |
-|------------------------------|-------|------|--------|-----|----------------------|
-| Malcador inferno gun          |  -    |   T  |   4+   | -1  | Arc (Front), Firestorm, Light AT |
-| Malcador autocannon sponsons | 16"   |   2  |   5+   | -1  | Light AT             |
-| Malcador lascannon sponsons  | 22"   |   1  |   4+   | -1  | Anti-tank            |
-
-**Upgrades**
-
-An Auxilia Malcador Infernus Squadron can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 1 [+70 points]
-- **Increase the Detachment size by** 2 [+140 points]
-
-**Special Rules**
-
-Chain of Command, Explorator Adaptation
-
----
-
-### <center>Auxilia Valdor Squadron [70 Points]</center>
-
-* **Type:** Vehicle (2) 
-* **Detachment Size:** 1
-
-| Name   | Movement | Sv  | CAF | Morale | W |
-| ------ | :------: | :-: | :-: | :----: | -:|
-| Valdor |    8"    | 3+  | +1  |   4+   | 2 |
-
-**Weapons**
-
-- Neutron beam laser
-- Malcador autocannon sponson or Malcador lascannon sponson
-
-| Weapon                    |  Range  | Dice | To Hit |  AP  | Traits             |
-| ------------------------- |:-------:|:----:|:------:|:----:|--------------------|
-| Neutron beam laser        |   22"   |  1   |   4+   |  -3  | Arc (Front), Shock Pulse |
-| Malcador autocannon sponson | 16"  |  2   |   5+   |  -1  | Light AT           |
-| Malcador lascannon sponson|   22"   |  1   |   4+   |  -1  | Anti-tank          |
-
-**Upgrades**
-
-An Auxilia Valdor Squadron can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 1 [+70 points]
-- **Increase the Detachment size by** 2 [+140 points]
-
-**Special Rules**
-
-Chain of Command, Explorator Adaptation
-
-## HEAVY ARMOUR DETACHMENTS
-
-### <center>Auxilia Stormhammer Squadron [100 Points]</center>
-
-* **Super-heavy Vehicle (3)**
-* **Detachment Size:** 1
-
-| Name         | Movement | Sv  | CAF | Morale | W |
-| ------------ | :------: | :-: | :-: | :----: | -:|
-| Stormhammer  |    6"    | 2+  | +2  |   4+   | 2 |
-
-**Weapons**
-
-- Stormhammer cannon with co-axial multi-laser
-- Dual battlecannon
-- Hull Mounted lascannon
-- Stormhammer multi-laser sponsons
-
-| Weapon                    |  Range  | Dice | To Hit |  AP  | Traits                |
-| ------------------------- |:-------:|:----:|:------:|:----:|-----------------------|
-| Stormhammer cannon        |   28"   |  2   |   4+   |  -2  | Arc (Front), Shred    |
-| Dual battlecannon         |   25"   |  2   |   4+   |  -1  | Arc (Front)           |
-| Co-axial multi-laser      |   14"   |  2   |   4+   |   0  | Arc (Front), Co-axial, Light AT |
-| Hull Mounted lascannon    |   22"   |  1   |   4+   |  -1  | Arc (Front), Anti-tank|
-| Stormhammer multi-laser sponsons | 14" |  5   |   4+   |   0  | Light AT, Point Defence |
-| Stormhammer lascannon sponsons   | 22" |  4   |   4+   |  -1  | Anti-tank             |
-
-**Upgrades**
-
-An Auxilia Stormhammer Squadron can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 1 [+100 points]
-- **Increase the Detachment size by** 2 [+200 points]
-
-**Special Rules**
-
-Chain of Command, Explorator Adaptation
-
-### ARTILLERY DETACHMENTS
 
 ### <center>Auxilia Medusa Battery [130 Points]</center>
 
-* **Leman Russ chassis, the mobile artillery employed by the Solar Auxilia combined**
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
 
 | Name   | Movement | Sv  | CAF | Morale | W |
 | ------ | :------: | :-: | :-: | :----: | -:|
-| Medusa |    6"    | 3+  | -   |   4+   | 1 |
+| Medusa |    6"    | 3+  |  -  |   4+   | 1 |
 
 **Weapons**
 
 - Medusa siege gun
 
-| Weapon          | Range | Dice | To Hit | AP  | Traits          |
-| --------------- |:-----:|:----:|:------:|:---:|-----------------|
-| Medusa siege gun|  12"  |  1   |   4+  |  -3 | Arc (Front), Demolisher, Barrage |
+| Weapon           | Range | Dice | To Hit | AP  | Traits                    |
+| ---------------- |:-----:|:----:|:------:|:---:| ----------------------------- |
+| Medusa siege gun |  12"  |  1   |   4+   | -3  | [Arc] (Front), [Demolisher], [Barrage] |
 
 **Upgrades**
 
@@ -915,17 +920,14 @@ An Auxilia Medusa Battery can purchase one of the following upgrades:
 
 **Special Rules**
 
-Chain of Command, Explorator Adaptation
+[Chain of Command], [Explorator Adaptation]
 
 --- 
 
 ### <center>Auxilia Basilisk Battery [130 Points]</center>
 
-* **Utilized to crack open enemy fortifications, providing**
-
-* **breaches into which the elite Veletaris infantry or even the**
-
-* **massive Charonite Ogryns could push, breaking an enemy line.**
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
 
 | Name     | Movement | Sv  | Morale | W |
 | -------- | :------: | :-: | :----: | -:|
@@ -935,9 +937,9 @@ Chain of Command, Explorator Adaptation
 
 - Earthshaker cannon
 
-| Weapon          | Range    | Dice | To Hit | AP  | Traits          |
-| --------------- |:-------:|:----:|:------:|:---:|-----------------|
-| Earthshaker cannon | 8"-90" |   1  |   4+  |  -2 | Arc (Front), Barrage |
+| Weapon             | Range    | Dice | To Hit | AP  | Traits            |
+| ------------------ |:-------:|:----:|:------:|:---:| --------------------- |
+| Earthshaker cannon | 8"-90"  |   1  |   4+   | -2  | [Arc] (Front), [Barrage] |
 
 **Upgrades**
 
@@ -948,5 +950,6 @@ An Auxilia Basilisk Battery can purchase one of the following upgrades:
 
 **Special Rules**
 
-Chain of Command, Explorator Adaptation
+[Chain of Command], [Explorator Adaptation]
+
 

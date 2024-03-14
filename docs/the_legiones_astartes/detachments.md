@@ -52,12 +52,148 @@
 
 A Rhino may exchange its Pintle Mounted twin-linked bolter for one of the following:
 
-* Pintle Mounted havoc launcher [2 points per model]
-* Pintle Mounted multi-melta [4 points per model]
+* Pintle Mounted havoc launcher [+2 points per model]
+* Pintle Mounted multi-melta [+4 points per model]
 
 **Special Rules**
 
 [Transport] (2)
+
+---
+
+### <center>Legion Spartan Detachment [80 Points]</center>
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** Variable
+
+| Name    | Movement | Sv  | CAF | Morale | W |
+| ------- | :------: | :--: | :-: | :----: | :-: |
+| Spartan |    8"    | 2+  | +2  |   3+   | 2   |
+
+**Weapons**
+
+* Sponson Mounted quad lascannon or Sponson Mounted laser destroyers
+* Hull Mounted heavy bolters
+
+| Weapon                            | Range | Dice | To Hit | AP  | Traits                                      |
+| --------------------------------- | :---: | :--: | :----: | :--: | ------------------------------------------------ |
+| Sponson Mounted quad lascannon    | 22"   |  2   |   4+   | -1  | [Accurate], [Arc] (Front), [Anti-tank]           |
+| Hull Mounted heavy bolters        | 12"   |  2   |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Sponson Mounted laser destroyers  | 15"   |  2   |   4+   | -2  | [Accurate], [Arc] (Front), [Anti-tank]           |
+| Hull Mounted lascannon            | 22"   |  1   |   4+   | -1  | [Arc] (Front), [Anti-tank]                       |
+| Pintle Mounted multi-melta        |  6"   |  1   |   5+   | -3  | [Arc] (Front), [Anti-tank]                       |
+
+**Upgrades**
+
+Any Spartan can exchange its Hull Mounted heavy bolters for Hull Mounted lascannon for [+2 points per model].
+
+Any Spartan may be equipped with one of the following:
+
+* Pintle Mounted multi-melta [+5 points per model]
+
+**Special Rules**
+
+[Assault Transport] (5)
+
+
+---
+
+### <center>Legion Land Raider Detachment [40 Points per model]</center>
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** Variable
+
+| Name    | Movement | Sv  | CAF | Morale | W |
+| ------- | :------: | :--: | :-: | :----: | :-: |
+| Land Raider | 9" | 2+ | +2 | 3+ | 1 |
+
+**Weapons**
+
+- Sponson Mounted twin-linked lascannon
+
+| Weapon                            | Range | Dice | To Hit | AP  | Traits                                      |
+| --------------------------------- | :---: | :--: | :----: | :--: | ------------------------------------------------ |
+| Sponson Mounted twin-linked lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Arc] (Front), [Anti-tank] |
+| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | [Arc] (Front), [Anti-tank] |
+
+**Upgrades**
+
+For every three Land Raiders in the Detachment, one Land Raider can be equipped with a Pintle Mounted multi-melta for [+5 points per model].
+
+**Special Rules**
+
+[Forward Deployment], [Assault Transport] (2)
+
+
+---
+
+### <center>Legion Drop Pod Detachment [6 Points per Model]</center>
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** Variable
+
+| Name     | Movement | Sv  | CAF | Morale | W |
+| -------- | :------: | :--: | :-: | :----: | :-: |
+| Drop Pod |    -     | 4+  | -3  |   -    | 1   |
+
+**Weapons**
+
+- Turret Mounted twin bolter
+
+| Weapon                       | Range | Dice | To Hit | AP | Traits                        |
+| ---------------------------- | :---: | :--: | :----: | :-: | ------------------------------------ |
+| Turret Mounted twin bolter   | 8"    |  1   |   5+   |  0  | [Assault], [Light], [Point Defence] |
+
+**Upgrades**
+
+A Legion Drop Pod Detachment can purchase one Palisade Drop Pod for each Drop Pod in this Detachment for [+32 points per model].
+
+**Special Rules**
+
+[Drop Pod], [Transport] (2)
+
+---
+
+### <center>Dreadnought Drop Pod Detachment [7 Points per Model]</center>
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** Variable
+
+| Name     | Movement | Sv  | CAF | Morale | W |
+| -------- | :------: | :--: | :-: | :----: | :-: |
+| Dreadnought Drop Pod | - | 4+ | -8 | - | 1 |
+
+**Weapons**
+
+- None
+
+**Upgrades**
+
+A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dreadnought Drop Pod in this Detachment for [+32 points per model].
+
+**Special Rules**
+
+[Drop Pod], [Large Transport] (2)
+
+---
+
+### Detachment Upgrades
+
+---
+
+#### <center>Legion Palisade Drop Pod</center>
+
+| Name                 | Movement | Sv | CAF | Morale | W |
+| -------------------- | :------: | :--: | :-: | :----: | :--: |
+| Legion Palisade     |    -    | 4+ |  -8 |  - | -1    |
+
+**Weapons**
+
+- None
+
+**Special Rules**
+
+[Drop Pod], [Shield Generator] (5+)
 
 ---
 
@@ -368,6 +504,32 @@ A Legion Dreadnought Talon can purchase up to three upgrades chosen from the lis
 **Special Rules**
 
 [Armoured], [Invulnerable Save] (6+)
+
+---
+
+### Legion Deathstorm Drop Pod Battery [32 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 2
+
+| Name                   | Movement | Sv | CAF | Morale | W |
+| ---------------------- | :------: | :--: | :-: | :----: | :--: |
+| Deathstorm Drop Pod | - | 4+ | -8 | - | 1 |
+
+**Weapons**
+
+- Deathstorm missile launcher
+
+| Weapons                      | Range | Dice   | To Hit | AP  | **Traits**                             |
+| ---------------------------- | ----- | ------ | ------ | --- | -------------------------------------- |
+| Deathstorm missile launcher  | 10"   | D3+2   | 6+     | -1  | [Light AT], [Limited] (1), [Saturation Fire] |
+
+**Upgrades**
+
+A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 2 [+32 points]
+- **Increase the Detachment size by** 4 [+64 points]
 
 ---
 
@@ -729,12 +891,13 @@ A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 
 ---
 
-### Legion Outrider Squadron [3 Points]
+### <center>Legion Outrider Squadron [3 Points]</center>
 
-**[Cavalry (1) Detachment Size: 2]**
+* **Type:** Cavalry (1)
+* **Detachment Size:** 2
 
-**Name Movement Sv CAF Morale W**
-
+| Name                | Movement | Sv | CAF | Morale | W |
+| ------------------- | :------: | :--: | :-: | :----: | :--: |
 | Outrider | 10" | 5+ | +2 | 3+ | 1 |
 
 **Weapons**
@@ -742,59 +905,61 @@ A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 - Twin-linked bolters
 - Twin plasma guns
 
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Twin-linked bolters | 8" | 1 | 5+ | 0 | Assault, Light, Vanguard Detachments, Point Defence |
-| Twin plasma guns | 10" | 1 | 4+ | -1 | Light AT |
+| Weapon                    | Range | Dice | To Hit |  AP  | Traits                                     |
+| ------------------------- | :---: | :--: | :----: | :--: | ------------------------------------------ |
+| Twin-linked bolters | 8"    | 1    | 5+     | 0   | [Assault], [Light], [Vanguard Detachments], [Point Defence] |
+| Twin plasma guns    | 10"   | 1    | 4+     | -1  | [Light AT]                                       |
 
 **Upgrades**
 
 A Legion Outrider Squadron can purchase one of the following upgrades:
 
-- Increase the Detachment size by 2 (+30 points)
-- Increase the Detachment size by 4 (+60 points)
+- Increase the Detachment size by 2 [+30 points]
+- Increase the Detachment size by 4 [+60 points]
 
 **Special Rules**
 
-Jink (6+)
+[Jink] (6+)
 
 ---
 
-### Legion Scimitar Jetbike Squadron 35 Points
+### <center>Legion Scimitar Jetbike Squadron [35 Points]</center>
 
-**[Cavalry (1) Detachment Size: 3]{.underline}**
+* **Type:** Cavalry (1)
+* **Detachment Size:** 3
 
-**Name Movement Sv CAF Morale W**
-
+| Name                | Movement | Sv | CAF | Morale | W |
+| ------------------- | :------: | :--: | :-: | :----: | :--: |
 | Scimitar Jetbike | 10" | 5+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 - Scimitar heavy bolter
 
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Scimitar heavy bolter | 12" | 2 | 5+ | 0 | Light, Point Defence |
+| Weapon                    | Range | Dice | To Hit |  AP  | Traits                                     |
+| ------------------------- | :---: | :--: | :----: | :--: | ------------------------------------------ |
+| Scimitar heavy bolter | 12"   | 2    | 5+     | 0  | [Light], [Point Defence] |
 
 **Upgrades**
 
 A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 
-- Increase the Detachment size by 3 (+35 points)
-- Increase the Detachment size by 6 (+70 points)
+- Increase the Detachment size by 3 [+35 points]
+- Increase the Detachment size by 6 [+70 points]
 
 **Special Rules**
 
-Jink (6+), Skimmer
+[Jink] (6+), [Skimmer]
 
 ---
 
-### Legion Land Speeder Squadron 30 Points
+### <center>Legion Land Speeder Squadron [30 Points]</center>
 
-**[Cavalry (1) Detachment Size: 2]{.underline}**
+* **Type:** Cavalry (1)
+* **Detachment Size:** 2
 
-**Name Movement Sv CAF Morale W**
-
+| Name                | Movement | Sv | CAF | Morale | W |
+| ------------------- | :------: | :--: | :-: | :----: | :--: |
 | Land Speeder | 10" | 4+ | +1 | 3+ | 1 |
 
 **Weapons**
@@ -804,12 +969,12 @@ Jink (6+), Skimmer
 - Multi-melta
 - Nose Mounted heavy flamer
 
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Multi-melta | 6" | 1 | 4+ | -3 | Anti-tank |
-| Plasma cannon | 12" | 1 | 4+ | -1 | Light AT |
-| Heavy bolter | 12" | 2 | 5+ | 0 | Light, Point Defence |
-| Nose Mounted heavy flamer | 6" | 1 | 4+ | 0 | Arc (Front), Light, Ignores Cover |
+| Weapon                    | Range | Dice | To Hit |  AP  | Traits                                     |
+| ------------------------- | :---: | :--: | :----: | :--: | ------------------------------------------ |
+| Multi-melta             | 6"    | 1    | 4+     | -3 | [Anti-tank]                                  |
+| Plasma cannon           | 12"   | 1    | 4+     | -1 | [Light AT]                                   |
+| Heavy bolter            | 12"   | 2    | 5+     | 0  | [Light], [Point Defence]                     |
+| Nose Mounted heavy flamer | 6"  | 1    | 4+     | 0  | [Arc] (Front), [Light], [Ignores Cover]      |
 
 **Upgrades**
 
@@ -817,21 +982,22 @@ One in every two Land Speeders can exchange its plasma cannon and heavy bolter f
 
 A Legion Land Speeder Squadron can purchase one of the following upgrades:
 
-- Increase the Detachment size by 2 (+30 points)
-- Increase the Detachment size by 4 (+60 points)
+- Increase the Detachment size by 2 [+30 points]
+- Increase the Detachment size by 4 [+60 points]
 
 **Special Rules**
 
-Jink (6+), Skimmer
+[Jink] (6+), [Skimmer]
 
 ---
 
-### Legion Javelin Squadron 33 Points
+### <center>Legion Javelin Squadron [33 Points]</center>
 
-**[Cavalry (1) Detachment Size: 2]{.underline}**
+* **Type:** Cavalry (1)
+* **Detachment Size:** 2
 
-**Name Movement Sv CAF Morale W**
-
+| Name                | Movement | Sv | CAF | Morale | W |
+| ------------------- | :------: | :--: | :-: | :----: | :--: |
 | Javelin | 10" | 4+ | +1 | 3+ | 1 |
 
 **Weapons**
@@ -840,179 +1006,21 @@ Jink (6+), Skimmer
 - Sponson Mounted lascannon
 - Cyclone missile launcher
 
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Nose Mounted heavy flamer | 6" | 1 | 4+ | 0 | Arc (Front), Light, Ignores Cover |
-| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | Arc (Front), Anti-tank |
-| Cyclone missile launcher | 20" | 2 | 4+ | 0 | Arc (Front), Light, Ignores Cover |
+| Weapon                    | Range | Dice | To Hit |  AP  | Traits                                     |
+| ------------------------- | :---: | :--: | :----: | :--: | ------------------------------------------ |
+| Nose Mounted heavy flamer | 6"    | 1    | 4+     | 0  | [Arc] (Front), [Light], [Ignores Cover]    |
+| Sponson Mounted lascannon | 22"   | 1    | 4+     | -1 | [Arc] (Front), [Anti-tank]                 |
+| Cyclone missile launcher  | 20"   | 2    | 4+     | 0  | [Arc] (Front), [Light], [Ignores Cover]    |
 
 **Upgrades**
 
-Any Javelin may exchange its Sponson Mounted lascannon for a cyclone missile launcher for +2 points per model.
+Any Javelin may exchange its Sponson Mounted lascannon for a cyclone missile launcher for [+2 points per model].
 
 A Legion Javelin Squadron can purchase one of the following upgrades:
 
-- Increase the Detachment size by 2 (+33 points)
-- Increase the Detachment size by 4 (+66 points)
+- Increase the Detachment size by 2 [+33 points]
+- Increase the Detachment size by 4 [+66 points]
 
 **Special Rules**
 
-Jink (6+), Skimmer
-
----
-
-## TRANSPORT DETACHMENTS
-
----
-
-### Legion Spartan Detachment 80 Points
-
-**[Vehicle (2) Detachment Size: Variable]**
-
-**Name Movement Sv CAF Morale W**
-
-| Spartan | 8" | 2+ | +2 | 3+ | 2 |
-
-**Weapons**
-
-- Sponson Mounted quad lascannon or Sponson Mounted laser destroyers
-- Hull Mounted heavy bolters
-
-**Weapons**
-
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Sponson Mounted quad lascannon | 22" | 2 | 4+ | -1 | Accurate, Arc (Front), Anti-tank |
-| Hull Mounted heavy bolters | 12" | 2 | 5+ | 0 | Arc (Front), Light, Point Defence |
-| Sponson Mounted laser destroyers | 15" | 2 | 4+ | -2 | Accurate, Arc (Front), Anti-tank |
-| Hull Mounted lascannon | 22" | 1 | 4+ | -1 | Arc (Front), Anti-tank |
-| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | Arc (Front), Anti-tank |
-
-**Upgrades**
-
-Any Spartan can exchange its Hull Mounted heavy bolters for Hull Mounted lascannon for +2 points per model.
-
-Any Spartan may be equipped with one of the following:
-
-- **Pintle Mounted multi-melta**
-
-**Special Rules**
-
-Assault Transport (5)
-
----
-
-### Legion Land Raider Detachment 40 Points per model
-
-**[Vehicle (2) Detachment Size: Variable]{.underline}**
-
-**Name Movement Sv CAF Morale W**
-
-| Land Raider | 9" | 2+ | +2 | 3+ | 1 |
-
-**Weapons**
-
-- Sponson Mounted twin-linked lascannon
-
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Sponson Mounted twin-linked lascannon | 22" | 1 | 4+ | -1 | Accurate, Arc (Front), Anti-tank |
-| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | Arc (Front), Anti-tank |
-
-**Upgrades**
-
-For every three Land Raiders in the Detachment, one Land Raider can be equipped with a Pintle Mounted multi-melta for +5 points per model.
-
-**Special Rules**
-
-Forward Deployment, Assault Transport (2)
-
----
-
-### Legion Drop Pod Detachment 6 Points per Model
-
-**[Vehicle (2) Detachment Size: Variable]{.underline}**
-
-**Name Movement Sv CAF Morale W**
-
-| Drop Pod | - | 4+ | -3 | - | 1 |
-
-**Weapons**
-
-- Turret Mounted twin bolter
-
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Turret Mounted twin bolter | 8" | 1 | 5+ | 0 | Assault, Light, Point Defence |
-
-**Upgrades**
-
-A Legion Drop Pod Detachment can purchase one Palisade Drop Pod for each Drop Pod in this Detachment for +32 points per model.
-
-**Special Rules**
-
-Drop Pod, Transport (2)
-
----
-
-### Dreadnought Drop Pod Detachment 7 Points per Model
-
-**[Vehicle (2) Detachment Size: Variable]{.underline}**
-
-**Name Movement Sv CAF Morale W**
-
-| Dreadnought Drop Pod | - | 4+ | -8 | - | 1 |
-
-**Weapons**
-
-- None
-
-**Upgrades**
-
-A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dreadnought Drop Pod in this Detachment for +32 points per model.
-
-**Special Rules**
-
-Drop Pod, Large Transport (2)
-
-## Detachment Upgrades
-
-### Legion Palisade Drop Pod
-
-| Name                | Movement | Sv | CAF | Morale W |
-| ------------------- | :------: | -: | :-: | :------: |
-| Legion Palisade     |    ~-~    | 4+ |  -8 |    -1    |
-
-**Weapons**
-
-- None
-
-**Special Rules**
-
-- Drop Pod
-- Shield Generator (5+)
-
-## SUPPORT DETACHMENTS
-
-### Legion Deathstorm Drop Pod Battery 32 Points
-
-**[Vehicle (2) Detachment Size: 2]{.underline}**
-
-**Name Movement Sv CAF Morale W**
-
-| Deathstorm Drop Pod | - | 4+ | -8 | - | 1 |
-
-**Weapons**
-
-- Deathstorm missile launcher
-
-| Weapons | Range | Dice | To Hit | AP | Traits |
-| ------- | ----- | ---- | ------ | -- | ------ |
-| Deathstorm missile launcher | 10" | D3+2 | 6+ | -1 | Light AT, Limited (1), Saturation Fire |
-
-**Upgrades**
-
-A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 2 (+32 points)
-- **Increase the Detachment size by** 4 (+64 points)
+[Jink] (6+), [Skimmer]
