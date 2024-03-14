@@ -199,7 +199,7 @@ In addition, a Cerastus Knight Banner may purchase one of the following upgrades
 
 ---
 
-### Acastus Knight Banner [250 Points]
+### <center>Acastus Knight Banner [250 Points]</center>
 
 * **Type:** Knight (4)
 * **Detachment Size:** 1
@@ -254,7 +254,7 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 
 ---
 
-#### Questoris Knight Armiger Talon
+#### <center>Questoris Knight Armiger Talon</center>
 
 * **Type:** Knight (4)
 
@@ -278,7 +278,7 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 
 ---
 
-#### Mechanicum Knight Moirax Talon
+#### <center>Mechanicum Knight Moirax Talon</center>
 
 * **Type:** Knight (4)
 
@@ -306,7 +306,7 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 
 ---
 
-### Warhound Hunting Pack [330 Points]
+### <center>Warhound Hunting Pack [330 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -363,7 +363,7 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 
 ---
 
-### Dire Wolf Heavy Scout Titan [385 Points]
+### <center>Dire Wolf Heavy Scout Titan [385 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -392,7 +392,7 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 
 ---
 
-### Reaver Battle Titan [415 Points]
+### <center>Reaver Battle Titan [415 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -447,7 +447,7 @@ Reaver Titans also have one weapon chosen from the list below:
 
 ---
 
-### Warbringer Nemesis Titan [525 Points]
+### <center>Warbringer Nemesis Titan [525 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -487,7 +487,7 @@ In addition, a Warbringer Nemesis Titan has two weapons chosen from the list bel
 
 ---
 
-### Warlord Battle Titan [600 Points]
+### <center>Warlord Battle Titan [600 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -547,9 +547,7 @@ Warlord Battle Titans also have one weapon chosen from the list below:
 
 ---
 
-Here's the Warlord-Sinister Battle Titan entry with the requested formatting:
-
-### Warlord-Sinister Battle Titan [675 Points]
+### <center>Warlord-Sinister Battle Titan [675 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -617,7 +615,7 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 
 ---
 
-### Warmaster Heavy Battle Titan [750 Points]
+### <center>Warmaster Heavy Battle Titan [750 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -666,7 +664,7 @@ In addition, a Warmaster Titan has two weapons chosen from the list below – it
 
 ---
 
-### Warmaster Iconoclast Titan [750 Points]
+### <center>Warmaster Iconoclast Titan [750 Points]</center>
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
