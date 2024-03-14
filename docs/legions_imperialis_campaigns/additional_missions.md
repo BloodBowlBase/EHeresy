@@ -1,4 +1,4 @@
-In this section you will find a series of asymmetrical Missions intended for use in a Legions Imperialis campaign. These are designed to provide interesting scenarios for your campaign, such as ambushes or assaults on static defensive positions. Because the objectives of these Missions are different for each player, you may find that the forces required to succeed are a little different to what you might use in one of the Matched Play Missions presented in the *Legions Imperialis Rulebook*.
+In this section you will find a series of asymmetrical Missions intended for use in a Legions Imperialis campaign. These are designed to provide interesting scenarios for your campaign, such as ambushes or assaults on static defensive positions. Because the objectives of these Missions are different for each player, you may find that the forces required to succeed are a little different to what you might use in one of the Matched Play Missions presented [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/missions.md).
 
 For each of these Missions, one player will be designated as the Attacker, and the other will be designated as the Defender. If you are playing one of these Missions as part of a campaign, the player from the Invading Faction is the Attacker and the player from the Protecting Faction is the Defender.If you wish to play one of these Missions as a
 standalone battle, players can either roll-off to determine who will be the Attacker or Defender or simply agree between themselves.
@@ -7,7 +7,7 @@ One of the most fun ways to play asymmetrical Missions outside of a campaign is 
 
 ### Playing these Missions
 
-These Missions use the same Mission sequence and rules as the Matched Play Missions found in the *Legions Imperialis Rulebook*, unless otherwise specified in the Mission. Any changes to this process will be listed under 'Mission Specifics' for that Mission.
+These Missions use the same Mission sequence and rules as the Matched Play Missions found [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/missions.md), unless otherwise specified in the Mission. Any changes to this process will be listed under 'Mission Specifics' for that Mission.
 
 ---
 

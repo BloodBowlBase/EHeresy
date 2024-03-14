@@ -24,11 +24,11 @@ Each Campaign Cycle in a Warfront campaign uses the following sequence:
 
 #### 1. Determine Battles
 
-During this step, each player will be paired with a player in the other Faction. This player will be their opponent for their battle during this Campaign Cycle. At this stage, players should determine a Mission for this battle, using the rules for Selecting a Mission in the Fighting a Battle section of the *Legions Imperialis Rulebook*.
+During this step, each player will be paired with a player in the other Faction. This player will be their opponent for their battle during this Campaign Cycle. At this stage, players should determine a Mission for this battle, using the rules for Selecting a Mission in the Fighting a Battle section [of the *Legions Imperialis Rulebook*](../legions_imperialis_rules/fighting_a_battle.md#selecting-a-mission).
 
 #### 2. Muster Armies
 
-Each player musters an Army, using the rules found in the *Legions Imperialis Rulebook* to a points limit of 3,000 points. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
+Each player musters an Army, using the rules found [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/mustering_an_army.md) to a points limit of 3,000 points. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
 
 After mustering their Army, if players have any Requisition Points, they can spend any of these to add a single additional Detachment to their Army for this battle. This does not change the agreed points limit for that battle, and so cannot affect the maximum amount of points that can be spent on Strategic Asset Formations, or the number of Formations or certain Detachments that are required to be included in an Army. That player then deducts a number of Requisition Points from their total equal to the points cost of the selected Detachment.
 

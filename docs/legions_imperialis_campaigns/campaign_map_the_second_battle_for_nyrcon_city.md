@@ -1,0 +1,1 @@
+![](../media/legions_imperialis_campaigns/campaign_map.jpg)

@@ -45,7 +45,7 @@ Future supplements may explore additional Allegiances - such supplements will de
 
 #### 2. Choose Formations
 
-Once a player has declared their Army's Allegiance, they can then select Formations up to the agreed points limit for their battle. In Titandeath battles, players can only select the Legion Support or Knight Household Lance Strategic Asset Formations (see page 205 the *Legions Imperialis Rulebook*). Note that the normal restrictions on how many of these Formations your Army can contain, and what percentage of the agreed points limit these can comprise, do not apply in Titandeath battles. As such, a player may select as many of these Formations as they wish, limited only by the points cost of those Formations.
+Once a player has declared their Army's Allegiance, they can then select Formations up to the agreed points limit for their battle. In Titandeath battles, players can only select the Legion Support or Knight Household Lance Strategic Asset Formations ([see page 205](../strategic_assets/formations.md)). Note that the normal restrictions on how many of these Formations your Army can contain, and what percentage of the agreed points limit these can comprise, do not apply in Titandeath battles. As such, a player may select as many of these Formations as they wish, limited only by the points cost of those Formations.
 
 **Engine Killer Weaponry**
 
@@ -127,11 +127,11 @@ Unless instructed otherwise, Titandeath battles last five rounds and once the fi
 
 Once the battle ends, both players determine the total number of Victory Points (VPs) they have earned over the course of the battle. The player with the most VPs is victorious. If both players have the same number of VPs, the battle is a draw.
 
-**Scoring Victory Points**
+#### Scoring Victory Points
 
 In Titandeath battles, VPs are earned both during the battle and at the end of the battle. Most Missions require the capturing of Objective markers, with a player scoring VPs at the end of each round for each Objective marker they control. In some missions, different Objective markers are worth different numbers of VPs. In addition to VPs earned through capturing and holding Objective markers, each player's Secondary Objective offers additional ways for them to score VPs at the end of the battle.
 
-**Capturing Objective Markers in Titandeath Battles**
+#### Capturing Objective Markers in Titandeath Battles
 
 During the course of the battle, both armies can capture Objective markers scattered across the battlefield.
 

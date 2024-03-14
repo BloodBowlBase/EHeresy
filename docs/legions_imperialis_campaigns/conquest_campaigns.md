@@ -2,7 +2,7 @@ Conquest campaigns allow players to directly follow the consequences of each bat
 
 ### Campaign Map
 
-To play a Conquest campaign, the players will need a map, made up of a number of hexes, with each hex representing a territory on that map. An example of a map made up of hexes (in this case for the Second Battle of Nyrcon City Campaign) can be found on page 128. If players are not playing that named campaign, they should create their own map using the territories found on pages 74-76, ensuring the map remains in the selected configuration for the duration of the campaign, allowing them to reference it whenever required.
+To play a Conquest campaign, the players will need a map, made up of a number of hexes, with each hex representing a territory on that map. An example of a map made up of hexes (in this case for the Second Battle of Nyrcon City Campaign) can be found [on page 128](../legions_imperialis_campaigns/campaign_map_the_second_battle_for_nyrcon_city.md). If players are not playing that named campaign, they should create their own map using the territories found [on pages 74-76](../legions_imperialis_campaigns/territories.md), ensuring the map remains in the selected configuration for the duration of the campaign, allowing them to reference it whenever required.
 
 **Designer's Note: Building a Campaign Map**
 
@@ -58,13 +58,13 @@ Each player from the Protecting Faction must choose either a neutral territory o
 
 #### 4. Determine Battles
 
-At this stage the Faction Commander of the Invading Faction randomly determines two missions using the table in the *Legions Imperialis Rulebook*, then selects one of these to be the Mission in use for this Campaign Cycle. All battles fought during this Campaign Cycle will use the same Mission. Note that if players are fighting over control of a specific territory (such as a Spaceport), this may dictate that they will play an alternative Mission instead.
+At this stage the Faction Commander of the Invading Faction randomly determines two missions using the table [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/fighting_a_battle.md#selecting-a-mission), then selects one of these to be the Mission in use for this Campaign Cycle. All battles fought during this Campaign Cycle will use the same Mission. Note that if players are fighting over control of a specific territory (such as a Spaceport), this may dictate that they will play an alternative Mission instead.
 
 If one or more players from the Invading Faction have invaded a territory that one or more players from the Protecting Faction have chosen to protect, the players in question fight a battle during this Campaign Cycle.
 
 #### 5. Muster Armies
 
-Each player musters an Army, using the rules found in the *Legions Imperialis Rulebook,* to a points limit of 3,000 points. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
+Each player musters an Army, using the rules found [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/mustering_an_army.md), to a points limit of 3,000 points. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
 
 After mustering their Army, if players have any Requisition Points, they can spend any of these to add a single additional Detachment to their Army for this battle. This does not change the agreed points limit for that battle, and so cannot affect the maximum amount of points that can be spent on Strategic Asset Formations, or the number of Formations or certain Detachments that are required to be included in an Army. That player then deducts a number of Requisition Points from their total equal to the points cost of the selected Detachment.
 

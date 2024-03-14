@@ -53,7 +53,7 @@ When Protecting a Manufactoria Complex territory that they control, if a player 
 
 **Special Rules**
 
-When a battle is fought over a Spaceport territory, do not use the previously determined Mission. Instead, play the Planetary Assault mission (see page 82). The player Protecting this territory is always the Defender in this Mission.
+When a battle is fought over a Spaceport territory, do not use the previously determined Mission. Instead, play the Planetary Assault mission ([see page 82](../legions_imperialis_campaigns/additional_missions.md#planetary-assault)). The player Protecting this territory is always the Defender in this Mission.
 
 ---
 
@@ -125,7 +125,7 @@ If a player controls one or more Research Facilities territory and one or more M
 
 **Special Rules**
 
-When a battle is fought over a Fortress territory, do not use the previously determined Mission. Instead, play the Strongpoint Defence mission (see page 81). The player Protecting this territory is always the Defender in such a scenario.
+When a battle is fought over a Fortress territory, do not use the previously determined Mission. Instead, play the Strongpoint Defence mission ([on page 81](../legions_imperialis_campaigns/additional_missions.md#strongpoint-defence)). The player Protecting this territory is always the Defender in such a scenario.
 
 ---
 

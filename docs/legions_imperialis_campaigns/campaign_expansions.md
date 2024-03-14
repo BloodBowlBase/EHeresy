@@ -2,7 +2,7 @@ Campaign Expansions are additional rules that can be added to a campaign to intr
 
 ### Campaign Expansion: System Warfare
 
-The Conquest Campaign rules presented on page 71 represent a conflict over a single planet. However, forces commonly waged war across entire star systems in their quest for victory. To represent this, the System Warfare Expansion can be used.
+The Conquest Campaign rules presented [on page 71](../legions_imperialis_campaigns/conquest_campaigns.md) represent a conflict over a single planet. However, forces commonly waged war across entire star systems in their quest for victory. To represent this, the System Warfare Expansion can be used.
 
 In this Expansion, players create several separate maps, with each one representing a planet within the star system. When building maps for this Expansion, determine the number of planets you wish to include; one per two to four players in the campaign is a good rule of thumb. Next, they will create a map for each planet - this is done in the same way as the normal Conquest Campaign, however it is recommended that each planet has between three to six hexes rather than a number per player. Each planet should also have at least one Spaceport territory.
 

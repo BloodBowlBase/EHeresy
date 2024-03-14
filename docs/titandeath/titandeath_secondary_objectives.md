@@ -1,4 +1,4 @@
-In addition to the possible ways to score Victory Points described in each Titandeath Mission, each player has a Secondary Objective. Secondary Objectives are chosen as described on page 94.
+In addition to the possible ways to score Victory Points described in each Titandeath Mission, each player has a Secondary Objective. Secondary Objectives are chosen as described [on page 94](../titandeath/titandeath_battle_sequence.md#determine-titandeath-secondary-objectives).
 
 Each of the Secondary Objectives are described over the following pages. If a Secondary Objective requires the placement of an additional Objective marker, then that marker must be clearly indicated as different from the Mission Objective markers. Any time a Secondary Objective marker is placed, either while setting up the battlefield or during the course of a battle, it cannot be placed within an area of Impassable terrain, overlapping or on top of a Structure or overlapping the base of any model. If the marker must be placed but does not meet these rules, move the marker the shortest possible distance to allow it to be placed.
 
@@ -6,7 +6,7 @@ Objective markers placed as part of a Secondary Objective do not score VPs due t
 
 ### Control the Battlefield
 
-At the end of the battle, divide the battlefield into equal quarters and calculate the total Tactical Strength (see page 96) of each player's models that are wholly within each quarter.
+At the end of the battle, divide the battlefield into equal quarters and calculate the total Tactical Strength ([see page 96](../titandeath/titandeath_battle_sequence.md#capturing-objective-markers-in-titandeath-battles)) of each player's models that are wholly within each quarter.
 
 The player with the greatest total Tactical Strength in each quarter is said to be in control of it - if the total Tactical Strength is the same, no player controls it. Note that unlike Objective markers, the Tactical Strength is not required to be double that of an opponent's models.
 

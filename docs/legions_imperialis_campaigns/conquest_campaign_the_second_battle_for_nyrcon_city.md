@@ -4,7 +4,7 @@ In this section you will find a variant of a Conquest campaign for six players, 
 
 The following changes apply when fighting the Second Battle of Nyrcon City campaign:
 
-- Instead of building a campaign map, the Second Battle for Nyrcon City campaign uses the Nyrcon City Conquest campaign map on page 128. This campaign map represents Nyrcon City and its surrounding areas and is divided into several rings of territories around the central Hive City territory, as shown on the diagram opposite. The six territories adjacent to the central Hive City territory are referred to as Inner City territories. The 12 territories around the outside of the map are referred to as Outer City territories.
+- Instead of building a campaign map, the Second Battle for Nyrcon City campaign uses the Nyrcon City Conquest campaign map [on page 128](../legions_imperialis_campaigns/campaign_map_the_second_battle_for_nyrcon_city.md). This campaign map represents Nyrcon City and its surrounding areas and is divided into several rings of territories around the central Hive City territory, as shown on the diagram opposite. The six territories adjacent to the central Hive City territory are referred to as Inner City territories. The 12 territories around the outside of the map are referred to as Outer City territories.
 
 - Instead of selecting starting territories as normal, the Faction Commander for the Loyalist Faction starts the campaign in control of the central Hive City territory, one other Loyalist player starts the campaign in control of the Nyrcon City Mag-rail Terminus territory, and the remaining Loyalist player starts the campaign in control of the Spaceport territory. Each Traitor player can select one Outer City territory to be their starting territory.
 
@@ -31,12 +31,12 @@ The following additional territory is in use in the Second Battle for Nyrcon Cit
 
 **Special Rules**
 
-When Invading, a player that controls the Nyrcon City Mag-rail Terminus territory may invade any Inner City territory rather than just those adjacent to a territory their Faction controls. When a battle is fought over the Nyrcon City Mag-rail Terminus territory, do not roll for a Mission. Instead, play the Seize the Terminal mission (see page 86). The player Protecting this territory is always the Defender in this Mission.
+When Invading, a player that controls the Nyrcon City Mag-rail Terminus territory may invade any Inner City territory rather than just those adjacent to a territory their Faction controls. When a battle is fought over the Nyrcon City Mag-rail Terminus territory, do not roll for a Mission. Instead, play the Seize the Terminal mission ([see page 86](../legions_imperialis_campaigns/conquest_campaign_the_second_battle_for_nyrcon_city.md#seize-the-terminal)). The player Protecting this territory is always the Defender in this Mission.
 
 
 ### Additional Mission
 
-In this section you will find an additional Mission for use in The Second Battle of Nyrcon City campaign. This uses the same Mission sequence and rules as the Matched Play Missions found in the *Legions Imperialis Rulebook*, unless otherwise specified in this Mission. Any changes to this process will be listed under 'Mission Specifics' for this Mission.
+In this section you will find an additional Mission for use in The Second Battle of Nyrcon City campaign. This uses the same Mission sequence and rules as the Matched Play Missions found [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/missions.md), unless otherwise specified in this Mission. Any changes to this process will be listed under 'Mission Specifics' for this Mission.
 
 #### SEIZE THE TERMINAL
 

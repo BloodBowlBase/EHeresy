@@ -20,7 +20,7 @@ One of the following:
 
 ## Solar Auxilia Armoured Company
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points ([see page 178](../../the_solar_auxilia/#tank-commander)).
+**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] ([see page 178](../../the_solar_auxilia/#tank-commander)).
 
 **COMPULSORY DETACHMENTS** 
 
@@ -77,7 +77,7 @@ One of the following:
 
 ## Solar Auxilia Super-Heavy Company
 
-**Tank Commander:** One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see page 178 of the *Legions Imperialis Rulebook*).
+**Tank Commander:** One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] ([see page 178](../../the_solar_auxilia/#tank-commander)).
 
 **Mobile Fortifications:** While two or more models from this Formation are within range of the same Objective marker, increase the Tactical Strength of each model from this Formation that is within range of that Objective marker by 1 when determining which player captures that Objective marker.
 

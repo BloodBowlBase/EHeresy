@@ -238,74 +238,6 @@ An Auxilia Cyclops Battery can purchase one of the following upgrades:
 
 ---
 
-### <center>Auxilia Malcador Infernus Squadron [70 Points]</center>
-
-* **Type:** Vehicle (2) 
-* **Detachment Size:** 1
-
-| Name               | Movement | Sv  | CAF | Morale | W |
-| ------------------ | :------: | :-: | :-: | :----: | -:|
-| Malcador Infernus  |    8"    | 3+  | +1  |   4+   | 2 |
-
-**Weapons**
-
-- Malcador inferno gun
-- Malcador autocannon sponsons or Malcador lascannon sponsons
-
-| Weapon                         | Range | Dice | To Hit | AP  | **Traits**                        |
-| ------------------------------ | :---: | :--: | :----: | :-: | --------------------------------- |
-| Malcador inferno gun           |   -   |   T  |   4+   | -1  | [Arc] (Front), [Firestorm], [Light AT] |
-| Malcador autocannon sponsons   |  16"  |   2  |   5+   | -1  | [Light AT]                        |
-| Malcador lascannon sponsons    |  22"  |   1  |   4+   | -1  | [Anti-tank]                       |
-
-**Upgrades**
-
-An Auxilia Malcador Infernus Squadron can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 1 [+70 points]
-- **Increase the Detachment size by** 2 [+140 points]
-
-**Special Rules**
-
-[Chain of Command], [Explorator Adaptation]
-
----
-
-### <center>Auxilia Valdor Squadron [70 Points]</center>
-
-* **Type:** Vehicle (2) 
-* **Detachment Size:** 1
-
-| Name  | Movement | Sv  | CAF | Morale | W |
-| ----- | :------: | :-: | :-: | :----: | -:|
-| Valdor|    8"    | 3+  | +1  |   4+   | 2 |
-
-**Weapons**
-
-- Neutron beam laser
-- Malcador autocannon sponson or Malcador lascannon sponson
-
-**Weapons**
-
-| Weapon                        | Range | Dice | To Hit | AP  | **Traits**                  |
-| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------- |
-| Neutron beam laser            |  22"  |  1   |   4+   | -3  | [Arc] (Front), [Shock Pulse]|
-| Malcador autocannon sponson   |  16"  |  2   |   5+   | -1  | [Light AT]                  |
-| Malcador lascannon sponson    |  22"  |  1   |   4+   | -1  | [Anti-tank]                 |
-
-**Upgrades**
-
-An Auxilia Valdor Squadron can purchase one of the following upgrades:
-
-- **Increase the Detachment size by** 1 [+70 points]
-- **Increase the Detachment size by** 2 [+140 points]
-
-**Special Rules**
-
-[Chain of Command], [Explorator Adaptation]
-
----
-
 ## BASTION DETACHMENTS 
 
 ---
@@ -493,6 +425,74 @@ A Malcador Tank Squadron can purchase any of the following upgrades. It may purc
 
 ---
 
+### <center>Auxilia Malcador Infernus Squadron [70 Points]</center>
+
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
+
+| Name               | Movement | Sv  | CAF | Morale | W |
+| ------------------ | :------: | :-: | :-: | :----: | -:|
+| Malcador Infernus  |    8"    | 3+  | +1  |   4+   | 2 |
+
+**Weapons**
+
+- Malcador inferno gun
+- Malcador autocannon sponsons or Malcador lascannon sponsons
+
+| Weapon                         | Range | Dice | To Hit | AP  | **Traits**                        |
+| ------------------------------ | :---: | :--: | :----: | :-: | --------------------------------- |
+| Malcador inferno gun           |   -   |   T  |   4+   | -1  | [Arc] (Front), [Firestorm], [Light AT] |
+| Malcador autocannon sponsons   |  16"  |   2  |   5+   | -1  | [Light AT]                        |
+| Malcador lascannon sponsons    |  22"  |   1  |   4+   | -1  | [Anti-tank]                       |
+
+**Upgrades**
+
+An Auxilia Malcador Infernus Squadron can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 1 [+70 points]
+- **Increase the Detachment size by** 2 [+140 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+---
+
+### <center>Auxilia Valdor Squadron [70 Points]</center>
+
+* **Type:** Vehicle (2) 
+* **Detachment Size:** 1
+
+| Name  | Movement | Sv  | CAF | Morale | W |
+| ----- | :------: | :-: | :-: | :----: | -:|
+| Valdor|    8"    | 3+  | +1  |   4+   | 2 |
+
+**Weapons**
+
+- Neutron beam laser
+- Malcador autocannon sponson or Malcador lascannon sponson
+
+**Weapons**
+
+| Weapon                        | Range | Dice | To Hit | AP  | **Traits**                  |
+| ----------------------------- | :---: | :--: | :----: | :-: | --------------------------- |
+| Neutron beam laser            |  22"  |  1   |   4+   | -3  | [Arc] (Front), [Shock Pulse]|
+| Malcador autocannon sponson   |  16"  |  2   |   5+   | -1  | [Light AT]                  |
+| Malcador lascannon sponson    |  22"  |  1   |   4+   | -1  | [Anti-tank]                 |
+
+**Upgrades**
+
+An Auxilia Valdor Squadron can purchase one of the following upgrades:
+
+- **Increase the Detachment size by** 1 [+70 points]
+- **Increase the Detachment size by** 2 [+140 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+---
+
 ## HEAVY ARMOUR DETACHMENTS
 
 ---
@@ -571,6 +571,8 @@ An Auxilia Stormhammer Squadron can purchase one of the following upgrades:
 
 - **Increase the Detachment size by** 1 [+100 points]
 - **Increase the Detachment size by** 2 [+200 points]
+
+Any Stormhammer may exchange its Stormhammer multi-laser sponsons for Stormhammer lascannon sponsons for [+4 points per model].
 
 **Special Rules**
 

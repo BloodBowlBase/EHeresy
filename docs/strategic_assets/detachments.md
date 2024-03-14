@@ -21,12 +21,12 @@ Each Questoris Knight has one of the following weapon loadouts:
 * **Knight Gallant:** Thunderstrike gauntlet, meltagun, and a Reaper chainsword\*
 * **Knight Crusader:** Heavy stubber and either a Questoris-avenger gatling cannon and thermal cannon or a rapid-fire battlecannon and thermal cannon\*
 
-For +15 points, a Questoris Knight may have one of the following weapon loadouts instead:
+For [+15 points], a Questoris Knight may have one of the following weapon loadouts instead:
 
 * **Knight Styrix**†
 * **Knight Magaera**†
 
-\*A Questoris Knight with this loadout may also be equipped with rocket pods for +5 points.
+\*A Questoris Knight with this loadout may also be equipped with rocket pods for [+5 points].
 
 †Knight Styrix/Knight Magaera use the corresponding profiles [on page 207](../../strategic_assets/detachments/#detachment-upgrades).
 
@@ -133,7 +133,7 @@ Each Cerastus Knight has one of the following weapon loadouts:
 * **Knight Castigator:** Castigator pattern bolt cannon and a Tempest warblade.
 * **Knight Lancer:** Shock lance and an ion gauntlet shield\*
 
-For +20 points, a Cerastus Knight may have one of the following loadouts instead:
+For [+20 points], a Cerastus Knight may have one of the following loadouts instead:
 
 * **Cerastus Knight Atrapos**†
 
@@ -691,7 +691,7 @@ In addition, a Warmaster Iconoclast has two weapons chosen from the list below �
 * Turbo-laser destructor
 * Plasma blastgun
 
-A Warmaster Iconoclast can exchange its Kirus siege drill for a Kirus grav imploder for +10 points.
+A Warmaster Iconoclast can exchange its Kirus siege drill for a Kirus grav imploder for [+10 points].
 
 | Weapon                                    | Range   | Dice | To Hit | AP | Traits                                              |
 | ----------------------------------------- | :-----: | :--: | :----: | :-: | --------------------------------------------------- |
