@@ -30,10 +30,10 @@ Models wholly within an area of Difficult terrain gain a Cover Save of 6+.
 
 **Designer's Note: Areas of Terrain**
 
-Given the scale of Legions Imperialis, the exact appearance of a piece of terrain might not necessarily equate to what it is representing; in other words, an area of terrain might represent a forest but contain only a handful of model trees, so models can be placed within it, whereas its real-life equivalent would contain hundreds or thousands of them.
+*Given the scale of Legions Imperialis, the exact appearance of a piece of terrain might not necessarily equate to what it is representing; in other words, an area of terrain might represent a forest but contain only a handful of model trees, so models can be placed within it, whereas its real-life equivalent would contain hundreds or thousands of them.*
 
-Some terrain types have specific effects on line of sight, as detailed in the section that follows. If the area of terrain has no specific rules related to line of sight then it only blocks it if a piece of the terrain (such as a large rock or network of pipes) hides a model. This may seem abstract but it allows for easy resolution of how terrain affects models on the battlefield. The key thing to remember is all pieces of terrain occupy an area, regardless of their physical appearance
-over that defined area.
+*Some terrain types have specific effects on line of sight, as detailed in the section that follows. If the area of terrain has no specific rules related to line of sight then it only blocks it if a piece of the terrain (such as a large rock or network of pipes) hides a model. This may seem abstract but it allows for easy resolution of how terrain affects models on the battlefield. The key thing to remember is all pieces of terrain occupy an area, regardless of their physical appearance
+over that defined area.*
 
 ![](../media/legions_imperialis_rules/terrain_types.jpg)
 

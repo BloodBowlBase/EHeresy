@@ -39,6 +39,19 @@ nav:
       - 'Missions': 'legions_imperialis_rules/missions.md'
       - 'Secondary Objectives': 'legions_imperialis_rules/secondary_objectives.md'
       - 'Mustering an Army': 'legions_imperialis_rules/mustering_an_army.md'
+  - 'Legions Imperialis Campaigns':  
+      - 'Legions Imperialis Campaigns': 'legions_imperialis_campaigns/index.md'
+      - 'Warfront Campaign': 'legions_imperialis_campaigns/warfront_campaign.md'
+      - 'Conquest Campaigns': 'legions_imperialis_campaigns/conquest_campaigns.md'
+      - 'Territories': 'legions_imperialis_campaigns/territories.md'      
+      - 'Campaign Expansions': 'legions_imperialis_campaigns/campaign_expansions.md'
+      - 'Additional Missions': 'legions_imperialis_campaigns/additional_missions.md'
+      - 'Conquest Campaign: The Second Battle for Nyrcon City': 'legions_imperialis_campaigns/conquest_campaign_the_second_battle_for_nyrcon_city.md'
+  - 'Titandeath':
+      - 'Titandeath': 'titandeath/index.md'
+      - 'Titandeath Battle Sequence': 'titandeath/titandeath_battle_sequence.md'
+      - 'Titandeath Missions': 'titandeath/titandeath_missions.md'
+      - 'Titandeath Secondary Objectives': 'titandeath/titandeath_secondary_objectives.md'
   - 'The Legiones Astartes':
       - 'The Legiones Astartes': 'the_legiones_astartes/index.md'
       - 'Formations': 'the_legiones_astartes/formations.md'

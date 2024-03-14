@@ -1,5 +1,13 @@
 Many weapons have one or more Traits - these are additional special rules that apply to that weapon, giving it bonuses and/or penalties in specific situations. Traits influence how the weapon acts on the battlefield. The exact Traits a weapon has can be found on the relevant datasheet. Weapons with a specific Trait can be referred to in one of two ways: '*Weapons with the [Trait name] trait'* and *'[Trait name] weapons'.*
 
+**Designer's Note: Weapon Traits and AP:**
+
+*Some weapon Traits, such as Anti-tank (AT) or Light AT, modify the AP of the weapon based on the model being targeted. For example, a lascannon has an AP of -1 which becomes an AP of 0 when it targets Infantry models.*
+
+*This is to reflect the destructive potential of a weapon against different types of Detachments rather than commenting on the weapon's power. For example, a single lascannon can easily destroy a single Rhino but would have difficulty eradicating a group of five Space Marines in one burst; the modification of the AP is done to reflect this. It also reflects a commander's need to field different weapons for different foes - there is no one single tool that solves all of your problems.*
+
+*Unless instructed otherwise, the change of AP to 0 is done after all modifications to the AP characteristic, so even if a rule improves the AP (e.g., from -1 to -2), it would still then be set to 0. Where there are exceptions to this, such as when firing at a Vehicle while in its Rear Arc, these will be noted in the relevant rule.*
+
 ### Accurate
 When firing a weapon with the Accurate trait, the controlling player may re-roll any failed Hit rolls.
 
@@ -14,18 +22,6 @@ Hits scored by a weapon with the Anti-tank trait against an Infantry or Cavalry 
 
 ### Assault
 When firing a weapon with the Assault trait, a model doubles its Dice value if it is within a number of inches equal to half the weapon's Range of at least one model from the target Detachment.
-
----
-
-### Designer's Note: Weapon Traits and AP
-
-Some weapon Traits, such as Anti-tank (AT) or Light AT, modify the AP of the weapon based on the model being targeted. For example, a lascannon has an AP of -1 which becomes an AP of 0 when it targets Infantry models.
-
-This is to reflect the destructive potential of a weapon against different types of Detachments rather than commenting on the weapon's power. For example, a single lascannon can easily destroy a single Rhino but would have difficulty eradicating a group of five Space Marines in one burst; the modification of the AP is done to reflect this. It also reflects a commander's need to field different weapons for different foes - there is no one single tool that solves all of your problems.
-
-Unless instructed otherwise, the change of AP to 0 is done after all modifications to the AP characteristic, so even if a rule improves the AP (e.g., from -1 to -2), it would still then be set to 0. Where there are exceptions to this, such as when firing at a Vehicle while in its Rear Arc, these will be noted in the relevant rule.
-
----
 
 ### Barrage
 When firing a weapon with the Barrage trait, a model may target Detachments that it does not have line of sight to, so long as the target Detachment is in range and meets all other criteria for a valid target. Models firing against targets they cannot draw line of sight to suffer a -1 penalty to all Hit rolls.

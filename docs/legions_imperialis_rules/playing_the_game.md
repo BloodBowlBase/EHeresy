@@ -211,14 +211,15 @@ Once the Overwatch has been resolved, the controlling player removes the firing 
 
 ***LIR53.1:** The moving Solar Auxilia pass through the line of sight of the Contemptor Dreadnought. As such,* *the Dreadnought can call Overwatch.*
 
-#### Designer's Note: Overwatch and Timing 
-When models move, they aren't really picked up from one point on the battlefield and placed at another. Furthermore, time is abstract in a tabletop game - everything is happening simultaneously and a Detachment moves as one, not one model at a time.
+**Designer's Note: Overwatch and Timing**
 
-There will be times when Overwatch ([see page 52](../../legions_imperialis_rules/playing_the_game/#overwatch)) is called against an enemy Detachment that starts its activation out of line of sight of the Overwatching Detachment and/or would end it out of sight of the Overwatching Detachment. In such cases, it is presumed the Overwatching Detachment catches its target in the midst of movement. When firing, determine how many enemy models from the target Detachment would cross into line of sight of the Overwatching models during the Detachment's movement. All of these are eligible targets if other requirements are met and can be fired upon and allocated Hits as normal.
+*When models move, they aren't really picked up from one point on the battlefield and placed at another. Furthermore, time is abstract in a tabletop game - everything is happening simultaneously and a Detachment moves as one, not one model at a time.*
 
-The Overwatching Detachment can choose the 'time' it fires - for example, if the target leaves an area of terrain, crosses Open terrain and enters a new area of terrain (all of which are visible and within range of the Overwatching Detachment), that Detachment can choose to fire at its target when it is in Open terrain, avoiding negative modifiers due to terrain.
+*There will be times when Overwatch ([see page 52](../../legions_imperialis_rules/playing_the_game/#overwatch)) is called against an enemy Detachment that starts its activation out of line of sight of the Overwatching Detachment and/or would end it out of sight of the Overwatching Detachment. In such cases, it is presumed the Overwatching Detachment catches its target in the midst of movement. When firing, determine how many enemy models from the target Detachment would cross into line of sight of the Overwatching models during the Detachment's movement. All of these are eligible targets if other requirements are met and can be fired upon and allocated Hits as normal.*
 
-Some weapons have effects which reduce the characteristics, such as Movement, of the target Detachment - where this is the case, these reductions come into effect at the end of the target Detachment's activation, not after resolving an Overwatch.
+*The Overwatching Detachment can choose the 'time' it fires - for example, if the target leaves an area of terrain, crosses Open terrain and enters a new area of terrain (all of which are visible and within range of the Overwatching Detachment), that Detachment can choose to fire at its target when it is in Open terrain, avoiding negative modifiers due to terrain.*
+
+*Some weapons have effects which reduce the characteristics, such as Movement, of the target Detachment - where this is the case, these reductions come into effect at the end of the target Detachment's activation, not after resolving an Overwatch.*
 
 ## Combat Phase
 
@@ -400,9 +401,9 @@ In some cases, it may be possible to pair a model off with more than one enemy m
 
 For the sake of clarity, all models must be paired off before any Fights are resolved. If both players agree, models can be separated slightly to show which models are in which Fights.
 
-##### Designer's Note: What is a Fight?
+**Designer's Note: What is a Fight?**
 
-A Fight is a clash between two models. During Combat, models are paired off against enemy models, with some instances resulting in a model being paired off against two or more enemy models. Players make Fight rolls for each pair of models - each roll is a separate Fight. This means most models will have one Fight during Combat, while an outnumbered model might be involved in several Fights. Each Fight is resolved separately, as follows.
+*A Fight is a clash between two models. During Combat, models are paired off against enemy models, with some instances resulting in a model being paired off against two or more enemy models. Players make Fight rolls for each pair of models - each roll is a separate Fight. This means most models will have one Fight during Combat, while an outnumbered model might be involved in several Fights. Each Fight is resolved separately, as follows.*
 
 #### Resolve Fights
 

@@ -1,7 +1,5 @@
 ## Solar Auxilia Sub-Cohort
 
-A Cohort's strength was commonly divided into 'Sub-Cohorts', each one assigned its own command structure and support elements to allow it to operate independently across a theatre of war. The core of each Sub- Cohorts were the Infantry Tercios, with armoured elements, aerial squadrons and other ancillary units temporarily assigned.
-
 **Disciplined Ranks**: Compulsory Core Detachment slots within this Formation must be filled with Auxilia Lasrifle Tercio Detachments.
 
 **COMPULSORY DETACHMENTS** 
@@ -22,8 +20,6 @@ One of the following:
 
 ## Solar Auxilia Armoured Company
 
-Armoured Companies were the hammer of Solar Auxilia Cohorts, each one consisting of dedicated tank squadrons commanded by a seasoned veteran. When assembled in number, the massed ranks of Solar Auxilia armour were capable of grinding all resistance beneath their treads.
-
 **Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points ([see page 178](../../the_solar_auxilia/#tank-commander)).
 
 **COMPULSORY DETACHMENTS** 
@@ -40,8 +36,6 @@ One of the following:
 
 ## Solar Auxilia Pioneer Company
 
-Formed around a core of Veletaris veterans, and reinforced with heavier weapons, reconnaissance units and a small number of armour units, Pioneer Sub-Cohorts were designed to secure and hold forward positions, preparing the ground for the advance of the remainder of the Cohort's strength.
-
 **Forward Positions**: Compulsory Core Detachment slots in this Formation must be filled with Auxilia Veletaris Storm Sections. All Solar Auxilia Detachments within a Solar Auxilia Pioneer Company that consist entirely of Infantry models gain the Infiltrate special rule. All other Solar Auxilia Detachments within the Solar Auxilia Pioneer Company gain the Forward Deployment special rule.
 
 **COMPULSORY DETACHMENTS** 
@@ -57,3 +51,30 @@ One of the following:
 [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) ![](../media/the_solar_auxilia/optional_artillery.jpg) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
 
 
+## Solar Auxilia Artillery Company
+
+**Pulverising Volleys:** Earthshaker cannon and Medusa siege guns that models in this Formation are equipped with do not suffer a -1 penalty to all Hit rolls when firing against a target they cannot draw line of sight to.
+
+**COMPULSORY DETACHMENTS** 
+
+**OPTIONAL DETACHMENTS**
+
+
+## Solar Auxilia Mechanised Infantry Sub-Cohort
+
+**Dedicated Transports:** All Solar Auxilia Detachments within the Formation that contain only Infantry models (excluding models with the Deep Strike special rule) must be upgraded with Dracosans as Dedicated Transports.
+
+**COMPULSORY DETACHMENTS** 
+
+**OPTIONAL DETACHMENTS**
+
+
+## Solar Auxilia Super-Heavy Company
+
+**Tank Commander:** One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for +10 points (see page 178 of the *Legions Imperialis Rulebook*).
+
+**Mobile Fortifications:** While two or more models from this Formation are within range of the same Objective marker, increase the Tactical Strength of each model from this Formation that is within range of that Objective marker by 1 when determining which player captures that Objective marker.
+
+**COMPULSORY DETACHMENTS** 
+
+**OPTIONAL DETACHMENTS**

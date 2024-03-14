@@ -252,7 +252,6 @@ Hits can only be allocated to Void Shields if they were scored by a weapon with 
 During the End phase, in the Resolve End Phase Effects stage, a model with the Void Shields (X) special rule may attempt to reignite any collapsed Void Shields. The controlling player rolls a number of D6 equal to the difference between a model's current Void Shield level and its starting Void Shield level. For each 4+ rolled, increase that model's Void Shield level by 1.
 
 ### Embarking and Disembarking
-### 
 
 Models can begin the game deployed within a Transport. They can also Embark upon a Transport during the course of the game. To Embark upon a friendly Transport, a model must end its activation in the Movement phase in base to base contact with it - the model is then removed from the battlefield and placed to one side.
 
@@ -263,3 +262,9 @@ If a model that Disembarked has yet to activate this phase, it can be activated 
 Embarking and Disembarking from a Transport with the Flyer special rule works slightly differently. If a Transport with the Flyer special rule has the Hover special rule, then when a Detachment Disembarks from it the Transport immediately loses the Flyer special rule and gains the Skimmer special rule; if the Transport is part of a Detachment, then all models in the Detachment do this, even if no model Disembarks from them. Similarly, a model cannot Embark upon a model with the Flyer special rule - the Flyer model must be hovering for a model to Embark upon it.
 
 Some special rules (such as Jump Packs) allow a model to ignore the need to Hover. If the Flyer does not have the Hover special rule then models cannot Disembark from it unless a rule (such as the Jump Packs special rule) explicitly says they can. If a Transport with the Flyer special rule is destroyed, models within it are also destroyed, without making Save rolls, unless those models can normally Disembark from a Flyer without it Hovering.
+
+### Remote Controlled Detonation:
+
+If a model with the Remote Controlled Detonation special rule ends its movement within 12" of a friendly model with the Commander special rule, it may detonate. When a model detonates, it attacks with all of its weapons that have the Blast (3"/5") trait. The central hole of the Blast template is placed over the detonating model - it does no damage to itself (i.e., don't make Hit rolls for the detonating model) and the template does not Scatter. Once the effects of the detonation have been resolved, the detonating model is destroyed.
+
+If a Detachment contains more than one model with this rule, the controlling player can choose which models detonate and which do not, doing so before resolving any detonation. Models that detonate are not affected by friendly models that are detonating at the same time. Any model that does not detonate is affected if it is under the Blast template as normal.
