@@ -14,6 +14,8 @@ The player with the greatest total Tactical Strength in each quarter is said to 
 
 At the end of the battle, the player with this Secondary Objective scores 5 VPs if they control at least one battlefield quarter, 10 VPs if they control at least two battlefield quarters and 15 VPs if they control three or more battlefield quarters.
 
+---
+
 ### Scan and Survey
 
 At the end of each round, make a note of each uncontested Objective marker that you control for the first time.
@@ -21,6 +23,8 @@ At the end of each round, make a note of each uncontested Objective marker that 
 **Scoring**
 
 At the end of the battle, the player with this Secondary Objective scores 3 VPs for each Objective marker that they have controlled at any point during the battle.
+
+---
 
 ### Fresh Supplies
 
@@ -38,6 +42,8 @@ At the end of the battle, the player with this Secondary Objective scores:
 
 - 15 VPs if they control their Uncontested Supplies Objective marker.
 
+---
+
 ### Stand Tall
 
 A player with this Secondary Objective must attempt to preserve their forces in the face of the enemy attack - most especially the pride of their Titan Legio.
@@ -49,6 +55,8 @@ At the end of the battle:
 - If the player with this Secondary Objective has more than 50% of the total points cost of their Army on the battlefield, they score 10 VPs.
 
 - If the player with this Secondary Objective has any Warlord Battle Titan, Warlord-Sinister Battle Titan, Warmaster Heavy Battle Titan or Warmaster Iconoclast Titan models on the battlefield and their opponent has no Warlord Battle Titan, Warlord-Sinister Battle Titan, Warmaster Heavy Battle Titan or Warmaster Iconoclast Titan models on the battlefield, they score 5 VPs.
+
+---
 
 ### A Matter of Honour
 
@@ -64,7 +72,9 @@ At the end of the battle, the player with this Secondary Objective scores:
 
 - 15 VPs if the Miscreant model has been destroyed by an attack made by the Aggrieved model.
 
-## Break their Lines
+---
+
+### Break their Lines
 
 After both players have finished deploying their Armies, the player with this Secondary Objective secretly selects three of their Titan models to be Linebreakers and makes a note of them. If the player with this Secondary Objective has less than three Titan models in their Army, they must re-roll this Secondary Objective.
 
