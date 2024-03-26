@@ -1,4 +1,3 @@
-[Agile]: ../../legions_imperialis_rules/weapon_traits/#agile
 [Accurate]: ../../legions_imperialis_rules/weapon_traits/#accurate
 [Arc]: ../../legions_imperialis_rules/weapon_traits/#arc-frontrear
 [Armourbane]: ../../legions_imperialis_rules/weapon_traits/#armourbane
