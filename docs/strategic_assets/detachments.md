@@ -605,9 +605,7 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 |                                           |  6"-18" |  3   |   3+   | -3 | [Arc] (Front), [Demolisher]                             |
 |                                           | 18"-35" |  3   |   2+   | -4 | [Arc] (Front), [Demolisher]                             |
 | Death pulse                               |    7"   | D3+1 |   4+   | -1 | [Psi], [Saturation Fire]                                |
-| Antipathic tempest
-
-                        |   20"   |  1   |   4+   | -1 | [Blast] (5"), [Ignores Cover], [Psi], [Quake]               |
+| Antipathic tempest                        |   20"   |  1   |   4+   | -1 | [Blast] (5"), [Ignores Cover], [Psi], [Quake]               |
 
 **Special Rules**
 
