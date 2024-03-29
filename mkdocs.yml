@@ -7,8 +7,6 @@ theme:
   custom_dir: overrides
   logo: assets/EH_Logo.png
   favicon: assets/EH_Favicon.ico
-  font:
-    text: PT Serif
   features:  
     - header.autohide
     - navigation.indexes

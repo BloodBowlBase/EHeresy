@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "DroidSerif";
+  src: url(/assets/fonts/DroidSerif.woff) format("woff");
+}
+
+:root {
+  --md-text-font: "DroidSerif"; 
+  --md-code-font: "DroidSerif";
+}
+
 .md-grid {
   max-width: 65rem;
 }
@@ -5,3 +15,4 @@
 .md-typeset table:not([class]) th {
   min-width: 0rem;
  }
+
