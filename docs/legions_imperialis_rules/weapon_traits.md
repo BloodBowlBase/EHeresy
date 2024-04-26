@@ -140,7 +140,7 @@ If the result of the firing player's roll is higher than the target player's, th
 ### Light
 Hits scored by a weapon with the Light trait against a Vehicle, Super-heavy Vehicle, Knight or Titan model are automatically discarded, before any Save rolls are made. In other words, a weapon with this Trait cannot damage models from the listed Detachment types.
 
-In addition, Hits scored by a weapon with this Trait cannot be allocated to Void Shields, regardless of the weapon's AP, and thus are automatically discarded if a target has active Void Shields ([see page 97](../../legions_imperialis_rules/special_rules/#void-shields-x) for more details).
+In addition, Hits scored by a weapon with this Trait cannot be allocated to Void Shields, regardless of the weapon's AP, and thus are automatically discarded if a target has active Void Shields ([see page 97](../legions_imperialis_rules/special_rules.md#void-shields-x) for more details).
 
 ### Light AT
 Hits scored by a weapon with the Light AT trait against a Vehicle, Super-heavy Vehicle, Knight or Titan model treat their AP as 0, regardless of the weapon's base AP value. This can prevent Hits from a weapon with the Light AT trait from being allocated to Void Shields.

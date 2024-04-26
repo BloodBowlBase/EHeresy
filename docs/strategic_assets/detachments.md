@@ -1,8 +1,8 @@
 ## KNIGHT DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Questoris Knight Banner [180 Points]</center>
+### Questoris Knight Banner [180 Points]
 
 * **Type:** Knight (4)
 * **Detachment Size:** 1
@@ -28,7 +28,7 @@ For [+15 points], a Questoris Knight may have one of the following weapon loadou
 
 \*A Questoris Knight with this loadout may also be equipped with rocket pods for [+5 points].
 
-†Knight Styrix/Knight Magaera use the corresponding profiles [on page 207](../../strategic_assets/detachments/#detachment-upgrades).
+†Knight Styrix/Knight Magaera use the corresponding profiles [on page 207](detachments.md#detachment-upgrades).
 
 | Weapon                           | Range | Dice | To Hit | AP | Traits                                                |
 | -------------------------------- | ----- | ---- | ------ | -- | ----------------------------------------------------- |
@@ -56,19 +56,23 @@ In addition, a Questoris Knight Banner may purchase one of the following upgrade
 * Questoris Knight Armiger Talon [+180 points]‡
 * Mechanicum Knight Moirax Talon [+200 points]‡
 
-‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../../strategic_assets/detachments/#detachment-upgrades_2).
+‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](detachments.md#detachment-upgrades_2).
 
 **Special Rules**
 
 [Independent], [Ion Shields] (4+), [Nimble]
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades
 
 ---
 
-#### <center>Knight Styrix</center>
+#### Knight Styrix
 
 | Name          | Movement | Sv | CAF | Morale | W |
 | ------------- | :------: | :-: | :-: | :----: | :--: |
@@ -92,7 +96,7 @@ In addition, a Questoris Knight Banner may purchase one of the following upgrade
 
 ---
 
-#### <center>Knight Magaera</center>
+#### Knight Magaera
 
 | Name           | Movement | Sv | CAF | Morale | W |
 | -------------- | :------: | :-: | :-: | :----: | :--: |
@@ -114,9 +118,13 @@ In addition, a Questoris Knight Banner may purchase one of the following upgrade
 
 [Blessed Auto-simulacra], [Independent], [Ionic Flare Shield], [Ion Shields] (4+), [Nimble]
 
+</div>
+
 ---
 
-### <center>Cerastus Knight Banner [215 Points]</center>
+<div class="unitCard" markdown>
+
+### Cerastus Knight Banner [215 Points]
 
 * **Type:** Knight (4)
 * **Detachment Size:** 1
@@ -139,7 +147,7 @@ For [+20 points], a Cerastus Knight may have one of the following loadouts inste
 
 \*A Knight Lancer exchanges the Ion Shield (4+) special rule for Ion Shield (3+).
 
-†Cerastus Knight Atrapos use the corresponding profiles [on page 209](../../strategic_assets/detachments/#detachment-upgrades_1).
+†Cerastus Knight Atrapos use the corresponding profiles [on page 209](detachments.md#detachment-upgrades_1).
 
 | Weapon                             | Range | Dice | To Hit | AP | Traits                                        |
 | ---------------------------------- | ----- | ---- | ------ | -- | --------------------------------------------- |
@@ -163,19 +171,23 @@ In addition, a Cerastus Knight Banner may purchase one of the following upgrades
 * Questoris Knight Armiger Talon [+180 points]‡
 * Mechanicum Knight Moirax Talon [+200 points]‡
 
-‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../../strategic_assets/detachments/#detachment-upgrades_2).
+‡Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](detachments.md#detachment-upgrades_2).
 
 **Special Rules**
 
 [Furious Charge], [Independent], [Ion Shields] (4+), [Nimble]
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades
 
 ---
 
-#### <center>Cerastus Knight Atrapos</center>
+#### Cerastus Knight Atrapos
 
 * **Type:** Knight (4)
 
@@ -197,9 +209,13 @@ In addition, a Cerastus Knight Banner may purchase one of the following upgrades
 
 [Furious Charge], [Independent], [Ion Shield] (3+), [Macro-extinction Targeting Protocols], [Nimble]
 
+</div>
+
 ---
 
-### <center>Acastus Knight Banner [250 Points]</center>
+<div class="unitCard" markdown>
+
+### Acastus Knight Banner [250 Points]
 
 * **Type:** Knight (4)
 * **Detachment Size:** 1
@@ -242,19 +258,23 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 * Questoris Knight Armiger Talon [+180 points]\*
 * Mechanicum Knight Moirax Talon [+200 points]\*
 
-\*Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](../../strategic_assets/detachments/#detachment-upgrades_2).
+\*Each upgrade increases the Detachment size by 3. Models added via these upgrades use the corresponding profiles [on page 211](detachments.md#detachment-upgrades_2).
 
 **Special Rules**
 
 [Blessed Auto-simulacra], [Independent], [Ion Shields] (4+)
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades
 
 ---
 
-#### <center>Questoris Knight Armiger Talon</center>
+#### Questoris Knight Armiger Talon
 
 * **Type:** Knight (4)
 
@@ -278,7 +298,7 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 
 ---
 
-#### <center>Mechanicum Knight Moirax Talon</center>
+#### Mechanicum Knight Moirax Talon
 
 * **Type:** Knight (4)
 
@@ -300,13 +320,15 @@ In addition, an Acastus Knight Banner may purchase one of the following upgrades
 
 [Ionic Flare Shield], [Ion Shields] (5+), [Nimble]
 
+</div>
+
 ---
 
 ## TITAN DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Warhound Hunting Pack [330 Points]</center>
+### Warhound Hunting Pack [330 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -361,9 +383,13 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 
 [Agile], [Void Shields] (2)
 
+</div>
+
 ---
 
-### <center>Dire Wolf Heavy Scout Titan [385 Points]</center>
+<div class="unitCard" markdown>
+
+### Dire Wolf Heavy Scout Titan [385 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -390,9 +416,13 @@ A Warhound Hunting Pack can purchase one of the following upgrades:
 
 [Agile], [Infiltrate], [Void Shields] (2)
 
+</div>
+
 ---
 
-### <center>Reaver Battle Titan [415 Points]</center>
+<div class="unitCard" markdown>
+
+### Reaver Battle Titan [415 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -445,9 +475,13 @@ Reaver Titans also have one weapon chosen from the list below:
 
 [Void Shields] (4)
 
+</div>
+
 ---
 
-### <center>Warbringer Nemesis Titan [525 Points]</center>
+<div class="unitCard" markdown>
+
+### Warbringer Nemesis Titan [525 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -485,9 +519,13 @@ In addition, a Warbringer Nemesis Titan has two weapons chosen from the list bel
 
 [Void Shields] (6)
 
+</div>
+
 ---
 
-### <center>Warlord Battle Titan [600 Points]</center>
+<div class="unitCard" markdown>
+
+### Warlord Battle Titan [600 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -545,9 +583,13 @@ Warlord Battle Titans also have one weapon chosen from the list below:
 
 [Void Shields] (6)
 
+</div>
+
 ---
 
-### <center>Warlord-Sinister Battle Titan [675 Points]</center>
+<div class="unitCard" markdown>
+
+### Warlord-Sinister Battle Titan [675 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -611,9 +653,13 @@ A Warlord-Sinister Battle Titan may exchange its Arioch power claw for one of th
 
 [Dread Aura] (8"), [Loyalist], [Necrotechica], [Void Shields] (6)
 
+</div>
+
 ---
 
-### <center>Warmaster Heavy Battle Titan [750 Points]</center>
+<div class="unitCard" markdown>
+
+### Warmaster Heavy Battle Titan [750 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1
@@ -660,9 +706,13 @@ In addition, a Warmaster Titan has two weapons chosen from the list below – it
 
 [Void Shields] (12)
 
+</div>
+
 ---
 
-### <center>Warmaster Iconoclast Titan [750 Points]</center>
+<div class="unitCard" markdown>
+
+### Warmaster Iconoclast Titan [750 Points]
 
 * **Type:** Titan (5)
 * **Detachment Size:** 1

@@ -30,7 +30,7 @@ If a friendly Walker, Vehicle or Super-heavy Vehicle, or a model with the Automa
 During the Resolve End Phase Effects stage of the End phase, roll a D6 for each Wound a model with the Blessed Auto-simulacra special rule has lost. On a 5+, the model regains a Wound.
 
 ### Bulky
-Models with the Bulky special rule cannot Embark on a Transport unless the specific Transport type allows it (see the Transport (X) rule [on page 96](../../legions_imperialis_rules/special_rules/#transport-x) for more details). In addition, models with the Bulky special rule count as two models for the purposes of determining how many models a Transport can carry.
+Models with the Bulky special rule cannot Embark on a Transport unless the specific Transport type allows it (see the Transport (X) rule [on page 96](../legions_imperialis_rules/special_rules.md#transport-x) for more details). In addition, models with the Bulky special rule count as two models for the purposes of determining how many models a Transport can carry.
 
 ### Commander
 Detachments with the Commander special rule are the commanders of your Army.
@@ -45,7 +45,7 @@ If, for whatever reason, a model with the Commander special rule cannot be assig
 Models with the Compact special rule may Embark upon Transports as if they were an Infantry model with the Bulky special rule (i.e., they count as two models when determining how many models can be Embarked).
 
 ### Deep Strike
-During deployment, if all models within a Detachment have the Deep Strike special rule, then the Detachment can be placed in Reserve instead of being deployed as normal ([see page 102](../../legions_imperialis_rules/fighting_a_battle/#reserves)). Detachments with the Deep Strike special rule in Reserve can only be issued the Advance Order or March Order.
+During deployment, if all models within a Detachment have the Deep Strike special rule, then the Detachment can be placed in Reserve instead of being deployed as normal ([see page 102](../legions_imperialis_rules/fighting_a_battle.md#reserves)). Detachments with the Deep Strike special rule in Reserve can only be issued the Advance Order or March Order.
 
 When a Detachment with the Deep Strike special rule that is in Reserve is activated in any Movement phase other than the first, the controlling player may choose to leave it in Reserve or Deep Strike the Detachment. When a Detachment Deep Strikes, the controlling player places a single model from that Detachment anywhere on the battlefield at least 2" from an enemy model. They then Scatter that model D6". If the model scatters into an area of Impassable terrain or a Structure then that model, and the model's Detachment, is destroyed. If it scatters within 1" of an enemy model, it must be moved the shortest possible distance so it is no longer within 1" of an enemy model.
 
@@ -159,10 +159,10 @@ Infantry models with the Jump Packs special rule can only end their movement on 
 
 A model with the Jump Packs special rule adds 1 to the result of all Fight rolls it makes against models Garrisoned within a Structure while issued with a Charge Order, in addition to any other modifiers.
 
-Models with the Jump Packs special rule count as having the Bulky special rule for the purposes of Embarking on Transports. In addition, they can Disembark from a Transport with the Flyer special rule even if it does not have the Hover special rule, and a Transport with the Hover special rule does not have to Hover for them to do so (see Embarking and Disembarking [on page 97](../../legions_imperialis_rules/special_rules/#embarking-and-disembarking) for more details).
+Models with the Jump Packs special rule count as having the Bulky special rule for the purposes of Embarking on Transports. In addition, they can Disembark from a Transport with the Flyer special rule even if it does not have the Hover special rule, and a Transport with the Hover special rule does not have to Hover for them to do so (see Embarking and Disembarking [on page 97](../legions_imperialis_rules/special_rules.md#embarking-and-disembarking) for more details).
 
 ### Line
-Models with the Line special rule count their Tactical Strength as two greater than it already is (e.g., an Infantry model with the Line special rule will have a Tactical Strength of 7 instead of 5). This is cumulative with other modifiers to Tactical Strength ([see page 103](../../legions_imperialis_rules/fighting_a_battle/#capturing-objective-markers) for more detail).
+Models with the Line special rule count their Tactical Strength as two greater than it already is (e.g., an Infantry model with the Line special rule will have a Tactical Strength of 7 instead of 5). This is cumulative with other modifiers to Tactical Strength ([see page 103](../legions_imperialis_rules/fighting_a_battle.md#capturing-objective-markers) for more detail).
 
 ### Loyalist
 A Detachment with this special rule may only be included within an Army that has the Loyalist Allegiance.
@@ -183,7 +183,7 @@ During the Resolve End Phase Effects stage of the End phase, roll a D6 for each 
 Models with the Nimble special rule suffer no penalties to their Movement when moving through areas of Difficult terrain.
 
 ### Orbital Assault
-When a model with both the Orbital Assault and Drop Pod special rule is deployed on the battlefield via Deep Strike, it may immediately fire with all its weapons, following the rules for Firing [on page 56](../../legions_imperialis_rules/playing_the_game/#firing). If the model in question also has the Transport (X) special rule, it fires before any models Disembark.
+When a model with both the Orbital Assault and Drop Pod special rule is deployed on the battlefield via Deep Strike, it may immediately fire with all its weapons, following the rules for Firing [on page 56](../legions_imperialis_rules/playing_the_game.md#firing). If the model in question also has the Transport (X) special rule, it fires before any models Disembark.
 
 ### Outflank
 Instead of being deployed on the battlefield as normal, if all models in a Detachment have the Outflank special rule, the Detachment may be placed in Reserve. While in Reserve, Detachments with the Outflank special rule can only be issued the Advance Order or March Order.
@@ -207,7 +207,7 @@ During the First Fire stage of the Combat phase, a Detachment with the Skimmer s
 When a Skimmer Detachment makes a Pop-up attack, they remain at their elevated position until the end of the First Fire stage, meaning enemy models can draw line of sight to the Skimmer models as if they were 10" above their starting positions on the battlefield. At the end of the First Fire stage, the Skimmer models descend and line of sight must be drawn to and from them as normal.
 
 ### Steadfast
-A model with the Steadfast special rule counts its Tactical Strength as one higher than normal (e.g., an Infantry model with the Steadfast special rule would have a Tactical Strength of 6). This rule is cumulative with other special rules (i.e., an Iron Warriors Legion Terminator model would have a Tactical Strength of 8 in certain circumstances thanks to the 'The Bitter End' Legion special rule ([see page 156](../../the_legiones_astartes/legiones_astartes_special_rules/#the-ivth-legion-iron-warriors))).
+A model with the Steadfast special rule counts its Tactical Strength as one higher than normal (e.g., an Infantry model with the Steadfast special rule would have a Tactical Strength of 6). This rule is cumulative with other special rules (i.e., an Iron Warriors Legion Terminator model would have a Tactical Strength of 8 in certain circumstances thanks to the 'The Bitter End' Legion special rule ([see page 156](../the_legiones_astartes/legiones_astartes_special_rules.md#the-ivth-legion-iron-warriors))).
 
 ### Tracking Array
 While a model with the Tracking Array special rule is issued with a First Fire Order, all of its weapons gain the Skyfire special rule if they do not already have it.

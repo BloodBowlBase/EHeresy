@@ -16,7 +16,7 @@ Certain Formations and/or Detachments allow a model to be upgraded to a Tank Com
 Where possible, a model upgraded to a Tank Commander should be clearly visible - this can be done through having an officer in the cupola, a small banner, an alternative paint scheme or similar identifiable method.
 
 ### Chain of Command
-Detachments with the Chain of Command special rule can only be issued an Advance Order unless instructed otherwise. If an Independent Unit ([see page 91](../../legions_imperialis_rules/special_rules/#independent)) contains only models without this rule, then that Independent Unit can be issued another Order, even if the larger Detachment can only be issued with the Advance Order.
+Detachments with the Chain of Command special rule can only be issued an Advance Order unless instructed otherwise. If an Independent Unit ([see page 91](../legions_imperialis_rules/special_rules.md#independent)) contains only models without this rule, then that Independent Unit can be issued another Order, even if the larger Detachment can only be issued with the Advance Order.
 
 ### Solar Auxilia HQ (X)
 If a Detachment with the Chain of Command special rule has at least one model wholly within the Command Range of a model with the Solar Auxilia HQ (X) special rule, it can be issued with any Order it would be eligible to be issued (i.e., First Fire Order, Charge Order, March Order or Advance Order), instead of just an Advance Order. A model's 'Command Range' is a number of inches equal to the value in brackets noted as part of this special rule. This special rule does not allow a Broken Detachment to be issued an Order other than the Advance Order or Charge Order.

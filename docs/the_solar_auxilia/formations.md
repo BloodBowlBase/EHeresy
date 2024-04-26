@@ -4,35 +4,35 @@
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_solar_auxilia/compulsory_support.jpg)](../detachments/#support-detachments) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) 
+[![](../media/the_solar_auxilia/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../media/the_solar_auxilia/compulsory_support.jpg)](detachments.md#support-detachments) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) ![](../media/the_solar_auxilia/compulsory_auxilia_lasrifle.jpg) 
 
 **OPTIONAL DETACHMENTS**
 
-[![](../media/the_solar_auxilia/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_solar_auxilia/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_solar_auxilia/optional_transport.jpg)](../detachments/#transport-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](../detachments/#core-detachments) 
+[![](../media/the_solar_auxilia/optional_transport.jpg)](detachments.md#transport-detachments) [![](../media/the_solar_auxilia/optional_transport.jpg)](detachments.md#transport-detachments) [![](../media/the_solar_auxilia/optional_transport.jpg)](detachments.md#transport-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](detachments.md#core-detachments) 
 
 One of the following:
 
-![](../media/the_solar_auxilia/optional_light_armour.jpg) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments)
+![](../media/the_solar_auxilia/optional_light_armour.jpg) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments)
 
 One of the following:
 
-[![](../media/the_solar_auxilia/optional_artillery.jpg)](../detachments/#artillery-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
+[![](../media/the_solar_auxilia/optional_artillery.jpg)](detachments.md#artillery-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments) 
 
 ## Solar Auxilia Armoured Company
 
-**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] ([see page 178](../../the_solar_auxilia/#tank-commander)).
+**Tank Commander**: One Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] ([see page 178](index.md#tank-commander)).
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) 
+[![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) 
 
 **OPTIONAL DETACHMENTS**
 
-[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) 
+[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) 
 
 One of the following:
 
-[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_artillery.jpg)](../detachments/#artillery-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
+[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_artillery.jpg)](detachments.md#artillery-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments) 
 
 ## Solar Auxilia Pioneer Company
 
@@ -40,15 +40,15 @@ One of the following:
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_solar_auxilia/compulsory_bastion.jpg)](../detachments/#bastion-detachments) ![](../media/the_solar_auxilia/compulsory_storm_section.jpg) [![](../media/the_solar_auxilia/compulsory_bastion.jpg)](../detachments/#bastion-detachments) 
+[![](../media/the_solar_auxilia/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../media/the_solar_auxilia/compulsory_bastion.jpg)](detachments.md#bastion-detachments) ![](../media/the_solar_auxilia/compulsory_storm_section.jpg) [![](../media/the_solar_auxilia/compulsory_bastion.jpg)](detachments.md#bastion-detachments) 
 
 **OPTIONAL DETACHMENTS**
 
-[![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments) 
+[![](../media/the_solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](detachments.md#core-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments) 
 
 One of the following:
 
-[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](../detachments/#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_artillery.jpg)](../detachments/#artillery-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) 
+[![](../media/the_solar_auxilia/optional_battle_tank.jpg)](detachments.md#battle-tank-detachments) [![](../media/the_solar_auxilia/optional_artillery.jpg)](detachments.md#artillery-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments) 
 
 
 ## Solar Auxilia Artillery Company
@@ -57,11 +57,11 @@ One of the following:
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_solar_auxilia/compulsory_artillery.jpg)](../detachments/#artillery-detachments) [![](../media/the_solar_auxilia/compulsory_artillery.jpg)](../detachments/#artillery-detachments) [![](../media/the_solar_auxilia/compulsory_artillery.jpg)](../detachments/#artillery-detachments)
+[![](../media/the_solar_auxilia/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../media/the_solar_auxilia/compulsory_artillery.jpg)](detachments.md#artillery-detachments) [![](../media/the_solar_auxilia/compulsory_artillery.jpg)](detachments.md#artillery-detachments) [![](../media/the_solar_auxilia/compulsory_artillery.jpg)](detachments.md#artillery-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_bastion.jpg)](../detachments/#bastion-detachments) [![](../media/the_solar_auxilia/optional_bastion.jpg)](../detachments/#bastion-detachments) 
+[![](../media/the_solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](detachments.md#support-detachments) [![](../media/the_solar_auxilia/optional_bastion.jpg)](detachments.md#bastion-detachments) [![](../media/the_solar_auxilia/optional_bastion.jpg)](detachments.md#bastion-detachments) 
 
 ## Solar Auxilia Mechanised Infantry Sub-Cohort
 
@@ -69,22 +69,22 @@ One of the following:
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_hq.jpg)](../detachments/#hq-detachments) [![](../media/the_solar_auxilia/compulsory_support.jpg)](../detachments/#support-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](../detachments/#core-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](../detachments/#core-detachments)
+[![](../media/the_solar_auxilia/compulsory_hq.jpg)](detachments.md#hq-detachments) [![](../media/the_solar_auxilia/compulsory_support.jpg)](detachments.md#support-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](detachments.md#core-detachments) [![](../media/the_solar_auxilia/optional_core.jpg)](detachments.md#core-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](../detachments/#vanguard-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](../detachments/#air-support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](../detachments/#support-detachments)
+[![](../media/the_solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../media/the_solar_auxilia/optional_vanguard.jpg)](detachments.md#vanguard-detachments) [![](../media/the_solar_auxilia/optional_air_support.jpg)](detachments.md#air-support-detachments) [![](../media/the_solar_auxilia/optional_support.jpg)](detachments.md#support-detachments)
 
 ## Solar Auxilia Super-Heavy Company
 
-**Tank Commander:** One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] ([see page 178](../../the_solar_auxilia/#tank-commander)).
+**Tank Commander:** One Super-heavy Vehicle model from a Compulsory Detachment must be upgraded to a Tank Commander for [+10 points] ([see page 178](index.md#tank-commander)).
 
 **Mobile Fortifications:** While two or more models from this Formation are within range of the same Objective marker, increase the Tactical Strength of each model from this Formation that is within range of that Objective marker by 1 when determining which player captures that Objective marker.
 
 **COMPULSORY DETACHMENTS** 
 
-[![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](../detachments/#heavy-armour-detachments)
+[![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../media/the_solar_auxilia/compulsory_heavy_armour.jpg)](detachments.md#heavy-armour-detachments)
 
 **OPTIONAL DETACHMENTS**
 
-[![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) [![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](../detachments/#heavy-armour-detachments) 
+[![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) [![](../media/the_solar_auxilia/optional_heavy_armour.jpg)](detachments.md#heavy-armour-detachments) 

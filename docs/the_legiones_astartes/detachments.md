@@ -1,8 +1,8 @@
 ## HQ DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Command [25 Points]</center>
+### Legion Command [25 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 1
@@ -23,13 +23,15 @@
 
 [Commander], [Inspire] (8"), [Invulnerable Save] (6+), [Master Tactician], [Medicae]
 
+</div>
+
 ---
 
 ## TRANSPORT DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Rhino Detachment [10 Points per Rhino]</center>
+### Legion Rhino Detachment [10 Points per Rhino]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
@@ -59,9 +61,13 @@ A Rhino may exchange its Pintle Mounted twin-linked bolter for one of the follow
 
 [Transport] (2)
 
+</div>
+
 ---
 
-### <center>Legion Spartan Detachment [80 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Spartan Detachment [80 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
@@ -96,9 +102,13 @@ Any Spartan may be equipped with one of the following:
 [Assault Transport] (5)
 
 
+</div>
+
 ---
 
-### <center>Legion Land Raider Detachment [40 Points per model]</center>
+<div class="unitCard" markdown>
+
+### Legion Land Raider Detachment [40 Points per model]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
@@ -125,9 +135,13 @@ For every three Land Raiders in the Detachment, one Land Raider can be equipped 
 [Forward Deployment], [Assault Transport] (2)
 
 
+</div>
+
 ---
 
-### <center>Legion Drop Pod Detachment [6 Points per Model]</center>
+<div class="unitCard" markdown>
+
+### Legion Drop Pod Detachment [6 Points per Model]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
@@ -152,9 +166,13 @@ A Legion Drop Pod Detachment can purchase one Palisade Drop Pod for each Drop Po
 
 [Drop Pod], [Transport] (2)
 
+</div>
+
 ---
 
-### <center>Dreadnought Drop Pod Detachment [7 Points per Model]</center>
+<div class="unitCard" markdown>
+
+### Dreadnought Drop Pod Detachment [7 Points per Model]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
@@ -175,13 +193,17 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 
 [Drop Pod], [Large Transport] (2)
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades
 
 ---
 
-#### <center>Legion Palisade Drop Pod</center>
+#### Legion Palisade Drop Pod
 
 | Name                 | Movement | Sv | CAF | Morale | W |
 | -------------------- | :------: | :--: | :-: | :----: | :--: |
@@ -195,13 +217,15 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 
 [Drop Pod], [Shield Generator] (5+)
 
+</div>
+
 ---
 
 ## CORE DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Tactical Detachment [35 Points]</center>
+### Legion Tactical Detachment [35 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -237,13 +261,17 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 
 ‡*Models added via this upgrade use the respective profiles on the following page.*
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades
 
 ---
 
-#### <center>Legion Terminators</center>
+#### Legion Terminators
 
 * **Type:** Infantry (1)
 
@@ -265,7 +293,7 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 
 ---
 
-#### <center>Assault Marines</center>
+#### Assault Marines
 
 * **Type:** Infantry (1)
 
@@ -285,13 +313,15 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 
 [Independent], [Jump Packs]
 
+</div>
+
 ---
 
 ## SUPPORT DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Plasma Gun Support Detachment [35 Points]</center>
+### Legion Plasma Gun Support Detachment [35 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -315,9 +345,13 @@ A Legion Plasma Gun Support Detachment can purchase one of the following upgrade
 * **Increase the Detachment size by 2** [+15 points]
 * **Increase the Detachment size by 4** [+30 points]
 
+</div>
+
 ---
 
-### <center>Legion Missile Launcher Support Detachment [40 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Missile Launcher Support Detachment [40 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -342,9 +376,13 @@ A Legion Missile Launcher Support Detachment can purchase one of the following u
 * **Increase the Detachment size by 2** [+15 points]
 * **Increase the Detachment size by 4** [+30 points]
 
+</div>
+
 ---
 
-### <center>Legion Assault Detachment [30 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Assault Detachment [30 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -372,9 +410,13 @@ A Legion Assault Detachment can purchase one of the following upgrades:
 
 [Jump Packs]
 
+</div>
+
 ---
 
-### <center>Legion Terminator Detachment [50 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Terminator Detachment [50 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -402,9 +444,13 @@ A Legion Terminator Detachment can purchase one of the following upgrades:
 
 [Bulky], [Deep Strike], [Implacable], [Invulnerable Save] (6+), [Steadfast]
 
+</div>
+
 ---
 
-### <center>Legion Rapier Battery Detachment [40 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Rapier Battery Detachment [40 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 2
@@ -435,9 +481,13 @@ A Legion Rapier Battery Detachment can purchase one of the following upgrades:
 
 [Bulky]
 
+</div>
+
 ---
 
-### <center>Leviathan Siege Dreadnought Detachment [75 Points]</center>
+<div class="unitCard" markdown>
+
+### Leviathan Siege Dreadnought Detachment [75 Points]
 
 * **Type:** Walker (1)
 * **Detachment Size:** 4
@@ -470,9 +520,13 @@ A Leviathan Siege Dreadnought Detachment can purchase one of the following upgra
 
 [Armoured], [Invulnerable Save] (5+)
 
+</div>
+
 ---
 
-### <center>Legion Dreadnought Talon [70 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Dreadnought Talon [70 Points]
 
 * **Type:** Walker (1)
 * **Detachment Size:** 4
@@ -505,7 +559,11 @@ A Legion Dreadnought Talon can purchase up to three upgrades chosen from the lis
 
 [Armoured], [Invulnerable Save] (6+)
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Legion Deathstorm Drop Pod Battery [32 Points]
 
@@ -531,13 +589,17 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 - **Increase the Detachment size by** 2 [+32 points]
 - **Increase the Detachment size by** 4 [+64 points]
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades
 
 ---
 
-#### <center>Leviathan Siege Dreadnought</center>
+#### Leviathan Siege Dreadnought
 
 * **Type:** Walker (1)
 
@@ -562,13 +624,15 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 
 [Armoured], [Invulnerable Save] (5+)
 
+</div>
+
 ---
 
 ## BASTION DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Tarantula Battery [36 Points]</center>
+### Legion Tarantula Battery [36 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -597,9 +661,13 @@ A Legion Tarantula Battery can purchase one of the following upgrades:
 
 [Automated Sentry]
 
+</div>
+
 ---
 
-### <center>Legion Deredeo Dreadnought Detachment [85 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Deredeo Dreadnought Detachment [85 Points]
 
 * **Type:** Walker (1)
 * **Detachment Size:** 4
@@ -632,13 +700,15 @@ A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrad
 
 [Armoured], [Invulnerable Save] (5+), [Tracking Array]
 
+</div>
+
 ---
 
 ## BATTLE TANK DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Predator Squadron [115 Points]</center>
+### Legion Predator Squadron [115 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 3
@@ -667,9 +737,13 @@ A Legion Predator Detachment can purchase any of the following upgrades. It may 
 * **Increase the Detachment size by 3** [+95 points]
 * **Increase the Detachment size by 6** [+185 points]
 
+</div>
+
 ---
 
-### <center>Legion Sicaran Squadron [105 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Sicaran Squadron [105 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
@@ -700,13 +774,15 @@ A Legion Sicaran Squadron can purchase any of the following upgrades. It may pur
 * **Increase the Detachment size by 2** [+70 points]
 * **Increase the Detachment size by 4** [+140 points]
 
+</div>
+
 ---
 
 ## HEAVY ARMOUR DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Kratos Squadron [150 Points]</center>
+### Legion Kratos Squadron [150 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
@@ -741,13 +817,15 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * **Increase the Detachment size by 2** [+110 points]
 * **Increase the Detachment size by 4** [+200 points]
 
+</div>
+
 ---
 
 ## AIR SUPPORT DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Xiphon Interceptor Squadron [95 Points]</center>
+### Legion Xiphon Interceptor Squadron [95 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -778,9 +856,13 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 
 [Flyer], [Interceptor], [Jink] (5+)
 
+</div>
+
 ---
 
-### <center>Legion Storm Eagle Squadron [100 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Storm Eagle Squadron [100 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -813,9 +895,13 @@ A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 
 [Assault Transport] (5), [Flyer], [Hover], [Jink] (5+)
 
+</div>
+
 ---
 
-### <center>Legion Fire Raptor Squadron [100 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Fire Raptor Squadron [100 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -849,9 +935,13 @@ A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 
 [Flyer], [Hover], [Jink] (5+)
 
+</div>
+
 ---
 
-### <center>Legion Thunderhawk Gunship [150 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Thunderhawk Gunship [150 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
@@ -885,13 +975,15 @@ A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 
 [Flyer], [Hover], [Jink] (5+), [Large Assault Transport] (8)
 
+</div>
+
 ---
 
 ## VANGUARD DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Legion Outrider Squadron [3 Points]</center>
+### Legion Outrider Squadron [3 Points]
 
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
@@ -921,9 +1013,13 @@ A Legion Outrider Squadron can purchase one of the following upgrades:
 
 [Jink] (6+)
 
+</div>
+
 ---
 
-### <center>Legion Scimitar Jetbike Squadron [35 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Scimitar Jetbike Squadron [35 Points]
 
 * **Type:** Cavalry (1)
 * **Detachment Size:** 3
@@ -951,9 +1047,13 @@ A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 
 [Jink] (6+), [Skimmer]
 
+</div>
+
 ---
 
-### <center>Legion Land Speeder Squadron [30 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Land Speeder Squadron [30 Points]
 
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
@@ -989,9 +1089,13 @@ A Legion Land Speeder Squadron can purchase one of the following upgrades:
 
 [Jink] (6+), [Skimmer]
 
+</div>
+
 ---
 
-### <center>Legion Javelin Squadron [33 Points]</center>
+<div class="unitCard" markdown>
+
+### Legion Javelin Squadron [33 Points]
 
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
@@ -1024,3 +1128,5 @@ A Legion Javelin Squadron can purchase one of the following upgrades:
 **Special Rules**
 
 [Jink] (6+), [Skimmer]
+
+</div>

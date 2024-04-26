@@ -8,7 +8,7 @@ Regardless of the style of game being played, all Legions Imperialis battles hav
 
 Every battle that is fought has objectives, whether that is as simple as destroying your opponent's Army to more complex goals, such as capturing key locations or retrieving and escaping with vital information.
 
-These objectives are determined by a Mission. A Mission describes how and where on the table players set up their armies and how victory can be achieved. If relevant, it will also include any special rules which apply to the battle and any restrictions on Army building. For more detail on Missions, [see page 104](../../legions_imperialis_rules/missions/).
+These objectives are determined by a Mission. A Mission describes how and where on the table players set up their armies and how victory can be achieved. If relevant, it will also include any special rules which apply to the battle and any restrictions on Army building. For more detail on Missions, [see page 104](../legions_imperialis_rules/missions.md).
 
 ### The Battlefield
 
@@ -28,7 +28,7 @@ There are a variety of ways that terrain can be deployed on the battlefield:
 
 * Players can collaborate, placing various areas of terrain from those available to them to create an interesting battlefield.
 
-* One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield ([see page 101](../../legions_imperialis_rules/fighting_a_battle/#the-battlefield_1)), the player who did not set up the terrain automatically gains control of it.
+* One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield ([see page 101](../legions_imperialis_rules/fighting_a_battle.md#the-battlefield_1)), the player who did not set up the terrain automatically gains control of it.
 
 Regardless of the method used, terrain should encourage tactical decisions and movement amongst armies. The addition of a cluster of Structures along with a few areas of Obstructing terrain and/or other line of sight blocking terrain will greatly influence the flow of battle, restricting avenues of movement and providing tactical advantages and disadvantages to Detachments. The hobby section of this book includes a few examples of Legions Imperialis battlefields to inspire you. 
 
@@ -40,7 +40,7 @@ A battle fought using the Matched Play rules is generally fought between two sid
 
 The most common points value of an Army in Legions Imperialis is 3,000 points, and the rules have been written with this in mind. However, the rules are designed so points values can be scaled up or down, meaning players are free to determine the points value between them. The higher the points value of the armies, the longer a game will take. Battlefield size may also have to be adjusted; for games of 2,500 points or fewer, a 4' x 4' table is recommended, while a larger table might be required for higher points totals, such as a 6' x 4' table for games of more than 3,500 points. 
 
-If one side includes more players than the other, then the total points value of both sides should be equal, meaning the side with more players will have fewer points to spend on each individual player's armies. Once a points value has been determined, each player musters their Army as described [on page 126](../../legions_imperialis_rules/mustering_an_army/).
+If one side includes more players than the other, then the total points value of both sides should be equal, meaning the side with more players will have fewer points to spend on each individual player's armies. Once a points value has been determined, each player musters their Army as described [on page 126](../legions_imperialis_rules/mustering_an_army.md).
 
 ### Open Play and Narrative Play
 
@@ -70,13 +70,13 @@ Alternatively, players can simply choose a Mission from the table, so long as al
 | 6 | Devastation | Point Assault |
 
 
-Descriptions of each Mission, along with deployment maps, can be found [on page 104](../../legions_imperialis_rules/missions/).
+Descriptions of each Mission, along with deployment maps, can be found [on page 104](../legions_imperialis_rules/missions.md).
 
 ### The Battlefield
 
 #### Deployment Map
 
-Once a Mission has been determined, the battlefield is set up; terrain is deployed as described [on page 99](../../legions_imperialis_rules/fighting_a_battle/#battlefield-terrain). The Missions presented in this book assume a battlefield size of 5' x 4', and all deployment maps are written with this in mind. However, players are free to agree amongst themselves the battlefield size, adjusting deployment zones and Objective marker placement as needed.
+Once a Mission has been determined, the battlefield is set up; terrain is deployed as described [on page 99](../legions_imperialis_rules/fighting_a_battle.md#battlefield-terrain). The Missions presented in this book assume a battlefield size of 5' x 4', and all deployment maps are written with this in mind. However, players are free to agree amongst themselves the battlefield size, adjusting deployment zones and Objective marker placement as needed.
 
 Players must then determine who has 'control of the battlefield'. To do this, both players roll off once terrain has been set up, with the winner of the roll-off choosing which player has control of the battlefield. The player with control of the battlefield chooses a deployment zone, with the other deployment zone going to the opposing player.
 

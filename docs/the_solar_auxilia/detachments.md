@@ -1,8 +1,8 @@
 ##  HQ DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Legate Commander Detachment [16 Points]</center>
+### Legate Commander Detachment [16 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 1
@@ -25,9 +25,13 @@
 
 [Commander], [Inspire] (8"), [Invulnerable Save] (6+), [Master Tactician], [Solar Auxilia HQ] (10")
 
+</div>
+
 ---
 
-### <center>Auxilia Tactical Command Detachment [10 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Tactical Command Detachment [10 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 1
@@ -48,13 +52,15 @@
 
 [Commander], [Inspire] (8"), [Solar Auxilia HQ] (6")
 
+</div>
+
 ---
 
 ##  CORE DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Lasrifle Tercio [30 Points]</center>
+### Auxilia Lasrifle Tercio [30 Points]
 
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
@@ -89,13 +95,17 @@ An Auxilia Lasrifle Tercio can purchase up to six upgrades chosen from the list 
 
 [Chain of Command], [Line]
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Detachment Upgrades 
 
 ---
 
-#### <center>Veletarii</center>
+#### Veletarii
 
 * **Type:** Infantry (1)
 
@@ -119,7 +129,7 @@ An Auxilia Lasrifle Tercio can purchase up to six upgrades chosen from the list 
 
 ---
 
-#### <center>Charonite Ogryns</center>
+#### Charonite Ogryns
 
 * **Type:** Infantry (1)
 
@@ -139,13 +149,15 @@ An Auxilia Lasrifle Tercio can purchase up to six upgrades chosen from the list 
 
 [Furious Charge], [Independent]
 
+</div>
+
 ---
 
 ##  SUPPORT DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Ogryn Charonite Section [50 Points]</center>
+### Auxilia Ogryn Charonite Section [50 Points]
 
 * **Type:** Infantry (1) 
 * **Detachment Size:** 4
@@ -173,9 +185,13 @@ An Auxilia Ogryn Charonite Section can purchase one of the following upgrades:
 
 [Furious Charge]
 
+</div>
+
 ---
 
-### <center>Auxilia Veletaris Storm Section [40 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Veletaris Storm Section [40 Points]
 
 * **Type:** Infantry (1) 
 * **Detachment Size:** 4
@@ -205,9 +221,13 @@ A Veletaris Storm Section can purchase one of the following upgrades:
 
 [Steadfast]
 
+</div>
+
 ---
 
-### <center>Auxilia Cyclops Battery [40 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Cyclops Battery [40 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 2
@@ -236,13 +256,15 @@ An Auxilia Cyclops Battery can purchase one of the following upgrades:
 
 [Compact], [Remote Controlled Detonation]
 
+</div>
+
 ---
 
 ## BASTION DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Rapier Battery [50 Points]</center>
+### Auxilia Rapier Battery [50 Points]
 
 * **Type:** Infantry (1) 
 * **Detachment Size:** 3
@@ -273,9 +295,13 @@ An Auxilia Rapier Battery can purchase one of the following upgrades:
 
 [Bulky], [Chain of Command]
 
+</div>
+
 ---
 
-### <center>Auxilia Tarantula Battery [36 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Tarantula Battery [36 Points]
 
 * **Type:** Infantry (1) 
 * **Detachment Size:** 4
@@ -304,13 +330,15 @@ An Auxilia Tarantula Battery can purchase one of the following upgrades:
 
 [Automated Sentry]
 
+</div>
+
 ---
 
 ##  VANGUARD DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Aethon Heavy Sentinel Patrol [35 Points]</center>
+### Auxilia Aethon Heavy Sentinel Patrol [35 Points]
 
 * **Type:** Walker (1) 
 * **Detachment Size:** 2
@@ -342,13 +370,15 @@ An Auxilia Aethon Heavy Sentinel Patrol can purchase one of the following upgrad
 
 [Forward Deployment]
 
+</div>
+
 ---
 
 ## BATTLE TANK DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Leman Russ Strike Squadron [175 Points]</center>
+### Leman Russ Strike Squadron [175 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 4
@@ -381,9 +411,13 @@ A Leman Russ Strike Squadron can purchase one of the following upgrades:
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
 
-### <center>Malcador Tank Squadron [165 Points]</center>
+<div class="unitCard" markdown>
+
+### Malcador Tank Squadron [165 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 2
@@ -423,9 +457,13 @@ A Malcador Tank Squadron can purchase any of the following upgrades. It may purc
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
 
-### <center>Auxilia Malcador Infernus Squadron [70 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Malcador Infernus Squadron [70 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 1
@@ -456,9 +494,13 @@ An Auxilia Malcador Infernus Squadron can purchase one of the following upgrades
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
 
-### <center>Auxilia Valdor Squadron [70 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Valdor Squadron [70 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 1
@@ -491,13 +533,15 @@ An Auxilia Valdor Squadron can purchase one of the following upgrades:
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
 
 ## HEAVY ARMOUR DETACHMENTS
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Super-heavy Tank Squadron [100 Points]</center>
+### Auxilia Super-heavy Tank Squadron [100 Points]
 
 * **Type:** Super-heavy Vehicle (3) 
 * **Detachment Size:** 1
@@ -538,9 +582,13 @@ An Auxilia Super-heavy Tank Squadron can purchase any of the following upgrades.
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
 
-### <center>Auxilia Stormhammer Squadron [100 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Stormhammer Squadron [100 Points]
 
 * **Type:** Super-heavy Vehicle (3) 
 * **Detachment Size:** 1
@@ -578,13 +626,15 @@ Any Stormhammer may exchange its Stormhammer multi-laser sponsons for Stormhamme
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
 
 ##  AIR SUPPORT DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Thunderbolt Squadron [80 Points]</center>
+### Auxilia Thunderbolt Squadron [80 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 1
@@ -622,9 +672,13 @@ An Auxilia Thunderbolt Squadron can purchase one of the following upgrades:
 
 [Flyer], [Interceptor], [Jink] (5+)
 
+</div>
+
 ---
 
-### <center>Auxilia Avenger Strike Fighter Squadron [85 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Avenger Strike Fighter Squadron [85 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 1
@@ -662,9 +716,13 @@ An Auxilia Avenger Strike Fighter Squadron can purchase one of the following upg
 
 [Flyer], [Interceptor], [Jink] (5+)
 
+</div>
+
 ---
 
-### <center>Auxilia Lightning Fighter Squadron [85 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Lightning Fighter Squadron [85 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 1
@@ -700,9 +758,13 @@ An Auxilia Lightning Fighter Squadron can purchase one of the following upgrades
 
 [Flyer], [Interceptor], [Jink] (5+)
 
+</div>
+
 ---
 
-### <center>Auxilia Marauder Bomber Squadron [85 Points]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Marauder Bomber Squadron [85 Points]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** 1
@@ -747,13 +809,17 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 [Flyer], [Jink] (5+)
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ###  Detachment Upgrades 
 
 ---
 
-#### <center>Auxilia Marauder Pathfinder</center>
+#### Auxilia Marauder Pathfinder
 
 * **Type:** Vehicle (2)
 
@@ -767,7 +833,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Rear Mounted heavy bolter
 * Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
   
-\* A model can take multiples of the same option. [See page 195](../../the_solar_auxilia/detachments/#auxilia-marauder-bomber-squadron-85-points) for these options.
+\* A model can take multiples of the same option. [See page 195](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
 
 | Weapon                         |  Range  | Dice | To Hit |  AP  | Traits                                |
 | ------------------------------ |:-------:|:----:|:------:|:----:|---------------------------------------|
@@ -780,7 +846,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 ---
 
-#### <center>Auxilia Marauder Colossus</center>
+#### Auxilia Marauder Colossus
 
 * **Type:** Vehicle (2)
 
@@ -795,7 +861,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Colossus bomb
 * Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
   
-\* A model can take multiples of the same option. [See page 195](../../the_solar_auxilia/detachments/#auxilia-marauder-bomber-squadron-85-points) for these options.
+\* A model can take multiples of the same option. [See page 195](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
 
 | Weapon                        |  Range  | Dice | To Hit |  AP  | Traits                                |
 | ----------------------------- |:-------:|:----:|:------:|:----:|---------------------------------------|
@@ -809,7 +875,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 ---
 
-#### <center>Auxilia Marauder Destroyer</center>
+#### Auxilia Marauder Destroyer
 
 * **Type:** Vehicle (2)
 
@@ -825,7 +891,7 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 * Destroyer bomb bay
 * Any two of the following: Hellstrike missiles, Skystrike missiles, and wing bombs\*
 
-\* A model can take multiples of the same option. [See page 195](../../the_solar_auxilia/detachments/#auxilia-marauder-bomber-squadron-85-points) for these options.
+\* A model can take multiples of the same option. [See page 195](detachments.md#auxilia-marauder-bomber-squadron-85-points) for these options.
 
 | Weapon                        |  Range  | Dice | To Hit |  AP  | Traits                                |
 | ----------------------------- |:-------:|:----:|:------:|:----:|---------------------------------------|
@@ -838,13 +904,15 @@ An Auxilia Marauder Squadron can purchase one of the following upgrades:
 
 [Flyer], [Jink] (5+)
 
+</div>
+
 ---
 
 ## TRANSPORT DETACHMENTS 
 
----
+<div class="unitCard" markdown>
 
-### <center>Auxilia Arvus Lighter [12 Points Per Model]</center>
+### Auxilia Arvus Lighter [12 Points Per Model]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
@@ -861,9 +929,13 @@ None
 
 [Flyer], [Hover], [Jink] (6+), [Transport] (2)
 
+</div>
+
 ---
 
-### <center>Auxilia Dracosan Detachment [37 Points per Model]</center>
+<div class="unitCard" markdown>
+
+### Auxilia Dracosan Detachment [37 Points per Model]
 
 * **Type:** Vehicle (2) 
 * **Detachment Size:** Variable
@@ -891,12 +963,15 @@ Any Dracosan may exchange its Hull Mounted twin lascannon for a Hull Mounted dem
 
 [Explorator Adaptation], [Transport] (4)
 
-
-## ARTILLERY DETACHMENTS
+</div>
 
 ---
 
-### <center>Auxilia Medusa Battery [130 Points]</center>
+## ARTILLERY DETACHMENTS
+
+<div class="unitCard" markdown>
+
+### Auxilia Medusa Battery [130 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 4
@@ -926,7 +1001,7 @@ An Auxilia Medusa Battery can purchase one of the following upgrades:
 
 --- 
 
-### <center>Auxilia Basilisk Battery [130 Points]</center>
+### Auxilia Basilisk Battery [130 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 4
@@ -954,4 +1029,4 @@ An Auxilia Basilisk Battery can purchase one of the following upgrades:
 
 [Chain of Command], [Explorator Adaptation]
 
-
+</div>
