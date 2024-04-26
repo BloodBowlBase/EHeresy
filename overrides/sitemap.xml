@@ -48,11 +48,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://epicheresy.ru/reference_sheets/detachment_reference/</loc>
-  <lastmod>2024-03-14T12:58:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://epicheresy.ru/legions_imperialis_rules/core_principles/</loc>
   <lastmod>2024-03-14T12:58:10+00:00</lastmod>
   <priority>0.80</priority>
@@ -182,11 +177,5 @@
   <lastmod>2024-03-14T12:58:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://epicheresy.ru/reference_sheets/weapon_profiles/</loc>
-  <lastmod>2024-03-14T12:58:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>

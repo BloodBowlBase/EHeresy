@@ -65,7 +65,4 @@ nav:
       - 'Strategic Assets': 'strategic_assets/index.md'
       - 'Formations': 'strategic_assets/formations.md'
       - 'Detachments': 'strategic_assets/detachments.md'
-  - 'Reference Sheets': 
-      - 'Detachment Reference': 'reference_sheets/detachment_reference.md'
-      - 'Weapon Profiles': 'reference_sheets/weapon_profiles.md'
  
