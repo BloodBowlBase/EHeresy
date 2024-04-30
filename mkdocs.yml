@@ -26,6 +26,8 @@ markdown_extensions:
         - includes/tooltip_special_rules.md
         - includes/tooltip_weapon_traits.md
 nav:
+  - 'Quick Start Guide':  
+      - 'Quick Start Guide': 'quick_start_guide/index.md'
   - 'Legions Imperialis Rules':
       - 'The Rules': 'legions_imperialis_rules/the_rules.md'
       - 'Core Principles': 'legions_imperialis_rules/core_principles.md'
