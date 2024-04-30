@@ -997,7 +997,7 @@ A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 
 | Weapon              | Range | Dice | To Hit | AP | Traits                                                      |
 | ------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------------------- |
-| Twin-linked bolters |  8"  |  1  |   5+   | 0 | [Assault], [Light], [Vanguard Detachments], [Point Defence] |
+| Twin-linked bolters |  8"  |  1  |   5+   | 0 | [Assault], [Light], [Point Defence] |
 | Twin plasma guns    |  10"  |  1  |   4+   | -1 | [Light AT]                                                  |
 
 **Upgrades**
