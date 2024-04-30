@@ -981,7 +981,7 @@ A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 
 <div class="unitCard" markdown>
 
-### Legion Outrider Squadron [3 Points]
+### Legion Outrider Squadron [30 Points]
 
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
