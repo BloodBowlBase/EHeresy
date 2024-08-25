@@ -28,6 +28,7 @@ markdown_extensions:
 nav:
   - 'Quick Start Guide':  
       - 'Quick Start Guide': 'quick_start_guide/index.md'
+      - 'Reference Sheet': 'quick_start_guide/reference_sheet.md'
   - 'Legions Imperialis Rules':
       - 'The Rules': 'legions_imperialis_rules/the_rules.md'
       - 'Core Principles': 'legions_imperialis_rules/core_principles.md'
