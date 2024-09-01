@@ -58,13 +58,13 @@ Compulsory slots are slots that must be filled with the appropriate Detachment f
 
 Each slot represents either a specific Detachment, such as a Legion Tactical Detachment, or a Detachment Role, such as 'Core Detachments'. Where a specific Detachment is listed, the slot must be filled with that Detachment. In the case of a Detachment Role, any Detachment from that Role can fill the slot; each datasheet has an icon which represents the relevant Detachment's Role, which informs which Detachments can be taken in which slots ([see page 128](../legions_imperialis_rules/mustering_an_army.md#formations-detachments) for more details on Detachment Roles). A Formation's slots can only be filled by Detachments drawn from the same Army List as the Formation unless instructed otherwise.
 
-Some slots may offer choices, such as '*Choose one Detachment from the following*:', listing either multiple specific Detachments or Detachment Roles. Where this is the case, the slot may be filled with any Detachment from the list or from the listed Detachment Roles. Additionally, some Formation Organisation charts might allow multiple slots to be filled with a choice of Detachments or Detachment Roles, such as '*Choose a maximum of* *three Detachments from the following:*'. Where this is the case, the slots may be filled with any combination of the listed Detachments or Detachment Roles, up to the maximum allowed. 
+Some slots may offer choices, such as '*Choose one Detachment from the following*:', listing either multiple specific Detachments or Detachment Roles. Where this is the case, the slot may be filled with any Detachment from the list or from the listed Detachment Roles. Additionally, some Formation Organisation charts might allow multiple slots to be filled with a choice of Detachments or Detachment Roles, such as '*Choose a maximum of* *three Detachments from the following:*'. Where this is the case, the slots may be filled with any combination of the listed Detachments or Detachment Roles, up to the maximum allowed.
 
 #### Formations & Detachments
 
 Detachments are tactical groupings of models, forming the primary fighting units on the battlefield. All models in a Detachment must maintain Coherency and are activated at the same time, moving and attacking as a distinct group.
 
-All Armies will include a number of Detachment Roles, shown in the list that follows. A Detachment's Role will be denoted by the appropriate symbol in the Detachment's entry. Each Role represents a distinct type of asset available to an Army. Future supplements will add new Detachments to expand each Role, allowing you to field a variety of Detachments in various Roles. 
+All Armies will include a number of Detachment Roles, shown in the list that follows. A Detachment's Role will be denoted by the appropriate symbol in the Detachment's entry. Each Role represents a distinct type of asset available to an Army. Future supplements will add new Detachments to expand each Role, allowing you to field a variety of Detachments in various Roles.
 
 ![](../media/legions_imperialis_rules/detachment_hq.jpg) **HQ Detachments:** These are the leaders and generals of any army. Often few in number and with limited strategic weaponry, they rely on keen tactical acumen and special abilities to affect the flow of battle.
 
@@ -74,7 +74,7 @@ All Armies will include a number of Detachment Roles, shown in the list that fol
 
 ![](../media/legions_imperialis_rules/detachment_bastion.jpg) **Bastion Detachments:** Bastion Detachments include static weapon platforms, gun emplacements and units typically utilised in garrison forces. Designed to lock down portions of a battlefield with heavy firepower, they are often difficult to deploy in a timely manner.
 
-![](../media/legions_imperialis_rules/detachment_vanguard.jpg) **Vanguard Detachments:** Vanguard Detachments represent the forward elements of an army, who strike fast and without mercy. Some are trained to range ahead of a marching army and secure key positions, while others form the tip of the spear, plunging directly into the enemy line to open the way for those that follow. 
+![](../media/legions_imperialis_rules/detachment_vanguard.jpg) **Vanguard Detachments:** Vanguard Detachments represent the forward elements of an army, who strike fast and without mercy. Some are trained to range ahead of a marching army and secure key positions, while others form the tip of the spear, plunging directly into the enemy line to open the way for those that follow.
 
 ![](../media/legions_imperialis_rules/detachment_light_armour.jpg) **Light Armour Detachments:** Designed as support elements for ground forces, Light Armour is often fast and manoeuvrable. Their role is often to counter unexpected threats and provide heavy firepower in timely fashion
 
@@ -88,7 +88,7 @@ All Armies will include a number of Detachment Roles, shown in the list that fol
 
 ![](../media/legions_imperialis_rules/detachment_transport.jpg) **Transport Detachments:** These special Detachments are composed of transport vehicles, and are attached to other Detachments to provide fast moving transport for slower infantry units. Unless instructed otherwise, Transport Detachments have a maximum Detachment size of 8 unless chosen as Dedicated Transports.
 
-![](../media/legions_imperialis_rules/detachment_knight.jpg) **Knight Detachments:** Most commonly represented by the Knight armours of the Questoris Familia, Knight Detachments are technological marvels that can turn the tide of a battle. 
+![](../media/legions_imperialis_rules/detachment_knight.jpg) **Knight Detachments:** Most commonly represented by the Knight armours of the Questoris Familia, Knight Detachments are technological marvels that can turn the tide of a battle.
 
 ![](../media/legions_imperialis_rules/detachment_titan.jpg) **Titan Detachments:** The god-engines of the Mechanicum frequently took to the field alongside the armies of both the Emperor and the Warmaster; as the war progressed, darker aberrations similar in power were also seen. Capable of sundering whole armies on their own, Titan Detachments represent the most powerful forces that can be mustered.
 
@@ -98,7 +98,7 @@ Formation Organisation charts may include Transport sections, which will list an
 
 If a Detachment with Dedicated Transports is joined by another Detachment (such as one with the Command special rule) that has its own Dedicated Transport, the latter Dedicated Transport joins the Dedicated Transport Detachment - this can result in Detachments with different models (e.g., three Legion Rhinos and one Spartan Assault Vehicle). Detachments that have a Dedicated Transport with the Flyer special rule cannot join Dedicated Transports without the Flyer special rule.
 
-A Detachment must purchase the minimum number of Dedicated Transports needed to carry all models within the Detachment; it cannot purchase fewer, nor can it purchase more than necessary. 
+A Detachment must purchase the minimum number of Dedicated Transports needed to carry all models within the Detachment; it cannot purchase fewer, nor can it purchase more than necessary.
 
 *For example, a Legion Tactical Detachment with a Detachment Size of 10 is upgraded with Legion Rhinos as Dedicated Transports. As a Rhino is Transport (2), meaning* *each Rhino can carry two models, the Legion Tactical Detachment must purchase 5 Rhinos; no more, no less.*
 
@@ -106,9 +106,9 @@ A Detachment can only purchase a Dedicated Transport if it is eligible to Embark
 
 *For example, if a Formation allows Legion Rhinos to be purchased as Dedicated Transports for Infantry Detachments in a Formation, a Legion Terminator* *Detachment cannot purchase a Rhino as, due to the Bulky special rule, it cannot Embark upon a Rhino.*
 
-Dedicated Transports can only carry models from the Detachment they were purchased as an upgrade for. Dedicated Transports are ignored for the purposes of calculating Break Point. 
+Dedicated Transports can only carry models from the Detachment they were purchased as an upgrade for. Dedicated Transports are ignored for the purposes of calculating Break Point.
 
-*For example, a Formation with 26 models from HQ, Core or Support Detachments plus 10 models from Transport Detachments would have a Break Point of 13, not 18.* 
+*For example, a Formation with 26 models from HQ, Core or Support Detachments plus 10 models from Transport Detachments would have a Break Point of 13, not 18.*
 
 Models with the Transport (X) special rule (or variation of) that fill a Transport Detachment slot are not Dedicated Transports; they function as a normal Detachment, and count towards the Break Point of the Formation. Any eligible Detachment with the Formation can Embark upon these Transports; models from outside the Formation or within an Allied Contingent cannot.
 
@@ -124,6 +124,6 @@ For each Formation drawn from the Primary Army List, an Army can include a singl
 
 Each Allied Contingent in an Army can be drawn from a different list if the player wishes. The total points cost of all Detachments within Allied Contingents in an Army cannot be greater than 30% of the points limit of the Army. An Allied Contingent functions like any other Formation on the battlefield.
 
-*For example, Owen is building a Legiones Astartes Army with a 3,000 points limit. As such, he must include a minimum of two Formations drawn from his Primary Army List - he chooses a Legion Demi-Company and a Legion Garrison Force.* 
+*For example, Owen is building a Legiones Astartes Army with a 3,000 points limit. As such, he must include a minimum of two Formations drawn from his Primary Army List - he chooses a Legion Demi-Company and a Legion Garrison Force.*
 
 *With the minimum Compulsory Formations filled, Owen can now include additional Formations drawn from the Legiones Astartes or Allied Contingents. Having assembled two Formations from his Primary Army List, Owen can include a maximum of two Allied Contingents. As such, he assembles an Auxilia Sub-Cohort Formation from the Solar Auxilia Army List and a Legio Support from the Strategic Asset Army List.* *If Owen has points remaining, he cannot include additional Allied Contingents until he adds another Formation from the Legiones Astartes Army List.*

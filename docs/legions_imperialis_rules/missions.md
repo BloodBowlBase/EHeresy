@@ -24,7 +24,7 @@ At the end of each round, you score:
 
 * 2 VPs for each Uncontested Objective marker in your deployment zone that you control.
 
-* 5 VPs for each Uncontested neutral Objective marker you control. 
+* 5 VPs for each Uncontested neutral Objective marker you control.
 
 * 7 VPs for each Uncontested Objective marker in your opponent's deployment zone that you control.
 
@@ -116,7 +116,7 @@ At the end of each round, you score:
 
 **Special Rule:**
 
-**Protect the Intel** 
+**Protect the Intel**
 
 At the end of each round, after Victory Points have been scored, if a player controls one or more Uncontested Objective markers, they can move them - if both players control Uncontested Objective markers, the player with the Initiative moves their markers first.
 

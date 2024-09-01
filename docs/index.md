@@ -2,7 +2,6 @@
 
 Shown here is an example of a game of Legions Imperialis in full swing, as Loyalist and Traitor forces clash over a ruined city, giving you an idea of how a game is set up.
 
-
 [![](media/playfield_thumbnail.jpg)](media/playfield.jpg)
 
 &emsp;1. **The Battlefield**
@@ -11,7 +10,7 @@ Any flat area can become a suitable battlefield with the addition of some terrai
 
 &emsp;2. **Terrain**
 
-Games of Legions Imperialis are improved by the inclusion of terrain, such as the modular Manufactorum Imperialis, and Civitas Imperialis buildings and ruins sets. A variety of rules are included within the Terrain section of this book ([see page 66](./legions_imperialis_rules/terrain.md)) that allow players to use a wide variety of different terrain pieces on the battlefield. 
+Games of Legions Imperialis are improved by the inclusion of terrain, such as the modular Manufactorum Imperialis, and Civitas Imperialis buildings and ruins sets. A variety of rules are included within the Terrain section of this book ([see page 66](./legions_imperialis_rules/terrain.md)) that allow players to use a wide variety of different terrain pieces on the battlefield.
 
 &emsp;3. **Models**
 

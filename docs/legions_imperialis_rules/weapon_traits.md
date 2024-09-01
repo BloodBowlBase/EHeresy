@@ -28,7 +28,7 @@ When firing a weapon with the Barrage trait, a model may target Detachments that
 
 Hits caused by a Barrage weapon fired in this way can be allocated to any model in the target Detachment that is within range of the firing model. If some models from a Detachment are visible and some are not, the controlling player can choose to only target the visible models - if they do so, they do not suffer a -1 penalty but any Hits scored cannot be allocated to models outside of the firing model's line of sight.
 
-If a Barrage weapon targets a Detachment that is Garrisoned within a Structure then all Detachments Garrisoned within it are targeted. Make Hit rolls against each Detachment Garrisoned within the Structure, equal to half the Dice value of the weapon (rounded up) - this reduction in Dice happens even if only one Detachment is Garrisoned within. 
+If a Barrage weapon targets a Detachment that is Garrisoned within a Structure then all Detachments Garrisoned within it are targeted. Make Hit rolls against each Detachment Garrisoned within the Structure, equal to half the Dice value of the weapon (rounded up) - this reduction in Dice happens even if only one Detachment is Garrisoned within.
 
 Barrage weapons cannot be fired as part of an Overwatch.
 
@@ -62,7 +62,7 @@ A weapon with the Bombing Run trait can damage Structures.
 ### Bunker Buster
 Hits scored against a Structure by a weapon with the Bunker Buster trait count their AP as double its normal value, e.g., an AP of -3 would become -6.
 
-Weapons with the Bunker Buster trait can damage Structures. 
+Weapons with the Bunker Buster trait can damage Structures.
 
 ---
 
@@ -209,7 +209,7 @@ In addition, each Hit scored by a weapon with Shock Pulse that is allocated to a
 Any successful Save rolls made by an Infantry, Walker or Cavalry model using its Armour Save characteristic against a Hit scored by a weapon with the Shred trait must be re-rolled.
 
 ### Siege Weapon
-A weapon with the Siege Weapon trait doubles its range when firing if the model with that weapon has not moved yet this round (voluntarily 
+A weapon with the Siege Weapon trait doubles its range when firing if the model with that weapon has not moved yet this round (voluntarily
 or involuntarily).
 
 ### Skyfire

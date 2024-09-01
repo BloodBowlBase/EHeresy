@@ -16,4 +16,14 @@ If Legiones Astartes Formations are included in a non- Legiones Astartes Army th
 
 Certain Formations presented in future supplements may be exclusively available to certain Legions, and thus can only include models with that Legion special rule. Similarly, some Detachments might only be available to certain Legions, and thus can only be included in Formations of that Legion. Where this is the case it will always be clearly stated as part of the Detachment's datasheet.
 
-A player can declare their Formations are drawn from any Legion, regardless of the Army's Allegiance - though certain Legions sided with the Emperor or the Warmaster, it was not unknown for disparate elements to go against the will of their Primarch and choose a different path during the Horus Heresy. The only restrictions are units that are specifically Loyalist or Traitor (see the Loyalist and Traitors special rules in the Special Rules section). 
+A player can declare their Formations are drawn from any Legion, regardless of the Army's Allegiance - though certain Legions sided with the Emperor or the Warmaster, it was not unknown for disparate elements to go against the will of their Primarch and choose a different path during the Horus Heresy. The only restrictions are units that are specifically Loyalist or Traitor (see the Loyalist and Traitors special rules in the Special Rules section).
+
+## Legiones Astartes Tank Commanders
+
+Across the breadth of the Legiones Astartes, many talented and courageous commanders found their particular skills suited to armoured warfare. Some preferred a grand overview of the battlefield, coordinating entire phalanxes of tanks from an orbital strategium or command post. Others however took to the field, riding in the cupola of an armoured vehicle at the point of the spear. Often accompanied by a handpicked crew, these warriors led their brethren into battle with guns blazing, taking the fight to their foes and crushing them beneath churning tracks.
+
+In this section you will find new Detachments for Legiones Astartes armies, representing high ranking officers taking to the battlefield mounted in armoured vehicles. These Detachments can be made using standard vehicle models, but a Tank Commander should be clearly visible – this can be done through having an officer in the cupola, a small banner, an alternative paint scheme or similar identifiable method.
+
+**Using These Detachments**
+
+The Detachments found in this section are part of the Legiones Astartes Army List, as described in the Legions Imperialis Rulebook. These Detachments can either be selected to fill their usual battlefield role slot (Battle Tank or Heavy Armour) in a Detachment, or can be selected to fill an HQ slot instead.

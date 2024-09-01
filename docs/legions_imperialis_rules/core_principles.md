@@ -71,7 +71,7 @@ A target number can never be improved past 1+; if the end result after multiple 
 In Legions Imperialis, Detachments act according to the '**Order**' issued to them at the start of each round ([see page 46](../legions_imperialis_rules/playing_the_game.md#orders-phase)). Orders are issued through the use of '**Order tokens**'. There are five kinds of Order tokens used in Legions Imperialis:
 
 ![](../media/legions_imperialis_rules/advance.jpg) Advance
- 
+
 ![](../media/legions_imperialis_rules/first_fire.jpg) First Fire
 
 ![](../media/legions_imperialis_rules/charge.jpg) Charge
@@ -96,7 +96,7 @@ On the battlefield, models move and fight in '**Detachments**'. A Detachment con
 
 ### Base Size and Figure Count
 
-In almost all circumstances, save for those that do not need bases, a Legions Imperialis miniature will be supplied with a base of the appropriate size within the box. The rules are designed with these base sizes in mind and it is presumed that players will use them. 
+In almost all circumstances, save for those that do not need bases, a Legions Imperialis miniature will be supplied with a base of the appropriate size within the box. The rules are designed with these base sizes in mind and it is presumed that players will use them.
 
 If, for whatever reason, a model is fielded on a base size other than the one provided with it (for example, due to a conversion), then it still counts as being on its standard-sized base for the purposes of the rules. In such instances, the controlling player must have the model's standard base size ready for use during gameplay for a point of reference.
 
@@ -144,7 +144,7 @@ The same principles are used for rules that refer to Formations; a single model 
 
 ## Line of Sight
 
-Whether a model can see another model is often determined by the presence of terrain and other models. 
+Whether a model can see another model is often determined by the presence of terrain and other models.
 
 Terrain can take many forms but, broadly speaking, a piece of terrain is presumed to be a realistic scale representation of actual structures, ruins or other terrain features. Therefore, if a model can see part of another model, such as one of its figures or one of a Vehicle's tracks, ignoring any insignificant elements such as protruding weapons or bases, then it has line of sight to it unless a specific rule prevents this from happening - for example, an area of Obstructing terrain ([see page 68](../legions_imperialis_rules/terrain.md#obstructing-terrain)) blocks line of sight through it, so even if you personally can see a model, the model you control cannot.
 
@@ -184,7 +184,7 @@ Certain weapons can only target models within the Front or Rear Arc of the attac
 
 For some models, such as Vehicles, the direction an attack is coming from can have pronounced effects - if this is the case, it will be described in its rules. Where facing is relevant, the centre of a Detachment's Front Arc determines the direction a model is facing.
 
-## The Battlefield 
+## The Battlefield
 
 All games are played on a 'battlefield'. The exact size and nature of the battlefield is up to the players, however the standard game of Legions Imperialis uses a 5' x 4' battlefield. The battlefield represents the boundaries of the battle the players are fighting - models cannot move off the battlefield except in special circumstances.
 

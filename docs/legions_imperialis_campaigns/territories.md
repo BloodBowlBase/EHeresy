@@ -30,7 +30,7 @@ two ways:
 
 **Special Rules**
 
-If a player controls one or more Titan Forge territories, then each time they muster an Army, the total points cost of all Detachments within Allied Contingents in an Army cannot be greater than 40% of the points limit of the Army instead of 30% as normal, as long as every Detachment in Allied Contingents is part of one or more Legion Support Formations. 
+If a player controls one or more Titan Forge territories, then each time they muster an Army, the total points cost of all Detachments within Allied Contingents in an Army cannot be greater than 40% of the points limit of the Army instead of 30% as normal, as long as every Detachment in Allied Contingents is part of one or more Legion Support Formations.
 
 ---
 

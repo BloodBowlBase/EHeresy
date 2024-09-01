@@ -24,7 +24,7 @@ When firing with a model with the Automated Sentry special rule, the controlling
 Automated Sentry Detachments can fire when Engaged & Pinned. When selecting targets, they ignore any Detachment which is Engaged & Pinned, including any Detachment they are Engaged & Pinned with.
 
 ### Battlesmith
-If a friendly Walker, Vehicle or Super-heavy Vehicle, or a model with the Automata or Automated Sentry special rule, within 3" of a model with this rule suffers a Wound due to a special rule or one that is inflicted by a weapon with an AP of -2 or worse, roll a D6. On a 5+, that Wound is ignored and has no effect. Battlesmith cannot be used against Wounds suffered in a Fight. 
+If a friendly Walker, Vehicle or Super-heavy Vehicle, or a model with the Automata or Automated Sentry special rule, within 3" of a model with this rule suffers a Wound due to a special rule or one that is inflicted by a weapon with an AP of -2 or worse, roll a D6. On a 5+, that Wound is ignored and has no effect. Battlesmith cannot be used against Wounds suffered in a Fight.
 
 ### Blessed Auto-simulacra
 During the Resolve End Phase Effects stage of the End phase, roll a D6 for each Wound a model with the Blessed Auto-simulacra special rule has lost. On a 5+, the model regains a Wound.
@@ -35,7 +35,7 @@ Models with the Bulky special rule cannot Embark on a Transport unless the speci
 ### Commander
 Detachments with the Commander special rule are the commanders of your Army.
 
-When deploying a Formation that includes any models with this special rule during deployment, a player must assign all models with this special rule to a Detachment in that Formation, so long as the two are of the same Detachment type. For the remainder of the battle, the model counts as a part of the Detachment it is attached to and cannot leave it for any reason. 
+When deploying a Formation that includes any models with this special rule during deployment, a player must assign all models with this special rule to a Detachment in that Formation, so long as the two are of the same Detachment type. For the remainder of the battle, the model counts as a part of the Detachment it is attached to and cannot leave it for any reason.
 
 A Detachment can only ever have one model with the Commander special rule attached to it at any given time.
 
@@ -101,7 +101,7 @@ A model that Hovers exchanges the Flyer special rule with the Skimmer special ru
 
 During the Resolve End Phase Effects of the End phase, a model with the Hover and Skimmer special rules can choose to take off. If it does so, it replaces the Skimmer special rule with the Flyer special rule. This happens before Flyers are removed from the battlefield and as such, the model will be removed as normal. The player with Initiative determines which of their Detachments will Hover first.
 
-If a Detachment with the Hover special rule contains more than one model, then all models within the Detachment must choose to Hover or take off at the same time. 
+If a Detachment with the Hover special rule contains more than one model, then all models within the Detachment must choose to Hover or take off at the same time.
 
 Detachments with the Flyer and Hover special rules can be deployed on the battlefield in 'Hover Mode'. If they are, they lose the Flyer special rule and gain the Skimmer special rule, as if they had chosen to Hover at the end of a round. They can take off later in the battle as normal.
 
@@ -111,11 +111,11 @@ A Detachment which contains one or more models with the Implacable special rule 
 ### Independent
 Models with the Independent special rule function with a greater degree of autonomy. All models with this special rule and the same name within a Detachment form an 'Independent Unit'. A Detachment can have multiple Independent Units within it, with each Independent Unit consisting of models of the same name. The remaining models (i.e., those without the Independent special rule) are referred to as the 'Detachment Core'.
 
-All models within an Independent Unit must maintain a 2" Detachment Coherency with other models in the same Independent Unit and a Detachment Coherency of 6" with the Detachment Core - at least one model from each Independent Unit must remain within 6" of one or more models from the Detachment Core. 
+All models within an Independent Unit must maintain a 2" Detachment Coherency with other models in the same Independent Unit and a Detachment Coherency of 6" with the Detachment Core - at least one model from each Independent Unit must remain within 6" of one or more models from the Detachment Core.
 
 If the controlling player wishes, each Independent Unit may be issued its own Order during the Order phase - this can be a different Order from the rest of its Detachment. In addition, models within the Independent Unit may choose a different target than the rest of their Detachment when firing - all models within an Independent Unit must fire at the same target unless specified otherwise.
 
-Though it has its own Order, the Independent Unit is still part of the larger Detachment, and thus activates and reveals its Order at the same time, is issued with a Fall Back Order if the Detachment is, etc. If the Detachment calls an Overwatch, an Independent Unit only discards its Advance Order or First Fire Order if one of its models fired during the Overwatch, not if other models from the Detachment did so. 
+Though it has its own Order, the Independent Unit is still part of the larger Detachment, and thus activates and reveals its Order at the same time, is issued with a Fall Back Order if the Detachment is, etc. If the Detachment calls an Overwatch, an Independent Unit only discards its Advance Order or First Fire Order if one of its models fired during the Overwatch, not if other models from the Detachment did so.
 
 A Detachment that contains one or more Independent Units is only considered to be Engaged if a model without the Independent special rule is Engaged. If one or more models with the Independent special rule are Engaged, then all models within that Independent Unit are also Engaged, however the larger Detachment can still act as normal, providing they maintain Detachment Coherency. In other words, an Independent Unit and its Detachment count as two separate Detachments for the purposes of determining Combats and determining which models are Engaged.
 
@@ -139,7 +139,7 @@ Friendly Detachments within a number of inches equal to the value shown in brack
 After a model with the Interceptor rule has finished moving, it may immediately fire a single weapon of the controlling player's choice that does not have the Point Defence trait. A model firing in this way may only target Flyer models and suffers a -2 to all Hit rolls made when doing so. An Interceptor model that fires in this way may still fire as normal during the Combat phase, including with the weapon it fired as part of the Interceptor special rule, but may not also fire as part of an Overwatch.
 
 ### Invulnerable Save (X)
-A model with the Invulnerable Save (X) special rule gains an additional Save characteristic equal to the number shown in brackets, referred to as an Invulnerable Save. Invulnerable Saves are not modified by a weapon's AP characteristic. 
+A model with the Invulnerable Save (X) special rule gains an additional Save characteristic equal to the number shown in brackets, referred to as an Invulnerable Save. Invulnerable Saves are not modified by a weapon's AP characteristic.
 
 ### Ion Shield (X)
 A model with the Ion Shield special rule gains an additional Save characteristic equal to the number shown in brackets, referred to as an Ion Shield. This Save characteristic can only be used against Hits scored when the firing model is within the Front arc of the model with this special rule.
@@ -223,7 +223,7 @@ If part of a Detachment is Embarked upon a Transport and another part of it is n
 
 *For example, if a Legion Tactical Detachment has six models but only four are Embarked upon Legion Rhinos (for example, because one of the Tactical Detachment's Rhinos was destroyed), then any model from the Tactical Detachment must maintain Coherency with the Rhinos and vice versa.*
 
-If a Transport is destroyed while transporting Detachments, make a Save roll for each model within it, using a Save characteristic of 4+, or the model's own Save characteristic if it is better. This Save roll is not modified by the AP of the weapon that destroyed the Transport. If the Save is failed, that model suffers a Wound. The models are then placed on the battlefield within 2" of the destroyed Transport's location - if a model cannot be placed (due to enemy models' Engagement Zones, Impassable terrain or not enough space, etc.), that model is destroyed. The models cannot be placed in Combat. 
+If a Transport is destroyed while transporting Detachments, make a Save roll for each model within it, using a Save characteristic of 4+, or the model's own Save characteristic if it is better. This Save roll is not modified by the AP of the weapon that destroyed the Transport. If the Save is failed, that model suffers a Wound. The models are then placed on the battlefield within 2" of the destroyed Transport's location - if a model cannot be placed (due to enemy models' Engagement Zones, Impassable terrain or not enough space, etc.), that model is destroyed. The models cannot be placed in Combat.
 
 There are several special kinds of Transport as follows:
 

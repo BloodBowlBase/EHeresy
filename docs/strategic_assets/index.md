@@ -1,4 +1,4 @@
-## Using Strategic Assets 
+## Using Strategic Assets
 
 Strategic Assets represent elements of the Imperium's armies that don't fit neatly into a single Army List or were widespread across the Expeditionary fleets of the Great Crusade. Included in these ranks are the god-engines of the Collegia Titanica and the Knight Banners of the Questoris Familia.
 

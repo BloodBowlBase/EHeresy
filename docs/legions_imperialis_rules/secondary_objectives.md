@@ -8,7 +8,7 @@ Objective markers placed as part of a Secondary Objective do not score VPs due t
 
 At the end of the battle, calculate the total points value of enemy Detachments that have been destroyed; Detachments that have lost half or more of their starting models count as half their total points value (rounding down to the nearest whole number).
 
-The player with this Secondary Objective scores VPs depending on the percentage of enemy Detachments that have been destroyed relative to the total starting points value of the enemy Army, as follows: 
+The player with this Secondary Objective scores VPs depending on the percentage of enemy Detachments that have been destroyed relative to the total starting points value of the enemy Army, as follows:
 
 * If at least 35% of the total starting points value of the enemy Army has been destroyed, you score 5 VPs.
 
@@ -38,7 +38,7 @@ Missions and Secondary Objectives add an extra tactical layer to Legions Imperia
 
 If running a tournament, an event organiser may wish to choose which Mission is in play for each game, ensuring all players are playing the same Mission. They can do the same for Secondary Objectives as well, either through letting players choose from one of two pre-selected Secondary Objectives or by assigning a single Secondary Objective for all players.
 
-An alternative option for Secondary Objectives, which allows players more choice, is to create an objective pool. An objective pool is a set of Secondary Objectives that all players can draw from during their games, selecting one when they would normally roll for their Secondary Objective. Once a Secondary Objective has been chosen, it cannot be picked again for the remainder of the event. This means players must carefully choose which Secondary Objective to play when but ensures all players are using the same Secondary Objectives over the course of the event. 
+An alternative option for Secondary Objectives, which allows players more choice, is to create an objective pool. An objective pool is a set of Secondary Objectives that all players can draw from during their games, selecting one when they would normally roll for their Secondary Objective. Once a Secondary Objective has been chosen, it cannot be picked again for the remainder of the event. This means players must carefully choose which Secondary Objective to play when but ensures all players are using the same Secondary Objectives over the course of the event.
 
 ## Control the Battlefield
 

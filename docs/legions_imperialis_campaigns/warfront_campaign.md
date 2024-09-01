@@ -44,7 +44,7 @@ Players then fight battles against their designated opponent, using the Mission 
 
 During this step:
 
-- Each victorious player gains 3 Campaign Points. In addition, they gain D6x15 Requisition Points. 
+- Each victorious player gains 3 Campaign Points. In addition, they gain D6x15 Requisition Points.
 
 - For each battle that was tied, both players gain 1 Campaign Point. In addition, each player gains D6x15 Requisition Points.
 

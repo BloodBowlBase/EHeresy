@@ -114,9 +114,9 @@ The controlling player rolls a D6 for each of their Detachments that is Withdraw
 
 A Titan must move in a straight line and cannot change its facing when doing so. At any point during its movement a Titan may turn up to 90°, pivoting on the spot around its central point.
 
-Each Titan, unless otherwise instructed, can make one turn per round. A Titan may move in its Rear Arc, counting as having moved 2\" for every 1\" moved.
+Each Titan, unless otherwise instructed, can make one turn per round. A Titan may move in its Rear Arc, counting as having moved 2" for every 1" moved.
 
-Titans may choose different targets for each of their weapons, and may split the Dice value of their weapons across different Detachments. All targets must be within 4\" of the first target chosen. All targets must be declared before any Dice are rolled.
+Titans may choose different targets for each of their weapons, and may split the Dice value of their weapons across different Detachments. All targets must be within 4" of the first target chosen. All targets must be declared before any Dice are rolled.
 
 **Destroying Structures**
 
@@ -124,7 +124,7 @@ A Titan may attempt to destroy a Structure it is in base contact with when activ
 
 **Destroying a Titan**
 
-When a Titan with fewer than 6 starting Wounds is destroyed, roll a D6 for each model within 3\" of it; on a 4+, that model's Detachment suffers a Hit with an AP value of -1.
+When a Titan with fewer than 6 starting Wounds is destroyed, roll a D6 for each model within 3" of it; on a 4+, that model's Detachment suffers a Hit with an AP value of -1.
 
 When a Titan with 6 or more starting Wounds is destroyed, roll a D6 for each model within 5" of it; on a 4+, that model's Detachment suffers a Hit with an AP value of -2.
 
@@ -134,7 +134,7 @@ Flyers are placed in Reserve at the start of the battle, where they can only be 
 
 **Movement**
 
-When activated during the Movement phase, the controlling player places the Flyer so the rear of its base is touching a point on the controlling player's board edge or touching any board edge at a point within 8\" of the controlling player's board edge. The Flyer then moves and can only move in a straight line. A Flyer can make a single turn of up to 90° during its movement. Flyers can move over any model or area of terrain during their movement. A Flyer can end its movement overlapping Impassable terrain.
+When activated during the Movement phase, the controlling player places the Flyer so the rear of its base is touching a point on the controlling player's board edge or touching any board edge at a point within 8" of the controlling player's board edge. The Flyer then moves and can only move in a straight line. A Flyer can make a single turn of up to 90° during its movement. Flyers can move over any model or area of terrain during their movement. A Flyer can end its movement overlapping Impassable terrain.
 
 **Firing**
 

@@ -1,4 +1,4 @@
-## Solar Auxilia Army List 
+## Solar Auxilia Army List
 
 The following section presents the Army List for the Solar Auxilia, reflecting the foundation upon which the various Solar Auxilia cohorts were based. Within you'll find all the rules needed to build a Solar Auxilia Army.
 

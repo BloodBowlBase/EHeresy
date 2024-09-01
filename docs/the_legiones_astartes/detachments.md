@@ -27,6 +27,30 @@
 
 ---
 
+<div class="unitCard" markdown>
+
+### [Legion Predator Commander [60 Points]](#legion-predator-commander-60-points_1)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Legion Sicaran Commander [70 Points]](#legion-sicaran-commander-70-points_1)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### [Legion Kratos Commander [100 Points]](#legion-kratos-commander-100-points_1)
+
+</div>
+
+---
+
 ## TRANSPORT DETACHMENTS
 
 <div class="unitCard" markdown>
@@ -197,6 +221,33 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 
 <div class="unitCard" markdown>
 
+### Legion Termite Detachment [18 Points per Model]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** Variable
+
+| Name    | Movement | Sv  | CAF | Morale | W |
+| ------- | :------: | :-: | :-: | :----: | :-: |
+| Termite |    5"    | 4+  | +1  |   3+   |  1  |
+
+**Weapons**
+
+* Termite twin-linked bolters
+
+| **Weapon**                  | Range | Dice | To Hit | AP | Traits                                      |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
+| Termite twin-linked bolters  |  8"   |  2   |   5+   |  0  | [Arc] (Front), [Assault], [Light], [Point Defence] |
+
+**Special Rules**
+
+[Deep Strike], [Transport] (2)
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### Detachment Upgrades
 
 ---
@@ -218,6 +269,7 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 </div>
 
 ---
+
 
 ## CORE DETACHMENTS
 
@@ -776,6 +828,144 @@ A Legion Sicaran Squadron can purchase any of the following upgrades. It may pur
 
 ---
 
+<div class="unitCard" markdown>
+
+### Legion Sicaran Punisher Squadron [110 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 2
+
+| Name              | Movement | Sv | CAF | Morale | W |
+| ----------------- | :------: | :-: | :-: | :----: | :-: |
+| Sicaran Punisher  |   10"    | 3+ | +2  |   3+   |  1  |
+
+**Weapons**
+
+* Hull Mounted heavy bolter
+* Punisher rotary cannon
+* Sponson Mounted heavy bolters or Sponson Mounted lascannon
+
+| **Weapon**                | Range | Dice | To Hit | AP | Traits                                  |
+| ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Hull Mounted heavy bolter  |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Punisher rotary cannon     |  12"  |  4  |   4+   | -1  | [Light AT], [Rapid Fire]                |
+| Sponson Mounted heavy bolters | 12" |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon  |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+
+**Upgrades**
+
+A Legion Sicaran Punisher Squadron can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+
+* **Increase the Detachment size by 1** [+50 points]
+* **Increase the Detachment size by 2** [+100 points]
+* **Increase the Detachment size by 4** [+200 points]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Sicaran Arcus Squadron [115 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 2
+
+| Name           | Movement | Sv | CAF | Morale | W |
+| -------------- | :------: | :-: | :-: | :----: | :-: |
+| Sicaran Arcus  |   10"    | 3+ | +2  |   3+   |  1  |
+
+**Weapons**
+
+* Hull Mounted heavy bolter
+* Arcus missile launcher
+* Sponson Mounted heavy bolters or Sponson Mounted lascannon
+
+| **Weapon**                  | Range | Dice | To Hit | AP | Traits                                  |
+| --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Hull Mounted heavy bolter    |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Arcus missile launcher       |  16"  |  2  |   4+   | -2  | [Anti-tank], [Ripple Fire]              |
+|                              |  20"  |  2  |   5+   | -2  | [Anti-tank], [Skyfire], [Tracking]      |
+| Sponson Mounted heavy bolters | 12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon    |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+
+**Upgrades**
+
+A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It may purchase the same upgrade multiple times, to a maximum Detachment size of 6:
+
+* **Increase the Detachment size by 1** [+60 points]
+* **Increase the Detachment size by 2** [+110 points]
+* **Increase the Detachment size by 4** [+220 points]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Predator Commander [60 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 1
+
+| Name               | Movement | Sv  | CAF | Morale | W |
+| ------------------ | :------: | :-: | :-: | :----: | :-: |
+| Predator Commander |    9"    | 3+  | +3  |   2+   |  1  |
+
+**Weapons**
+
+* Predator cannon or Predator lascannon
+* Sponson Mounted heavy bolters or Sponson Mounted lascannon
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                  |
+| --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Predator cannon              |  18"  |  2  |   5+   | -1  | [Light AT]                              |
+| Predator lascannon           |  22"  |  1  |   4+   | -1  | [Accurate], [Anti-tank]                 |
+| Sponson Mounted heavy bolters | 12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon    |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+
+**Special Rules**
+
+[Commander], [Inspire] (8"), [Invulnerable Save] (6+), [Master Tactician]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Legion Sicaran Commander [70 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 1
+
+| Name               | Movement | Sv  | CAF | Morale | W |
+| ------------------ | :------: | :-: | :-: | :----: | :-: |
+| Sicaran Commander  |   10"    | 3+  | +3  |   2+   |  1  |
+
+**Weapons**
+
+* Hull Mounted heavy bolter
+* Twin-linked accelerator autocannon or Omega plasma array or Punisher rotary cannon
+* Sponson Mounted heavy bolters or Sponson Mounted lascannon
+
+| **Weapon**                        | Range | Dice | To Hit | AP  | Traits                                  |
+| --------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Omega plasma array                |  12"  |  1  |   4+   | -2  | [Accurate]                              |
+| Punisher rotary cannon            |  12"  |  4  |   4+   | -1  | [Light AT], [Rapid Fire]                |
+| Twin-linked accelerator autocannon | 16"  |  3  |   5+   | -1  | [Tracking]                              |
+| Hull Mounted heavy bolter         |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted heavy bolters     |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon         |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+
+**Special Rules**
+
+[Commander], [Inspire] (8"), [Invulnerable Save] (6+), [Master Tactician]
+
+</div>
+
+---
+
 ## HEAVY ARMOUR DETACHMENTS
 
 <div class="unitCard" markdown>
@@ -818,6 +1008,84 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 </div>
 
 ---
+
+<div class="unitCard" markdown>
+
+### Legion Kratos Commander [100 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 1
+
+| Name             | Movement | Sv  | CAF | Morale | W |
+| ---------------- | :------: | :-: | :-: | :----: | :-: |
+| Kratos Commander |    8"    | 2+  | +4  |   2+   |  2  |
+
+**Weapons**
+
+* Kratos battlecannon with co-axial autocannon or melta blastgun with co-axial autocannon
+* Two Hull Mounted heavy bolters or two Kratos lascannon or two Kratos autocannon
+* Sponson Mounted heavy bolters or Sponson Mounted lascannon
+
+| **Weapon**                    | Range | Dice | To Hit | AP  | Traits                                           |
+| ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Kratos battlecannon            |  20"  |  2  |   4+   | -1  |                                                   |
+|                                |  10"  |  1  |   4+   | -4  | [Anti-tank], [Armourbane]                         |
+| Co-axial autocannon            |  16"  |  2  |   5+   | -1  | [Co-axial], [Light AT]                            |
+| Melta blastgun                 |   8"  |  1  |   4+   | -4  | [Anti-tank], [Armourbane], [Bunker Buster]        |
+| Hull Mounted heavy bolters     |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Sponson Mounted heavy bolters  |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Sponson Mounted lascannon      |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]                       |
+| Kratos autocannon              |  16"  |  2  |   5+   | -1  | [Arc] (Front), [Accurate], [Light AT]            |
+| Kratos lascannon               |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Accurate], [Anti-tank]           |
+
+**Special Rules**
+
+[Commander], [Inspire] (8"), [Invulnerable Save] (6+), [Master Tactician]
+
+</div>
+
+---
+
+## LIGHT ARMOUR DETACHMENTS
+
+<div class="unitCard" markdown>
+
+### Legion Sabre Squadron [120 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
+
+| Name  | Movement | Sv | CAF | Morale | W |
+| ----- | :------: | :-: | :-: | :----: | :-: |
+| Sabre |   11"    | 4+ | +2  |   3+   |  1  |
+
+**Weapons**
+
+* Hull Mounted neutron blaster or Hull Mounted Anvilus autocannon
+* Hull Mounted heavy bolter or Hull Mounted multi-melta
+* Sabre missiles
+
+| **Weapon**                  | Range | Dice | To Hit | AP | Traits                                  |
+| --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Anvilus autocannon (Hull Mounted) |  16"  |  3  |   5+   | -1  | [Arc] (Front), [Light AT]               |
+| Neutron blaster (Hull Mounted)    |  12"  |  1  |   4+   | -3  | [Arc] (Front), [Anti-tank], [Shock Pulse] |
+| Hull Mounted heavy bolter         |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Hull Mounted multi-melta          |   6"  |  1  |   5+   | -3  | [Arc] (Front), [Anti-tank]              |
+| Sabre missiles                    |  12"  |  1  |   5+   | -1  | [Arc] (Front), [Light AT]               |
+
+**Upgrades**
+
+A Legion Sabre Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+55 points]
+* **Increase the Detachment size by 4** [+110 points]
+
+**Special Rules**
+
+* [Nimble]
+
+</div>
+
 
 ## AIR SUPPORT DETACHMENTS
 

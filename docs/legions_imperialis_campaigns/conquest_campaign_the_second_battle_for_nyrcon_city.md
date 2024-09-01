@@ -72,7 +72,7 @@ At the end of the battle, the player with this Secondary Objective scores 5 VPs 
 
 At the end of each round:
 
-- The Attacker scores 3 VPs for each Uncontested Objective marker that they control. They score 5 VPs instead if that Objective is within the Defender's deployment zone. 
+- The Attacker scores 3 VPs for each Uncontested Objective marker that they control. They score 5 VPs instead if that Objective is within the Defender's deployment zone.
 
 - The Defender scores 2 VPs for each Uncontested Objective marker that they control.
 

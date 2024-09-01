@@ -36,7 +36,7 @@ If a Formation has a Dedicated Transport, the model types gain the relevant spec
 
 **Cognomen:** (Prior) None
 
-**Noteworthy Domains:** Chemos (Primary), Terra (Tertiary rights) 
+**Noteworthy Domains:** Chemos (Primary), Terra (Tertiary rights)
 
 **Observed Strategic Tendencies:** Combined Arms Warfare, the use of Complex Manoeuvre and Discursive Tactical Planning, Asymmetrical Assault
 
@@ -163,7 +163,7 @@ The following special rules apply to all Imperial Fists models in a Legiones Ast
 
 **Allegiance:** Traitoris Perdita
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Night Lords models in a Legiones Astartes Army.
 
@@ -177,7 +177,7 @@ Knights, Titans and models with a Morale characteristic of '-' are unaffected by
 
 ---
 
-## The IXth Legion - Blood Angels 
+## The IXth Legion - Blood Angels
 
 **Primogenitor:** Sanguinius
 
@@ -189,7 +189,7 @@ Knights, Titans and models with a Morale characteristic of '-' are unaffected by
 
 **Allegiance:** Fidelitas Constantus
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Blood Angels models in a Legiones Astartes Army.
 
@@ -199,7 +199,7 @@ If a Detachment Engages an enemy Detachment in this way that is in a Combat but 
 
 ---
 
-## The Xth Legion - Iron Hands 
+## The Xth Legion - Iron Hands
 
 **Primogenitor:** Ferrus Manus (also known as 'The Gorgon')
 
@@ -211,7 +211,7 @@ If a Detachment Engages an enemy Detachment in this way that is in a Combat but 
 
 **Allegiance:** Fidelitas Constantus
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Iron Hands models in a
 Legiones Astartes Army.
@@ -222,7 +222,7 @@ The First Fire Order must still be in effect (i.e., it cannot have Overwatched o
 
 ---
 
-## The XIIth Legion - World Eaters 
+## The XIIth Legion - World Eaters
 
 **Primogenitor:** Angron the Conqueror
 
@@ -234,7 +234,7 @@ The First Fire Order must still be in effect (i.e., it cannot have Overwatched o
 
 **Allegiance:** Traitoris Perdita
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all World Eaters models in a Legiones Astartes Army.
 
@@ -242,7 +242,7 @@ The following special rules apply to all World Eaters models in a Legiones Astar
 
 ---
 
-## The XIIIth Legion - Ultramarines 
+## The XIIIth Legion - Ultramarines
 
 **Primogenitor:** Roboute Guilliman
 
@@ -254,7 +254,7 @@ The following special rules apply to all World Eaters models in a Legiones Astar
 
 **Allegiance:** Fidelitas Constantus
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Ultramarines models in a Legiones Astartes Army.
 
@@ -262,11 +262,11 @@ The following special rules apply to all Ultramarines models in a Legiones Astar
 
 ---
 
-## The XIVth Legion - Death Guard 
+## The XIVth Legion - Death Guard
 
-**Primogenitor:** Mortarion the Reaper 
+**Primogenitor:** Mortarion the Reaper
 
-**Cognomen:** (Prior) The Dusk Raiders 
+**Cognomen:** (Prior) The Dusk Raiders
 
 **Noteworthy Domains:** Barbarus
 
@@ -274,7 +274,7 @@ The following special rules apply to all Ultramarines models in a Legiones Astar
 
 **Allegiance:** Traitoris Perdita
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Death Guard models in a Legiones Astartes Army.
 
@@ -286,9 +286,9 @@ Two Structures can be selected in place of a single area of terrain. Each time a
 
 ---
 
-## The XVth Legion - Thousand Sons 
+## The XVth Legion - Thousand Sons
 
-**Primogenitor:** Magnus the Red 
+**Primogenitor:** Magnus the Red
 
 **Cognomen:** (Prior) None
 
@@ -298,7 +298,7 @@ Two Structures can be selected in place of a single area of terrain. Each time a
 
 **Allegiance:** Traitoris Perdita
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Thousand Sons models in a Legiones Astartes Army.
 
@@ -306,7 +306,7 @@ The following special rules apply to all Thousand Sons models in a Legiones Asta
 
 ---
 
-## The XVIth Legion - Sons of Horus 
+## The XVIth Legion - Sons of Horus
 
 **Primogenitor:** Horus Lupercal
 
@@ -318,7 +318,7 @@ The following special rules apply to all Thousand Sons models in a Legiones Asta
 
 **Allegiance:** Traitoris Maximus
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Sons of Horus models in a Legiones Astartes Army.
 
@@ -326,7 +326,7 @@ The following special rules apply to all Sons of Horus models in a Legiones Asta
 
 ---
 
-## The XVIIth Legion - Word Bearers 
+## The XVIIth Legion - Word Bearers
 
 **Primogenitor:** Lorgar the Urizen, also known as Lorgar Aurelian
 
@@ -338,7 +338,7 @@ The following special rules apply to all Sons of Horus models in a Legiones Asta
 
 **Allegiance:** Traitoris Maximus
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Word Bearers models in a Legiones Astartes Army.
 
@@ -348,7 +348,7 @@ The following special rules apply to all Word Bearers models in a Legiones Astar
 
 ---
 
-## The XVIIIth Legion - Salamanders 
+## The XVIIIth Legion - Salamanders
 
 **Primogenitor:** Vulkan
 
@@ -360,7 +360,7 @@ The following special rules apply to all Word Bearers models in a Legiones Astar
 
 **Allegiance:** Fidelitas Totalis
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Salamanders models in a Legiones Astartes Army.
 
@@ -368,7 +368,7 @@ The following special rules apply to all Salamanders models in a Legiones Astart
 
 ---
 
-## The XIXth Legion - Raven Guard 
+## The XIXth Legion - Raven Guard
 
 **Primogenitor:** Corvus Corax, the Raven Lord
 
@@ -380,7 +380,7 @@ The following special rules apply to all Salamanders models in a Legiones Astart
 
 **Allegiance:** Fidelitas Constantus
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Raven Guard models in a Legiones Astartes Army.
 
@@ -388,7 +388,7 @@ The following special rules apply to all Raven Guard models in a Legiones Astart
 
 ---
 
-## The XXth Legion - Alpha Legion 
+## The XXth Legion - Alpha Legion
 
 **Primogenitor:** Alpharius Omegon
 
@@ -400,7 +400,7 @@ The following special rules apply to all Raven Guard models in a Legiones Astart
 
 **Allegiance:** Traitoris Perdita
 
-### Legion Special Rules 
+### Legion Special Rules
 
 The following special rules apply to all Alpha Legion models in a Legiones Astartes Army.
 

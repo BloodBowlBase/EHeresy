@@ -1,4 +1,4 @@
-A game of Legions Imperialis is split into several rounds, usually four to six. A round is split into several phases, with each phase progressing through a number of stages. Each phase is completed before moving onto the next. Once all of the phases are completed, the round ends and a new round begins. Each round consists of five phases, which are always completed in the following sequence: 
+A game of Legions Imperialis is split into several rounds, usually four to six. A round is split into several phases, with each phase progressing through a number of stages. Each phase is completed before moving onto the next. Once all of the phases are completed, the round ends and a new round begins. Each round consists of five phases, which are always completed in the following sequence:
 
 **Round Summary**
 
@@ -25,7 +25,7 @@ The Assign Orders stage is when both players plan out their round, determining w
 
 An Order is issued by selecting a Detachment, then selecting an Order available to that Detachment and placing a token representing that Order face-down on either the Detachment's Order token slot on the Army roster or next to the Detachment on the battlefield. This process is repeated for every Detachment in the Army, unless another rule dictates that a given Detachment may not be issued an Order, or the Detachment already has an Order carried over from a previous round (such as the Fall Back Order). This includes Detachments that are not on the battlefield but have not been destroyed, such as those Embarked within a Transport ([see page 96](../legions_imperialis_rules/special_rules.md#transport-x)) or held in Reserve ([see page 102](../legions_imperialis_rules/fighting_a_battle.md#reserves)). If a Detachment is no longer taking part in the battle, (for example, due to being destroyed or having left the table due to a Mission's special rule), then it cannot be issued an Order.
 
-Once all players have issued an Order to each eligible Detachment, and all tokens have been placed face-down on either the battlefield or the controlling player's Army roster, the Assign Orders stage ends. 
+Once all players have issued an Order to each eligible Detachment, and all tokens have been placed face-down on either the battlefield or the controlling player's Army roster, the Assign Orders stage ends.
 
 ### Reveal Orders
 
@@ -97,7 +97,7 @@ The Movement phase is where players move their Detachments around the battlefiel
 
 During the Movement phase, players take it in turns, starting with the player with Initiative, to choose and activate one of their Detachments that has been issued an Advance Order, Charge Order or March Order. Detachments with a First Fire Order cannot be activated during this phase unless it is to Overwatch ([see page 52](../legions_imperialis_rules/playing_the_game.md#overwatch)). If one player has activated all Detachments they control with an Advance Order, Charge Order or March Order and the other player still has Detachments eligible to be activated in this stage, the other player activates each of their remaining eligible Detachments in an order of their choosing.
 
-When a Detachment is activated, the controlling player may move the Detachment in a manner specified by its Order. For example, models in a Detachment issued with an Advance Order may move up to a number of inches equal to the model's Movement characteristic. 
+When a Detachment is activated, the controlling player may move the Detachment in a manner specified by its Order. For example, models in a Detachment issued with an Advance Order may move up to a number of inches equal to the model's Movement characteristic.
 
 Once a Detachment has finished its activation, play passes to the opposing player, who then activates one of their eligible Detachments.
 
@@ -135,7 +135,7 @@ If a Detachment has two or more models within it then those models must remain i
 
 ![](../media/legions_imperialis_rules/with_coherency.jpg)
 
-***LIR50.1:** A Detachment in Coherency.* 
+***LIR50.1:** A Detachment in Coherency.*
 
 At all times, a Detachment's models must form a single contiguous group; they cannot form several groups where two models are within 2" of one another but not within 2" of another model within the Detachment.
 
@@ -199,8 +199,8 @@ A Detachment that has been issued with an Advance Order or First Fire Order may 
 
 To call Overwatch, the following conditions must be met:
 
-* The Detachment calling Overwatch must be issued with an Advance Order or First Fire Order. 
-* The activating Detachment must be an eligible target for the firing Detachment - see Firing [on page 56](../legions_imperialis_rules/playing_the_game.md#firing) for more details. 
+* The Detachment calling Overwatch must be issued with an Advance Order or First Fire Order.
+* The activating Detachment must be an eligible target for the firing Detachment - see Firing [on page 56](../legions_imperialis_rules/playing_the_game.md#firing) for more details.
 * No other Detachment has called Overwatch during the same enemy Detachment's activation.
 
 When a Detachment calls Overwatch, the normal sequence of the phase is paused. The Overwatching Detachment may immediately fire, targeting only the Detachment which is completing its activation, following the normal rules for firing (with the enemy Detachment that has been activated being the chosen target). Any Hit rolls made as part of an Overwatch subtract 2 from the result of the roll, in addition to any other modifiers - as noted in Firing, a natural roll of a 6 always scores a Hit, no matter the modifiers.
@@ -227,8 +227,8 @@ It is during this phase that Detachments issued with a First Fire Order or an Ad
 
 **The Combat phase is broken down into three stages:**
 
-1. First Fire stage 
-2. Engagement stage 
+1. First Fire stage
+2. Engagement stage
 3. Advancing Fire stage
 
 The Order a Detachment is issued with determines which stage it can be activated in. Players run through the stages in order. Once one stage has been completed, the phase moves on to the next stage.
@@ -251,7 +251,7 @@ Other examples of Combat can occur - usually when a Detachment is Engaged with m
 
 The most complex cases of Combat involve having multiple Detachments within the same Combat where not all Detachments are Engaged with every enemy Detachment within the Combat.
 
-To determine which Detachments are within the same Combat, pick a Detachment and determine what enemy Detachments it is in base contact with. Then, determine any additional Detachments those enemy Detachments are in base contact with. Repeat this sequence, jumping from Engaged Detachment to Engaged Detachment, until no more Detachments can be picked - all these Detachments are in one Combat. 
+To determine which Detachments are within the same Combat, pick a Detachment and determine what enemy Detachments it is in base contact with. Then, determine any additional Detachments those enemy Detachments are in base contact with. Repeat this sequence, jumping from Engaged Detachment to Engaged Detachment, until no more Detachments can be picked - all these Detachments are in one Combat.
 
 The following diagrams highlight examples of Combat.
 
@@ -291,8 +291,8 @@ At various points during the game, Detachments will fire upon enemy Detachments.
 
 **Firing Sequence**
 
-1. Choose Targets 
-2. Make Hit rolls 
+1. Choose Targets
+2. Make Hit rolls
 3. Resolve Hits
 
 #### Choose Targets
@@ -313,7 +313,7 @@ If the result is less than the To Hit value of the weapon, it is a miss and that
 
 As noted previously, a natural roll of a 6 is always a Hit and a natural roll of a 1 is always a miss, regardless of modifiers.
 
-Some special rules will state that a target Detachment suffers a number of Hits. In these cases, no Hit rolls are made. Instead, the Detachment in question simply suffers a number of automatic Hits equal to the number stated by the rule. 
+Some special rules will state that a target Detachment suffers a number of Hits. In these cases, no Hit rolls are made. Instead, the Detachment in question simply suffers a number of automatic Hits equal to the number stated by the rule.
 
 ##### Obstructions
 
@@ -355,7 +355,7 @@ It is common for armoured war machines to have weaker armour in the rear than th
 
 When a Hit is allocated against a Vehicle, Super-heavy Vehicle, Knight or Titan, determine which of the target's Arcs the firing model is within. If the firing model is within the target's Rear Arc, the AP of the firing weapon is improved by 1 (for example, an AP of -1 would become AP -2) for that Hit. This takes effect after other rules, such as the Light AT trait, modify the AP (e.g., the AP of a Light AT weapon would be reduced to 0 then improved to -1 if within the target's Rear Arc) - [see page 77](../legions_imperialis_rules/weapon_traits.md) for more information on Traits.
 
-Any Hits scored by a firing model in a target's Rear Arc that are allocated to a Void Shield ([see page 97](../legions_imperialis_rules/special_rules.md#void-shields-x)) do not improve their AP by 1. In other words, a weapon with an AP of 0 or worse would still be automatically discarded when allocated to a Void Shield, even if the firing model was in the target's Rear Arc. 
+Any Hits scored by a firing model in a target's Rear Arc that are allocated to a Void Shield ([see page 97](../legions_imperialis_rules/special_rules.md#void-shields-x)) do not improve their AP by 1. In other words, a weapon with an AP of 0 or worse would still be automatically discarded when allocated to a Void Shield, even if the firing model was in the target's Rear Arc.
 
 ![](../media/legions_imperialis_rules/rear_armour.jpg)
 
@@ -483,9 +483,9 @@ The End phase takes place, as the name suggests, at the end of each round. Durin
 
 **The End phase is broken down into the following stages:**
 
-1. Fall Back stage 
-2. Resolve End Phase Effects stage 
-3. Remove Flyers stage 
+1. Fall Back stage
+2. Resolve End Phase Effects stage
+3. Remove Flyers stage
 4. Calculate Victory Points stage
 
 ### Fall Back Stage
@@ -522,6 +522,6 @@ In the Remove Flyers stage, players remove their Flyers from the battlefield, as
 
 ### Calculate Victory Points Stage
 
-If playing a Mission that involves Victory Points and/or Objective markers, determine which player is in control of which Objective marker and award any Victory Points ([see page 103](../legions_imperialis_rules/fighting_a_battle.md#scoring-victory-points) for more details). 
+If playing a Mission that involves Victory Points and/or Objective markers, determine which player is in control of which Objective marker and award any Victory Points ([see page 103](../legions_imperialis_rules/fighting_a_battle.md#scoring-victory-points) for more details).
 
 Once all stages of the End phase have been resolved, the round ends and either the next round begins or, if the Mission dictates, the battle ends.

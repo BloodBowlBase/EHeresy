@@ -417,6 +417,152 @@ A Leman Russ Strike Squadron can purchase one of the following upgrades:
 
 <div class="unitCard" markdown>
 
+### Leman Russ Executioner Squadron [175 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
+
+| Name                    | Movement | Sv  | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Leman Russ Executioner   |    8"    | 2+  | +2  |   4+   |  1  |
+
+**Weapons**
+
+* Executioner plasma cannon
+* Hull Mounted heavy bolter or Hull Mounted lascannon
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                           |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Executioner plasma cannon    |  12"  |  2  |   4+   | -1  | [Light AT]                                       |
+| Hull Mounted heavy bolter    |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Hull Mounted lascannon       |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]                       |
+
+**Upgrades**
+
+A Leman Russ Executioner Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+85 points]
+* **Increase the Detachment size by 4** [+160 points]
+* **Increase the Detachment size by 6** [+220 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Leman Russ Demolisher Squadron [175 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
+
+| Name                    | Movement | Sv  | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Leman Russ Demolisher    |    8"    | 2+  | +2  |   4+   |  1  |
+
+**Weapons**
+
+* Demolisher cannon
+* Hull Mounted heavy bolter or Hull Mounted lascannon
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                           |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Demolisher cannon            |  12"  |  1  |   4+   | -3  | [Demolisher], [Ignores Cover]                    |
+| Hull Mounted heavy bolter    |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Hull Mounted lascannon       |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]                       |
+
+**Upgrades**
+
+A Leman Russ Demolisher Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+85 points]
+* **Increase the Detachment size by 4** [+160 points]
+* **Increase the Detachment size by 6** [+220 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Leman Russ Annihilator Squadron [175 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
+
+| Name                    | Movement | Sv  | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Leman Russ Annihilator   |    8"    | 2+  | +2  |   4+   |  1  |
+
+**Weapons**
+
+* Annihilator twin lascannon
+* Hull Mounted heavy bolter or Hull Mounted lascannon
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                           |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Annihilator twin lascannon   |  22"  |  1  |   4+   | -1  | [Accurate], [Anti-tank]                          |
+| Hull Mounted heavy bolter    |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Hull Mounted lascannon       |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]                       |
+
+**Upgrades**
+
+A Leman Russ Annihilator Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+85 points]
+* **Increase the Detachment size by 4** [+160 points]
+* **Increase the Detachment size by 6** [+220 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Leman Russ Exterminator Squadron [175 Points]
+
+* **Type:** Vehicle (2)
+* **Detachment Size:** 4
+
+| Name                    | Movement | Sv  | CAF | Morale | W |
+| ----------------------- | :------: | :-: | :-: | :----: | :-: |
+| Leman Russ Exterminator  |    8"    | 2+  | +2  |   4+   |  1  |
+
+**Weapons**
+
+* Exterminator autocannon
+* Hull Mounted heavy bolter or Hull Mounted lascannon
+
+**Upgrades**
+
+A Leman Russ Exterminator Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 2** [+85 points]
+* **Increase the Detachment size by 4** [+160 points]
+* **Increase the Detachment size by 6** [+220 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
 ### Malcador Tank Squadron [165 Points]
 
 * **Type:** Vehicle (2)
@@ -621,6 +767,126 @@ An Auxilia Stormhammer Squadron can purchase one of the following upgrades:
 - **Increase the Detachment size by** 2 [+200 points]
 
 Any Stormhammer may exchange its Stormhammer multi-laser sponsons for Stormhammer lascannon sponsons for [+4 points per model].
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Auxilia Shadowsword Squadron [140 Points]
+
+* **Type:** Super-Heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name        | Movement | Sv  | CAF | Morale | W |
+| ----------- | :------: | :-: | :-: | :----: | :-: |
+| Shadowsword |    6"    | 2+  | +2  |   4+   |  2  |
+
+**Weapons**
+
+* Volcano cannon
+* Hull Mounted heavy bolter turret
+* Shadowsword heavy bolter sponsons
+* Lascannon sponson turrets
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                           |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Volcano cannon               |  70"  |  1  |   3+   | -4  | [Arc] (Front), [Engine Killer (2)]               |
+| Hull Mounted heavy bolter turret | 12" |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Shadowsword heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence]                        |
+| Lascannon sponson turrets    |  22"  |  1  |   4+   | -1  | [Anti-tank]                                      |
+
+**Upgrades**
+
+An Auxilia Shadowsword Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+130 points]
+* **Increase the Detachment size by 2** [+260 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Auxilia Stormsword Squadron [100 Points]
+
+* **Type:** Super-Heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name       | Movement | Sv  | CAF | Morale | W |
+| ---------- | :------: | :-: | :-: | :----: | :-: |
+| Stormsword |    6"    | 2+  | +2  |   4+   |  2  |
+
+**Weapons**
+
+* Stormsword siege cannon
+* Hull Mounted heavy bolter turret
+* Stormsword heavy bolter sponsons
+* Lascannon sponson turrets
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                           |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Stormsword siege cannon      |  30"  |  1  |   3+   | -2  | [Arc] (Front), [Demolisher], [Ignores Cover]     |
+| Hull Mounted heavy bolter turret | 12" |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Stormsword heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence]                        |
+| Lascannon sponson turrets    |  22"  |  1  |   4+   | -1  | [Anti-tank]                                      |
+
+**Upgrades**
+
+An Auxilia Stormsword Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+90 points]
+* **Increase the Detachment size by 2** [+180 points]
+
+**Special Rules**
+
+[Chain of Command], [Explorator Adaptation]
+
+</div>
+
+---
+
+<div class="unitCard" markdown>
+
+### Auxilia Stormblade Squadron [120 Points]
+
+* **Type:** Super-Heavy Vehicle (3)
+* **Detachment Size:** 1
+
+| Name       | Movement | Sv  | CAF | Morale | W |
+| ---------- | :------: | :-: | :-: | :----: | :-: |
+| Stormblade |    6"    | 2+  | +2  |   4+   |  2  |
+
+**Weapons**
+
+* Plasma blastgun
+* Hull Mounted heavy bolter turret
+* Stormblade heavy bolter sponsons
+* Lascannon sponson turrets
+
+| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                           |
+| --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
+| Plasma blastgun              |  20"  |  2  |   3+   | -3  | [Arc] (Front)                                    |
+| Hull Mounted heavy bolter turret | 12" |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
+| Stormblade heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence]                        |
+| Lascannon sponson turrets    |  22"  |  1  |   4+   | -1  | [Anti-tank]                                      |
+
+**Upgrades**
+
+An Auxilia Stormblade Squadron can purchase one of the following upgrades:
+
+* **Increase the Detachment size by 1** [+110 points]
+* **Increase the Detachment size by 2** [+220 points]
 
 **Special Rules**
 

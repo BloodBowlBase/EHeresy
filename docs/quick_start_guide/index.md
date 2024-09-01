@@ -16,13 +16,13 @@ The Space Marine Legions had a long history of inducting Solar Auxilia Cohorts i
 
 **Inducted Cohorts:** All Legion HQ Detachments within this formation gain the [Solar Auxilia HQ] (10") Special Rule.
 
-**Subordinate:** Detachments and models selected from the Solar Auxilia Army List as part of this Formation do not count as [Legion Name] Detachments or models and do not gain any additional special rules associated with any Legion. 
+**Subordinate:** Detachments and models selected from the Solar Auxilia Army List as part of this Formation do not count as [Legion Name] Detachments or models and do not gain any additional special rules associated with any Legion.
 
-**COMPULSORY DETACHMENTS** 
+**COMPULSORY DETACHMENTS**
 
 **Legion**
 
-[![](../media/the_legiones_astartes/compulsory_hq.jpg)](../the_legiones_astartes/detachments.md#hq-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../the_legiones_astartes/detachments.md#core-detachments) [![](../media/the_legiones_astartes/compulsory_battle_tank.jpg)](../the_legiones_astartes/detachments.md#battle-tank-detachments) 
+[![](../media/the_legiones_astartes/compulsory_hq.jpg)](../the_legiones_astartes/detachments.md#hq-detachments) [![](../media/the_legiones_astartes/compulsory_core.jpg)](../the_legiones_astartes/detachments.md#core-detachments) [![](../media/the_legiones_astartes/compulsory_battle_tank.jpg)](../the_legiones_astartes/detachments.md#battle-tank-detachments)
 
 **Solar Auxilia**
 
@@ -32,7 +32,7 @@ The Space Marine Legions had a long history of inducting Solar Auxilia Cohorts i
 
 **Legion**
 
-[![](../media/the_legiones_astartes/optional_support.jpg)](../the_legiones_astartes/detachments.md#support-detachments) 
+[![](../media/the_legiones_astartes/optional_support.jpg)](../the_legiones_astartes/detachments.md#support-detachments)
 
 **Solar Auxilia**
 

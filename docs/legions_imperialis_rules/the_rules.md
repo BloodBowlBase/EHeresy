@@ -6,8 +6,8 @@ Its battles and campaigns take place in the same setting as some of Games Worksh
 
 This rulebook is only the beginning of your journey in Legions Imperialis. Future supplements will take a look at infamous events in the Age of Darkness, offer new ways to play your games, new Detachments and armies to deploy to the battlefield, and different theatres of war.
 
-**Commanders of Old and Princeps of New** 
+**Commanders of Old and Princeps of New**
 
 If you're a veteran of Games Workshop's games, you may remember a few other games that bear some of the mechanics included in Legions Imperialis - for example, Epic: Space Marine. Indeed, the rules contained within are inspired by these earlier games. Every effort has been made to retain the feeling of the original games while updating them with new mechanics and renewing them for a new era. For some readers, this rulebook will feel like an age come again.
 
-It also pays to note that Warhammer: The Horus Heresy - Legions Imperialis is just one of many games that take place within the Horus Heresy. The most obvious comparison is Warhammer: The Horus Heresy, with Legions Imperialis representing conflict on a grander scale. There is also Adeptus Titanicus: The Horus Heresy and Aeronautica Imperialis, both of which use some of the same models as Legions Imperialis. Each represents a different scale of war, offering unique challenges, experiences and ways to play. 
+It also pays to note that Warhammer: The Horus Heresy - Legions Imperialis is just one of many games that take place within the Horus Heresy. The most obvious comparison is Warhammer: The Horus Heresy, with Legions Imperialis representing conflict on a grander scale. There is also Adeptus Titanicus: The Horus Heresy and Aeronautica Imperialis, both of which use some of the same models as Legions Imperialis. Each represents a different scale of war, offering unique challenges, experiences and ways to play.

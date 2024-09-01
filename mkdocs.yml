@@ -68,4 +68,7 @@ nav:
       - 'Strategic Assets': 'strategic_assets/index.md'
       - 'Formations': 'strategic_assets/formations.md'
       - 'Detachments': 'strategic_assets/detachments.md'
- 
+  - 'Formations of Legend': 
+      - 'Formations of Legend': 'formations_of_legend/index.md'
+      - 'Legiones Astartes Formations of Legend': 'formations_of_legend/legiones_astartes_formations.md'
+      - 'Solar Auxilia Formations of Legend': 'formations_of_legend/solar_auxilia_formations.md'

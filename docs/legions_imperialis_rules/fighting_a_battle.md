@@ -20,7 +20,7 @@ Of course, players can use whatever sized battlefield they have available to the
 
 #### Battlefield Terrain
 
-There are few battles that take place over wide-open, featureless plains. Although games of Legions Imperialis can take place on battlefields without terrain, the addition of even just a few pieces makes for a much more interesting game. As part of the preparation for the battle, players will need to set up their battlefield terrain - this is always done before any Detachments are deployed on the battlefield and before players determine who deploys where. 
+There are few battles that take place over wide-open, featureless plains. Although games of Legions Imperialis can take place on battlefields without terrain, the addition of even just a few pieces makes for a much more interesting game. As part of the preparation for the battle, players will need to set up their battlefield terrain - this is always done before any Detachments are deployed on the battlefield and before players determine who deploys where.
 
 There are a variety of ways that terrain can be deployed on the battlefield:
 
@@ -30,15 +30,15 @@ There are a variety of ways that terrain can be deployed on the battlefield:
 
 * One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield ([see page 101](../legions_imperialis_rules/fighting_a_battle.md#the-battlefield_1)), the player who did not set up the terrain automatically gains control of it.
 
-Regardless of the method used, terrain should encourage tactical decisions and movement amongst armies. The addition of a cluster of Structures along with a few areas of Obstructing terrain and/or other line of sight blocking terrain will greatly influence the flow of battle, restricting avenues of movement and providing tactical advantages and disadvantages to Detachments. The hobby section of this book includes a few examples of Legions Imperialis battlefields to inspire you. 
+Regardless of the method used, terrain should encourage tactical decisions and movement amongst armies. The addition of a cluster of Structures along with a few areas of Obstructing terrain and/or other line of sight blocking terrain will greatly influence the flow of battle, restricting avenues of movement and providing tactical advantages and disadvantages to Detachments. The hobby section of this book includes a few examples of Legions Imperialis battlefields to inspire you.
 
 ## Matched Play
 
 Matched Play is intended for games where both armies are built to an equal points total, perfect for those wishing to introduce a competitive element to their games or for playing against opponents you do not regularly play against. As such, Matched Play is perfect for pick-up games in your local gaming store as well as for use in tournaments and leagues.
 
-A battle fought using the Matched Play rules is generally fought between two sides, most commonly with one player per side. Each player builds their Army to a points value agreed upon by the two players. 
+A battle fought using the Matched Play rules is generally fought between two sides, most commonly with one player per side. Each player builds their Army to a points value agreed upon by the two players.
 
-The most common points value of an Army in Legions Imperialis is 3,000 points, and the rules have been written with this in mind. However, the rules are designed so points values can be scaled up or down, meaning players are free to determine the points value between them. The higher the points value of the armies, the longer a game will take. Battlefield size may also have to be adjusted; for games of 2,500 points or fewer, a 4' x 4' table is recommended, while a larger table might be required for higher points totals, such as a 6' x 4' table for games of more than 3,500 points. 
+The most common points value of an Army in Legions Imperialis is 3,000 points, and the rules have been written with this in mind. However, the rules are designed so points values can be scaled up or down, meaning players are free to determine the points value between them. The higher the points value of the armies, the longer a game will take. Battlefield size may also have to be adjusted; for games of 2,500 points or fewer, a 4' x 4' table is recommended, while a larger table might be required for higher points totals, such as a 6' x 4' table for games of more than 3,500 points.
 
 If one side includes more players than the other, then the total points value of both sides should be equal, meaning the side with more players will have fewer points to spend on each individual player's armies. Once a points value has been determined, each player musters their Army as described [on page 126](../legions_imperialis_rules/mustering_an_army.md).
 
@@ -54,9 +54,9 @@ Regardless of what method of play you use, the purpose of Warhammer: The Horus H
 
 ## Selecting a Mission
 
-Once all players have assembled their armies, they will need to decide upon a Mission. Each Mission determines the deployment zones of both armies, the Primary Objective for both players and, if necessary, how Objective markers are deployed on the battlefield. 
+Once all players have assembled their armies, they will need to decide upon a Mission. Each Mission determines the deployment zones of both armies, the Primary Objective for both players and, if necessary, how Objective markers are deployed on the battlefield.
 
-To determine a Mission, one player rolls a D6 to determine which column from the Mission table that follows is in use. Then the opposing player rolls a D6 to determine which Mission from that column is being played, comparing the result against the table rows. 
+To determine a Mission, one player rolls a D6 to determine which column from the Mission table that follows is in use. Then the opposing player rolls a D6 to determine which Mission from that column is being played, comparing the result against the table rows.
 
 Alternatively, players can simply choose a Mission from the table, so long as all players agree.
 
@@ -86,19 +86,19 @@ Once deployment zones have been chosen, players deploy any Objective markers, as
 
 In Legions Imperialis, places of vital importance are represented by Objective markers. Objective markers can take many different forms, from simple coloured tokens or bases to custom terrain pieces built to match a player's Army.
 
-Unless otherwise stated, an Objective marker in Legions Imperialis should be represented by a token or base 32mm in diameter. A model can end its move in base contact with an Objective marker and can move through it without issue but cannot end its move overlapping one. Regardless of their appearance, Objective markers do not block line of sight. 
+Unless otherwise stated, an Objective marker in Legions Imperialis should be represented by a token or base 32mm in diameter. A model can end its move in base contact with an Objective marker and can move through it without issue but cannot end its move overlapping one. Regardless of their appearance, Objective markers do not block line of sight.
 
-When deploying Objective markers, the centre of the base is used when measuring - if an Objective marker needs to be placed 18" from a battlefield edge, the centre of the base must be 18" away. During a battle, any measurement to an Objective marker is measured from the edge of the marker. Objective markers cannot be deployed within an area of Impassable terrain, nor can they be deployed overlapping a Structure. 
+When deploying Objective markers, the centre of the base is used when measuring - if an Objective marker needs to be placed 18" from a battlefield edge, the centre of the base must be 18" away. During a battle, any measurement to an Objective marker is measured from the edge of the marker. Objective markers cannot be deployed within an area of Impassable terrain, nor can they be deployed overlapping a Structure.
 
 When deployed some Objective markers will be deployed outside of either player's deployment zone. Objective markers outside either player's deployment zone are referred to as neutral objectives. Neutral objectives often give different Victory Points when captured, depending on the Mission being played.
 
 #### Determine Secondary Objective
 
-Once the battlefield has been set up, both players determine a Secondary Objective for themselves (or one Secondary Objective per side for more than two players). Each player has a separate Secondary Objective that can be different from their opponent's. 
+Once the battlefield has been set up, both players determine a Secondary Objective for themselves (or one Secondary Objective per side for more than two players). Each player has a separate Secondary Objective that can be different from their opponent's.
 
 To determine a Secondary Objective, both players roll two D6 on the table below, re-rolling a dice if duplicates are rolled - they do this until they have two unique numbers. They then compare the results against the Secondary Objectives table to determine which objectives are available to them.
 
-Once this is done, both players secretly choose one of the two Secondary Objectives available to them - the other is discarded. Once both players have chosen their Secondary Objective, they reveal their own to their opponent simultaneously. 
+Once this is done, both players secretly choose one of the two Secondary Objectives available to them - the other is discarded. Once both players have chosen their Secondary Objective, they reveal their own to their opponent simultaneously.
 
 | Result | Secondary Objective |
 |----|-------------|
@@ -123,7 +123,7 @@ Detachments in Reserve can arrive on the battlefield during the course of the ga
 
 Detachments in Reserve do not count as destroyed and are counted for the purposes of determining a Formation's Break Point (i.e., the total number of models in the Formation during Army creation is used, not the total that were deployed on the battlefield). If a Formation becomes Broken while one or more Detachments within it are in Reserve then those Detachments do not have to take a Morale check but are classified as Broken when they arrive on the battlefield.
 
-Detachments in Reserve must be issued an Order as normal and activate when their Detachment does. When activated, Detachments in Reserve can do nothing and thus stay in Reserve, or arrive on the battlefield if their rules allow. As previously stated, Detachments that are in Reserve must be activated after all Detachments on the battlefield, unless it is arriving on the battlefield. 
+Detachments in Reserve must be issued an Order as normal and activate when their Detachment does. When activated, Detachments in Reserve can do nothing and thus stay in Reserve, or arrive on the battlefield if their rules allow. As previously stated, Detachments that are in Reserve must be activated after all Detachments on the battlefield, unless it is arriving on the battlefield.
 
 Unless instructed otherwise, if a Detachment in Reserve has not arrived on the battlefield by the end of the fourth round, it counts as destroyed, can no longer arrive and can take no further part in the battle. The sole exception to this are models with the Flyer special rule - as Flyers move into and out of Reserves during the course of the battle, they are not destroyed as described previously. Any Detachments Embarked upon a Flyer Transport, however, must have arrived on the battlefield by the end of the fourth round.
 
@@ -145,7 +145,7 @@ Once the battle ends, both players determine the total number of Victory Points 
 
 In Legions Imperialis, VPs are earned both during the battle and at the end. Most Missions require the capturing of Objective markers (as follows), with a player scoring VPs at the end of each round for each Objective marker they control. In some missions, different Objective markers are worth different numbers of VPs, meaning some are more lucrative than others. The best generals know when to mount an offensive and when to defend their captured assets; master both and victory will be yours.
 
-In addition to VPs earned through capturing and holding Objective markers, each player's Secondary Objective offers additional ways for them to score VPs at the end of the battle. 
+In addition to VPs earned through capturing and holding Objective markers, each player's Secondary Objective offers additional ways for them to score VPs at the end of the battle.
 
 #### Contested vs. Uncontested Objectives
 
@@ -153,7 +153,7 @@ Many Missions will reference Uncontested Objectives when awarding Victory Points
 
 #### Capturing Objective Markers
 
-During the course of the battle, both armies can capture Objective markers scattered across the battlefield. 
+During the course of the battle, both armies can capture Objective markers scattered across the battlefield.
 
 During the Calculate Victory Points stage of the End phase players determine if any Objective markers have been captured. To capture an Objective marker, a player must have at least one model within 3" of the marker. If the opposing player has no models within 3" of the same marker, the player captures the Objective and is said to be in control of it. Once a player has gained control of an Objective marker, they remain in control of it until the opposing player captures it - they do not need to leave models within 3" of the marker.
 
