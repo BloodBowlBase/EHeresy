@@ -121,12 +121,12 @@ Each individual Structure is its own area of terrain. Unless instructed otherwis
 
 Structures are subject to additional special rules depending on their type. A Structure's type is determined before the start of each game alongside all other pieces of terrain. Each Structure is assigned a type from the table below, based upon its size and 'function':
 
-| Structure Type     | Armour Save (Sv) | Garrison Number (GN) | Wounds | Structure Bonus        | Cover Save |
+| Structure Type | Armour Save (Sv) | Garrison Number (GN) | Wounds | Structure Bonus | Cover Save |
 | :----------------- | :--------------: | :------------------: | :----: | :--------------------- | :--------: |
-| Civitas Imperialis |        5+        |          1          |   2   | -2 to Hit rolls +2 CAF |     4+     |
-| Militas Imperialis |        3+        |          2          |   3   | -2 to Hit rolls +3 CAF |     4+     |
-| Imperialis Grandus |        4+        |          3          |   3   | -2 to Hit rolls +2 CAF |     4+     |
-| Fortification      |        2+        |          1          |   2   | -2 to Hit rolls +3 CAF |     3+     |
+| Civitas Imperialis | 5+ |  1  | 2 | -2 to Hit rolls +2 CAF | 4+ |
+| Militas Imperialis | 3+ |  2  | 3 | -2 to Hit rolls +3 CAF | 4+ |
+| Imperialis Grandus | 4+ |  3  | 3 | -2 to Hit rolls +2 CAF | 4+ |
+| Fortification | 2+ |  1  | 2 | -2 to Hit rolls +3 CAF | 3+ |
 
 As shown in the table, each Structure type has a set of characteristics associated with it:
 

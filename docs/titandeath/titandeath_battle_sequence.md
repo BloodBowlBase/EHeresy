@@ -19,9 +19,9 @@ In Titandeath battles, do not use the Missions from the *Legions Imperialis Rule
 
 | **D3** | **Mission** |
 | ------------ | ----------------- |
-| **1**  | Domination        |
-| **2**  | Breakthrough      |
-| **3**  | Point of Conflict |
+| **1** | Domination |
+| **2** | Breakthrough |
+| **3** | Point of Conflict |
 
 Each Mission determines the deployment zones of both armies, the Primary Objective for both players and, if necessary, how Objective markers are deployed on the battlefield. Descriptions of each Mission, along with their deployment maps, can be found on pages 98-101.
 
@@ -92,12 +92,12 @@ To determine a Secondary Objective, the player rolls two D6 and consults the tab
 
 | **D6** | **Titandeath Secondary Objective** |
 | ------------ | ---------------------------------------- |
-| 1            | Control the Battlefield                  |
-| 2            | Scan and Survey                          |
-| 3            | Fresh Supplies                           |
-| 4            | Stand Tall                               |
-| 5            | A Matter of Honour                       |
-| 6            | Break Their Lines                        |
+| 1 | Control the Battlefield  |
+| 2 | Scan and Survey  |
+| 3 | Fresh Supplies  |
+| 4 | Stand Tall  |
+| 5 | A Matter of Honour  |
+| 6 | Break Their Lines  |
 
 ### Declare Reserves
 
@@ -139,13 +139,13 @@ During the Calculate Victory Points stage of the End phase, each player determin
 
 If both players have models within 6" of an Objective marker then players should calculate the total Tactical Strength of their Detachments within 6" of an Objective. Each Detachment's Tactical Strength is determined by its type, as shown in the table below:
 
-| **Tactical Strength** | **Detachment**                                       |
+| **Tactical Strength** | **Detachment**   |
 | --------------------------- | ---------------------------------------------------------- |
-| 5                           | Warmaster Heavy Battle Titan or Warmaster Iconoclast Titan |
-| 4                           | Warlord Battle Titan or Warlord-Sinister Battle Titan      |
-| 3                           | Warbringer Nemesis Titan or Reaver Battle Titan            |
-| 2                           | Warhound Titan or Dire Wolf Heavy Scout Titan              |
-| 1                           | Any Detachment with the Knight Type                        |
+| 5  | Warmaster Heavy Battle Titan or Warmaster Iconoclast Titan |
+| 4  | Warlord Battle Titan or Warlord-Sinister Battle Titan |
+| 3  | Warbringer Nemesis Titan or Reaver Battle Titan |
+| 2  | Warhound Titan or Dire Wolf Heavy Scout Titan |
+| 1  | Any Detachment with the Knight Type  |
 
 If one player has at least double the Tactical Strength within 6" of an Objective marker compared to the total Tactical Strength of all models controlled by their opponent that are within 6" of the same Objective marker, that player captures the Objective or retains control of it if they had previously captured it.
 

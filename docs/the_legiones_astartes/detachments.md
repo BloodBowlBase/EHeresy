@@ -7,17 +7,17 @@
 * **Type:** Infantry (1)
 * **Detachment Size:** 1
 
-| Name          | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------- | :------: | :-: | :-: | :----: | - |
-| Command Squad |    5"    | 4+ | +4 |   2+   | 1 |
+| Command Squad | 5" | 4+ | +4 | 2+ | 1 |
 
 **Weapons**
 
 * Legion combi-bolters
 
-| Weapon               | Range | Dice | To Hit | AP | Traits                         |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | -------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Legion combi-bolters |  8"  |  1  |   5+   | 0 | [Accurate], [Assault], [Light] |
+| Legion combi-bolters | 8" | 1 | 5+ | 0 | [Accurate], [Assault], [Light] |
 
 **Special Rules**
 
@@ -60,19 +60,19 @@
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
 
-| Name  | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ----- | :------: | :-: | :-: | :----: | :-: |
-| Rhino |    9"    | 4+ | +0 |   3+   | 1 |
+| Rhino | 9" | 4+ | +0 | 3+ | 1 |
 
 **Weapons**
 
 * Pintle Mounted twin-linked bolter
 
-| Weapon                            | Range | Dice | To Hit | AP | Traits                                             |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------------- | :---: | :--: | :----: | :-: | -------------------------------------------------- |
-| Pintle Mounted twin-linked bolter |  8"  |  1  |   5+   | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
-| Pintle Mounted multi-melta        |  6"  |  1  |   5+   | -3 | [Anti-tank], [Arc] (Front)                         |
-| Pintle Mounted havoc launcher     |  15"  |  1  |   4+   | 0 | [Arc] (Front), [Light AT], [Point Defence]         |
+| Pintle Mounted twin-linked bolter | 8" | 1 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
+| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | [Anti-tank], [Arc] (Front)  |
+| Pintle Mounted havoc launcher | 15" | 1 | 4+ | 0 | [Arc] (Front), [Light AT], [Point Defence] |
 
 **Upgrades**
 
@@ -96,22 +96,22 @@ A Rhino may exchange its Pintle Mounted twin-linked bolter for one of the follow
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
 
-| Name    | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------- | :------: | :-: | :-: | :----: | :-: |
-| Spartan |    8"    | 2+ | +2 |   3+   | 2 |
+| Spartan | 8" | 2+ | +2 | 3+ | 2 |
 
 **Weapons**
 
 * Sponson Mounted quad lascannon or Sponson Mounted laser destroyers
 * Hull Mounted heavy bolters
 
-| Weapon                           | Range | Dice | To Hit | AP | Traits                                  |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | -------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Sponson Mounted quad lascannon   |  22"  |  2  |   4+   | -1 | [Accurate], [Arc] (Front), [Anti-tank]  |
-| Hull Mounted heavy bolters       |  12"  |  2  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted laser destroyers |  15"  |  2  |   4+   | -2 | [Accurate], [Arc] (Front), [Anti-tank]  |
-| Hull Mounted lascannon           |  22"  |  1  |   4+   | -1 | [Arc] (Front), [Anti-tank]              |
-| Pintle Mounted multi-melta       |  6"  |  1  |   5+   | -3 | [Arc] (Front), [Anti-tank]              |
+| Sponson Mounted quad lascannon | 22" | 2 | 4+ | -1 | [Accurate], [Arc] (Front), [Anti-tank] |
+| Hull Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted laser destroyers | 15" | 2 | 4+ | -2 | [Accurate], [Arc] (Front), [Anti-tank] |
+| Hull Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
+| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
 
@@ -136,18 +136,18 @@ Any Spartan may be equipped with one of the following:
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
 
-| Name        | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ----------- | :------: | :-: | :-: | :----: | :-: |
-| Land Raider |    9"    | 2+ | +2 |   3+   | 1 |
+| Land Raider | 9" | 2+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 - Sponson Mounted twin-linked lascannon
 
-| Weapon                                | Range | Dice | To Hit | AP | Traits                                 |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------------------- | :---: | :--: | :----: | :-: | -------------------------------------- |
-| Sponson Mounted twin-linked lascannon |  22"  |  1  |   4+   | -1 | [Accurate], [Arc] (Front), [Anti-tank] |
-| Pintle Mounted multi-melta            |  6"  |  1  |   5+   | -3 | [Arc] (Front), [Anti-tank]             |
+| Sponson Mounted twin-linked lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Arc] (Front), [Anti-tank] |
+| Pintle Mounted multi-melta | 6" | 1 | 5+ | -3 | [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
 
@@ -168,17 +168,17 @@ For every three Land Raiders in the Detachment, one Land Raider can be equipped 
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
 
-| Name     | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | -------- | :------: | :-: | :-: | :----: | :-: |
-| Drop Pod |    -    | 4+ | -3 |   -   | 1 |
+| Drop Pod | - | 4+ | -3 | - | 1 |
 
 **Weapons**
 
 - Turret Mounted twin bolter
 
-| Weapon                     | Range | Dice | To Hit | AP | Traits                              |
+| Weapon  | Range | Dice | To Hit | AP | Traits  |
 | -------------------------- | :---: | :--: | :----: | :-: | ----------------------------------- |
-| Turret Mounted twin bolter |  8"  |  1  |   5+   | 0 | [Assault], [Light], [Point Defence] |
+| Turret Mounted twin bolter | 8" | 1 | 5+ | 0 | [Assault], [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -199,9 +199,9 @@ A Legion Drop Pod Detachment can purchase one Palisade Drop Pod for each Drop Po
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
 
-| Name                 | Movement | Sv | CAF | Morale | W |
+| Name  | Movement | Sv | CAF | Morale | W |
 | -------------------- | :------: | :-: | :-: | :----: | :-: |
-| Dreadnought Drop Pod |    -    | 4+ | -8 |   -   | 1 |
+| Dreadnought Drop Pod | - | 4+ | -8 | - | 1 |
 
 **Weapons**
 
@@ -226,17 +226,17 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 * **Type:** Vehicle (2)
 * **Detachment Size:** Variable
 
-| Name    | Movement | Sv  | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------- | :------: | :-: | :-: | :----: | :-: |
-| Termite |    5"    | 4+  | +1  |   3+   |  1  |
+| Termite | 5" | 4+ | +1 | 3+ | 1 |
 
 **Weapons**
 
 * Termite twin-linked bolters
 
-| **Weapon**                  | Range | Dice | To Hit | AP | Traits                                      |
+| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
-| Termite twin-linked bolters  |  8"   |  2   |   5+   |  0  | [Arc] (Front), [Assault], [Light], [Point Defence] |
+| Termite twin-linked bolters | 8" | 2 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
 
 **Special Rules**
 
@@ -254,9 +254,9 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 
 #### Legion Palisade Drop Pod
 
-| Name            | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | --------------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Palisade |    -    | 4+ | -8 |   -   | -1 |
+| Legion Palisade | - | 4+ | -8 | - | -1 |
 
 **Weapons**
 
@@ -280,20 +280,20 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
 
-| Name                 | Movement | Sv | CAF | Morale | W |
+| Name  | Movement | Sv | CAF | Morale | W |
 | -------------------- | :------: | :-: | :-: | :----: | :-: |
-| Tactical Legionaries |    5"    | 5+ | +2 |   3+   | 1 |
+| Tactical Legionaries | 5" | 5+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 * Legion bolters
 
-| Weapon            | Range | Dice | To Hit | AP | Traits                   |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | ----------------- | :---: | :--: | :----: | :-: | ------------------------ |
-| Legion bolters    |  8"  |  1  |   5+   | 0 | [Assault], [Light]       |
-| Plasma guns       |  10"  |  1  |   4+   | -1 | [Light AT]               |
-| Missile launchers |  20"  |  2  |   4+   | 0 | [Ignores Cover], [Light] |
-| Missile launchers |  20"  |  1  |   4+   | -1 | [Anti-tank]              |
+| Legion bolters | 8" | 1 | 5+ | 0 | [Assault], [Light] |
+| Plasma guns | 10" | 1 | 4+ | -1 | [Light AT] |
+| Missile launchers | 20" | 2 | 4+ | 0 | [Ignores Cover], [Light] |
+| Missile launchers | 20" | 1 | 4+ | -1 | [Anti-tank] |
 
 **Upgrades**
 
@@ -325,17 +325,17 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 
 * **Type:** Infantry (1)
 
-| Name               | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------ | :------: | :-: | :-: | :----: | :-: |
-| Legion Terminators |    5"    | 4+ | +4 |   3+   | 1 |
+| Legion Terminators | 5" | 4+ | +4 | 3+ | 1 |
 
 **Weapons**
 
 * Legion combi-bolters
 
-| Weapon               | Range | Dice | To Hit | AP | Traits                         |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | -------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Legion combi-bolters |  8"  |  1  |   5+   | 0 | [Accurate], [Assault], [Light] |
+| Legion combi-bolters | 8" | 1 | 5+ | 0 | [Accurate], [Assault], [Light] |
 
 **Special Rules**
 
@@ -347,17 +347,17 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 
 * **Type:** Infantry (1)
 
-| Name            | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | --------------- | :------: | :-: | :-: | :----: | :-: |
-| Assault Marines |    7"    | 5+ | +3 |   3+   | 1 |
+| Assault Marines | 7" | 5+ | +3 | 3+ | 1 |
 
 **Weapons**
 
 * Legion bolt pistols
 
-| Weapon              | Range | Dice | To Hit | AP | Traits  |
+| Weapon | Range | Dice | To Hit | AP | Traits |
 | ------------------- | :---: | :--: | :----: | :-: | ------- |
-| Legion bolt pistols |  6"  |  1  |   5+   | 0 | [Light] |
+| Legion bolt pistols | 6" | 1 | 5+ | 0 | [Light] |
 
 **Special Rules**
 
@@ -376,17 +376,17 @@ A Legion Tactical Detachment can purchase up to four upgrades chosen from the li
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
 
-| Name                | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Support Legionaries |    5"    | 5+ | +2 |   3+   | 1 |
+| Support Legionaries | 5" | 5+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 * Plasma guns
 
-| Weapon      | Range | Dice | To Hit | AP | Traits     |
+| Weapon | Range | Dice | To Hit | AP | Traits |
 | ----------- | :---: | :--: | :----: | :-: | ---------- |
-| Plasma guns |  10"  |  1  |   4+   | -1 | [Light AT] |
+| Plasma guns | 10" | 1 | 4+ | -1 | [Light AT] |
 
 **Upgrades**
 
@@ -406,18 +406,18 @@ A Legion Plasma Gun Support Detachment can purchase one of the following upgrade
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
 
-| Name                | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Support Legionaries |    5"    | 5+ | +1 |   3+   | 1 |
+| Support Legionaries | 5" | 5+ | +1 | 3+ | 1 |
 
 **Weapons**
 
 * Missile launchers
 
-| Weapon            | Range | Dice | To Hit | AP | Traits                   |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | ----------------- | :---: | :--: | :----: | :-: | ------------------------ |
-| Missile launchers |  20"  |  2  |   4+   | 0 | [Ignores Cover], [Light] |
-|                   |  20"  |  1  |   4+   | -1 | [Anti-tank]              |
+| Missile launchers | 20" | 2 | 4+ | 0 | [Ignores Cover], [Light] |
+|  | 20" | 1 | 4+ | -1 | [Anti-tank] |
 
 **Upgrades**
 
@@ -437,17 +437,17 @@ A Legion Missile Launcher Support Detachment can purchase one of the following u
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
 
-| Name            | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | --------------- | :------: | :-: | :-: | :----: | :-: |
-| Assault Marines |    7"    | 5+ | +3 |   3+   | 1 |
+| Assault Marines | 7" | 5+ | +3 | 3+ | 1 |
 
 **Weapons**
 
 * Legion bolt pistols
 
-| Weapon              | Range | Dice | To Hit | AP | Traits  |
+| Weapon | Range | Dice | To Hit | AP | Traits |
 | ------------------- | :---: | :--: | :----: | :-: | ------- |
-| Legion bolt pistols |  6"  |  1  |   5+   | 0 | [Light] |
+| Legion bolt pistols | 6" | 1 | 5+ | 0 | [Light] |
 
 **Upgrades**
 
@@ -471,17 +471,17 @@ A Legion Assault Detachment can purchase one of the following upgrades:
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
 
-| Name               | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------ | :------: | :-: | :-: | :----: | :-: |
-| Legion Terminators |    5"    | 4+ | +4 |   3+   | 1 |
+| Legion Terminators | 5" | 4+ | +4 | 3+ | 1 |
 
 **Weapons**
 
 * Legion combi-bolters
 
-| Weapon               | Range | Dice | To Hit | AP | Traits                         |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | -------------------- | :---: | :--: | :----: | :-: | ------------------------------ |
-| Legion combi-bolters |  8"  |  1  |   5+   | 0 | [Accurate], [Assault], [Light] |
+| Legion combi-bolters | 8" | 1 | 5+ | 0 | [Accurate], [Assault], [Light] |
 
 **Upgrades**
 
@@ -505,19 +505,19 @@ A Legion Terminator Detachment can purchase one of the following upgrades:
 * **Type:** Infantry (1)
 * **Detachment Size:** 2
 
-| Name          | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Rapier |    4"    | 5+ | +1 |   3+   | 1 |
+| Legion Rapier | 4" | 5+ | +1 | 3+ | 1 |
 
 **Weapons**
 
 * Laser destroyer array or quad launcher
 
-| Weapon                | Range | Dice | To Hit | AP | Traits                   |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | --------------------- | :----: | :--: | :----: | :-: | ------------------------ |
-| Laser destroyer array |  15"  |  2  |   4+   | -2 | [Anti-tank]              |
-| Quad launcher         | 6"-30" |  2  |   4+   | -1 | [Barrage], [Light]       |
-|                       |  16"  |  1  |   4+   | -1 | [Demolisher], [Light AT] |
+| Laser destroyer array | 15" | 2 | 4+ | -2 | [Anti-tank] |
+| Quad launcher | 6"-30" | 2 | 4+ | -1 | [Barrage], [Light] |
+|  | 16" | 1 | 4+ | -1 | [Demolisher], [Light AT] |
 
 **Upgrades**
 
@@ -542,9 +542,9 @@ A Legion Rapier Battery Detachment can purchase one of the following upgrades:
 * **Type:** Walker (1)
 * **Detachment Size:** 4
 
-| Name                  | Movement | Sv | CAF | Morale | W |
+| Name  | Movement | Sv | CAF | Morale | W |
 | --------------------- | :------: | :-: | :-: | :----: | :-: |
-| Leviathan Dreadnought |    5"    | 4+ | +5 |   3+   | 1 |
+| Leviathan Dreadnought | 5" | 4+ | +5 | 3+ | 1 |
 
 **Weapons**
 
@@ -552,12 +552,12 @@ A Legion Rapier Battery Detachment can purchase one of the following upgrades:
 * Twin-linked volkite caliver
 * Leviathan siege claw
 
-| Weapon                      | Range | Dice | To Hit | AP | Traits                            |
+| Weapon  | Range | Dice | To Hit | AP | Traits  |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------- |
-| Leviathan storm cannon      |  10"  |  2  |   5+   | -1 | [Light AT], [Rapid Fire]          |
-| Cyclonic melta lance        |  6"  |  1  |   4+   | -3 | [Anti-tank], [Demolisher]         |
-| Twin-linked volkite caliver |  12"  |  1  |   4+   | 0 | [Accurate], [Deflagrate], [Light] |
-| Leviathan siege claw        |   -   |  -  |   -   | -4 | [Rend], [Wrecker] (2)             |
+| Leviathan storm cannon | 10" | 2 | 5+ | -1 | [Light AT], [Rapid Fire] |
+| Cyclonic melta lance | 6" | 1 | 4+ | -3 | [Anti-tank], [Demolisher] |
+| Twin-linked volkite caliver | 12" | 1 | 4+ | 0 | [Accurate], [Deflagrate], [Light] |
+| Leviathan siege claw | - | - | - | -4 | [Rend], [Wrecker] (2) |
 
 **Upgrades**
 
@@ -581,20 +581,20 @@ A Leviathan Siege Dreadnought Detachment can purchase one of the following upgra
 * **Type:** Walker (1)
 * **Detachment Size:** 4
 
-| Name                   | Movement | Sv | CAF | Morale | W |
+| Name  | Movement | Sv | CAF | Morale | W |
 | ---------------------- | :------: | :-: | :-: | :----: | :-: |
-| Contemptor Dreadnought |    5"    | 4+ | +5 |   3+   | 1 |
+| Contemptor Dreadnought | 5" | 4+ | +5 | 3+ | 1 |
 
 **Weapons**
 
 * Kheres assault cannon or twin-linked lascannon
 * In-built twin-linked bolter
 
-| Weapon                      | Range | Dice | To Hit | AP | Traits                              |
+| Weapon  | Range | Dice | To Hit | AP | Traits  |
 | --------------------------- | :---: | :--: | :----: | :-: | ----------------------------------- |
-| Kheres assault cannon       |  10"  |  1  |   5+   | -1 | [Light AT], [Rapid Fire]            |
-| Twin-linked lascannon       |  22"  |  1  |   4+   | -1 | [Accurate], [Anti-tank]             |
-| In-built twin-linked bolter |  8"  |  1  |   5+   | 0 | [Assault], [Light], [Point Defence] |
+| Kheres assault cannon | 10" | 1 | 5+ | -1 | [Light AT], [Rapid Fire] |
+| Twin-linked lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Anti-tank] |
+| In-built twin-linked bolter | 8" | 1 | 5+ | 0 | [Assault], [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -620,17 +620,17 @@ A Legion Dreadnought Talon can purchase up to three upgrades chosen from the lis
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
 
-| Name                | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Deathstorm Drop Pod |    -    | 4+ | -8 |   -   | 1 |
+| Deathstorm Drop Pod | - | 4+ | -8 | - | 1 |
 
 **Weapons**
 
 - Deathstorm missile launcher
 
-| Weapons                     | Range | Dice | To Hit | AP | **Traits**                             |
+| Weapons  | Range | Dice | To Hit | AP | **Traits**  |
 | --------------------------- | :---: | :--: | :----: | :-: | -------------------------------------------- |
-| Deathstorm missile launcher |  10"  | D3+2 |   6+   | -1 | [Light AT], [Limited] (1), [Saturation Fire] |
+| Deathstorm missile launcher | 10" | D3+2 | 6+ | -1 | [Light AT], [Limited] (1), [Saturation Fire] |
 
 **Upgrades**
 
@@ -653,9 +653,9 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 
 * **Type:** Walker (1)
 
-| Name                  | Movement | Sv | CAF | Morale | W |
+| Name  | Movement | Sv | CAF | Morale | W |
 | --------------------- | :------: | :-: | :-: | :----: | :-: |
-| Leviathan Dreadnought |    5"    | 4+ | +5 |   3+   | 1 |
+| Leviathan Dreadnought | 5" | 4+ | +5 | 3+ | 1 |
 
 **Weapons**
 
@@ -663,12 +663,12 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 * Twin-linked volkite caliver
 * Leviathan siege claw
 
-| Weapon                      | Range | Dice | To Hit | AP | Traits                            |
+| Weapon  | Range | Dice | To Hit | AP | Traits  |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------- |
-| Leviathan storm cannon      |  10"  |  2  |   5+   | -1 | [Light AT], [Rapid Fire]          |
-| Cyclonic melta lance        |  6"  |  1  |   4+   | -3 | [Anti-tank], [Demolisher]         |
-| Twin-linked volkite caliver |  12"  |  1  |   4+   | 0 | [Accurate], [Deflagrate], [Light] |
-| Leviathan siege claw        |   -   |  -  |   -   | -4 | [Rend], [Wrecker] (2)             |
+| Leviathan storm cannon | 10" | 2 | 5+ | -1 | [Light AT], [Rapid Fire] |
+| Cyclonic melta lance | 6" | 1 | 4+ | -3 | [Anti-tank], [Demolisher] |
+| Twin-linked volkite caliver | 12" | 1 | 4+ | 0 | [Accurate], [Deflagrate], [Light] |
+| Leviathan siege claw | - | - | - | -4 | [Rend], [Wrecker] (2) |
 
 **Special Rules**
 
@@ -687,18 +687,18 @@ A Legion Deathstorm Drop Pod Battery can purchase one of the following upgrades:
 * **Type:** Infantry (1)
 * **Detachment Size:** 4
 
-| Name             | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ---------------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Tarantula |    -    | 5+ | -3 |   -   | 1 |
+| Legion Tarantula | - | 5+ | -3 | - | 1 |
 
 **Weapons**
 
 * Tarantula lascannon battery or Hyperios air-defence missile launcher
 
-| Weapon                                | Range | Dice | To Hit | AP | Traits                |
+| Weapon  | Range | Dice | To Hit | AP | Traits |
 | ------------------------------------- | :---: | :--: | :----: | :-: | --------------------- |
-| Tarantula lascannon battery           |  22"  |  2  |   5+   | -1 | [Anti-tank]           |
-| Hyperios air-defence missile launcher |  25"  |  1  |   4+   | -1 | [Skyfire], [Tracking] |
+| Tarantula lascannon battery | 22" | 2 | 5+ | -1 | [Anti-tank] |
+| Hyperios air-defence missile launcher | 25" | 1 | 4+ | -1 | [Skyfire], [Tracking] |
 
 **Upgrades**
 
@@ -722,9 +722,9 @@ A Legion Tarantula Battery can purchase one of the following upgrades:
 * **Type:** Walker (1)
 * **Detachment Size:** 4
 
-| Name                | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Deredeo Dreadnought |    5"    | 4+ | +2 |   3+   | 1 |
+| Deredeo Dreadnought | 5" | 4+ | +2 | 3+ | 1 |
 
 **Weapons**
 
@@ -732,12 +732,12 @@ A Legion Tarantula Battery can purchase one of the following upgrades:
 * Aiolos missile launcher
 * Sarcophagus Mounted weapons
 
-| **Weapon**            | Range | Dice | To Hit | AP | Traits                   |
+| **Weapon** | Range | Dice | To Hit | AP | Traits  |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------ |
-| Sarcophagus Mounted weapons |  8"  |  1  |   6+   | 0 | [Light], [Point Defence] |
-| Aiolos missile launcher     |  25"  |  1  |   4+   | -2 | [Anti-tank], [Skyfire]   |
-| Hellfire plasma cannonade   |  14"  |  2  |   4+   | -2 | [Light AT]               |
-| Anvilus autocannon battery  |  16"  |  2  |   5+   | -1 | [Accurate], [Light AT]   |
+| Sarcophagus Mounted weapons | 8" | 1 | 6+ | 0 | [Light], [Point Defence] |
+| Aiolos missile launcher | 25" | 1 | 4+ | -2 | [Anti-tank], [Skyfire] |
+| Hellfire plasma cannonade | 14" | 2 | 4+ | -2 | [Light AT] |
+| Anvilus autocannon battery | 16" | 2 | 5+ | -1 | [Accurate], [Light AT] |
 
 **Upgrades**
 
@@ -763,21 +763,21 @@ A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrad
 * **Type:** Vehicle (2)
 * **Detachment Size:** 3
 
-| Name            | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | --------------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Predator |    9"    | 3+ | +2 |   3+   | 1 |
+| Legion Predator | 9" | 3+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 * Predator cannon or Predator lascannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**              | Range | Dice | To Hit | AP | Traits                                  |
+| **Weapon** | Range | Dice | To Hit | AP | Traits   |
 | ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Predator cannon               |  18"  |  2  |   5+   | -1 | [Light AT]                              |
-| Sponson Mounted heavy bolters |  12"  |  2  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence] |
-| Predator lascannon            |  22"  |  1  |   4+   | -1 | [Accurate], [Anti-tank]                 |
-| Sponson Mounted lascannon     |  22"  |  1  |   4+   | -1 | [Anti-tank], [Arc] (Front)              |
+| Predator cannon | 18" | 2 | 5+ | -1 | [Light AT]  |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Predator lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Anti-tank]  |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Anti-tank], [Arc] (Front) |
 
 **Upgrades**
 
@@ -798,9 +798,9 @@ A Legion Predator Detachment can purchase any of the following upgrades. It may 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
 
-| Name           | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | -------------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Sicaran |   10"   | 3+ | +2 |   3+   | 1 |
+| Legion Sicaran | 10" | 3+ | +2 | 3+ | 1 |
 
 **Weapons**
 
@@ -808,13 +808,13 @@ A Legion Predator Detachment can purchase any of the following upgrades. It may 
 * Twin-linked accelerator autocannon or Omega plasma array
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| Weapon                             | Range | Dice | To Hit | AP | Traits                                  |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ---------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Hull Mounted heavy bolter          |  12"  |  2  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence] |
-| Twin-linked accelerator autocannon |  16"  |  3  |   5+   | -1 | [Tracking]                              |
-| Omega plasma array                 |  12"  |  1  |   4+   | -2 | [Accurate]                              |
-| Sponson Mounted heavy bolters      |  12"  |  2  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted lascannon          |  22"  |  1  |   4+   | -1 | [Anti-tank], [Arc] (Front)              |
+| Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Twin-linked accelerator autocannon | 16" | 3 | 5+ | -1 | [Tracking]  |
+| Omega plasma array  | 12" | 1 | 4+ | -2 | [Accurate]  |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Anti-tank], [Arc] (Front) |
 
 **Upgrades**
 
@@ -835,9 +835,9 @@ A Legion Sicaran Squadron can purchase any of the following upgrades. It may pur
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
 
-| Name              | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ----------------- | :------: | :-: | :-: | :----: | :-: |
-| Sicaran Punisher  |   10"    | 3+ | +2  |   3+   |  1  |
+| Sicaran Punisher | 10" | 3+ | +2 | 3+ | 1 |
 
 **Weapons**
 
@@ -845,12 +845,12 @@ A Legion Sicaran Squadron can purchase any of the following upgrades. It may pur
 * Punisher rotary cannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**                | Range | Dice | To Hit | AP | Traits                                  |
+| **Weapon** | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Hull Mounted heavy bolter  |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Punisher rotary cannon     |  12"  |  4  |   4+   | -1  | [Light AT], [Rapid Fire]                |
-| Sponson Mounted heavy bolters | 12" |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted lascannon  |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+| Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Punisher rotary cannon | 12" | 4 | 4+ | -1 | [Light AT], [Rapid Fire] |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
 
@@ -871,9 +871,9 @@ A Legion Sicaran Punisher Squadron can purchase any of the following upgrades. I
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
 
-| Name           | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | -------------- | :------: | :-: | :-: | :----: | :-: |
-| Sicaran Arcus  |   10"    | 3+ | +2  |   3+   |  1  |
+| Sicaran Arcus | 10" | 3+ | +2 | 3+ | 1 |
 
 **Weapons**
 
@@ -881,13 +881,13 @@ A Legion Sicaran Punisher Squadron can purchase any of the following upgrades. I
 * Arcus missile launcher
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**                  | Range | Dice | To Hit | AP | Traits                                  |
+| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Hull Mounted heavy bolter    |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Arcus missile launcher       |  16"  |  2  |   4+   | -2  | [Anti-tank], [Ripple Fire]              |
-|                              |  20"  |  2  |   5+   | -2  | [Anti-tank], [Skyfire], [Tracking]      |
-| Sponson Mounted heavy bolters | 12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted lascannon    |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+| Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Arcus missile launcher | 16" | 2 | 4+ | -2 | [Anti-tank], [Ripple Fire] |
+|  | 20" | 2 | 5+ | -2 | [Anti-tank], [Skyfire], [Tracking] |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
 
@@ -908,21 +908,21 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name               | Movement | Sv  | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------ | :------: | :-: | :-: | :----: | :-: |
-| Predator Commander |    9"    | 3+  | +3  |   2+   |  1  |
+| Predator Commander | 9" | 3+ | +3 | 2+ | 1 |
 
 **Weapons**
 
 * Predator cannon or Predator lascannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**                  | Range | Dice | To Hit | AP  | Traits                                  |
+| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Predator cannon              |  18"  |  2  |   5+   | -1  | [Light AT]                              |
-| Predator lascannon           |  22"  |  1  |   4+   | -1  | [Accurate], [Anti-tank]                 |
-| Sponson Mounted heavy bolters | 12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted lascannon    |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+| Predator cannon | 18" | 2 | 5+ | -1 | [Light AT]  |
+| Predator lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Anti-tank]  |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
 
 **Special Rules**
 
@@ -939,9 +939,9 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name               | Movement | Sv  | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------ | :------: | :-: | :-: | :----: | :-: |
-| Sicaran Commander  |   10"    | 3+  | +3  |   2+   |  1  |
+| Sicaran Commander | 10" | 3+ | +3 | 2+ | 1 |
 
 **Weapons**
 
@@ -949,14 +949,14 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * Twin-linked accelerator autocannon or Omega plasma array or Punisher rotary cannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**                        | Range | Dice | To Hit | AP  | Traits                                  |
+| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Omega plasma array                |  12"  |  1  |   4+   | -2  | [Accurate]                              |
-| Punisher rotary cannon            |  12"  |  4  |   4+   | -1  | [Light AT], [Rapid Fire]                |
-| Twin-linked accelerator autocannon | 16"  |  3  |   5+   | -1  | [Tracking]                              |
-| Hull Mounted heavy bolter         |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted heavy bolters     |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Sponson Mounted lascannon         |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
+| Omega plasma array | 12" | 1 | 4+ | -2 | [Accurate]  |
+| Punisher rotary cannon | 12" | 4 | 4+ | -1 | [Light AT], [Rapid Fire] |
+| Twin-linked accelerator autocannon | 16" | 3 | 5+ | -1 | [Tracking]  |
+| Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
 
 **Special Rules**
 
@@ -975,9 +975,9 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * **Type:** Vehicle (2)
 * **Detachment Size:** 2
 
-| Name          | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------- | :------: | :-: | :-: | :----: | :-: |
-| Legion Kratos |    8"    | 2+ | +3 |   3+   | 2 |
+| Legion Kratos | 8" | 2+ | +3 | 3+ | 2 |
 
 **Weapons**
 
@@ -985,17 +985,17 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * Two Hull Mounted heavy bolters or two Kratos lascannon or two Kratos autocannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| Weapon                        | Range | Dice | To Hit | AP | Traits                                     |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------ |
-| Kratos battlecannon           |  20"  |  2  |   4+   | -1 |                                            |
-|                               |  10"  |  1  |   4+   | -4 | [Anti-tank], [Armourbane]                  |
-| Co-axial autocannon           |  16"  |  2  |   5+   | -1 | [Co-axial], [Light AT]                     |
-| Melta blastgun                |  8"  |  1  |   4+   | -4 | [Anti-tank], [Armourbane], [Bunker Buster] |
-| Hull Mounted heavy bolters    |  12"  |  2  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence]    |
-| Sponson Mounted heavy bolters |  12"  |  2  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence]    |
-| Sponson Mounted lascannon     |  22"  |  1  |   4+   | -1 | [Anti-tank], [Arc] (Front)                 |
-| Kratos autocannon             |  16"  |  2  |   5+   | -1 | [Accurate], [Arc] (Front), [Light AT]      |
-| Kratos lascannon              |  22"  |  1  |   4+   | -1 | [Accurate], [Arc] (Front), [Anti-tank]     |
+| Kratos battlecannon | 20" | 2 | 4+ | -1 |   |
+|  | 10" | 1 | 4+ | -4 | [Anti-tank], [Armourbane]  |
+| Co-axial autocannon | 16" | 2 | 5+ | -1 | [Co-axial], [Light AT]  |
+| Melta blastgun | 8" | 1 | 4+ | -4 | [Anti-tank], [Armourbane], [Bunker Buster] |
+| Hull Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Anti-tank], [Arc] (Front)  |
+| Kratos autocannon | 16" | 2 | 5+ | -1 | [Accurate], [Arc] (Front), [Light AT] |
+| Kratos lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Arc] (Front), [Anti-tank] |
 
 **Upgrades**
 
@@ -1016,9 +1016,9 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name             | Movement | Sv  | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ---------------- | :------: | :-: | :-: | :----: | :-: |
-| Kratos Commander |    8"    | 2+  | +4  |   2+   |  2  |
+| Kratos Commander | 8" | 2+ | +4 | 2+ | 2 |
 
 **Weapons**
 
@@ -1026,17 +1026,17 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * Two Hull Mounted heavy bolters or two Kratos lascannon or two Kratos autocannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**                    | Range | Dice | To Hit | AP  | Traits                                           |
+| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
 | ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
-| Kratos battlecannon            |  20"  |  2  |   4+   | -1  |                                                   |
-|                                |  10"  |  1  |   4+   | -4  | [Anti-tank], [Armourbane]                         |
-| Co-axial autocannon            |  16"  |  2  |   5+   | -1  | [Co-axial], [Light AT]                            |
-| Melta blastgun                 |   8"  |  1  |   4+   | -4  | [Anti-tank], [Armourbane], [Bunker Buster]        |
-| Hull Mounted heavy bolters     |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
-| Sponson Mounted heavy bolters  |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence]          |
-| Sponson Mounted lascannon      |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Anti-tank]                       |
-| Kratos autocannon              |  16"  |  2  |   5+   | -1  | [Arc] (Front), [Accurate], [Light AT]            |
-| Kratos lascannon               |  22"  |  1  |   4+   | -1  | [Arc] (Front), [Accurate], [Anti-tank]           |
+| Kratos battlecannon | 20" | 2 | 4+ | -1 |    |
+|  | 10" | 1 | 4+ | -4 | [Anti-tank], [Armourbane]  |
+| Co-axial autocannon | 16" | 2 | 5+ | -1 | [Co-axial], [Light AT]  |
+| Melta blastgun  | 8" | 1 | 4+ | -4 | [Anti-tank], [Armourbane], [Bunker Buster] |
+| Hull Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank]  |
+| Kratos autocannon | 16" | 2 | 5+ | -1 | [Arc] (Front), [Accurate], [Light AT] |
+| Kratos lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Accurate], [Anti-tank] |
 
 **Special Rules**
 
@@ -1055,9 +1055,9 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * **Type:** Vehicle (2)
 * **Detachment Size:** 4
 
-| Name  | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ----- | :------: | :-: | :-: | :----: | :-: |
-| Sabre |   11"    | 4+ | +2  |   3+   |  1  |
+| Sabre | 11" | 4+ | +2 | 3+ | 1 |
 
 **Weapons**
 
@@ -1065,13 +1065,13 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * Hull Mounted heavy bolter or Hull Mounted multi-melta
 * Sabre missiles
 
-| **Weapon**                  | Range | Dice | To Hit | AP | Traits                                  |
+| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Anvilus autocannon (Hull Mounted) |  16"  |  3  |   5+   | -1  | [Arc] (Front), [Light AT]               |
-| Neutron blaster (Hull Mounted)    |  12"  |  1  |   4+   | -3  | [Arc] (Front), [Anti-tank], [Shock Pulse] |
-| Hull Mounted heavy bolter         |  12"  |  2  |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
-| Hull Mounted multi-melta          |   6"  |  1  |   5+   | -3  | [Arc] (Front), [Anti-tank]              |
-| Sabre missiles                    |  12"  |  1  |   5+   | -1  | [Arc] (Front), [Light AT]               |
+| Anvilus autocannon (Hull Mounted) | 16" | 3 | 5+ | -1 | [Arc] (Front), [Light AT] |
+| Neutron blaster (Hull Mounted) | 12" | 1 | 4+ | -3 | [Arc] (Front), [Anti-tank], [Shock Pulse] |
+| Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
+| Hull Mounted multi-melta | 6" | 1 | 5+ | -3 | [Arc] (Front), [Anti-tank] |
+| Sabre missiles  | 12" | 1 | 5+ | -1 | [Arc] (Front), [Light AT] |
 
 **Upgrades**
 
@@ -1096,19 +1096,19 @@ A Legion Sabre Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name               | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------ | :------: | :-: | :-: | :----: | :-: |
-| Xiphon Interceptor |   30"   | 3+ | +0 |   -   | 1 |
+| Xiphon Interceptor | 30" | 3+ | +0 | - | 1 |
 
 **Weapons**
 
 * Xiphon lascannon array
 * Xiphon rotary missile launcher
 
-| Weapon                         | Range | Dice | To Hit | AP | Traits                                            |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------------ | :---: | :--: | :----: | :-: | ------------------------------------------------- |
-| Xiphon lascannon array         |  22"  |  2  |   4+   | -1 | [Arc] (Front), [Accurate], [Anti-tank], [Skyfire] |
-| Xiphon rotary missile launcher |  24"  |  2  |   4+   | -1 | [Arc] (Front), [Skyfire], [Tracking]              |
+| Xiphon lascannon array | 22" | 2 | 4+ | -1 | [Arc] (Front), [Accurate], [Anti-tank], [Skyfire] |
+| Xiphon rotary missile launcher | 24" | 2 | 4+ | -1 | [Arc] (Front), [Skyfire], [Tracking] |
 
 **Upgrades**
 
@@ -1133,9 +1133,9 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name        | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ----------- | :------: | :-: | :-: | :----: | :-: |
-| Storm Eagle |   25"   | 3+ |  0  |   -   | 1 |
+| Storm Eagle | 25" | 3+ | 0 | - | 1 |
 
 **Weapons**
 
@@ -1144,11 +1144,11 @@ A Legion Xiphon Interceptor Squadron can purchase one of the following upgrades:
 * Wing Mounted lascannon
 * Tempest rockets
 
-| Weapon                   | Range | Dice | To Hit | AP | Traits                                             |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------ | :---: | :--: | :----: | :-: | -------------------------------------------------- |
-| Storm Eagle heavy bolter |  12"  |  3  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
-| Vengeance launcher       |  25"  |  2  |   4+   | -1 | [Arc] (Front), [Light AT]                          |
-| Wing Mounted lascannon   |  22"  |  2  |   4+   | -1 | [Anti-tank], [Arc] (Front), [Skyfire]              |
+| Storm Eagle heavy bolter | 12" | 3 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
+| Vengeance launcher | 25" | 2 | 4+ | -1 | [Arc] (Front), [Light AT]  |
+| Wing Mounted lascannon | 22" | 2 | 4+ | -1 | [Anti-tank], [Arc] (Front), [Skyfire] |
 
 **Upgrades**
 
@@ -1172,9 +1172,9 @@ A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name        | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ----------- | :------: | :-: | :-: | :----: | :-: |
-| Fire Raptor |   25"   | 3+ |  0  |   -   | 1 |
+| Fire Raptor | 25" | 3+ | 0 | - | 1 |
 
 **Weapons**
 
@@ -1182,13 +1182,13 @@ A Legion Storm Eagle Squadron can purchase one of the following upgrades:
 * Tempest rockets
 * Quad heavy bolter batteries, lascannon batteries, or Gravis autocannon batteries
 
-| Weapon                      | Range | Dice | To Hit | AP | Traits                                             |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | -------------------------------------------------- |
-| Avenger bolt cannon         |  16"  |  5  |   5+   | -1 | [Arc] (Front), [Light AT], [Rapid Fire], [Skyfire] |
-| Tempest rockets             |  35"  |  1  |   2+   | -2 | [Arc] (Front), [Skyfire]                           |
-| Quad heavy bolter batteries |  12"  |  4  |   5+   | 0 | [Light], [Point Defence], [Skyfire]                |
-| Gravis autocannon batteries |  16"  |  3  |   5+   | -1 | [Light AT], [Skyfire]                              |
-| Lascannon batteries         |  22"  |  2  |   4+   | -1 | [Anti-tank], [Skyfire]                             |
+| Avenger bolt cannon | 16" | 5 | 5+ | -1 | [Arc] (Front), [Light AT], [Rapid Fire], [Skyfire] |
+| Tempest rockets | 35" | 1 | 2+ | -2 | [Arc] (Front), [Skyfire]  |
+| Quad heavy bolter batteries | 12" | 4 | 5+ | 0 | [Light], [Point Defence], [Skyfire] |
+| Gravis autocannon batteries | 16" | 3 | 5+ | -1 | [Light AT], [Skyfire]  |
+| Lascannon batteries | 22" | 2 | 4+ | -1 | [Anti-tank], [Skyfire]  |
 
 **Upgrades**
 
@@ -1212,9 +1212,9 @@ A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 1
 
-| Name                | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------------- | :------: | :-: | :-: | :----: | :-: |
-| Thunderhawk Gunship |   25"   | 2+ |  0  |   -   | 2 |
+| Thunderhawk Gunship | 25" | 2+ | 0 | - | 2 |
 
 **Weapons**
 
@@ -1223,12 +1223,12 @@ A Legion Fire Raptor Squadron can purchase one of the following upgrades:
 * Thunderhawk lascannon
 * Hellstrike missiles
 
-| Weapon                    | Range | Dice | To Hit | AP | Traits                                             |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | -------------------------------------------------- |
-| Turbo-laser destructor    |  40"  |  2  |   4+   | -3 | [Accurate], [Arc] (Front)                          |
-| Thunderhawk heavy bolters |  12"  |  3  |   5+   | 0 | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
-| Thunderhawk lascannon     |  22"  |  2  |   4+   | -1 | [Anti-tank], [Arc] (Front), [Skyfire]              |
-| Hellstrike missiles       |  30"  |  2  |   4+   | -1 | [Arc] (Front), [Armourbane]                        |
+| Turbo-laser destructor | 40" | 2 | 4+ | -3 | [Accurate], [Arc] (Front)  |
+| Thunderhawk heavy bolters | 12" | 3 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence], [Skyfire] |
+| Thunderhawk lascannon | 22" | 2 | 4+ | -1 | [Anti-tank], [Arc] (Front), [Skyfire] |
+| Hellstrike missiles | 30" | 2 | 4+ | -1 | [Arc] (Front), [Armourbane]  |
 
 **Upgrades**
 
@@ -1254,19 +1254,19 @@ A Legion Thunderhawk Gunship can purchase one of the following upgrades:
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
 
-| Name     | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | -------- | :------: | :-: | :-: | :----: | :-: |
-| Outrider |   10"   | 5+ | +2 |   3+   | 1 |
+| Outrider | 10" | 5+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 - Twin-linked bolters
 - Twin plasma guns
 
-| Weapon              | Range | Dice | To Hit | AP | Traits                                                      |
+| Weapon | Range | Dice | To Hit | AP | Traits    |
 | ------------------- | :---: | :--: | :----: | :-: | ----------------------------------------------------------- |
-| Twin-linked bolters |  8"  |  1  |   5+   | 0 | [Assault], [Light], [Point Defence] |
-| Twin plasma guns    |  10"  |  1  |   4+   | -1 | [Light AT]                                                  |
+| Twin-linked bolters | 8" | 1 | 5+ | 0 | [Assault], [Light], [Point Defence] |
+| Twin plasma guns | 10" | 1 | 4+ | -1 | [Light AT]    |
 
 **Upgrades**
 
@@ -1290,17 +1290,17 @@ A Legion Outrider Squadron can purchase one of the following upgrades:
 * **Type:** Cavalry (1)
 * **Detachment Size:** 3
 
-| Name             | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ---------------- | :------: | :-: | :-: | :----: | :-: |
-| Scimitar Jetbike |   10"   | 5+ | +2 |   3+   | 1 |
+| Scimitar Jetbike | 10" | 5+ | +2 | 3+ | 1 |
 
 **Weapons**
 
 - Scimitar heavy bolter
 
-| Weapon                | Range | Dice | To Hit | AP | Traits                   |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | --------------------- | :---: | :--: | :----: | :-: | ------------------------ |
-| Scimitar heavy bolter |  12"  |  2  |   5+   | 0 | [Light], [Point Defence] |
+| Scimitar heavy bolter | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
 
 **Upgrades**
 
@@ -1324,9 +1324,9 @@ A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
 
-| Name         | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------------ | :------: | :-: | :-: | :----: | :-: |
-| Land Speeder |   10"   | 4+ | +1 |   3+   | 1 |
+| Land Speeder | 10" | 4+ | +1 | 3+ | 1 |
 
 **Weapons**
 
@@ -1335,12 +1335,12 @@ A Legion Scimitar Jetbike Squadron can purchase one of the following upgrades:
 - Multi-melta
 - Nose Mounted heavy flamer
 
-| Weapon                    | Range | Dice | To Hit | AP | Traits                                  |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Multi-melta               |  6"  |  1  |   4+   | -3 | [Anti-tank]                             |
-| Plasma cannon             |  12"  |  1  |   4+   | -1 | [Light AT]                              |
-| Heavy bolter              |  12"  |  2  |   5+   | 0 | [Light], [Point Defence]                |
-| Nose Mounted heavy flamer |  6"  |  1  |   4+   | 0 | [Arc] (Front), [Light], [Ignores Cover] |
+| Multi-melta | 6" | 1 | 4+ | -3 | [Anti-tank]  |
+| Plasma cannon | 12" | 1 | 4+ | -1 | [Light AT]  |
+| Heavy bolter | 12" | 2 | 5+ | 0 | [Light], [Point Defence] |
+| Nose Mounted heavy flamer | 6" | 1 | 4+ | 0 | [Arc] (Front), [Light], [Ignores Cover] |
 
 **Upgrades**
 
@@ -1366,9 +1366,9 @@ A Legion Land Speeder Squadron can purchase one of the following upgrades:
 * **Type:** Cavalry (1)
 * **Detachment Size:** 2
 
-| Name    | Movement | Sv | CAF | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | ------- | :------: | :-: | :-: | :----: | :-: |
-| Javelin |   10"   | 4+ | +1 |   3+   | 1 |
+| Javelin | 10" | 4+ | +1 | 3+ | 1 |
 
 **Weapons**
 
@@ -1376,11 +1376,11 @@ A Legion Land Speeder Squadron can purchase one of the following upgrades:
 - Sponson Mounted lascannon
 - Cyclone missile launcher
 
-| Weapon                    | Range | Dice | To Hit | AP | Traits                                  |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
-| Nose Mounted heavy flamer |  6"  |  1  |   4+   | 0 | [Arc] (Front), [Light], [Ignores Cover] |
-| Sponson Mounted lascannon |  22"  |  1  |   4+   | -1 | [Arc] (Front), [Anti-tank]              |
-| Cyclone missile launcher  |  20"  |  2  |   4+   | 0 | [Arc] (Front), [Light], [Ignores Cover] |
+| Nose Mounted heavy flamer | 6" | 1 | 4+ | 0 | [Arc] (Front), [Light], [Ignores Cover] |
+| Sponson Mounted lascannon | 22" | 1 | 4+ | -1 | [Arc] (Front), [Anti-tank] |
+| Cyclone missile launcher | 20" | 2 | 4+ | 0 | [Arc] (Front), [Light], [Ignores Cover] |
 
 **Upgrades**
 
