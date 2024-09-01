@@ -40,7 +40,9 @@ nav:
       - 'Fighting a Battle': 'legions_imperialis_rules/fighting_a_battle.md'
       - 'Missions': 'legions_imperialis_rules/missions.md'
       - 'Secondary Objectives': 'legions_imperialis_rules/secondary_objectives.md'
-      - 'Mustering an Army': 'legions_imperialis_rules/mustering_an_army.md'
+      - 'Mustering an Army': 'legions_imperialis_rules/mustering_an_army.md'      
+      - 'Spearhead Assault Battles': 'legions_imperialis_rules/spearhead_assault_battles.md'
+      - 'Spearhead Assault Missions': 'legions_imperialis_rules/spearhead_assault_missions.md'
   - 'Legions Imperialis Campaigns':  
       - 'Legions Imperialis Campaigns': 'legions_imperialis_campaigns/index.md'
       - 'Warfront Campaign': 'legions_imperialis_campaigns/warfront_campaign.md'
@@ -52,8 +54,6 @@ nav:
       - 'Battle Honours': 'legions_imperialis_campaigns/battle_honours.md'
       - 'Campaign Expansions': 'legions_imperialis_campaigns/campaign_expansions.md'
       - 'Additional Missions': 'legions_imperialis_campaigns/additional_missions.md'
-      - 'Spearhead Assault Battles': 'legions_imperialis_campaigns/spearhead_assault_battles.md'
-      - 'Spearhead Assault Missions': 'legions_imperialis_campaigns/spearhead_assault_missions.md'
   - 'Titandeath':
       - 'Titandeath': 'titandeath/index.md'
       - 'Titandeath Battle Sequence': 'titandeath/titandeath_battle_sequence.md'

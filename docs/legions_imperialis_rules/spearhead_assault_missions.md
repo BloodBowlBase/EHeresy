@@ -2,7 +2,7 @@ The following pages list the Spearhead Assault Missions.
 
 Each Mission comprises a deployment map and the conditions for winning a battle.
 
-}After terrain has been set up, the player who wins control of the battlefield chooses a deployment zone. Deployment zones are indicated on each Mission's deployment map, represented by different colours for each zone. In the majority of Missions presented here, a player's battlefield edge is the long table edge which is touching the player's deployment zone - where this is not the case, the battlefield edge of each player will be highlighted in a corresponding colour. Any Objective markers that need to be deployed are represented by black dots. Some Missions will have additional rules for deployment or special rules that are active during the battle. These will be listed in the Mission's description.
+After terrain has been set up, the player who wins control of the battlefield chooses a deployment zone. Deployment zones are indicated on each Mission's deployment map, represented by different colours for each zone. In the majority of Missions presented here, a player's battlefield edge is the long table edge which is touching the player's deployment zone - where this is not the case, the battlefield edge of each player will be highlighted in a corresponding colour. Any Objective markers that need to be deployed are represented by black dots. Some Missions will have additional rules for deployment or special rules that are active during the battle. These will be listed in the Mission's description.
 
 ## ARMOURED ENGAGEMENT
 
@@ -16,7 +16,7 @@ At the end of each round, the player who destroyed the most Detachments from the
 
 At the end of the battle, each player scores a number of VPs for each Detachment from their Army that is wholly within their opponent's deployment zone, equal to the Scale of that Detachment.
 
-![](../media/legions_imperialis_campaigns/armoured_engagement.jpg)
+![](../media/legions_imperialis_rules/armoured_engagement.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ At the end of each round, the player who destroyed the most Detachments from the
 
 At the end of the battle, each player scores a number of VPs for each Detachment from their Army that is wholly within their opponent's deployment zone, equal to the Scale of that Detachment.
 
-![](../media/legions_imperialis_campaigns/sweeping_front.jpg)
+![](../media/legions_imperialis_rules/sweeping_front.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ At the end of each round, the player who destroyed the most Detachments from the
 
 At the end of the battle, each player scores a number of VPs for each Detachment from their Army that is wholly within their opponent's deployment zone, equal to the Scale of that Detachment.
 
-![](../media/legions_imperialis_campaigns/clash_of_columns.jpg)
+![](../media/legions_imperialis_rules/clash_of_columns.jpg)
 
 ---
 

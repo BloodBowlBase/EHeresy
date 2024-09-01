@@ -1,15 +1,5 @@
 Campaign Expansions are additional rules that can be added to a campaign to introduce additional elements, either to add detail to the campaign process, or additional rewards. Expansions should be chosen at the start of the campaign when selecting the format for that campaign.
 
-### Campaign Expansion: System Warfare
-
-The Conquest Campaign rules presented [on page 71](../legions_imperialis_campaigns/conquest_campaigns.md) represent a conflict over a single planet. However, forces commonly waged war across entire star systems in their quest for victory. To represent this, the System Warfare Expansion can be used.
-
-In this Expansion, players create several separate maps, with each one representing a planet within the star system. When building maps for this Expansion, determine the number of planets you wish to include; one per two to four players in the campaign is a good rule of thumb. Next, they will create a map for each planet - this is done in the same way as the normal Conquest Campaign, however it is recommended that each planet has between three to six hexes rather than a number per player. Each planet should also have at least one Spaceport territory.
-
-When choosing territories to Invade or Protect, the Faction which controls the Spaceport of each planet is important. All Spaceport territories count as adjacent to one another, meaning players can Invade or Protect another planet's Spaceport territory as long as they control a different Spaceport. Otherwise, a player cannot Invade or Protect territories on a planet they control no hexes on; a Militarum Aerodrome territory special rule has no effect on territories on different planets.
-
-When building maps for System Warfare Expansion, it is recommended to have themed planets (e.g., a Forge World with Manufactoria Complexes and Titan Forges) that allow each to be a unique battleground players need to conquer and offer strategic benefits for doing so.
-
 ### Campaign Expansion: Victory Boons
 
 Victory Boons represent the spoils of victory, either the effects that victory has on the resolve and morale of an Army, or material gains not represented through Requisition Points.
@@ -45,9 +35,9 @@ Purchasing Detachments for a Campaign Roster works in the same way as when assem
 
 ---
 
-## Campaign Expansion: Battle Honours
+### Campaign Expansion: Battle Honours
 
-This Campaign Expansion can only be used if your campaign is also using the Campaign Rosters Campaign Expansion.
+This Campaign Expansion can only be used if your campaign is also using the [Campaign Rosters Campaign Expansion](#campaign-expansion-campaign-rosters).
 
 If your campaign is using this Campaign Expansion, you cannot purchase Battle Honours for Detachments using the rules presented [on page 84](./battle_honours.md). Instead, units
 from your Campaign Roster will gain Experience points from the battles you fight, and can spend these to purchase Battle Honours.
@@ -61,6 +51,20 @@ A Detachment can gain more than 1 Experience point at the end of a battle as a r
 *For example, at the end of their campaign battle, Quinn has nominated five Detachments from Ben's Army and numbered them from 1-5. Ben then rolls two D6, getting results of a 2 and a 6. As a result, the Detachment Quinn had nominated as being number 2, a Legion Predator Squadron, gains 1 Experience point. Ben decides that since that Legion Predator Squadron performed so well in their battle, that he will use the roll of 6 to give it the other available Experience point as well. As a result, Ben notes on his Campaign Roster that Legion Predator Squadron has gained 2 Experience points.*
 
 Make a note of the number of Experience points each Detachment on your Campaign Roster has. If a Detachment has 3 or more Experience points, the controlling player can remove them and select a Battle Honour from the appropriate table [on pages 85-88](./battle_honours.md) for that Detachment. Adjust the Detachment's points cost as per the points increase for the selected Battle Honour, then reduce that Detachment's Experience points total to zero.
+
+---
+
+## Conquest Campaign Expansions
+
+### Campaign Expansion: System Warfare
+
+The Conquest Campaign rules presented [on page 71](../legions_imperialis_campaigns/conquest_campaigns.md) represent a conflict over a single planet. However, forces commonly waged war across entire star systems in their quest for victory. To represent this, the System Warfare Expansion can be used.
+
+In this Expansion, players create several separate maps, with each one representing a planet within the star system. When building maps for this Expansion, determine the number of planets you wish to include; one per two to four players in the campaign is a good rule of thumb. Next, they will create a map for each planet - this is done in the same way as the normal Conquest Campaign, however it is recommended that each planet has between three to six hexes rather than a number per player. Each planet should also have at least one Spaceport territory.
+
+When choosing territories to Invade or Protect, the Faction which controls the Spaceport of each planet is important. All Spaceport territories count as adjacent to one another, meaning players can Invade or Protect another planet's Spaceport territory as long as they control a different Spaceport. Otherwise, a player cannot Invade or Protect territories on a planet they control no hexes on; a Militarum Aerodrome territory special rule has no effect on territories on different planets.
+
+When building maps for System Warfare Expansion, it is recommended to have themed planets (e.g., a Forge World with Manufactoria Complexes and Titan Forges) that allow each to be a unique battleground players need to conquer and offer strategic benefits for doing so.
 
 ---
 
@@ -81,3 +85,4 @@ If a player is victorious, their Army Marker is moved to the new territory. If t
 **Designer's Note: More than one Army Marker**
 
 *If players wish, each player can have more than one Army Marker. This will generally work best with a small number of players or a larger map. If players choose to use the Army Markers Expansion in combination with the Campaign Rosters Expansion, they can have separate Campaign Rosters for each Army Marker if they wish to add an additional level of detail. Players doing so will also need to distinguish each of their markers from each other. For this, players can simply add a number to each of their markers, then add a number to the corresponding Campaign Roster for that marker to ensure the position of each of that player's armies is tracked clearly.*
+
