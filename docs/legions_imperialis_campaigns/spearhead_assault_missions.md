@@ -54,7 +54,7 @@ At the end of the battle, each player scores a number of VPs for each Detachment
 
 ## SECONDARY OBJECTIVES
 
-In addition to the possible ways to score Victory Points described in each Mission, each player has a Secondary Objective. Secondary Objectives are chosen as described on [page 74].
+In addition to the possible ways to score Victory Points described in each Mission, each player has a Secondary Objective. Secondary Objectives are chosen as described [on page 74](./spearhead_assault_battles.md#determine-secondary-objective).
 
 Each of the Secondary Objectives are described over the following pages. If a Secondary Objective requires the placement of an Objective marker, then the marker must be clearly indicated as different from the Mission Objective markers. Any time a Secondary Objective marker is placed, either while setting up the battlefield or during the course of a game, it cannot be placed within an area of Impassable Terrain, overlapping a Structure or overlapping the base of any model. If the marker must be placed but does not meet these rules, move the marker the shortest possible distance to allow it to be placed.
 
@@ -92,7 +92,7 @@ At the end of the battle, the player with this Secondary Objective scores 15 VPs
 
 ### Dominate the Battlefield
 
-At the end of the battle, divide the battlefield into equal quarters and calculate the total Tactical Strength (see page 103 of the *Legions Imperialis Rulebook*) of each player's models with a Scale of 2 or more that are wholly within each quarter. The player with the greatest total Tactical Strength in each quarter is said to be in control of it - if the total Tactical Strength is the same, no player controls it.
+At the end of the battle, divide the battlefield into equal quarters and calculate the total Tactical Strength ([see page 103](../legions_imperialis_rules/fighting_a_battle.md#capturing-objective-markers) of the *Legions Imperialis Rulebook*) of each player's models with a Scale of 2 or more that are wholly within each quarter. The player with the greatest total Tactical Strength in each quarter is said to be in control of it - if the total Tactical Strength is the same, no player controls it.
 
 **Scoring**
 

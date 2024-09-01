@@ -12,7 +12,7 @@ At the start of the campaign, the Breakthrough marker for each Route should be o
 
 **Designer's Note: More Than Three Players**
 
-While the example above shows a campaign map for three players, it is possible to play the Breakthrough campaign with more players. We wouldn't recommend more than five players per Faction however as this may drag the length of the campaign out significantly unless the Campaign Master declares that a Stronghold Assault can be launched with fewer Route markers on an enemy Stronghold (see [page 63]).
+While the example above shows a campaign map for three players, it is possible to play the Breakthrough campaign with more players. We wouldn't recommend more than five players per Faction however as this may drag the length of the campaign out significantly unless the Campaign Master declares that a Stronghold Assault can be launched with fewer Route markers on an enemy Stronghold ([see page 63](#launching-a-stronghold-assault)).
 
 **Example**
 
@@ -57,11 +57,11 @@ At the start of each Campaign Cycle, in secret from the opposing Faction Leader,
 
 ### 2. Determine Battles
 
-At this stage, the players assigned to each Route fight battles against one another. The players determine a Mission as normal, using the sequence in the *Legions Imperialis Rulebook*.
+At this stage, the players assigned to each Route fight battles against one another. The players determine a Mission as normal, using the sequence [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/fighting_a_battle.md#selecting-a-mission).
 
 ### 3. Muster Armies
 
-Each player musters an Army, using the rules found in the *Legions Imperialis Rulebook* to a points limit of 3,000 points. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
+Each player musters an Army, using the rules found [in the *Legions Imperialis Rulebook*](../legions_imperialis_rules/mustering_an_army.md) to a points limit of 3,000 points. When declaring an Allegiance for their Army, each player must declare the Allegiance that matches their Faction (e.g., a player from the Loyalist Faction must declare their Army Allegiance to be Loyalist).
 
 After mustering their Army, if players have any Requisition Points, they can spend any of these to add a single additional Detachment to their Army for this battle. This does not change the agreed points limit for that battle, and so cannot affect the maximum amount of points that can be spent on Strategic Asset Formations, or the number of Formations or certain Detachments that are required to be included in an Army. That player then deducts a number of Requisition Points from their total equal to the points cost of the selected Detachment.
 
@@ -89,4 +89,4 @@ During this step, each player gains Requisition Points.
 
 ## Launching a Stronghold Assault
 
-If at the start of a Campaign Cycle more than half of the Breakthrough markers are on the enemy Stronghold space, a Faction Commander can declare a Stronghold Assault. Instead of following the normal sequence for that Campaign Cycle, the players will play the Breach the Stronghold Mission (see [page 64](#bookmark32)). This Mission can either be fought as a team battle with all of the players taking part, or each Faction Commander can nominate a player from their Faction as their champion to fight this battle against each other. At the end of this battle, if the Attacker is victorious, the campaign ends and the Faction that was playing the Attacker in this Mission is declared the winner. If the Defender is victorious in this Mission, move each Breakthrough marker one stage towards their opponent's Stronghold, and a new Campaign Cycle begins as normal.
+If at the start of a Campaign Cycle more than half of the Breakthrough markers are on the enemy Stronghold space, a Faction Commander can declare a Stronghold Assault. Instead of following the normal sequence for that Campaign Cycle, the players will play the Breach the Stronghold Mission ([see page 64](./additional_missions.md#breach-the-stronghold)). This Mission can either be fought as a team battle with all of the players taking part, or each Faction Commander can nominate a player from their Faction as their champion to fight this battle against each other. At the end of this battle, if the Attacker is victorious, the campaign ends and the Faction that was playing the Attacker in this Mission is declared the winner. If the Defender is victorious in this Mission, move each Breakthrough marker one stage towards their opponent's Stronghold, and a new Campaign Cycle begins as normal.

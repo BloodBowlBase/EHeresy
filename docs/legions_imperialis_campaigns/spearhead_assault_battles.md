@@ -10,7 +10,7 @@ There are a variety of ways that terrain can be deployed on the battlefield:
 
 - Players can collaborate, placing various areas of terrain from those available to them to create an ultinBtaetrtelestsing battlefield.
 
-- One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield (see [page 74]), the player who did not set up the terrain automatically gains control of it.
+- One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield ([see page 74](#the-battlefield)), the player who did not set up the terrain automatically gains control of it.
 
 Regardless of the method used, terrain should encourage tactical decisions and movement amongst armies.
 
@@ -28,13 +28,13 @@ To determine a Mission, one player rolls a D3 to determine which column from the
 | 2 | Sweeping Front  |
 | 3 | Clash of Columns  |
 
-Descriptions of each Mission, along with deployment maps, can be found on [pages 76-79].
+Descriptions of each Mission, along with deployment maps, can be found [on pages 76-79](./spearhead_assault_missions.md).
 
 ## The Battlefield 
 
 ### Deployment Map 
 
-Once a Mission has been determined, the battlefield is set up - terrain is deployed as described on [page 73]. The Spearhead Assault Missions presented in this book assume a battlefield size of 5'x4', and all deployment maps are written with this in mind. However, players are free to agree amongst themselves the battlefield size, adjusting deployment zones and Objective marker placement as needed.
+Once a Mission has been determined, the battlefield is set up - terrain is deployed as described [on page 73](#battlefield-terrain). The Spearhead Assault Missions presented in this book assume a battlefield size of 5'x4', and all deployment maps are written with this in mind. However, players are free to agree amongst themselves the battlefield size, adjusting deployment zones and Objective marker placement as needed.
 
 Players must then determine who has 'control of the battlefield'. To do this, both players roll off once terrain has been set up, with the winner of the roll-off choosing which player has control of the battlefield. The player with control of the battlefield chooses a deployment zone, with the other deployment zone going to the opposing player.
 

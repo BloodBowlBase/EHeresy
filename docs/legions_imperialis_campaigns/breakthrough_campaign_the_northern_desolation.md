@@ -10,7 +10,7 @@ The Northern Desolation campaign uses the following campaign map.
 
 ### Ravaged World
 
-Each battle in the Northern Desolation campaign uses the Fog of War additional rules, found on [page 72], including the optional Deadly Fog of War rules.
+Each battle in the Northern Desolation campaign uses the Fog of War additional rules, found [on page 72](fog_of_war.md), including the optional Deadly Fog of War rules.
 
 ### Route Rules
 
