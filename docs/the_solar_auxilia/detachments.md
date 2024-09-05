@@ -1272,7 +1272,7 @@ An Auxilia Medusa Battery can purchase one of the following upgrades:
 * **Type:** Vehicle (2)
 * **Detachment Size:** 4
 
-| Name | Movement | CAF | Sv | Morale | W |
+| Name | Movement | Sv | CAF | Morale | W |
 | -------- | :------: | :-: | :-: | :----: | :-: |
 | Basilisk | 6" | 3+ | +0 | 4+ | 1 |
 
