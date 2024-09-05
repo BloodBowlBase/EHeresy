@@ -431,7 +431,7 @@ A Leman Russ Strike Squadron can purchase one of the following upgrades:
 * Executioner plasma cannon
 * Hull Mounted heavy bolter or Hull Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Executioner plasma cannon | 12" | 2 | 4+ | -1 | [Light AT]   |
 | Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -469,7 +469,7 @@ A Leman Russ Executioner Squadron can purchase one of the following upgrades:
 * Demolisher cannon
 * Hull Mounted heavy bolter or Hull Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Demolisher cannon | 12" | 1 | 4+ | -3 | [Demolisher], [Ignores Cover]  |
 | Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -507,7 +507,7 @@ A Leman Russ Demolisher Squadron can purchase one of the following upgrades:
 * Annihilator twin lascannon
 * Hull Mounted heavy bolter or Hull Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Annihilator twin lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Anti-tank]  |
 | Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -546,6 +546,12 @@ A Leman Russ Annihilator Squadron can purchase one of the following upgrades:
 * Hull Mounted heavy bolter or Hull Mounted lascannon
 
 **Upgrades**
+
+| Weapon                  | Range | Dice | To Hit | AP  | Traits                                  |
+| --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
+| Exterminator autocannon      |  16"  |  3   |   5+   | -1  | [Light AT]                              |
+| Hull Mounted heavy bolter    |  12"  |  2   |   5+   |  0  | [Arc] (Front), [Light], [Point Defence] |
+| Hull Mounted lascannon       |  22"  |  1   |   4+   | -1  | [Arc] (Front), [Anti-tank]              |
 
 A Leman Russ Exterminator Squadron can purchase one of the following upgrades:
 
@@ -794,7 +800,7 @@ Any Stormhammer may exchange its Stormhammer multi-laser sponsons for Stormhamme
 * Shadowsword heavy bolter sponsons
 * Lascannon sponson turrets
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Volcano cannon | 70" | 1 | 3+ | -4 | [Arc] (Front), [Engine Killer (2)] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -834,7 +840,7 @@ An Auxilia Shadowsword Squadron can purchase one of the following upgrades:
 * Stormsword heavy bolter sponsons
 * Lascannon sponson turrets
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Stormsword siege cannon | 30" | 1 | 3+ | -2 | [Arc] (Front), [Demolisher], [Ignores Cover] |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -874,7 +880,7 @@ An Auxilia Stormsword Squadron can purchase one of the following upgrades:
 * Stormblade heavy bolter sponsons
 * Lascannon sponson turrets
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Plasma blastgun | 20" | 2 | 3+ | -3 | [Arc] (Front)   |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |

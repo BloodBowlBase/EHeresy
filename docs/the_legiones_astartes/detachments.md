@@ -234,7 +234,7 @@ A Dreadnought Drop Pod Detachment can purchase one Palisade Drop Pod for each Dr
 
 * Termite twin-linked bolters
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------- |
 | Termite twin-linked bolters | 8" | 2 | 5+ | 0 | [Arc] (Front), [Assault], [Light], [Point Defence] |
 
@@ -732,7 +732,7 @@ A Legion Tarantula Battery can purchase one of the following upgrades:
 * Aiolos missile launcher
 * Sarcophagus Mounted weapons
 
-| **Weapon** | Range | Dice | To Hit | AP | Traits  |
+| Weapon | Range | Dice | To Hit | AP | Traits  |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------ |
 | Sarcophagus Mounted weapons | 8" | 1 | 6+ | 0 | [Light], [Point Defence] |
 | Aiolos missile launcher | 25" | 1 | 4+ | -2 | [Anti-tank], [Skyfire] |
@@ -772,7 +772,7 @@ A Legion Deredeo Dreadnought Detachment can purchase one of the following upgrad
 * Predator cannon or Predator lascannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon** | Range | Dice | To Hit | AP | Traits   |
+| Weapon | Range | Dice | To Hit | AP | Traits   |
 | ----------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
 | Predator cannon | 18" | 2 | 5+ | -1 | [Light AT]  |
 | Sponson Mounted heavy bolters | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
@@ -845,7 +845,7 @@ A Legion Sicaran Squadron can purchase any of the following upgrades. It may pur
 * Punisher rotary cannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon** | Range | Dice | To Hit | AP | Traits   |
+| Weapon | Range | Dice | To Hit | AP | Traits   |
 | ------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
 | Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Punisher rotary cannon | 12" | 4 | 4+ | -1 | [Light AT], [Rapid Fire] |
@@ -881,7 +881,7 @@ A Legion Sicaran Punisher Squadron can purchase any of the following upgrades. I
 * Arcus missile launcher
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
 | Hull Mounted heavy bolter | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Arcus missile launcher | 16" | 2 | 4+ | -2 | [Anti-tank], [Ripple Fire] |
@@ -917,7 +917,7 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * Predator cannon or Predator lascannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
 | Predator cannon | 18" | 2 | 5+ | -1 | [Light AT]  |
 | Predator lascannon | 22" | 1 | 4+ | -1 | [Accurate], [Anti-tank]  |
@@ -949,7 +949,7 @@ A Legion Sicaran Arcus Squadron can purchase any of the following upgrades. It m
 * Twin-linked accelerator autocannon or Omega plasma array or Punisher rotary cannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
 | Omega plasma array | 12" | 1 | 4+ | -2 | [Accurate]  |
 | Punisher rotary cannon | 12" | 4 | 4+ | -1 | [Light AT], [Rapid Fire] |
@@ -1026,7 +1026,7 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * Two Hull Mounted heavy bolters or two Kratos lascannon or two Kratos autocannon
 * Sponson Mounted heavy bolters or Sponson Mounted lascannon
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | ----------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
 | Kratos battlecannon | 20" | 2 | 4+ | -1 |    |
 |  | 10" | 1 | 4+ | -4 | [Anti-tank], [Armourbane]  |
@@ -1065,7 +1065,7 @@ A Legion Kratos Squadron can purchase any of the following upgrades. It may purc
 * Hull Mounted heavy bolter or Hull Mounted multi-melta
 * Sabre missiles
 
-| **Weapon**  | Range | Dice | To Hit | AP | Traits   |
+| Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | --------------------------------------- |
 | Anvilus autocannon (Hull Mounted) | 16" | 3 | 5+ | -1 | [Arc] (Front), [Light AT] |
 | Neutron blaster (Hull Mounted) | 12" | 1 | 4+ | -3 | [Arc] (Front), [Anti-tank], [Shock Pulse] |
