@@ -1265,7 +1265,11 @@ An Auxilia Medusa Battery can purchase one of the following upgrades:
 
 [Chain of Command], [Explorator Adaptation]
 
+</div>
+
 ---
+
+<div class="unitCard" markdown>
 
 ### Auxilia Basilisk Battery [130 Points]
 
