@@ -1,21 +1,21 @@
 [Accurate]: /legions_imperialis_rules/weapon_traits/#accurate
+[Anti-tank]: /legions_imperialis_rules/weapon_traits/#anti-tank
 [Arc]: /legions_imperialis_rules/weapon_traits/#arc-frontrear
 [Armourbane]: /legions_imperialis_rules/weapon_traits/#armourbane
-[Anti-tank]: /legions_imperialis_rules/weapon_traits/#anti-tank
 [Assault]: /legions_imperialis_rules/weapon_traits/#assault
-[Designer's Note: Weapon Traits and AP]: /legions_imperialis_rules/weapon_traits/#designers-note-weapon-traits-and-ap
 [Barrage]: /legions_imperialis_rules/weapon_traits/#barrage
 [Beam]: /legions_imperialis_rules/weapon_traits/#beam
 [Blast]: /legions_imperialis_rules/weapon_traits/#blast-35
 [Bombing Run]: /legions_imperialis_rules/weapon_traits/#bombing-run
 [Bunker Buster]: /legions_imperialis_rules/weapon_traits/#bunker-buster
-[Bypassing Void Shields and Saves]: /legions_imperialis_rules/weapon_traits/#bypassing-void-shields-and-saves
 [Burrowing]: /legions_imperialis_rules/weapon_traits/#burrowing
 [Bypass]: /legions_imperialis_rules/weapon_traits/#bypass
+[Bypassing Void Shields and Saves]: /legions_imperialis_rules/weapon_traits/#bypassing-void-shields-and-saves
 [Co-axial]: /legions_imperialis_rules/weapon_traits/#co-axial
 [Collapsing Singularity]: /legions_imperialis_rules/weapon_traits/#collapsing-singularity
 [Deflagrate]: /legions_imperialis_rules/weapon_traits/#deflagrate
 [Demolisher]: /legions_imperialis_rules/weapon_traits/#demolisher
+[Designer's Note: Weapon Traits and AP]: /legions_imperialis_rules/weapon_traits/#designers-note-weapon-traits-and-ap
 [Engine Killer]: /legions_imperialis_rules/weapon_traits/#engine-killer-x
 [Firestorm]: /legions_imperialis_rules/weapon_traits/#firestorm
 [Graviton Pulse]: /legions_imperialis_rules/weapon_traits/#graviton-pulse
@@ -23,8 +23,8 @@
 [Heavy Beam]: /legions_imperialis_rules/weapon_traits/#heavy-beam
 [Ignores Cover]: /legions_imperialis_rules/weapon_traits/#ignores-cover
 [Impale]: /legions_imperialis_rules/weapon_traits/#impale
-[Light]: /legions_imperialis_rules/weapon_traits/#light
 [Light AT]: /legions_imperialis_rules/weapon_traits/#light-at
+[Light]: /legions_imperialis_rules/weapon_traits/#light
 [Limited]: /legions_imperialis_rules/weapon_traits/#limited-x
 [Neutron-flux]: /legions_imperialis_rules/weapon_traits/#neutron-flux
 [Point Defence]: /legions_imperialis_rules/weapon_traits/#point-defence
