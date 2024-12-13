@@ -1,6 +1,6 @@
 Following the viral bombardment of Tallarn, the surface of the planet became a murky hellscape of thick organic fogs. These multi-hued clouds drifted in great storms across the devastated surface, a deadly amalgam of liquified organic matter intermixed with the remaining elements of the viral payloads. As the Traitor invaders and remaining Loyalist defenders ventured from their shelters to decide the fate of that world, they found vision distances dramatically reduced, with scanning equipment unable to accurately map locations of enemy forces. The start of many battles was heralded by the emergence of enemy tanks and heavy infantry from the thick mists, their weapons blazing. For every armoured vehicle, any cracked armour plate or breached seal was a potential death sentence for the vehicle crew that huddled inside.
 
-## Using Fog of War in your Battles 
+## Using Fog of War in your Battles
 
 If all players agree, you can use these additional Fog of War rules in your Legions Imperialis battles. Note that these rules are intentionally limiting the effectiveness of long-range attacks, as such, players are encouraged to build armies accordingly and to agree on the use of these rules beforehand to avoid granting an unfair advantage to more prepared players.
 

@@ -30,9 +30,9 @@ To determine a Mission, one player rolls a D3 to determine which column from the
 
 Descriptions of each Mission, along with deployment maps, can be found [on pages 76-79](./spearhead_assault_missions.md).
 
-## The Battlefield 
+## The Battlefield
 
-### Deployment Map 
+### Deployment Map
 
 Once a Mission has been determined, the battlefield is set up - terrain is deployed as described [on page 73](#battlefield-terrain). The Spearhead Assault Missions presented in this book assume a battlefield size of 5'x4', and all deployment maps are written with this in mind. However, players are free to agree amongst themselves the battlefield size, adjusting deployment zones and Objective marker placement as needed.
 

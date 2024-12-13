@@ -25,54 +25,81 @@ markdown_extensions:
       auto_append:
         - includes/tooltip_special_rules.md
         - includes/tooltip_weapon_traits.md
+validation:
+  absolute_links: ignore
 nav:
-  - 'Quick Start Guide':  
-      - 'Quick Start Guide': 'quick_start_guide/index.md'
-      - 'Reference Sheet': 'quick_start_guide/reference_sheet.md'
-  - 'Legions Imperialis Rules':
-      - 'The Rules': 'legions_imperialis_rules/the_rules.md'
-      - 'Core Principles': 'legions_imperialis_rules/core_principles.md'
-      - 'Playing the Game': 'legions_imperialis_rules/playing_the_game.md'      
-      - 'Terrain': 'legions_imperialis_rules/terrain.md'
-      - 'Titans': 'legions_imperialis_rules/titans.md'
-      - 'Weapon Traits': 'legions_imperialis_rules/weapon_traits.md'
-      - 'Special Rules': 'legions_imperialis_rules/special_rules.md'
-      - 'Fighting a Battle': 'legions_imperialis_rules/fighting_a_battle.md'
-      - 'Missions': 'legions_imperialis_rules/missions.md'
-      - 'Secondary Objectives': 'legions_imperialis_rules/secondary_objectives.md'
-      - 'Mustering an Army': 'legions_imperialis_rules/mustering_an_army.md'      
-      - 'Spearhead Assault Battles': 'legions_imperialis_rules/spearhead_assault_battles.md'
-      - 'Spearhead Assault Missions': 'legions_imperialis_rules/spearhead_assault_missions.md'
-  - 'Legions Imperialis Campaigns':  
-      - 'Legions Imperialis Campaigns': 'legions_imperialis_campaigns/index.md'
-      - 'Warfront Campaign': 'legions_imperialis_campaigns/warfront_campaign.md'
-      - 'Conquest Campaigns': 'legions_imperialis_campaigns/conquest_campaigns.md'      
-      - 'Conquest Campaign: The Second Battle for Nyrcon City': 'legions_imperialis_campaigns/conquest_campaign_the_second_battle_for_nyrcon_city.md'
-      - 'Breakthrough Campaigns': 'legions_imperialis_campaigns/breakthrough_campaigns.md'      
-      - 'Breakthrough Campaign: The Northern Desolation': 'legions_imperialis_campaigns/breakthrough_campaign_the_northern_desolation.md'
-      - 'Fog of War': 'legions_imperialis_campaigns/fog_of_war.md'
-      - 'Battle Honours': 'legions_imperialis_campaigns/battle_honours.md'
-      - 'Campaign Expansions': 'legions_imperialis_campaigns/campaign_expansions.md'
-      - 'Additional Missions': 'legions_imperialis_campaigns/additional_missions.md'
-  - 'Titandeath':
-      - 'Titandeath': 'titandeath/index.md'
-      - 'Titandeath Battle Sequence': 'titandeath/titandeath_battle_sequence.md'
-      - 'Titandeath Missions': 'titandeath/titandeath_missions.md'
-      - 'Titandeath Secondary Objectives': 'titandeath/titandeath_secondary_objectives.md'
-  - 'The Legiones Astartes':
-      - 'The Legiones Astartes': 'the_legiones_astartes/index.md'
-      - 'Formations': 'the_legiones_astartes/formations.md'
-      - 'Detachments': 'the_legiones_astartes/detachments.md'      
-      - 'Legiones Astartes Special Rules': 'the_legiones_astartes/legiones_astartes_special_rules.md'
-  - 'The Solar Auxilia': 
-      - 'The Solar Auxilia': 'the_solar_auxilia/index.md'
-      - 'Formations': 'the_solar_auxilia/formations.md'
-      - 'Detachments': 'the_solar_auxilia/detachments.md'      
-  - 'Strategic Assets': 
-      - 'Strategic Assets': 'strategic_assets/index.md'
-      - 'Formations': 'strategic_assets/formations.md'
-      - 'Detachments': 'strategic_assets/detachments.md'
-  - 'Formations of Legend': 
-      - 'Formations of Legend': 'formations_of_legend/index.md'
-      - 'Legiones Astartes Formations of Legend': 'formations_of_legend/legiones_astartes_formations.md'
-      - 'Solar Auxilia Formations of Legend': 'formations_of_legend/solar_auxilia_formations.md'
+  - Quick Start Guide:
+      - Quick Start Guide: quick_start_guide/index.md
+      - Reference Sheet: quick_start_guide/reference_sheet.md
+  - Legions Imperialis Rules:
+      - The Rules: legions_imperialis_rules/the_rules.md
+      - Core Principles: legions_imperialis_rules/core_principles.md
+      - Playing the Game: legions_imperialis_rules/playing_the_game.md
+      - Terrain: legions_imperialis_rules/terrain.md
+      - Titans: legions_imperialis_rules/titans.md
+      - Weapon Traits: legions_imperialis_rules/weapon_traits.md
+      - Special Rules: legions_imperialis_rules/special_rules.md
+      - Fighting a Battle: legions_imperialis_rules/fighting_a_battle.md
+      - Missions: legions_imperialis_rules/missions.md
+      - Secondary Objectives: legions_imperialis_rules/secondary_objectives.md
+      - Mustering an Army: legions_imperialis_rules/mustering_an_army.md
+      - Spearhead Assault Battles: legions_imperialis_rules/spearhead_assault_battles.md
+      - Spearhead Assault Missions: legions_imperialis_rules/spearhead_assault_missions.md
+  - Legions Imperialis Campaigns:
+      - Campaigns Overview: legions_imperialis_campaigns/index.md
+      - Warfront Campaign: legions_imperialis_campaigns/warfront_campaign.md
+      - Conquest Campaigns: legions_imperialis_campaigns/conquest_campaigns.md
+      - "Conquest Campaign: The Second Battle for Nyrcon City": legions_imperialis_campaigns/conquest_campaign_the_second_battle_for_nyrcon_city.md
+      - Breakthrough Campaigns: legions_imperialis_campaigns/breakthrough_campaigns.md
+      - "Breakthrough Campaign: The Northern Desolation": legions_imperialis_campaigns/breakthrough_campaign_the_northern_desolation.md
+      - Escalation Campaigns: legions_imperialis_campaigns/escalation_campaigns.md
+      - Grand Clash: legions_imperialis_campaigns/grand_clash.md
+      - "Grand Clash: The Fall of Magma City": legions_imperialis_campaigns/grand_clash_the_fall_of_magma_city.md
+      - Fog of War: legions_imperialis_campaigns/fog_of_war.md
+      - Battle Honours: legions_imperialis_campaigns/battle_honours.md
+      - Campaign Expansions: legions_imperialis_campaigns/campaign_expansions.md
+      - Flashpoint Missions: legions_imperialis_campaigns/flashpoint_missions.md
+      - Additional Missions: legions_imperialis_campaigns/additional_missions.md
+  - Titandeath:
+      - Overview: titandeath/index.md
+      - Battle Sequence: titandeath/titandeath_battle_sequence.md
+      - Missions: titandeath/titandeath_missions.md
+      - Secondary Objectives: titandeath/titandeath_secondary_objectives.md
+  - Factions:
+      - Factions: factions/index.md  
+      - The Legiones Astartes:
+          - The Legiones Astartes: the_legiones_astartes/index.md
+          - Formations: the_legiones_astartes/formations.md
+          - Detachments: the_legiones_astartes/detachments.md
+          - Special Rules: the_legiones_astartes/legiones_astartes_special_rules.md
+      - The Solar Auxilia:
+          - The Solar Auxilia: the_solar_auxilia/index.md
+          - Formations: the_solar_auxilia/formations.md
+          - Detachments: the_solar_auxilia/detachments.md
+      - Strategic Assets:
+          - Strategic Assets: strategic_assets/index.md
+          - Formations: strategic_assets/formations.md
+          - Detachments: strategic_assets/detachments.md
+      - The Collegia Titanica:
+          - The Collegia Titanica: factions/the_collegia_titanica/index.md
+          - Formations: factions/the_collegia_titanica/formations.md
+      - The Questoris Familia:
+          - The Questoris Familia: factions/the_questoris_familia/index.md
+          - Formations: factions/the_questoris_familia/formations.md 
+      - Mechanicum Taghmata:
+          - Mechanicum Taghmata: factions/mechanicum_taghmata/index.md
+          - Formations: factions/mechanicum_taghmata/formations.md
+          - Detachments: factions/mechanicum_taghmata/detachments.md
+      - Dark Mechanicum:
+          - Dark Mechanicum: factions/dark_mechanicum/index.md
+          - Formations: factions/dark_mechanicum/formations.md
+          - Detachments: factions/dark_mechanicum/detachments.md
+  - Formations:
+      - Formations of Legend:
+          - Formations of Legend: formations_of_legend/index.md
+          - Legiones Astartes: formations_of_legend/legiones_astartes_formations.md
+          - Solar Auxilia: formations_of_legend/solar_auxilia_formations.md
+          - Formations: formations_of_legend/formations.md
+      - Support Formations:
+          - Support Formations: formations/support_formations/index.md
+          - Formations: formations/support_formations/formations.md

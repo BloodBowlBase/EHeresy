@@ -150,7 +150,7 @@ Some weapons can only carry a limited amount of ammunition into battle or are di
 
 ### Neutron-flux
 Any Hits scored by a weapon with the Neutron-flux
-trait against a model with the Cybernetica Cortex special rule count
+trait against a model with the [Cybernetica Cortex] special rule count
 as having the Armourbane and Shred traits.
 
 ### Point Defence

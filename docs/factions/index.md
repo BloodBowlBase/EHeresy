@@ -1,0 +1,1 @@
+![](../media/factions/LICoreSet.jpg)

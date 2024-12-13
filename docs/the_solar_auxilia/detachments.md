@@ -802,7 +802,7 @@ Any Stormhammer may exchange its Stormhammer multi-laser sponsons for Stormhamme
 
 | Weapon  | Range | Dice | To Hit | AP | Traits   |
 | --------------------------- | :---: | :--: | :----: | :-: | ------------------------------------------------ |
-| Volcano cannon | 70" | 1 | 3+ | -4 | [Arc] (Front), [Engine Killer (2)] |
+| Volcano cannon | 70" | 1 | 3+ | -4 | [Arc] (Front), [Engine Killer] (2) |
 | Hull Mounted heavy bolter turret | 12" | 2 | 5+ | 0 | [Arc] (Front), [Light], [Point Defence] |
 | Shadowsword heavy bolter sponsons | 12" | 4 | 5+ | 0 | [Light], [Point Defence]  |
 | Lascannon sponson turrets | 22" | 1 | 4+ | -1 | [Anti-tank]   |

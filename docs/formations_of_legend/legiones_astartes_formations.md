@@ -6,7 +6,7 @@
 
 **STANDARD DETACHMENTS: 450 Points**
 
-![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sabre_squadron.jpg) 
+![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sicaran_squadron.jpg) ![](../media/formations_of_legend/legion_sabre_squadron.jpg)
 
 * **Legion Sicaran Squadron**
 

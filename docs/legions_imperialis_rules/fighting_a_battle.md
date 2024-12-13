@@ -64,7 +64,7 @@ Alternatively, players can simply choose a Mission from the table, so long as al
 |---------|------------|------------|
 | 1 | Confrontation | Flanking Action |
 | 2 | Seize and Hold | Retrieval |
-| 3 | No Man’s Land | Forward Push |
+| 3 | No Man's Land | Forward Push |
 | 4 | Hold Ground | Conquest |
 | 5 | Stronghold Assault | All Out War |
 | 6 | Devastation | Point Assault |

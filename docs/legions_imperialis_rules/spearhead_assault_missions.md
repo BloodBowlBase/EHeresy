@@ -68,8 +68,8 @@ At the end of the battle, calculate the total points value of enemy Detachments 
 
 The player with this Secondary Objective scores VPs depending on the percentage of enemy Detachments with a Scale of 2 or higher that have been destroyed relative to the total points cost of Detachments with a Scale of 2 or higher in the enemy Army, as follows:
 
-* If at least 35% has been destroyed, the controlling player scores 5 VPs. 
-* If at least 65% has been destroyed, the controlling player scores 10 VPs instead. 
+* If at least 35% has been destroyed, the controlling player scores 5 VPs.
+* If at least 65% has been destroyed, the controlling player scores 10 VPs instead.
 * If at least 80% has been destroyed, the controlling player scores 15 VPs instead
 
 ### Rescue
