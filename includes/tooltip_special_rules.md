@@ -41,7 +41,7 @@
 [Shield Generator]: /legions_imperialis_rules/special_rules/#shield-generator-x
 [Scout]: /legions_imperialis_rules/special_rules/#scout
 [Skimmer]: /legions_imperialis_rules/special_rules/#skimmer
-[Solar Auxilia HQ]: /the_solar_auxilia/index/#solar-auxilia-hq-x
+[Solar Auxilia HQ]: /the_solar_auxilia/#solar-auxilia-hq-x
 [Steadfast]: /legions_imperialis_rules/special_rules/#steadfast
 [Tracking Array]: /legions_imperialis_rules/special_rules/#tracking-array
 [Transport]: /legions_imperialis_rules/special_rules/#transport-x
