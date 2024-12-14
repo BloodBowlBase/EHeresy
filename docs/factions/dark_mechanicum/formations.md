@@ -1,6 +1,6 @@
 ## Terror Protocol Cohort
 
-**Command – Urgency:** When a Detachment with the Networked Anima special rule is activated during the Movement phase, all models within it increase their Movement characteristic by 2" if the Detachment is within 6" of a model with the [Noosphere Controller] special rule. This effect lasts until the end of the round.
+**Command – Urgency:** When a Detachment with the [Networked Anima] special rule is activated during the Movement phase, all models within it increase their Movement characteristic by 2" if the Detachment is within 6" of a model with the [Noosphere Controller] special rule. This effect lasts until the end of the round.
 
 **COMPULSORY DETACHMENTS**
 
@@ -22,7 +22,7 @@
 
 ## Purge Protocol Cohort
 
-**Command – Exterminate:** Hits scored by a model with the [Noosphere Controller] special rule from this Formation mark the target Detachment until the end of the round. Models from this Formation with the Networked Anima special rule may re-roll Hit rolls of a 1 when firing upon a marked Detachment.
+**Command – Exterminate:** Hits scored by a model with the [Noosphere Controller] special rule from this Formation mark the target Detachment until the end of the round. Models from this Formation with the [Networked Anima] special rule may re-roll Hit rolls of a 1 when firing upon a marked Detachment.
 
 **COMPULSORY DETACHMENTS**
 
@@ -47,9 +47,9 @@
 
 ## Swarm Protocol Cohort
 
-Any Harpax 'Swarmer' Scout Host selected within a Compulsory Detachment slot may be upgraded to a 'Controller Host' for +15 points. A Detachment upgraded in this way gains the [Noosphere Controller] and Invulnerable Save (6+) special rules.
+Any Harpax 'Swarmer' Scout Host selected within a Compulsory Detachment slot may be upgraded to a 'Controller Host' for +15 points. A Detachment upgraded in this way gains the [Noosphere Controller] and [Invulnerable Save] (6+) special rules.
 
-**Command – Overwhelm:** Harpax 'Swarmer' Scout Host Detachments within this Formation gain the Infiltrate special rule. All Detachments from this Formation with the Networked Anima special rule count their Scale as 1 higher for the purposes of determining if enemy Detachments are Engaged and Pinned while within 8" of a model from this Formation with the [Noosphere Controller] special rule.
+**Command – Overwhelm:** Harpax 'Swarmer' Scout Host Detachments within this Formation gain the [Infiltrate] special rule. All Detachments from this Formation with the [Networked Anima] special rule count their Scale as 1 higher for the purposes of determining if enemy Detachments are Engaged and Pinned while within 8" of a model from this Formation with the [Noosphere Controller] special rule.
 
 *Note: This is only to determine if the enemy Detachment is Engaged and Pinned - the Harpax Swarms are still Engaged and Pinned by enemy Detachments of Scale (1).*
 

@@ -6,7 +6,7 @@ To build a force representing a more traditional Forge World that chose to side 
 
 The Mechanicum, both Loyalist and Traitor, held close ties with both the Titan Legions and the Knight Households. Taghmata armies, and the twisted versions of them that marched to war during the Horus Heresy, were regularly supported by god-engines and knights, lending considerable strength to such armies.
 
-To represent this, certain Dark Mechanicum Formations include Titan and/or Knight slots which can be filled with the appropriate Detachments taken from the Strategic Asset List (see page 198 of the *Legions Imperialis Rulebook*). Titans and Knights taken in these slots as part of a Primary Army List count as part of the Dark Mechanicum Army List; they do not count as, nor contribute towards the total points cost of, Allied Contingents.
+To represent this, certain Dark Mechanicum Formations include Titan and/or Knight slots which can be filled with the appropriate Detachments taken from the Strategic Asset List ([see page 198](../../strategic_assets/index.md) of the *Legions Imperialis Rulebook*). Titans and Knights taken in these slots as part of a Primary Army List count as part of the Dark Mechanicum Army List; they do not count as, nor contribute towards the total points cost of, Allied Contingents.
 
 Dark Mechanicum armies may still take Strategic Asset Formations as Allied Contingents following normal restrictions, allowing them to include Titans and/or Knights within their core list and as allies. A Dark Mechanicum Formation taken as an Allied Contingent includes Titans and Knights within the allied points cost and restrictions.
 
@@ -32,6 +32,6 @@ When one or more Hits are scored against a Detachment which contains one or more
 
 ### Networked Anima
 
-Detachments with the Networked Anima special rule may gain additional benefits when within 8" of a model with the [Noosphere Controller] special rule that is part of the same Formation. These rules can be found in the respective Formation.
+Detachments with the Networked Anima special rule may gain additional benefits when within 8" of a model with the Noosphere Controller special rule that is part of the same Formation. These rules can be found in the respective Formation.
 
-*Note: The [Noosphere Controller] is a special rule that triggers other effects, most often in the case of Formation special rules - it does not have a specific effect itself.*
+*Note: The Noosphere Controller is a special rule that triggers other effects, most often in the case of Formation special rules - it does not have a specific effect itself.*

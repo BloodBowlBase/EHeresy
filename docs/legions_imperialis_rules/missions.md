@@ -162,7 +162,7 @@ Players can deploy Objective markers anywhere in their deployment zone more than
 
 **Deployment**
 
-During the deployment step, all models must be deployed at least 8" away from any previously deployed enemy models. Detachments with the Infiltrate special rule can be deployed in the opposing player's deployment zone but must still be placed at least 4" from enemy models.
+During the deployment step, all models must be deployed at least 8" away from any previously deployed enemy models. Detachments with the [Infiltrate] special rule can be deployed in the opposing player's deployment zone but must still be placed at least 4" from enemy models.
 
 **Scoring**
 

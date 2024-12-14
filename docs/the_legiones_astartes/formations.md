@@ -118,7 +118,7 @@ One of the following:
 
 ## Legion Subterranean Assault
 
-**Dedicated Transports:** All Legiones Astartes Detachments within this Formation that contain only Infantry models (excluding models with the Deep Strike special rule) must be upgraded with [Legion Termites](detachments.md#legion-termite-detachment-18-points-per-model) as Dedicated Transports.
+**Dedicated Transports:** All Legiones Astartes Detachments within this Formation that contain only Infantry models (excluding models with the [Deep Strike] special rule) must be upgraded with [Legion Termites](detachments.md#legion-termite-detachment-18-points-per-model) as Dedicated Transports.
 
 **Subterranean Assault:** When a Detachment from this Formation that has been upgraded with Legion Termites as Dedicated Transports Deep Strikes, after placing and scattering the initial model, roll a D6 for each enemy Detachment with a Scale of 2 or less that is within 6" of that initial model. On a 5+, that enemy Detachment suffers the effects of the [Quake] trait as if a hit had been scored against it by a weapon with that trait.
 

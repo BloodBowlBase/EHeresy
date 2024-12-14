@@ -20,7 +20,7 @@ If both players agree, when Mustering Your Army, one Detachment in each Formatio
 
 | Battle Honour                            | Points Increase   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **Walking Icons**<br />Improve the Morale characteristic of models in this Detachment by 1 to a maximum of 2+ (e.g., a Morale characteristic of 3+ improves to 2+). In addition, this Detachment has the Inspire (6") special rule. | +3 points per model in the Detachment. |
+| **Walking Icons**<br />Improve the Morale characteristic of models in this Detachment by 1 to a maximum of 2+ (e.g., a Morale characteristic of 3+ improves to 2+). In addition, this Detachment has the [Inspire] (6") special rule. | +3 points per model in the Detachment. |
 | **Pathfinders**<br />When this Detachment moves through Dangerous Terrain, it suffers a Hit for each full 4" it moved through the area of Dangerous terrain instead of for each full 1".      | +2 points per model in the Detachment. |
 | **Hammer of Wrath**<br />While this Detachment is Engaged with a Detachment with a Scale of 1, add 1 to the result of Fight rolls made for models in this Detachment.        | +3 points per model in the Detachment. |
 
@@ -28,7 +28,7 @@ If both players agree, when Mustering Your Army, one Detachment in each Formatio
 
 | Battle Honour                                | Points Increase   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **Expert Outriders**<br />While this Detachment is within 6" of a friendly Vehicle Detachment, that Vehicle Detachment has the Jink (6+) special rule.              | +2 points per model in the Detachment. |
+| **Expert Outriders**<br />While this Detachment is within 6" of a friendly Vehicle Detachment, that Vehicle Detachment has the [Jink] (6+) special rule.              | +2 points per model in the Detachment. |
 | **Forward Observers**<br />Each time a friendly Detachment fires with a weapon with the Barrage trait, if a model from this Detachment can draw line of sight to the target Detachment, the target Detachment is treated as being visible to the firing Detachment. | +5 points per model in the Detachment. |
 | **Swift Raiders**<br />If this Detachment is Engaged & Pinned, treat it as being Engaged instead.                     | +3 points per model in the Detachment. |
 
@@ -37,8 +37,8 @@ If both players agree, when Mustering Your Army, one Detachment in each Formatio
 | Battle Honour                                 | Points Increase        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | **Steel Phalanx**<br />When the opposing player selects this Detachment as the target of a Detachment under their control, firing models do not receive the bonus to a weapon's AP characteristic for being in the Rear Arc of models in this Detachment.   | +5 points per model in the Detachment.     |
-| **Masters of Defence**<br />Each time a model in this Detachment fires, the controlling player can re-roll Hit rolls of 1 made for weapons with the Point Defence weapon trait.            | +1 point per weapon with the Point Defence special rule in the Detachment. |
-| **Spiteful Demise**<br />Each time a model in this Detachment is destroyed, before removing that model, the controlling player can roll a D6. On a 4+, the closest enemy Detachment within 12" of that model suffers 1 Hit with an AP of -1 and the Light AT weapon trait. | +5 points per model in the Detachment.     |
+| **Masters of Defence**<br />Each time a model in this Detachment fires, the controlling player can re-roll Hit rolls of 1 made for weapons with the [Point Defence] weapon trait.            | +1 point per weapon with the [Point Defence] special rule in the Detachment. |
+| **Spiteful Demise**<br />Each time a model in this Detachment is destroyed, before removing that model, the controlling player can roll a D6. On a 4+, the closest enemy Detachment within 12" of that model suffers 1 Hit with an AP of -1 and the [Light AT] weapon trait. | +5 points per model in the Detachment.     |
 
 ### KNIGHT BATTLE HONOURS
 

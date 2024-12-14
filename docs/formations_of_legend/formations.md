@@ -108,7 +108,7 @@ The new Order can be an Order other than those shown in the activated Detachment
 
 **Servants of Kelbor-Hal:** This Formation can only be included in an Army with the Traitor Allegiance.
 
-**Protocol - Scourge:** While a Detachment from this Formation with the Networked Anima special rule is within 8" of a model with the [Noosphere Controller] special rule from this Formation, all models in that Detachment increase the range of their weapons by 4".
+**Protocol - Scourge:** While a Detachment from this Formation with the [Networked Anima] special rule is within 8" of a model with the [Noosphere Controller] special rule from this Formation, all models in that Detachment increase the range of their weapons by 4".
 
 **COMPULSORY DETACHMENTS: 944 Points**
 

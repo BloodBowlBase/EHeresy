@@ -14,7 +14,7 @@ The following section presents the Collegia Titanica Army List, representing a T
 
 The Collegia Titanica Army List presented over the following pages is intended as a thematic alternative Primary Army List. In Matched Play missions, they suffer from a lack of Objective control - with a Tactical Strength of 0, Titans cannot capture or contest Objectives - which makes achieving a conventional victory difficult. Allied Contingents mitigate this disadvantage to a degree and an Army of Titans and Knights is a destructive force, but the enemy will have a much easier time seizing and holding Objectives, making Victory Points easier to come by for them.
 
-The Collegia Titanica Army List includes the Detachments listed below, which are taken from the Strategic Assets List (see page 198 of the *Legions Imperialis Rulebook*). These count as part of the Primary Army List and so do not contribute to the Allied Contingent points total.
+The Collegia Titanica Army List includes the Detachments listed below, which are taken from the Strategic Assets List ([see page 198](../../strategic_assets/index.md) of the *Legions Imperialis Rulebook*). These count as part of the Primary Army List and so do not contribute to the Allied Contingent points total.
 
 -   Dire Wolf Heavy Scout Titan
 

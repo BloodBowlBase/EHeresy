@@ -30,7 +30,7 @@ Support, Vanguard and Bastion Detachment slots in this Support Formation must be
 
 Core Detachment slots in this Support Formation may be filled by Core Detachments chosen from the Legiones Astartes Army List or with Thallax Cohort Detachments chosen from the Mechanicum Taghmata Army List. HQ and Core Detachments chosen from the Legiones Astartes Army List in this Support Formation gain the [Cortex Controller] special rule.
 
-Detachments from the Mechanicum Taghmata Army List in this Support Formation do not gain the Legiones Astartes special rule selected for this Support Formation, but instead gain the Line special rule while that Detachment is within 8" of a Legiones Astartes Detachment from the same Support Formation.
+Detachments from the Mechanicum Taghmata Army List in this Support Formation do not gain the Legiones Astartes special rule selected for this Support Formation, but instead gain the [Line] special rule while that Detachment is within 8" of a Legiones Astartes Detachment from the same Support Formation.
 
 **COMPULSORY DETACHMENTS**
 
@@ -86,9 +86,9 @@ All Titan Detachments within this Support Formation gain the [Cortex Controller]
 
 - Knight Detachments in this Support Formation gain special rules depending on the Compulsory Detachments chosen:
 
-- If all Compulsory Vanguard Detachment slots are filled with Vorax Battle-automata Maniple Detachments, then all Knight Detachments in this Support Formation gain the Forward Deployment special rule.
+- If all Compulsory Vanguard Detachment slots are filled with Vorax Battle-automata Maniple Detachments, then all Knight Detachments in this Support Formation gain the [Forward Deployment] special rule.
 
-- If all Compulsory Vanguard Detachment slots are filled with Vultarax Stratos-automata Squadron Detachments, then all Knight Detachments in this Support Formation gain the Outflank special rule.
+- If all Compulsory Vanguard Detachment slots are filled with Vultarax Stratos-automata Squadron Detachments, then all Knight Detachments in this Support Formation gain the [Outflank] special rule.
 
 Questoris Knight Armiger Talons and Mechanicum Knight Moirax Talons cannot be taken as Detachment Upgrades for Detachments taken in Knight Detachment slots; they may only be selected to fill Armiger Knight Banner slots.
 
@@ -128,7 +128,7 @@ All Knight Detachments within this Support Formation gain the [Cortex Controller
 
 **Automata Malefica:** All slots within this Support Formation must be filled by Detachments taken from the Mechanicum Taghmata Army List. Detachments taken from the Mechanicum Taghmata Army List must have the [Cybernetica Cortex] (X) special rule.
 
-All Detachments included in this Support Formation with the [Cybernetica Cortex] (X) special rule replace the variant they have with [Cybernetica Cortex] (March, Charge) and have the Dread Aura (3") special rule.
+All Detachments included in this Support Formation with the [Cybernetica Cortex] (X) special rule replace the variant they have with [Cybernetica Cortex] (March, Charge) and have the [Dread Aura] (3") special rule.
 
 **COMPULSORY DETACHMENTS**
 

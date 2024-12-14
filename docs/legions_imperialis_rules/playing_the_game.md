@@ -101,7 +101,7 @@ When a Detachment is activated, the controlling player may move the Detachment i
 
 Once a Detachment has finished its activation, play passes to the opposing player, who then activates one of their eligible Detachments.
 
-All Detachments with an Advance Order, March Order or Charge Order must be activated during this phase, though they can be activated and do nothing - this includes any eligible Detachment that is not on the battlefield but is still in play, such as Detachments with the Flyer special rule or Detachments in Reserve ([see page 102](../legions_imperialis_rules/fighting_a_battle.md#reserves)).
+All Detachments with an Advance Order, March Order or Charge Order must be activated during this phase, though they can be activated and do nothing - this includes any eligible Detachment that is not on the battlefield but is still in play, such as Detachments with the [Flyer] special rule or Detachments in Reserve ([see page 102](../legions_imperialis_rules/fighting_a_battle.md#reserves)).
 
 #### Activating Detachments in Reserve
 
@@ -329,7 +329,7 @@ A model can only be allocated a Hit if it is an eligible target for the firing m
 
 The controlling player then makes a Save roll for that model by rolling a D6. Save rolls are made using a Save characteristic. Typically, this is made against the Armour Save characteristic of a model, though some special rules grant additional types of Save characteristics; the controlling player must choose which Save characteristic they wish to use. An Armour Save of '-' means models in the Detachment have no Armour Save and therefore it can't be improved or worsened in any way.
 
-Apply any modifiers to the Dice roll or the target's Save characteristic (e.g., due to the AP of the weapon). For example, if a target model has an Armour Save of 3+ and is hit by a weapon with an AP of -2, the target's Armour Save is worsened to 5+ against that weapon. The AP of a weapon can be modified by a special rule or weapon Trait. The AP value is always modified before applying it to the target's Armour Save characteristic, which is relevant for some weapon Traits such as Light AT ([see page 82](../legions_imperialis_rules/weapon_traits.md#light-at)). After applying any modifiers, compare the Dice roll against the chosen Save characteristic.
+Apply any modifiers to the Dice roll or the target's Save characteristic (e.g., due to the AP of the weapon). For example, if a target model has an Armour Save of 3+ and is hit by a weapon with an AP of -2, the target's Armour Save is worsened to 5+ against that weapon. The AP of a weapon can be modified by a special rule or weapon Trait. The AP value is always modified before applying it to the target's Armour Save characteristic, which is relevant for some weapon Traits such as [Light AT] ([see page 82](../legions_imperialis_rules/weapon_traits.md#light-at)). After applying any modifiers, compare the Dice roll against the chosen Save characteristic.
 
 If the result is equal to or greater than the target's Save characteristic, no damage is done and the Hit is discarded. If the result of the roll is lower than the model's Save characteristic, that model suffers a Wound and reduces its Wounds characteristic by 1. When a model is reduced to 0 Wounds, it is destroyed and removed from the battlefield.
 
@@ -339,7 +339,7 @@ All Hit rolls must be made and resolved against a chosen target before moving on
 
 ##### Multiple Save Characteristics
 
-All models have an Armour Save characteristic shown on their datasheet. However, various special rules can confer additional Save characteristics, such as the Invulnerable Save (X) special rule or a Cover Save granted by an area of terrain ([see page 67](../legions_imperialis_rules/terrain.md#types-of-terrain)). These additional Save characteristics can be used in place of the Armour Save characteristic of the model when making a Save roll.
+All models have an Armour Save characteristic shown on their datasheet. However, various special rules can confer additional Save characteristics, such as the [Invulnerable Save] (X) special rule or a Cover Save granted by an area of terrain ([see page 67](../legions_imperialis_rules/terrain.md#types-of-terrain)). These additional Save characteristics can be used in place of the Armour Save characteristic of the model when making a Save roll.
 
 Unless instructed otherwise, a model can only make a single Save roll against each Hit, regardless of how many Save characteristics it has available to it. However, the controlling player may choose which Save characteristic a model uses to make a Save roll for each Hit scored - usually, this will be the best Save available to them.
 
@@ -518,7 +518,7 @@ During this stage, any remaining Order tokens, other than the Fall Back Order, i
 
 ### Remove Flyers Stage
 
-In the Remove Flyers stage, players remove their Flyers from the battlefield, as described in the Flyer special rule ([see page 89](../legions_imperialis_rules/special_rules.md#flyer)).
+In the Remove Flyers stage, players remove their Flyers from the battlefield, as described in the [Flyer] special rule ([see page 89](../legions_imperialis_rules/special_rules.md#flyer)).
 
 ### Calculate Victory Points Stage
 

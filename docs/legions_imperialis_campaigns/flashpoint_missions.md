@@ -24,7 +24,7 @@ At the end of the battle, you score:
 
 **Flashpoint Boon**
 
-During the Grand Clash, each player from the Faction that was victorious during this Cycle may choose a Formation they control. All units in that Formation gain the Forward Deployment special rule.
+During the Grand Clash, each player from the Faction that was victorious during this Cycle may choose a Formation they control. All units in that Formation gain the [Forward Deployment] special rule.
 
 ![](../media/legions_imperialis_campaigns/river_crossing.jpg)
 

@@ -51,7 +51,7 @@ Models cannot draw line of sight through an area of Obstructing terrain. All mod
 
 Models within the same area of Obstructing terrain can draw line of sight to each other as normal. If firing on a Detachment in the same area of Obstructing terrain, then the firing models suffer the usual -1 penalties to Hit rolls due to firing at a model in Difficult terrain and the target can use the 5+ Cover Save.
 
-Models with the Flyer special rule can draw line of sight to any model within an area of Obstructing terrain, even if they are hidden. However, the penalties to Hit for models being in an area of Obstructing terrain still apply.
+Models with the [Flyer] special rule can draw line of sight to any model within an area of Obstructing terrain, even if they are hidden. However, the penalties to Hit for models being in an area of Obstructing terrain still apply.
 
 ### Dangerous Terrain
 
@@ -79,7 +79,7 @@ Certain Obstacles, such as tank traps, can be classified as Reinforced Obstacles
 
 Gigantic alien trees, towering rock formations and valley walls are just some examples of Impassable terrain - areas that are all but impossible to traverse in the midst of battle.
 
-As the name suggests, models cannot move through an area of terrain designated as Impassable terrain unless instructed otherwise (such as models with the Flyer special rule). If a model is forced to move into an area of terrain designated as Impassable terrain, it stops at the terrain's edge and can go no further. Unless instructed otherwise, a model's base cannot overlap any part of Impassable terrain.
+As the name suggests, models cannot move through an area of terrain designated as Impassable terrain unless instructed otherwise (such as models with the [Flyer] special rule). If a model is forced to move into an area of terrain designated as Impassable terrain, it stops at the terrain's edge and can go no further. Unless instructed otherwise, a model's base cannot overlap any part of Impassable terrain.
 
 #### Combining Terrain Areas
 
@@ -105,9 +105,9 @@ Bridges are areas of Open terrain that allow Detachments to cross a River. A Bri
 
 The boundaries of an area of Cliff terrain are referred to as the Cliff Face. The Cliff Face is Impassable to all Detachments except Infantry, effectively meaning most Detachments cannot move through an area of terrain designated as a Cliff.
 
-Infantry can scale the Cliff Face, moving over it in the same way a model moves over an Obstacle, with a height equal to the height of the terrain piece - a Cliff Face must be at least 2" in height. If an Infantry model has enough movement remaining to scale the Cliff Face, it is placed over the area of terrain's boundaries. A model must scale the Cliff Face in a single turn, and cannot end it 'halfway up' a Cliff Face. Models with the Jump Packs or Skimmer special rules (see pages 93 and 95, respectively) can move over the Cliff Face but must have enough movement to do so (e.g., if the Cliff Face is 4" tall, a model with the Jump Packs or Skimmer special rule must have 4" of movement remaining to move over the boundary, instead of ignoring it like other Obstacles).
+Infantry can scale the Cliff Face, moving over it in the same way a model moves over an Obstacle, with a height equal to the height of the terrain piece - a Cliff Face must be at least 2" in height. If an Infantry model has enough movement remaining to scale the Cliff Face, it is placed over the area of terrain's boundaries. A model must scale the Cliff Face in a single turn, and cannot end it 'halfway up' a Cliff Face. Models with the [Jump Packs] or [Skimmer] special rules (see pages 93 and 95, respectively) can move over the Cliff Face but must have enough movement to do so (e.g., if the Cliff Face is 4" tall, a model with the [Jump Packs] or [Skimmer] special rule must have 4" of movement remaining to move over the boundary, instead of ignoring it like other Obstacles).
 
-Models in an area of Cliff can move as if in Open terrain, and can spend any movement they have remaining after scaling the Cliff Face. To move out of the area of terrain, models must scale the Cliff Face again, moving over the boundary and being placed touching the outside of it. As models that are already in an area of Cliff are treated as if in Open terrain, any model can be deployed in the area of terrain, even if it could not normally cross its boundaries. Additionally, a model can be placed over the boundary through other means (e.g., due to a model arriving on the battlefield due to the Deep Strike special rule or Disembarking from a Transport with the Flyer special rule), and act normally. However, the Cliff Face remains Impassable if the model cannot normally cross it, meaning the model cannot cross the Cliff Face boundary unless through other means.
+Models in an area of Cliff can move as if in Open terrain, and can spend any movement they have remaining after scaling the Cliff Face. To move out of the area of terrain, models must scale the Cliff Face again, moving over the boundary and being placed touching the outside of it. As models that are already in an area of Cliff are treated as if in Open terrain, any model can be deployed in the area of terrain, even if it could not normally cross its boundaries. Additionally, a model can be placed over the boundary through other means (e.g., due to a model arriving on the battlefield due to the [Deep Strike] special rule or Disembarking from a Transport with the [Flyer] special rule), and act normally. However, the Cliff Face remains Impassable if the model cannot normally cross it, meaning the model cannot cross the Cliff Face boundary unless through other means.
 
 ### Structures
 
@@ -152,7 +152,7 @@ A model that is Garrisoned within a Structure can move as normal in subsequent p
 
 #### Engaging Garrisoned Structures
 
-Models Garrisoned within Structures have no Engagement Zone. However, models cannot move through a Structure Garrisoned by enemy models, nor can they end their movement in base contact with the Structure unless they are an Infantry model issued with a Charge Order, a Titan or a model that has a weapon with the Wrecker trait (see page 85). Models in base to base contact with a Structure count as Engaged with all enemy Detachments Garrisoned within the Structure. Unless instructed otherwise, other Detachment types do not count as Engaged with Garrisoned Detachments and thus both can fire as normal in a subsequent phase, including at one another if eligible to do so.
+Models Garrisoned within Structures have no Engagement Zone. However, models cannot move through a Structure Garrisoned by enemy models, nor can they end their movement in base contact with the Structure unless they are an Infantry model issued with a Charge Order, a Titan or a model that has a weapon with the [Wrecker] trait (see page 85). Models in base to base contact with a Structure count as Engaged with all enemy Detachments Garrisoned within the Structure. Unless instructed otherwise, other Detachment types do not count as Engaged with Garrisoned Detachments and thus both can fire as normal in a subsequent phase, including at one another if eligible to do so.
 
 #### Structure Types
 

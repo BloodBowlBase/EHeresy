@@ -145,7 +145,7 @@ For [+20 points], a Cerastus Knight may have one of the following loadouts inste
 
 * **Cerastus Knight Atrapos**†
 
-\*A Knight Lancer exchanges the Ion Shield (4+) special rule for Ion Shield (3+).
+\*A Knight Lancer exchanges the [Ion Shield] (4+) special rule for [Ion Shield] (3+).
 
 †Cerastus Knight Atrapos use the corresponding profiles [on page 209](detachments.md#detachment-upgrades_1).
 

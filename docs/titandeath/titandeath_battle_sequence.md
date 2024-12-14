@@ -39,7 +39,7 @@ In Titandeath battles, do not follow the sequence described in the *Legions Impe
 
 The first step in Mustering an Army is for the player to declare their Army's Allegiance and note it on their Army roster. Players can declare their Army's Allegiance as either **Loyalist** or **Traitor**.
 
-An Army that has the Loyalist Allegiance may not include any Detachments that contain models with the Traitor special rule and an Army with the Traitor Allegiance may not include any Detachments that contain models with the Loyalist special rule. In all cases a Detachment will indicate if it has a set Allegiance - any Detachment that does not list a specific Allegiance may be included in any Army, regardless of Allegiance.
+An Army that has the Loyalist Allegiance may not include any Detachments that contain models with the [Traitor] special rule and an Army with the Traitor Allegiance may not include any Detachments that contain models with the [Loyalist] special rule. In all cases a Detachment will indicate if it has a set Allegiance - any Detachment that does not list a specific Allegiance may be included in any Army, regardless of Allegiance.
 
 Future supplements may explore additional Allegiances - such supplements will detail in full any rules for such Allegiances.
 
@@ -49,7 +49,7 @@ Once a player has declared their Army's Allegiance, they can then select Formati
 
 **Engine Killer Weaponry**
 
-When mustering your Army for a Titandeath battle, for each weapon with the Engine Killer (X) special rule a model has, you must increase the points cost of that model's Detachment. The amount the points cost is increased by is equal to the Engine Killer value of all weapons in that Detachment added together to form a single total, which is then multiplied by ten to determine the final points increase. Weapons which have the Engine Killer (X) special rule on a profile with a Range characteristic of '-' do not add to the total and are ignored when calculating the points increase of a Detachment.
+When mustering your Army for a Titandeath battle, for each weapon with the [Engine Killer] (X) special rule a model has, you must increase the points cost of that model's Detachment. The amount the points cost is increased by is equal to the Engine Killer value of all weapons in that Detachment added together to form a single total, which is then multiplied by ten to determine the final points increase. Weapons which have the [Engine Killer] (X) special rule on a profile with a Range characteristic of '-' do not add to the total and are ignored when calculating the points increase of a Detachment.
 
 *For example, Lee wishes to add a Detachment to their Army which contains a Reaver Battle Titan with a Reaver volcano cannon, a Reaver chainfist and a Reaver apocalypse missile launcher. The total Engine Killer value on weapons this model has (excluding the Reaver chainfist, since this has a Range characteristic of '-') is 3. As such the points cost of this Reaver Battle Titan Detachment is increased by30 points.*
 
@@ -59,12 +59,11 @@ There are a variety of ways that terrain can be deployed on the battlefield, one
 
 - Players can divide the table into quarters and deploy D3+1 areas of terrain in each quarter, with players taking turns deploying a piece of terrain, starting with the winner of a roll-off. For Structures, it is suggested that several individual Structures count as one area of terrain for the purposes of deploying terrain.
 - Players can collaborate, placing various areas of terrain from those available to them to create an interesting battlefield.
-- One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield (see page 94), the player who did not set up the terrain automatically gains control of the battlefield.
+- One player can set up the entire battlefield in a manner of their choosing. Then, when it comes to rolling to see who has control of the battlefield ([see page 94](#determine-control-of-the-battlefield)), the player who did not set up the terrain automatically gains control of the battlefield.
 
 Regardless of the method used, terrain should encourage tactical decisions and movement amongst armies.
 
-The addition of a cluster of large
-Structures along with a few areas of Obstructing terrain and/or other line of sight blocking terrain will greatly influence the flow of battle, restricting avenues of movement and providing tactical advantages and disadvantages to Detachments.
+The addition of a cluster of large Structures along with a few areas of Obstructing terrain and/or other line of sight blocking terrain will greatly influence the flow of battle, restricting avenues of movement and providing tactical advantages and disadvantages to Detachments.
 
 ### Determine Control of the Battlefield
 

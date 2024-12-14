@@ -26,7 +26,7 @@ The sum total of points values of all Detachments in an Army can never be greate
 
 The first step to assembling an Army is for the player to declare its Allegiance. Players can declare its Allegiance as either **Loyalist** or **Traitor**.
 
-An Army that has the Loyalist Allegiance may not include any Formations or Detachments that contain models with the Traitor special rule and an Army with the Traitor special rule may not include any Formations or Detachments that contain models with the Loyalist special rule. In all cases a Formation or Detachment will indicate if it has a set Allegiance - any Formation or Detachment that does not list a specific Allegiance may be included in any Army, regardless of Allegiance.
+An Army that has the Loyalist Allegiance may not include any Formations or Detachments that contain models with the [Traitor] special rule and an Army with the [Traitor] special rule may not include any Formations or Detachments that contain models with the [Loyalist] special rule. In all cases a Formation or Detachment will indicate if it has a set Allegiance - any Formation or Detachment that does not list a specific Allegiance may be included in any Army, regardless of Allegiance.
 
 Future supplements may explore additional Allegiances - such supplements will detail in full any rules for such Allegiances.
 
@@ -96,7 +96,7 @@ All Armies will include a number of Detachment Roles, shown in the list that fol
 
 Formation Organisation charts may include Transport sections, which will list any Transport options available for Detachments within the Formation. Transports purchased for a Detachment are referred to as Dedicated Transports. All Dedicated Transports purchased for a Detachment form a single Detachment but do not take up a Detachment slot within a Formation and so are not counted against the minimum or maximum number of Detachments within one.
 
-If a Detachment with Dedicated Transports is joined by another Detachment (such as one with the Command special rule) that has its own Dedicated Transport, the latter Dedicated Transport joins the Dedicated Transport Detachment - this can result in Detachments with different models (e.g., three Legion Rhinos and one Spartan Assault Vehicle). Detachments that have a Dedicated Transport with the Flyer special rule cannot join Dedicated Transports without the Flyer special rule.
+If a Detachment with Dedicated Transports is joined by another Detachment (such as one with the [Command] special rule) that has its own Dedicated Transport, the latter Dedicated Transport joins the Dedicated Transport Detachment - this can result in Detachments with different models (e.g., three Legion Rhinos and one Spartan Assault Vehicle). Detachments that have a Dedicated Transport with the [Flyer] special rule cannot join Dedicated Transports without the [Flyer] special rule.
 
 A Detachment must purchase the minimum number of Dedicated Transports needed to carry all models within the Detachment; it cannot purchase fewer, nor can it purchase more than necessary.
 
@@ -104,13 +104,13 @@ A Detachment must purchase the minimum number of Dedicated Transports needed to 
 
 A Detachment can only purchase a Dedicated Transport if it is eligible to Embark upon that Transport.
 
-*For example, if a Formation allows Legion Rhinos to be purchased as Dedicated Transports for Infantry Detachments in a Formation, a Legion Terminator* *Detachment cannot purchase a Rhino as, due to the Bulky special rule, it cannot Embark upon a Rhino.*
+*For example, if a Formation allows Legion Rhinos to be purchased as Dedicated Transports for Infantry Detachments in a Formation, a Legion Terminator* *Detachment cannot purchase a Rhino as, due to the [Bulky] special rule, it cannot Embark upon a Rhino.*
 
 Dedicated Transports can only carry models from the Detachment they were purchased as an upgrade for. Dedicated Transports are ignored for the purposes of calculating Break Point.
 
 *For example, a Formation with 26 models from HQ, Core or Support Detachments plus 10 models from Transport Detachments would have a Break Point of 13, not 18.*
 
-Models with the Transport (X) special rule (or variation of) that fill a Transport Detachment slot are not Dedicated Transports; they function as a normal Detachment, and count towards the Break Point of the Formation. Any eligible Detachment with the Formation can Embark upon these Transports; models from outside the Formation or within an Allied Contingent cannot.
+Models with the [Transport] (X) special rule (or variation of) that fill a Transport Detachment slot are not Dedicated Transports; they function as a normal Detachment, and count towards the Break Point of the Formation. Any eligible Detachment with the Formation can Embark upon these Transports; models from outside the Formation or within an Allied Contingent cannot.
 
 ### Complete the Army
 

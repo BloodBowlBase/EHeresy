@@ -14,7 +14,7 @@
 
 ## Vanguard Lance
 
-**The Household's Spear:** All Detachments within this Formation gain the Forward Deployment special rule.
+**The Household's Spear:** All Detachments within this Formation gain the [Forward Deployment] special rule.
 
 **COMPULSORY DETACHMENTS**
 

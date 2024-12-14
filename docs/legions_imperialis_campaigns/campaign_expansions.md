@@ -14,7 +14,7 @@ When a player receives a Victory Boon, they roll a D6 on the following table to 
 
 | D6 | Victory Boon |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **Unrelenting Advance.** When assembling their Army, the player with this Victory Boon can select one Detachment from their Army to gain the Forward Deployment special rule during the next battle. |
+| 1 | **Unrelenting Advance.** When assembling their Army, the player with this Victory Boon can select one Detachment from their Army to gain the [Forward Deployment] special rule during the next battle. |
 | 2 | **Seize the Initiative.** Once during the next battle, the player with this Victory Boon can re-roll their dice to determine who has Initiative. |
 | 3 | **High Morale.** The player with this Victory Boon may re-roll one failed Morale Check per round during their next battle. |
 | 4 | **Masterplan.** The player with this Victory Boon may choose their Secondary Objective for their next battle instead of rolling two D6 and choosing one result from those. |

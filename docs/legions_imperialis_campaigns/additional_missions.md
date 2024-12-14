@@ -81,7 +81,7 @@ At the end of the battle:
 
 In this Mission, the Defender is considered to have control of the battlefield and must deploy all of their Detachments within the Defender's deployment zone.
 
-The Attacker must deploy all of their Detachments in Reserve. Detachments which cannot normally begin the battle in Reserves gain the Outflank special rule, unless that Detachment is an Infantry Detachment that does not have any Dedicated Transport units, in which case it gains the Deep Strike special rule instead.
+The Attacker must deploy all of their Detachments in Reserve. Detachments which cannot normally begin the battle in Reserves gain the [Outflank] special rule, unless that Detachment is an Infantry Detachment that does not have any Dedicated Transport units, in which case it gains the [Deep Strike] special rule instead.
 
 Instead of determining Secondary Objectives as normal, both players automatically have the Control the Battlefield Secondary Objective.
 
@@ -183,9 +183,9 @@ Each Perimeter Wall Structure also has Wall Guns, which one Garrisoned model can
 
 In addition:
 
-- Detachments from the Attacker's Army with the Outflank special rule cannot be deployed within the Defender's deployment zone.
+- Detachments from the Attacker's Army with the [Outflank] special rule cannot be deployed within the Defender's deployment zone.
 
-- Detachments from the Attacker's Army with the Infiltrate special rule cannot be deployed within 12" of the Defender's deployment zone.
+- Detachments from the Attacker's Army with the [Infiltrate] special rule cannot be deployed within 12" of the Defender's deployment zone.
 
 **Scoring**
 

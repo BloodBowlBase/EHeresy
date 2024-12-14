@@ -24,7 +24,7 @@ Control of Conquest Areas is determined in a similar manner to Objective markers
 
 To represent this, when an Attacking Detachment is destroyed, place it to one side. At the start of the round if an Attacking player has three or more destroyed Detachments set aside, they may return them all to the battlefield.
 
-The returning Detachments form a new Formation - this is an ad-hoc Formation, so has no special rules and does not have to match a Formation from any Army List. The returning Detachments are given Orders as if they were in Reserve and move onto the battlefield from the Attacker's battlefield edge. If a Detachment can enter Reserve using the Deep Strike special rule it may do so, but otherwise must move on from the battlefield edge.
+The returning Detachments form a new Formation - this is an ad-hoc Formation, so has no special rules and does not have to match a Formation from any Army List. The returning Detachments are given Orders as if they were in Reserve and move onto the battlefield from the Attacker's battlefield edge. If a Detachment can enter Reserve using the [Deep Strike] special rule it may do so, but otherwise must move on from the battlefield edge.
 
 **Scoring**
 

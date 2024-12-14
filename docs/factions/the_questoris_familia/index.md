@@ -14,7 +14,7 @@ The following section presents the Knight Household Army List, representing a Ho
 
 The Knight Household Army List presented over the following pages is intended as a thematic alternative Primary Army List. In Matched Play missions, they suffer from a lack of Objective control - with low Tactical Strength with which to capture or contest Objectives - which makes achieving a conventional victory difficult. Allied Contingents and list-specific special rules benefiting Armigers mitigate this disadvantage to a degree, but the enemy will have a much easier time seizing and holding Objectives, making Victory Points easier to come by for them.
 
-The Knight Household Army List includes the Detachments listed below, which are taken from the Strategic Assets List (see page 198 of the *Legions Imperialis Rulebook*). These count as part of the Primary Army List and so do not contribute to the Allied Contingent points total.
+The Knight Household Army List includes the Detachments listed below, which are taken from the Strategic Assets List ([see page 198](../../strategic_assets/index.md) of the *Legions Imperialis Rulebook*). These count as part of the Primary Army List and so do not contribute to the Allied Contingent points total.
 
 * Questoris Knight Banner
 

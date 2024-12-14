@@ -20,13 +20,13 @@ The player with this Secondary Objective scores VPs depending on the percentage 
 
 At the start of the first round, before any Order tokens are placed, the opponent of the player with this Secondary Objective deploys an Objective marker anywhere as close as possible to the centre of the battlefield. This is the vital intel that must be retrieved. The marker cannot be deployed within an area of Impassable terrain or overlapping a Structure.
 
-If a Detachment controlled by the player with this Secondary Objective ends its activation in the Movement phase within 1" of the Objective marker and more than 1" from any enemy models, it may pick up the Intel - remove the marker from the battlefield. Models with the Flyer special rule, or the Skimmer and Hover special rules, cannot pick up the Intel, though a model carrying it can subsequently Embark upon a Transport with these special rules.
+If a Detachment controlled by the player with this Secondary Objective ends its activation in the Movement phase within 1" of the Objective marker and more than 1" from any enemy models, it may pick up the Intel - remove the marker from the battlefield. Models with the [Flyer] special rule, or the [Skimmer] and [Hover] special rules, cannot pick up the Intel, though a model carrying it can subsequently Embark upon a Transport with these special rules.
 
 If the Detachment carrying the marker is destroyed, the opposing player places the Objective marker back on the battlefield in the centre of where one model in the Detachment's base was. If the Detachment carrying the Intel was destroyed due to an Overwatch, the opposing player places the Intel marker within 3" of the destroyed model's starting position (i.e., before it began moving). If the Detachment carrying the Intel was destroyed while within an area of Impassable terrain or Structure, the opposing player places the marker in base contact with the boundary of the Impassable terrain/Structure, so it is outside of either.
 
 During the Calculating Victory Points stage of the End phase of any round, a Detachment carrying the marker, or a Transport the Detachment is Embarked upon, that is within 1" of their battlefield edge can recover the Intel - remove that Detachment from the battlefield. This can only be done if the Detachment is in Coherency. The removed Detachment, and any Transports it was Embarked upon, does not count as destroyed but plays no further part in the battle. If a model carrying the Intel leaves the battlefield for any other reason (e.g., due to fleeing), place the Intel marker touching the battlefield edge at the point where the Detachment left the battlefield.
 
-If a model carrying the Intel marker is Embarked upon a Transport with the Flyer special rule and that Transport leaves the battlefield, it also counts as having recovered the Intel; both the Detachment carrying the Intel marker and the Transport play no further part in the battle (i.e., are put to one side).
+If a model carrying the Intel marker is Embarked upon a Transport with the [Flyer] special rule and that Transport leaves the battlefield, it also counts as having recovered the Intel; both the Detachment carrying the Intel marker and the Transport play no further part in the battle (i.e., are put to one side).
 
 **Scoring**
 
@@ -50,7 +50,7 @@ At the end of the battle, the player with this Secondary Objective scores 5 VPs 
 
 ## Breakthrough
 
-At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five friendly Detachments that are either deployed on the battlefield or Embarked within a Transport to be carrying some supplies. Models with the Flyer special rule cannot be chosen, nor can models Embarked upon a Transport with the Flyer special rule.
+At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five friendly Detachments that are either deployed on the battlefield or Embarked within a Transport to be carrying some supplies. Models with the [Flyer] special rule cannot be chosen, nor can models Embarked upon a Transport with the [Flyer] special rule.
 
 During the Calculating Victory Points stage of the End phase of any round, a Detachment carrying supplies that is within 1" of the enemy battlefield edge can break through the enemy line - remove that Detachment from the battlefield. The removed Detachment does not count as destroyed but plays no further part in the battle. A Transport that has a Detachment carrying supplies Embarked within it may leave the battlefield in this way with the Detachment inside - both the Transport and any Embarked Detachment play no further part in the battle if this happens.
 

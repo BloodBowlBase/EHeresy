@@ -200,7 +200,7 @@ When Invading, a player that controls one or more Militarum Aerodrome territorie
 
 **Special Rules**
 
-When Protecting a Munitorum Depot territory that they control, each time a weapon with the Limited (X) weapon trait is fired by a model from that player's Army, they can roll one D6. On a result of 6, do not decrease the value of that weapon's Limited (X) weapon trait by 1.
+When Protecting a Munitorum Depot territory that they control, each time a weapon with the [Limited] (X) weapon trait is fired by a model from that player's Army, they can roll one D6. On a result of 6, do not decrease the value of that weapon's [Limited] (X) weapon trait by 1.
 
 ---
 

@@ -76,7 +76,7 @@ The player with this Secondary Objective scores VPs depending on the percentage 
 
 At the start of the first round, before any Order tokens are placed, the opponent of the player with this Secondary Objective deploys an Objective marker as close as possible to the centre of the battlefield. This represents the personnel that must be rescued. The marker cannot be deployed within an area of Impassable terrain or overlapping a Structure.
 
-If a Detachment with a Scale of 2 or 3 controlled by the player with this Secondary Objective ends its activation in the Movement phase within 1" of the Objective marker and more than 1" from any enemy models, it may rescue the personnel - remove the marker from the battlefield. That Detachment is considered to be carrying the personnel. Models with the Flyer, Skimmer and Hover special rules cannot rescue the personnel, though models from the Detachment carrying it can subsequently Embark upon a Transport with these special rules.
+If a Detachment with a Scale of 2 or 3 controlled by the player with this Secondary Objective ends its activation in the Movement phase within 1" of the Objective marker and more than 1" from any enemy models, it may rescue the personnel - remove the marker from the battlefield. That Detachment is considered to be carrying the personnel. Models with the [Flyer], [Skimmer] and [Hover] special rules cannot rescue the personnel, though models from the Detachment carrying it can subsequently Embark upon a Transport with these special rules.
 
 If the Detachment carrying the marker is destroyed, the opposing player places the Objective marker back on the battlefield in the centre of where the final model from that Detachment was. If the Detachment carrying the marker is destroyed due to an Overwatch being called, the opposing player places the marker within 3" of the destroyed model's starting position (i.e., before it began moving).
 
@@ -84,7 +84,7 @@ During the Calculating Victory Points stage of the End phase of any round, a Det
 
 If a model carrying the marker leaves the battlefield for any other reason (e.g., due to fleeing), place the marker touching the battlefield edge at the point where the Detachment left the battlefield.
 
-If a model carrying the marker is Embarked upon a Transport with the Flyer special rule and that Transport leaves the battlefield, it also counts as having delivered the personnel to safety; both the Detachment carrying the marker and the Transport play no further part in the battle.
+If a model carrying the marker is Embarked upon a Transport with the [Flyer] special rule and that Transport leaves the battlefield, it also counts as having delivered the personnel to safety; both the Detachment carrying the marker and the Transport play no further part in the battle.
 
 **Scoring**
 
@@ -100,7 +100,7 @@ At the end of the battle, the player with this Secondary Objective scores 5 VPs 
 
 ### Tip of the Spear
 
-At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five Detachments from their Army with a Scale of 2 or 3 to be Spearhead Detachments. Models with the Flyer special rule cannot be chosen, nor can models Embarked upon a Transport with the Flyer special rule, and a Spearhead Detachment cannot Embark upon a Transport at any point during the battle. The first time a Spearhead Detachment destroys an enemy Detachment, that Spearhead Detachment becomes eligible to break through.
+At the start of the first round, before any Order tokens are placed, the player with this Secondary Objective secretly notes down up to five Detachments from their Army with a Scale of 2 or 3 to be Spearhead Detachments. Models with the [Flyer] special rule cannot be chosen, nor can models Embarked upon a Transport with the [Flyer] special rule, and a Spearhead Detachment cannot Embark upon a Transport at any point during the battle. The first time a Spearhead Detachment destroys an enemy Detachment, that Spearhead Detachment becomes eligible to break through.
 
 During the Calculating Victory Points stage of the End phase of any round, any Spearhead Detachment from your Army that is within 1" of the enemy battlefield edge, is not Engaged and Pinned, and is eligible to break through can be removed from the battlefield. The removed Detachment does not count as destroyed but plays no further part in the battle, and is said to have Broken Through.
 
