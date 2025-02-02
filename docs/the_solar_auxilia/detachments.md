@@ -1277,7 +1277,7 @@ An Auxilia Medusa Battery can purchase one of the following upgrades:
 
 <div class="unitCard" markdown>
 
-### Auxilia Basilisk Battery [130 Points]
+### Auxilia Basilisk Battery [140 Points]
 
 * **Type:** Vehicle (2)
 * **Detachment Size:** 4

@@ -275,7 +275,7 @@ An Arlatax Battle-automata Maniple can purchase any of the following upgrades. I
 | ------------------ | :----: | :--: | :----: | :-: | -------------------------- |
 | Missile launchers  | 20"    | 2    | 4+     |  0  | [Light], [Ignores Cover]   |
 | Missile launchers  | 20"    | 1    | 4+     | -1  | [Anti-tank]                |
-| Graviton hammers   | -      | -    | -      | -2  | [Wrecker (1)]              |
+| Graviton hammers   | -      | -    | -      | -2  | [Wrecker] (1)              |
 
 **Upgrades**
 
@@ -471,7 +471,7 @@ For +5 points, a Thanatar may instead be equipped with the following:
 | ------------------ | :---: | :--: | :----: | :-: | -------------------------- |
 | Plasma mortar      | 18"   | 1    | 3+     | -3  | [Demolisher], [Ignores Cover] |
 | Sollex heavy-las   | 22"   | 1    | 4+     | -1  | [Armourbane]              |
-| Graviton ram       | -     | -    | -      | -2  | [Wrecker (2)]             |
+| Graviton ram       | -     | -    | -      | -2  | [Wrecker] (2)             |
 | Mauler bolter cannon | 8"   | 3    | 5+     | -1  | [Light AT]                |
 
 **Upgrades**
@@ -513,7 +513,7 @@ A Thanatar Siege-automata Maniple can purchase any of the following upgrades. It
 | ----------------------- | :---: | :--: | :----: | :-: | ------------------------------------------ |
 | Lightning locks         | 12"   | 2    | 5+     | -1  | [Arc] (Front), [Point Defence]            |
 | Karacnos mortar battery | 30"   | 2    | 4+     | -1  | [Arc] (Front), [Barrage], [Ignores Cover] |
-| Shock ram               | -     | -    | -      | -2  | [Wrecker (2)]                             |
+| Shock ram               | -     | -    | -      | -2  | [Wrecker] (2)                             |
 
 **Upgrades**
 
@@ -522,10 +522,6 @@ A Karacnos Assault Tank Squadron can purchase one of the following upgrades:
 * **Increase the Detachment size by 1** [+40 Points]
 * **Increase the Detachment size by 2** [+70 Points]
 * **Increase the Detachment size by 3** [+100 Points]
-
-**Special Rules**
-
-[Armoured], [Cybernetica Cortex] (Advance, March), [Invulnerable Save] (6+)
 
 </div>
 
@@ -622,6 +618,6 @@ A Krios Venator Squadron can purchase one of the following upgrades:
 
 **Special Rules**
 
-[Large Transport (4)]
+[Large Transport] (4)
 
 </div>
